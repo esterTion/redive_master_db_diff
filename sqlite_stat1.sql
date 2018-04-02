@@ -48,6 +48,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"chara_story_status", /*idx*/"", /*sta
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"bg_data", /*idx*/"sqlite_autoindex_bg_data_1", /*stat*/"58 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_period_rank_reward", /*idx*/"", /*stat*/9);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_data", /*idx*/"", /*stat*/70);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"hatsune_schedule", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"content_release_data", /*idx*/"", /*stat*/21);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_release_data", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_promotion", /*idx*/"sqlite_autoindex_unit_promotion_1", /*stat*/"512 8 1");
@@ -61,6 +62,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"arena_daily_rank_reward", /*idx*/"", 
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stationary_mission_data", /*idx*/"", /*stat*/228);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"equipment_donation", /*idx*/"", /*stat*/9);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"goldset_data", /*idx*/"", /*stat*/70);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_story_data", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"quest_data", /*idx*/"", /*stat*/145);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_group", /*idx*/"clan_battle_boss_group_0_clan_battle_boss_group_id", /*stat*/"10 5");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_group", /*idx*/"sqlite_autoindex_clan_battle_boss_group_1", /*stat*/"10 5 1");
