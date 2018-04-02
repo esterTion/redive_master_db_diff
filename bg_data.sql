@@ -51,8 +51,9 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_JOIN", /*bg_id*/500390, /*event
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_MEMBER_LIST", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_DETAIL", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_SUPPORT", /*bg_id*/500390, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_TOP", /*bg_id*/0, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_RANKING", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_TOP", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_RANKING", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_SUBJUGATION_INFO", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"NEW_CHARACTER_INTRODUCTION", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SHOP", /*bg_id*/500370, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MISSION", /*bg_id*/500390, /*event_id*/0);

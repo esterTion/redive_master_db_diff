@@ -1,4 +1,6 @@
 CREATE TABLE 'mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `mission_reward_data` VALUES (/*id*/1, /*mission_reward_id*/18001001, /*reward_type*/6, /*reward_id*/0, /*reward_num*/100);
+INSERT INTO `mission_reward_data` VALUES (/*id*/2, /*mission_reward_id*/18001002, /*reward_type*/6, /*reward_id*/0, /*reward_num*/100);
 INSERT INTO `mission_reward_data` VALUES (/*id*/3, /*mission_reward_id*/11001001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/30);
 INSERT INTO `mission_reward_data` VALUES (/*id*/4, /*mission_reward_id*/11001001, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/2500);
 INSERT INTO `mission_reward_data` VALUES (/*id*/5, /*mission_reward_id*/11003001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/40);
@@ -15,7 +17,7 @@ INSERT INTO `mission_reward_data` VALUES (/*id*/15, /*mission_reward_id*/1100500
 INSERT INTO `mission_reward_data` VALUES (/*id*/16, /*mission_reward_id*/11006001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/30);
 INSERT INTO `mission_reward_data` VALUES (/*id*/17, /*mission_reward_id*/11006001, /*reward_type*/2, /*reward_id*/20003, /*reward_num*/2);
 INSERT INTO `mission_reward_data` VALUES (/*id*/18, /*mission_reward_id*/15004001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/30);
-INSERT INTO `mission_reward_data` VALUES (/*id*/19, /*mission_reward_id*/15004001, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/3500);
+INSERT INTO `mission_reward_data` VALUES (/*id*/19, /*mission_reward_id*/15004001, /*reward_type*/2, /*reward_id*/90007, /*reward_num*/100);
 INSERT INTO `mission_reward_data` VALUES (/*id*/20, /*mission_reward_id*/14001001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/40);
 INSERT INTO `mission_reward_data` VALUES (/*id*/21, /*mission_reward_id*/14001001, /*reward_type*/2, /*reward_id*/20003, /*reward_num*/2);
 INSERT INTO `mission_reward_data` VALUES (/*id*/22, /*mission_reward_id*/14003001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/50);

@@ -1,1 +1,3 @@
 CREATE TABLE 'clan_battle_map_data' ('id' INTEGER NOT NULL, 'clan_battle_id' INTEGER NOT NULL, 'map_bg' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'lap_num_from' INTEGER NOT NULL, 'lap_num_to' INTEGER NOT NULL, 'clan_battle_boss_group_id' INTEGER NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `clan_battle_map_data` VALUES (/*id*/1, /*clan_battle_id*/1001, /*map_bg*/710011, /*difficulty*/1, /*lap_num_from*/1, /*lap_num_to*/1, /*clan_battle_boss_group_id*/1001001);
+INSERT INTO `clan_battle_map_data` VALUES (/*id*/2, /*clan_battle_id*/1001, /*map_bg*/710011, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1001002);
