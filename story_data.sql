@@ -44,6 +44,7 @@ INSERT INTO `story_data` VALUES (/*story_group_id*/1057, /*story_type*/1, /*valu
 INSERT INTO `story_data` VALUES (/*story_group_id*/1058, /*story_type*/1, /*value*/1058, /*title*/"ペコリーヌ", /*thumbnail_id*/0, /*disp_order*/37, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/1059, /*story_type*/1, /*value*/1059, /*title*/"コッコロ", /*thumbnail_id*/0, /*disp_order*/17, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/1060, /*story_type*/1, /*value*/1060, /*title*/"キャル", /*thumbnail_id*/0, /*disp_order*/13, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
+INSERT INTO `story_data` VALUES (/*story_group_id*/1063, /*story_type*/1, /*value*/1063, /*title*/"アリサ", /*thumbnail_id*/0, /*disp_order*/60, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/1900, /*story_type*/1, /*value*/1900, /*title*/"アメス", /*thumbnail_id*/0, /*disp_order*/90, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/2000, /*story_type*/2, /*value*/0, /*title*/"序章_絆をつなぐものたち", /*thumbnail_id*/2000002, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/2001, /*story_type*/2, /*value*/0, /*title*/"第1章_謎の少女と記憶の鍵", /*thumbnail_id*/2001005, /*disp_order*/2, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
@@ -69,3 +70,4 @@ INSERT INTO `story_data` VALUES (/*story_group_id*/3015, /*story_type*/3, /*valu
 INSERT INTO `story_data` VALUES (/*story_group_id*/4001, /*story_type*/4, /*value*/0, /*title*/"ギルドハウス", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/4002, /*story_type*/4, /*value*/0, /*title*/"アリーナ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/4003, /*story_type*/4, /*value*/0, /*title*/"ダンジョン", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");
+INSERT INTO `story_data` VALUES (/*story_group_id*/4004, /*story_type*/4, /*value*/5, /*title*/"イベント", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2099/12/17 14:59:59");

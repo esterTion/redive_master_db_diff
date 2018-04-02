@@ -54,5 +54,6 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/105701, /*unit_name*/"ジータ
 INSERT INTO `unit_background` VALUES (/*unit_id*/105801, /*unit_name*/"ペコリーヌ", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105901, /*unit_name*/"コッコロ", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/106001, /*unit_name*/"キャル", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/3);
+INSERT INTO `unit_background` VALUES (/*unit_id*/106301, /*unit_name*/"アリサ", /*bg_id*/500170, /*bg_name*/"ミステリオン森林", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/106801, /*unit_name*/"模索路晶", /*bg_id*/500030, /*bg_name*/"ランドソル 繁華街", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/107101, /*unit_name*/"クリスティーナ・モーガン", /*bg_id*/500090, /*bg_name*/"ランドソル 王城入口", /*position*/0.0, /*face_type*/2);
