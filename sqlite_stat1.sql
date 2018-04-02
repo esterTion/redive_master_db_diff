@@ -1,6 +1,6 @@
 CREATE TABLE sqlite_stat1(tbl,idx,stat)
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stamp", /*idx*/"", /*stat*/32);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/5);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/7);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_grade", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_fix_reward", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"grand_arena_daily_rank_reward", /*idx*/"", /*stat*/40);
@@ -18,8 +18,6 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_unit_comments", /*idx*/"sqlite_a
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_announcement", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_setup", /*idx*/"", /*stat*/122);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item", /*idx*/"", /*stat*/154);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"dungeon_area_data", /*idx*/"", /*stat*/3);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_status_coefficient", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_schedule", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"guild", /*idx*/"", /*stat*/15);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"shop_static_price_group", /*idx*/"", /*stat*/5);
@@ -28,12 +26,13 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_invite_level_group", /*idx*/"", 
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_chat_scenario", /*idx*/"room_chat_scenario_0_id", /*stat*/"262 15");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_chat_scenario", /*idx*/"sqlite_autoindex_room_chat_scenario_1", /*stat*/"262 15 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_background", /*idx*/"", /*stat*/57);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"dungeon_area_data", /*idx*/"", /*stat*/3);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_status_coefficient", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"navi_comment", /*idx*/"", /*stat*/18);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unlock_unit_condition", /*idx*/"", /*stat*/44);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_effect", /*idx*/"", /*stat*/8);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_promotion_status", /*idx*/"sqlite_autoindex_unit_promotion_status_1", /*stat*/"329 7 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_rarity", /*idx*/"sqlite_autoindex_unit_rarity_1", /*stat*/"290 5 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_attack_pattern", /*idx*/"", /*stat*/225);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_enemy_data", /*idx*/"", /*stat*/119);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"goldset_data_teamlevel", /*idx*/"", /*stat*/110);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_data", /*idx*/"", /*stat*/70);
@@ -41,6 +40,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_comments", /*idx*/"unit_comments
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_comments", /*idx*/"unit_comments_0_unit_id", /*stat*/"440 5");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_cost_group", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"lipsync", /*idx*/"sqlite_autoindex_lipsync_1", /*stat*/"19951 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_attack_pattern", /*idx*/"", /*stat*/225);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_character_personality", /*idx*/"", /*stat*/47);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_change", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"position_setting", /*idx*/"", /*stat*/1);
