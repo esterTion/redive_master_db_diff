@@ -1,0 +1,1 @@
+CREATE TABLE 'clan_battle_map_data' ('id' INTEGER NOT NULL, 'clan_battle_id' INTEGER NOT NULL, 'map_bg' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'lap_num_from' INTEGER NOT NULL, 'lap_num_to' INTEGER NOT NULL, 'clan_battle_boss_group_id' INTEGER NOT NULL, PRIMARY KEY('id'))

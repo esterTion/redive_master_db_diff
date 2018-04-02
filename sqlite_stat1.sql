@@ -60,7 +60,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"arena_max_rank_reward", /*idx*/"", /*
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_quest_data", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"enemy_reward_data", /*idx*/"", /*stat*/454);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"quest_defeat_notice", /*idx*/"", /*stat*/6);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/31);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/30);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"enemy_parameter", /*idx*/"", /*stat*/1044);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"experience_team", /*idx*/"", /*stat*/81);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"equipment_enhance_data", /*idx*/"sqlite_autoindex_equipment_enhance_data_1", /*stat*/"14 4 1");
@@ -100,4 +100,4 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_cost", /*idx*/"", /*stat*/80);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_mypage_pos", /*idx*/"", /*stat*/36);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"resist_data", /*idx*/"", /*stat*/16);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"", /*stat*/427);
-CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id')CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type')CREATE INDEX 'login_bonus_detail_0_login_bonus_id_1_count' on 'login_bonus_detail'('login_bonus_id','count')CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id')CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id')
+CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id')CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type')CREATE INDEX 'login_bonus_detail_0_login_bonus_id_1_count' on 'login_bonus_detail'('login_bonus_id','count')CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id')CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id')CREATE INDEX 'clan_battle_period_0_clan_battle_id' on 'clan_battle_period'('clan_battle_id')CREATE INDEX 'clan_battle_boss_group_0_clan_battle_boss_group_id' on 'clan_battle_boss_group'('clan_battle_boss_group_id')CREATE INDEX 'clan_battle_boss_damage_rank_0_damage_rank_id' on 'clan_battle_boss_damage_rank'('damage_rank_id')CREATE INDEX 'clan_battle_odds_data_0_odds_group_id' on 'clan_battle_odds_data'('odds_group_id')CREATE INDEX 'clan_battle_period_rank_bonus_0_ranking_bonus_group_id' on 'clan_battle_period_rank_bonus'('ranking_bonus_group_id')
