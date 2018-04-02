@@ -1,6 +1,6 @@
 CREATE TABLE sqlite_stat1(tbl,idx,stat)
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stamp", /*idx*/"", /*stat*/32);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/7);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/9);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_grade", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_fix_reward", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"grand_arena_daily_rank_reward", /*idx*/"", /*stat*/40);
