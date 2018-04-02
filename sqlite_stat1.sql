@@ -1,6 +1,6 @@
 CREATE TABLE sqlite_stat1(tbl,idx,stat)
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stamp", /*idx*/"", /*stat*/32);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/3);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"grand_arena_daily_rank_reward", /*idx*/"", /*stat*/40);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"album_production_list", /*idx*/"", /*stat*/360);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"still", /*idx*/"", /*stat*/157);
@@ -52,7 +52,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_profile", /*idx*/"", /*stat*/57)
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tips", /*idx*/"", /*stat*/44);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"equipment_enhance_rate", /*idx*/"", /*stat*/125);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"arena_daily_rank_reward", /*idx*/"", /*stat*/40);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stationary_mission_data", /*idx*/"", /*stat*/207);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stationary_mission_data", /*idx*/"", /*stat*/227);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"equipment_donation", /*idx*/"", /*stat*/9);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"goldset_data", /*idx*/"", /*stat*/70);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"quest_data", /*idx*/"", /*stat*/145);
@@ -85,10 +85,10 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"love_chara", /*idx*/"", /*stat*/12);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"actual_unit_background", /*idx*/"", /*stat*/45);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"login_bonus_data", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_character_mask", /*idx*/"", /*stat*/219);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_data", /*idx*/"", /*stat*/63);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_data", /*idx*/"", /*stat*/64);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_data", /*idx*/"", /*stat*/411);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_action", /*idx*/"", /*stat*/510);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"daily_mission_data", /*idx*/"", /*stat*/11);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"daily_mission_data", /*idx*/"", /*stat*/12);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"cooperation_quest_data", /*idx*/"", /*stat*/6);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"login_bonus_detail", /*idx*/"login_bonus_detail_0_login_bonus_id_1_count", /*stat*/"26 9 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_introduction", /*idx*/"", /*stat*/3);
