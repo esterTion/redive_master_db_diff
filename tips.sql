@@ -17,6 +17,7 @@ INSERT INTO `tips` VALUES (/*id*/4102001, /*value*/102001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4102101, /*value*/102101, /*tips_index*/1, /*title*/"人目のつかない所");
 INSERT INTO `tips` VALUES (/*id*/4102201, /*value*/102201, /*tips_index*/1, /*title*/"まだはやい");
 INSERT INTO `tips` VALUES (/*id*/4102501, /*value*/102501, /*tips_index*/1, /*title*/"皿割り記録");
+INSERT INTO `tips` VALUES (/*id*/4102601, /*value*/102601, /*tips_index*/1, /*title*/"早寝");
 INSERT INTO `tips` VALUES (/*id*/4102701, /*value*/102701, /*tips_index*/1, /*title*/"ロックオン");
 INSERT INTO `tips` VALUES (/*id*/4102801, /*value*/102801, /*tips_index*/1, /*title*/"ヒットのアイデア");
 INSERT INTO `tips` VALUES (/*id*/4102901, /*value*/102901, /*tips_index*/1, /*title*/"ちょっとおでかけ");

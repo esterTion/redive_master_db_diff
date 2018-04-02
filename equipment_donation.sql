@@ -7,4 +7,4 @@ INSERT INTO `equipment_donation` VALUES (/*team_level*/50, /*donation_num_once*/
 INSERT INTO `equipment_donation` VALUES (/*team_level*/60, /*donation_num_once*/2, /*donation_num_daily*/10, /*request_num_once*/10);
 INSERT INTO `equipment_donation` VALUES (/*team_level*/70, /*donation_num_once*/2, /*donation_num_daily*/10, /*request_num_once*/10);
 INSERT INTO `equipment_donation` VALUES (/*team_level*/80, /*donation_num_once*/2, /*donation_num_daily*/10, /*request_num_once*/10);
-INSERT INTO `equipment_donation` VALUES (/*team_level*/81, /*donation_num_once*/2, /*donation_num_daily*/10, /*request_num_once*/10);
+INSERT INTO `equipment_donation` VALUES (/*team_level*/999, /*donation_num_once*/2, /*donation_num_daily*/10, /*request_num_once*/10);
