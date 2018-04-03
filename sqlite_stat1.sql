@@ -4,7 +4,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_boss_treasure_content", /*idx*/
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_boss_treasure_box", /*idx*/"", /*stat*/2);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"hatsune_map", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stamp", /*idx*/"", /*stat*/32);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/9);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_schedule", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_grade", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"hatsune_quest", /*idx*/"", /*stat*/20);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_fix_reward", /*idx*/"", /*stat*/10);
