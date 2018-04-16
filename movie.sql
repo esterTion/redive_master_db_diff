@@ -1,4 +1,4 @@
-CREATE TABLE 'movie' ('movie_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'bgm_id' TEXT NOT NULL, 'se_id' TEXT NOT NULL, PRIMARY KEY('movie_id'))
+CREATE TABLE 'movie' ('movie_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'bgm_id' TEXT NOT NULL, 'se_id' TEXT NOT NULL, PRIMARY KEY('movie_id'));
 INSERT INTO `movie` VALUES (/*movie_id*/200000101, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"", /*se_id*/"amb_adv_mystery_01");
 INSERT INTO `movie` VALUES (/*movie_id*/200000102, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"bgm_M38", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200000103, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"bgm_M38", /*se_id*/"");

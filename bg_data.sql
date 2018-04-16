@@ -1,4 +1,4 @@
-CREATE TABLE 'bg_data' ('view_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('view_name'))
+CREATE TABLE 'bg_data' ('view_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('view_name'));
 INSERT INTO `bg_data` VALUES (/*view_name*/"SPLASH", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"TITLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HOME", /*bg_id*/0, /*event_id*/0);

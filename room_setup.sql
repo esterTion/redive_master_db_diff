@@ -1,4 +1,4 @@
-CREATE TABLE 'room_setup' ('room_item_id' INTEGER NOT NULL, 'grid_height' INTEGER NOT NULL, 'grid_width' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('room_item_id'))
+CREATE TABLE 'room_setup' ('room_item_id' INTEGER NOT NULL, 'grid_height' INTEGER NOT NULL, 'grid_width' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('room_item_id'));
 INSERT INTO `room_setup` VALUES (/*room_item_id*/1, /*grid_height*/2, /*grid_width*/3, /*unit_id*/190801);
 INSERT INTO `room_setup` VALUES (/*room_item_id*/7, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
 INSERT INTO `room_setup` VALUES (/*room_item_id*/8, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);

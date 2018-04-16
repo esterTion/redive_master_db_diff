@@ -1,4 +1,4 @@
-CREATE TABLE 'quest_area_data' ('area_id' INTEGER NOT NULL, 'area_name' TEXT NOT NULL, 'map_type' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('area_id'))
+CREATE TABLE 'quest_area_data' ('area_id' INTEGER NOT NULL, 'area_name' TEXT NOT NULL, 'map_type' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('area_id'));
 INSERT INTO `quest_area_data` VALUES (/*area_id*/11001, /*area_name*/"1.ジュノー平野", /*map_type*/101, /*sheet_id*/"bgm_M61", /*que_id*/"bgm_M61", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/11002, /*area_name*/"2.パラス高原", /*map_type*/101, /*sheet_id*/"bgm_M61", /*que_id*/"bgm_M61_02", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2099/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/11003, /*area_name*/"3.ヘーベ丘陵", /*map_type*/101, /*sheet_id*/"bgm_M61", /*que_id*/"bgm_M61_03", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2099/12/17 14:59:59");

@@ -1,4 +1,4 @@
-CREATE TABLE 'love_chara' ('love_level' INTEGER NOT NULL, 'total_love' INTEGER NOT NULL, 'unlocked_class' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('love_level'))
+CREATE TABLE 'love_chara' ('love_level' INTEGER NOT NULL, 'total_love' INTEGER NOT NULL, 'unlocked_class' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('love_level'));
 INSERT INTO `love_chara` VALUES (/*love_level*/1, /*total_love*/0, /*unlocked_class*/1, /*rarity*/1);
 INSERT INTO `love_chara` VALUES (/*love_level*/2, /*total_love*/175, /*unlocked_class*/1, /*rarity*/1);
 INSERT INTO `love_chara` VALUES (/*love_level*/3, /*total_love*/420, /*unlocked_class*/1, /*rarity*/1);

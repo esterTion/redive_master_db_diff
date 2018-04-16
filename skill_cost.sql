@@ -1,4 +1,4 @@
-CREATE TABLE 'skill_cost' ('target_level' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, PRIMARY KEY('target_level'))
+CREATE TABLE 'skill_cost' ('target_level' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, PRIMARY KEY('target_level'));
 INSERT INTO `skill_cost` VALUES (/*target_level*/1, /*cost*/0);
 INSERT INTO `skill_cost` VALUES (/*target_level*/2, /*cost*/240);
 INSERT INTO `skill_cost` VALUES (/*target_level*/3, /*cost*/240);

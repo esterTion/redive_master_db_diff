@@ -1,4 +1,4 @@
-CREATE TABLE 'event_enemy_reward_group' ('id' INTEGER NOT NULL, 'reward_group_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'odds' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'event_enemy_reward_group' ('id' INTEGER NOT NULL, 'reward_group_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'odds' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `event_enemy_reward_group` VALUES (/*id*/60000001, /*reward_group_id*/10011001, /*reward_type*/4, /*reward_id*/101011, /*reward_num*/1, /*odds*/6);
 INSERT INTO `event_enemy_reward_group` VALUES (/*id*/60000002, /*reward_group_id*/10011001, /*reward_type*/4, /*reward_id*/101071, /*reward_num*/1, /*odds*/6);
 INSERT INTO `event_enemy_reward_group` VALUES (/*id*/60000003, /*reward_group_id*/10011001, /*reward_type*/4, /*reward_id*/101101, /*reward_num*/1, /*odds*/6);

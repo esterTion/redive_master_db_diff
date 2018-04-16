@@ -1,4 +1,4 @@
-CREATE TABLE 'clan_grade' ('clan_grade_id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('clan_grade_id'))
+CREATE TABLE 'clan_grade' ('clan_grade_id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('clan_grade_id'));
 INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/1, /*rank_from*/1, /*rank_to*/10);
 INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/2, /*rank_from*/11, /*rank_to*/30);
 INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/3, /*rank_from*/31, /*rank_to*/100);

@@ -1,4 +1,4 @@
-CREATE TABLE 'login_bonus_detail' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'login_bonus_detail' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `login_bonus_detail` VALUES (/*id*/1, /*login_bonus_id*/20000, /*count*/1, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
 INSERT INTO `login_bonus_detail` VALUES (/*id*/2, /*login_bonus_id*/20000, /*count*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
 INSERT INTO `login_bonus_detail` VALUES (/*id*/3, /*login_bonus_id*/20000, /*count*/3, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);

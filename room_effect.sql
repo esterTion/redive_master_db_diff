@@ -1,4 +1,4 @@
-CREATE TABLE 'room_effect' ('id' INTEGER NOT NULL, 'reward_get' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'room_effect' ('id' INTEGER NOT NULL, 'reward_get' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `room_effect` VALUES (/*id*/1, /*reward_get*/1);
 INSERT INTO `room_effect` VALUES (/*id*/2, /*reward_get*/2);
 INSERT INTO `room_effect` VALUES (/*id*/3, /*reward_get*/3);

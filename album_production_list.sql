@@ -1,4 +1,4 @@
-CREATE TABLE 'album_production_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'album_production_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `album_production_list` VALUES (/*id*/10010101, /*unit_id*/100101, /*type*/201, /*title*/"解放演出1", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/10010102, /*unit_id*/100101, /*type*/101, /*title*/"絆ランク演出1", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/10010103, /*unit_id*/100101, /*type*/102, /*title*/"絆ランク演出2", /*description*/"");

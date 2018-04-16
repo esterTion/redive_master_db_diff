@@ -1,4 +1,4 @@
-CREATE TABLE 'goldset_data_teamlevel' ('id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'initial_get_gold_count' INTEGER NOT NULL, PRIMARY KEY('team_level'))
+CREATE TABLE 'goldset_data_teamlevel' ('id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'initial_get_gold_count' INTEGER NOT NULL, PRIMARY KEY('team_level'));
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/1, /*team_level*/1, /*initial_get_gold_count*/0);
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/2, /*team_level*/2, /*initial_get_gold_count*/0);
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/3, /*team_level*/3, /*initial_get_gold_count*/0);

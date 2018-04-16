@@ -1,4 +1,4 @@
-CREATE TABLE 'gift_message' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'type_1' INTEGER NOT NULL, 'type_2' INTEGER NOT NULL, 'type_3' INTEGER NOT NULL, 'type_4' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'gift_message' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'type_1' INTEGER NOT NULL, 'type_2' INTEGER NOT NULL, 'type_3' INTEGER NOT NULL, 'type_4' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `gift_message` VALUES (/*id*/2001, /*discription*/"「{0}」{1}日目で獲得したアイテムです。", /*type_1*/1, /*type_2*/2, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2002, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/3, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2003, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/4, /*type_2*/0, /*type_3*/0, /*type_4*/0);

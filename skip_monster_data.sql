@@ -1,4 +1,4 @@
-CREATE TABLE 'skip_monster_data' ('quest_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'quest_name' TEXT NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'bg_skip_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'))
+CREATE TABLE 'skip_monster_data' ('quest_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'quest_name' TEXT NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'bg_skip_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11001001, /*area_id*/11001, /*quest_name*/"ジュノー平野 1-1（ノーマル）", /*wave_group_id_1*/101010101, /*bg_skip_id*/100021);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11001002, /*area_id*/11001, /*quest_name*/"ジュノー平野 1-2（ノーマル）", /*wave_group_id_1*/101010101, /*bg_skip_id*/100061);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11001003, /*area_id*/11001, /*quest_name*/"ジュノー平野 1-3（ノーマル）", /*wave_group_id_1*/101010101, /*bg_skip_id*/100061);

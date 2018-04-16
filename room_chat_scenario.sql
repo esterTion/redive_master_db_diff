@@ -1,4 +1,4 @@
-CREATE TABLE 'room_chat_scenario' ('id' INTEGER NOT NULL, 'scenario_idx' INTEGER NOT NULL, 'unit_pos_no' INTEGER NOT NULL, 'delay' INTEGER NOT NULL, 'affect_type' INTEGER NOT NULL, 'anime_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, PRIMARY KEY('id','scenario_idx'))
+CREATE TABLE 'room_chat_scenario' ('id' INTEGER NOT NULL, 'scenario_idx' INTEGER NOT NULL, 'unit_pos_no' INTEGER NOT NULL, 'delay' INTEGER NOT NULL, 'affect_type' INTEGER NOT NULL, 'anime_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, PRIMARY KEY('id','scenario_idx'));
 INSERT INTO `room_chat_scenario` VALUES (/*id*/1, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/1, /*icon_id*/0);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/1, /*scenario_idx*/2, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/4, /*icon_id*/0);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/1, /*scenario_idx*/3, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/5, /*icon_id*/12);

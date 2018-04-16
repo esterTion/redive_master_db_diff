@@ -1,4 +1,4 @@
-CREATE TABLE 'lipsync' ('voice_id' TEXT NOT NULL, 'time' TEXT NOT NULL, 'is_enable' INTEGER NOT NULL, PRIMARY KEY('voice_id'))
+CREATE TABLE 'lipsync' ('voice_id' TEXT NOT NULL, 'time' TEXT NOT NULL, 'is_enable' INTEGER NOT NULL, PRIMARY KEY('voice_id'));
 INSERT INTO `lipsync` VALUES (/*voice_id*/0000011000, /*time*/"0.00,0.58;1.20,2.92;", /*is_enable*/1);
 INSERT INTO `lipsync` VALUES (/*voice_id*/0000011001, /*time*/"0.02,1.18;2.38,4.68;4.92,4.95;6.25,7.40;8.55,9.22;10.25,11.27;", /*is_enable*/1);
 INSERT INTO `lipsync` VALUES (/*voice_id*/0000011002, /*time*/"0.02,1.52;2.33,4.75;5.02,6.17;", /*is_enable*/1);

@@ -1,4 +1,4 @@
-CREATE TABLE 'experience_team' ('team_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, 'max_stamina' INTEGER NOT NULL, 'over_limit_stamina' INTEGER NOT NULL, 'recover_stamina_count' INTEGER NOT NULL, PRIMARY KEY('team_level'))
+CREATE TABLE 'experience_team' ('team_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, 'max_stamina' INTEGER NOT NULL, 'over_limit_stamina' INTEGER NOT NULL, 'recover_stamina_count' INTEGER NOT NULL, PRIMARY KEY('team_level'));
 INSERT INTO `experience_team` VALUES (/*team_level*/1, /*total_exp*/0, /*max_stamina*/20, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
 INSERT INTO `experience_team` VALUES (/*team_level*/2, /*total_exp*/24, /*max_stamina*/20, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
 INSERT INTO `experience_team` VALUES (/*team_level*/3, /*total_exp*/32, /*max_stamina*/21, /*over_limit_stamina*/999, /*recover_stamina_count*/30);

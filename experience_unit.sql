@@ -1,4 +1,4 @@
-CREATE TABLE 'experience_unit' ('unit_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('unit_level'))
+CREATE TABLE 'experience_unit' ('unit_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('unit_level'));
 INSERT INTO `experience_unit` VALUES (/*unit_level*/1, /*total_exp*/0);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/2, /*total_exp*/24);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/3, /*total_exp*/72);

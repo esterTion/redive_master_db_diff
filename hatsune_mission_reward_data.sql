@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'hatsune_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/1, /*mission_reward_id*/61001001, /*reward_type*/2, /*reward_id*/60002, /*reward_num*/5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/2, /*mission_reward_id*/61001002, /*reward_type*/2, /*reward_id*/60002, /*reward_num*/5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/3, /*mission_reward_id*/71001001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30);

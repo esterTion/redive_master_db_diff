@@ -1,4 +1,4 @@
-CREATE TABLE 'room_character_personality' ('character_id' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, PRIMARY KEY('character_id'))
+CREATE TABLE 'room_character_personality' ('character_id' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, PRIMARY KEY('character_id'));
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1001, /*personality_id*/3);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1002, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1003, /*personality_id*/4);

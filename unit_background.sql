@@ -1,4 +1,4 @@
-CREATE TABLE 'unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_name' TEXT NOT NULL, 'position' REAL NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'))
+CREATE TABLE 'unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_name' TEXT NOT NULL, 'position' REAL NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
 INSERT INTO `unit_background` VALUES (/*unit_id*/100101, /*unit_name*/"春咲 ひより", /*bg_id*/500040, /*bg_name*/"ランドソル ギルドハウス", /*position*/0.0, /*face_type*/9);
 INSERT INTO `unit_background` VALUES (/*unit_id*/100201, /*unit_name*/"草野 優衣", /*bg_id*/500040, /*bg_name*/"ランドソル ギルドハウス", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/100301, /*unit_name*/"士条 怜", /*bg_id*/500040, /*bg_name*/"ランドソル ギルドハウス", /*position*/0.0, /*face_type*/3);

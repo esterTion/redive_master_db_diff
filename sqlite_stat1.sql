@@ -1,4 +1,4 @@
-CREATE TABLE sqlite_stat1(tbl,idx,stat)
+CREATE TABLE sqlite_stat1(tbl,idx,stat);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_gacha_data", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_boss_treasure_content", /*idx*/"", /*stat*/8);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_boss_treasure_box", /*idx*/"", /*stat*/2);

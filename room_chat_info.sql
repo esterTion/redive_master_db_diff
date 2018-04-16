@@ -1,4 +1,4 @@
-CREATE TABLE 'room_chat_info' ('id' INTEGER NOT NULL, 'formation_id' INTEGER NOT NULL, 'scenario_id' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'room_chat_info' ('id' INTEGER NOT NULL, 'formation_id' INTEGER NOT NULL, 'scenario_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `room_chat_info` VALUES (/*id*/1, /*formation_id*/2, /*scenario_id*/1);
 INSERT INTO `room_chat_info` VALUES (/*id*/2, /*formation_id*/1, /*scenario_id*/2);
 INSERT INTO `room_chat_info` VALUES (/*id*/3, /*formation_id*/3, /*scenario_id*/3);

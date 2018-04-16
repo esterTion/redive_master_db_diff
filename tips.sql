@@ -1,4 +1,4 @@
-CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'tips_index' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'tips_index' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `tips` VALUES (/*id*/4100101, /*value*/100101, /*tips_index*/1, /*title*/"作戦説明");
 INSERT INTO `tips` VALUES (/*id*/4100201, /*value*/100201, /*tips_index*/1, /*title*/"まどろみのユイ");
 INSERT INTO `tips` VALUES (/*id*/4100301, /*value*/100301, /*tips_index*/1, /*title*/"実は釣り好き");
