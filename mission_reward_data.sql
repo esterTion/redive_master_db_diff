@@ -1,6 +1,6 @@
 CREATE TABLE 'mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `mission_reward_data` VALUES (/*id*/1, /*mission_reward_id*/18001001, /*reward_type*/6, /*reward_id*/0, /*reward_num*/100);
-INSERT INTO `mission_reward_data` VALUES (/*id*/2, /*mission_reward_id*/18001002, /*reward_type*/6, /*reward_id*/0, /*reward_num*/100);
+INSERT INTO `mission_reward_data` VALUES (/*id*/1, /*mission_reward_id*/18001001, /*reward_type*/6, /*reward_id*/93001, /*reward_num*/100);
+INSERT INTO `mission_reward_data` VALUES (/*id*/2, /*mission_reward_id*/18001002, /*reward_type*/6, /*reward_id*/93001, /*reward_num*/100);
 INSERT INTO `mission_reward_data` VALUES (/*id*/3, /*mission_reward_id*/11001001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/30);
 INSERT INTO `mission_reward_data` VALUES (/*id*/4, /*mission_reward_id*/11001001, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/2500);
 INSERT INTO `mission_reward_data` VALUES (/*id*/5, /*mission_reward_id*/11003001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/40);

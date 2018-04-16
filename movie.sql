@@ -31,4 +31,11 @@ INSERT INTO `movie` VALUES (/*movie_id*/200400501, /*story_group_id*/2004, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/200400580, /*story_group_id*/2004, /*story_id*/2004005, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200400581, /*story_group_id*/2004, /*story_id*/2004005, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200500301, /*story_group_id*/2005, /*story_id*/2005003, /*bgm_id*/"bgm_M50", /*se_id*/"amb_adv_prison_01");
+INSERT INTO `movie` VALUES (/*movie_id*/200500401, /*story_group_id*/2005, /*story_id*/2005004, /*bgm_id*/"bgm_M49_emt05_004", /*se_id*/"amb_adv_between_the_kings_01");
+INSERT INTO `movie` VALUES (/*movie_id*/200500501, /*story_group_id*/2005, /*story_id*/2005005, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/200500601, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"bgm_M34_emt05_006", /*se_id*/"amb_adv_wind_04");
+INSERT INTO `movie` VALUES (/*movie_id*/200500602, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"bgm_M49_emt05_006", /*se_id*/"amb_adv_wind_04");
+INSERT INTO `movie` VALUES (/*movie_id*/200500603, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/200500680, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/200500681, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/301000301, /*story_group_id*/3010, /*story_id*/3010003, /*bgm_id*/"", /*se_id*/"");
