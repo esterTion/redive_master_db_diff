@@ -19,6 +19,10 @@ INSERT INTO `gift_message` VALUES (/*id*/9203, /*discription*/"運営からの�
 INSERT INTO `gift_message` VALUES (/*id*/9204, /*discription*/"「事前登録キャンペーン」の20万人達成報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9205, /*discription*/"「事前登録キャンペーン」の28万人達成報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9206, /*discription*/"「事前登録キャンペーン」の30万人達成報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9208, /*discription*/"LinksMateのゲーム連携特典です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9209, /*discription*/"LinksMateのご利用特典です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9210, /*discription*/"LinksMateのスタープレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9211, /*discription*/"「DMM版事前登録キャンペーン」の20万人達成報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9301, /*discription*/"所持上限を超えて獲得したスタミナです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9302, /*discription*/"バトルアリーナの防衛報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9303, /*discription*/"プリンセスアリーナの防衛報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
