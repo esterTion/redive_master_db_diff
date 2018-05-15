@@ -38,4 +38,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/200500602, /*story_group_id*/2005, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/200500603, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200500680, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200500681, /*story_group_id*/2005, /*story_id*/2005006, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/200600201, /*story_group_id*/2006, /*story_id*/2006002, /*bgm_id*/"bgm_M105_emt06_002", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/200600202, /*story_group_id*/2006, /*story_id*/2006002, /*bgm_id*/"", /*se_id*/"amb_adv_room_noise_night_01");
+INSERT INTO `movie` VALUES (/*movie_id*/200600601, /*story_group_id*/2006, /*story_id*/2006006, /*bgm_id*/"bgm_M55_emt06_006", /*se_id*/"amb_adv_outdoors_day_01");
 INSERT INTO `movie` VALUES (/*movie_id*/301000301, /*story_group_id*/3010, /*story_id*/3010003, /*bgm_id*/"", /*se_id*/"");
