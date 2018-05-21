@@ -9,3 +9,8 @@ INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10020102, /*clan_battle_i
 INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10020103, /*clan_battle_id*/1002, /*difficulty*/1, /*order_num*/3, /*boss_thumb_id*/3);
 INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10020104, /*clan_battle_id*/1002, /*difficulty*/1, /*order_num*/4, /*boss_thumb_id*/4);
 INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10020105, /*clan_battle_id*/1002, /*difficulty*/1, /*order_num*/5, /*boss_thumb_id*/5);
+INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10030101, /*clan_battle_id*/1003, /*difficulty*/1, /*order_num*/1, /*boss_thumb_id*/1);
+INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10030102, /*clan_battle_id*/1003, /*difficulty*/1, /*order_num*/2, /*boss_thumb_id*/2);
+INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10030103, /*clan_battle_id*/1003, /*difficulty*/1, /*order_num*/3, /*boss_thumb_id*/3);
+INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10030104, /*clan_battle_id*/1003, /*difficulty*/1, /*order_num*/4, /*boss_thumb_id*/4);
+INSERT INTO `clan_battle_boss_data` VALUES (/*boss_id*/10030105, /*clan_battle_id*/1003, /*difficulty*/1, /*order_num*/5, /*boss_thumb_id*/5);

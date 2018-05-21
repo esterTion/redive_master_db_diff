@@ -3,3 +3,5 @@ INSERT INTO `clan_battle_map_data` VALUES (/*id*/1, /*clan_battle_id*/1001, /*ma
 INSERT INTO `clan_battle_map_data` VALUES (/*id*/2, /*clan_battle_id*/1001, /*map_bg*/710011, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1001002);
 INSERT INTO `clan_battle_map_data` VALUES (/*id*/3, /*clan_battle_id*/1002, /*map_bg*/710021, /*difficulty*/1, /*lap_num_from*/1, /*lap_num_to*/1, /*clan_battle_boss_group_id*/1002001);
 INSERT INTO `clan_battle_map_data` VALUES (/*id*/4, /*clan_battle_id*/1002, /*map_bg*/710021, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1002002);
+INSERT INTO `clan_battle_map_data` VALUES (/*id*/5, /*clan_battle_id*/1003, /*map_bg*/710031, /*difficulty*/1, /*lap_num_from*/1, /*lap_num_to*/1, /*clan_battle_boss_group_id*/1003001);
+INSERT INTO `clan_battle_map_data` VALUES (/*id*/6, /*clan_battle_id*/1003, /*map_bg*/710031, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1003002);
