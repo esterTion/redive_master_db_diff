@@ -656,7 +656,7 @@ a/spine_sdshadow_102711.unity3d,02225418b76fb8803287af8bbc432a0b,tutorial2,42901
 a/spine_sdshadow_102731.unity3d,c07216a0e398937c3f9b21d0d45dafa9,tutorial2,48005,
 a/spine_sdshadow_102811.unity3d,29496b0c5f6a3421aeb1aa7e6192067a,tutorial2,51119,
 a/spine_sdshadow_102831.unity3d,b6caa32682d5ddf532aad165a6a608fd,tutorial2,53070,
-a/spine_sdshadow_102911.unity3d,17ac8f98864d11924b62d5ce1a4487ad,tutorial2,50830,
+a/spine_sdshadow_102911.unity3d,f1f2b2a50158e3ca056d9e9163cfca10,tutorial2,50829,
 a/spine_sdshadow_102931.unity3d,2d712dc526ef18d75b2d2d642e02dee5,tutorial2,54227,
 a/spine_sdshadow_103011.unity3d,4aa7612aa4095821f280ad6f2da6bcb0,tutorial2,48416,
 a/spine_sdshadow_103031.unity3d,e61ff42c98afef8682fa92700ac8f94d,tutorial2,51370,
