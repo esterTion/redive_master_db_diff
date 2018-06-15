@@ -137,7 +137,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_damage_rank", /*idx*
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_damage_rank", /*idx*/"sqlite_autoindex_clan_battle_boss_damage_rank_1", /*stat*/"120 4 1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_boss_data", /*idx*/"", /*stat*/15);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"chara_identity", /*idx*/"", /*stat*/50);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"wave_group_data", /*idx*/"", /*stat*/725);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"wave_group_data", /*idx*/"", /*stat*/726);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"season_pack", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_cost", /*idx*/"", /*stat*/98);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"unit_mypage_pos", /*idx*/"", /*stat*/36);
