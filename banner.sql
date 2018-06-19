@@ -13,3 +13,4 @@ INSERT INTO `banner` VALUES (/*banner_id*/20001, /*type*/1, /*system_id*/302, /*
 INSERT INTO `banner` VALUES (/*banner_id*/20002, /*type*/1, /*system_id*/902, /*priority*/3, /*start_date*/"2018/06/15 15:00:00", /*end_date*/"2030/01/01 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/40001, /*type*/1, /*system_id*/101, /*priority*/2, /*start_date*/"2018/04/20 5:00:00", /*end_date*/"2018/04/30 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/40002, /*type*/1, /*system_id*/101, /*priority*/4, /*start_date*/"2018/05/22 5:00:00", /*end_date*/"2018/05/31 23:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/40003, /*type*/1, /*system_id*/107, /*priority*/2, /*start_date*/"2018/06/21 5:00:00", /*end_date*/"2018/06/30 23:59:59");

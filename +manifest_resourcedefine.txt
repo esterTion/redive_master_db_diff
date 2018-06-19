@@ -1,1 +1,1 @@
-a/resourcedefine_resourcedefine.unity3d,704051dc393fe9ffbefb46408ae44b7f,tutorial0,28519,
+a/resourcedefine_resourcedefine.unity3d,9f203daf34152dde0e558e1407b11ad5,tutorial0,28593,
