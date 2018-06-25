@@ -96,7 +96,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_period", /*idx*/"clan_bat
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"clan_battle_period", /*idx*/"sqlite_autoindex_clan_battle_period_1", /*stat*/"4 1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"quest_defeat_notice", /*idx*/"", /*stat*/6);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"hatsune_boss", /*idx*/"", /*stat*/6);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/44);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/45);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"enemy_parameter", /*idx*/"", /*stat*/1620);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"experience_team", /*idx*/"", /*stat*/99);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"equipment_enhance_data", /*idx*/"sqlite_autoindex_equipment_enhance_data_1", /*stat*/"14 4 1");
