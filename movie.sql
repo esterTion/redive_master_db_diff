@@ -45,3 +45,4 @@ INSERT INTO `movie` VALUES (/*movie_id*/200601301, /*story_group_id*/2006, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/200601380, /*story_group_id*/2006, /*story_id*/2006013, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200601381, /*story_group_id*/2006, /*story_id*/2006013, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/301000301, /*story_group_id*/3010, /*story_id*/3010003, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/500400601, /*story_group_id*/5004, /*story_id*/5004006, /*bgm_id*/"", /*se_id*/"");

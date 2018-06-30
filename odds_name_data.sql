@@ -8,3 +8,6 @@ INSERT INTO `odds_name_data` VALUES (/*id*/6, /*odds_file*/1000220101, /*name*/"
 INSERT INTO `odds_name_data` VALUES (/*id*/7, /*odds_file*/1000220102, /*name*/"ミミのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/8, /*odds_file*/1000320101, /*name*/"マホのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/9, /*odds_file*/1000320102, /*name*/"カオリのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/10, /*odds_file*/1000420101, /*name*/"コッコロ（サマー）のメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/11, /*odds_file*/1000420102, /*name*/"サレンのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/12, /*odds_file*/"eq_rank_5-8", /*name*/"RANK5～8の装備アイテム", /*icon_type*/99002, /*description*/"キャラのRANK5～8で必要となる装備アイテム");
