@@ -16,4 +16,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/14, /*ailment_action*/11, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/15, /*ailment_action*/12, /*ailment_detail_1*/-1, /*ailment_name*/"暗闇");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/16, /*ailment_action*/13, /*ailment_detail_1*/0, /*ailment_name*/"沈黙");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/17, /*ailment_action*/30, /*ailment_detail_1*/0, /*ailment_name*/"即死");
-INSERT INTO `ailment_data` VALUES (/*ailment_id*/18, /*ailment_action*/41, /*ailment_detail_1*/7, /*ailment_name*/"UBトリガー麻痺");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/18, /*ailment_action*/3, /*ailment_detail_1*/-1, /*ailment_name*/"ノックバック");
