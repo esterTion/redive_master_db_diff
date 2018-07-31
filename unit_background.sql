@@ -60,3 +60,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/107101, /*unit_name*/"クリス
 INSERT INTO `unit_background` VALUES (/*unit_id*/107501, /*unit_name*/"ペコリーヌ（サマー）", /*bg_id*/500164, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/107601, /*unit_name*/"コッコロ（サマー）", /*bg_id*/500164, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/107701, /*unit_name*/"スズメ（サマー）", /*bg_id*/500164, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/107801, /*unit_name*/"キャル（サマー）", /*bg_id*/500164, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/6);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108001, /*unit_name*/"ミフユ（サマー）", /*bg_id*/500284, /*bg_name*/"無人島", /*position*/0.0, /*face_type*/2);
