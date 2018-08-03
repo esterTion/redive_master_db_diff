@@ -36,3 +36,4 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/34, /*campaign_category*/32, /*val
 INSERT INTO `campaign_schedule` VALUES (/*id*/35, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2018/07/25 05:00:00", /*end_time*/"2018/07/31 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/36, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2018/07/31 05:00:00", /*end_time*/"2018/08/10 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/37, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2018/07/31 05:00:00", /*end_time*/"2018/08/10 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/38, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/"2018/08/10 05:00:00", /*end_time*/"2018/08/21 04:59:59");

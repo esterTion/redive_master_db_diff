@@ -1,0 +1,2 @@
+a/loginbonus_ef_white_glow.unity3d,733b0515bbd35999e590e057f238fa9e,common,6775,
+a/loginbonus_stamp_0000.unity3d,d46a5f04ae1e71c9f40ec67ea79f098d,common,6200,
