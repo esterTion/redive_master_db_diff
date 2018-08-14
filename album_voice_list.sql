@@ -3181,3 +3181,4 @@ INSERT INTO `album_voice_list` VALUES (/*id*/10600234, /*unit_id*/106002, /*shee
 INSERT INTO `album_voice_list` VALUES (/*id*/10600235, /*unit_id*/106002, /*sheet_id*/"vo_room_106002", /*voice_id*/"vo_room_106002_tap_002", /*title*/"ギルドハウスタップ2", /*description*/"");
 INSERT INTO `album_voice_list` VALUES (/*id*/10600236, /*unit_id*/106002, /*sheet_id*/"vo_room_106002", /*voice_id*/"vo_room_106002_tap_003", /*title*/"ギルドハウスタップ3", /*description*/"");
 INSERT INTO `album_voice_list` VALUES (/*id*/10600237, /*unit_id*/106002, /*sheet_id*/"vo_room_106002", /*voice_id*/"vo_room_106002_tap_004", /*title*/"ギルドハウスタップ4", /*description*/"");
+CREATE INDEX 'album_voice_list_0_unit_id' on 'album_voice_list'('unit_id');

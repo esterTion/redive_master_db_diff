@@ -2308,3 +2308,4 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2460, /*unit_id*/108001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2461, /*unit_id*/108001, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"身体が冷えたから\n助かるわ…冷えは\n女の天敵だもの", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2463, /*unit_id*/108001, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"海のバイトは\n体力勝負よ\nエネルギーはしっかり\n摂取しないとね！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2464, /*unit_id*/108001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"座学も大切ね\nもっと知識を\n身につけないと…", /*insert_word_type*/0);
+CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

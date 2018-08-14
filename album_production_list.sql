@@ -439,3 +439,4 @@ INSERT INTO `album_production_list` VALUES (/*id*/10800105, /*unit_id*/108001, /
 INSERT INTO `album_production_list` VALUES (/*id*/10800106, /*unit_id*/108001, /*type*/105, /*title*/"絆ランク演出5", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/10800107, /*unit_id*/108001, /*type*/106, /*title*/"絆ランク演出6", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/10800108, /*unit_id*/108001, /*type*/107, /*title*/"絆ランク演出7", /*description*/"");
+CREATE INDEX 'album_production_list_0_unit_id' on 'album_production_list'('unit_id');

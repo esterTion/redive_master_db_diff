@@ -261,3 +261,4 @@ INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/259, /*mission_reward_id
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/260, /*mission_reward_id*/71005029, /*reward_type*/2, /*reward_id*/31080, /*reward_num*/2);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/261, /*mission_reward_id*/71005030, /*reward_type*/2, /*reward_id*/31080, /*reward_num*/4);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/262, /*mission_reward_id*/71005031, /*reward_type*/2, /*reward_id*/31080, /*reward_num*/10);
+CREATE INDEX 'hatsune_mission_reward_data_0_mission_reward_id' on 'hatsune_mission_reward_data'('mission_reward_id');

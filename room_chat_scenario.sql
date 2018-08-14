@@ -269,3 +269,4 @@ INSERT INTO `room_chat_scenario` VALUES (/*id*/20, /*scenario_idx*/2, /*unit_pos
 INSERT INTO `room_chat_scenario` VALUES (/*id*/21, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/15, /*icon_id*/13);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/22, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/15, /*icon_id*/0);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/22, /*scenario_idx*/2, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/13, /*icon_id*/0);
+CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id');

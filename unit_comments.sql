@@ -549,3 +549,5 @@ INSERT INTO `unit_comments` VALUES (/*id*/1080007, /*unit_id*/108031, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1080008, /*unit_id*/108031, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"こういう海でのすごし方って\n経験がなかったけど…\n楽しいものね\nキミといるからかしら？");
 INSERT INTO `unit_comments` VALUES (/*id*/1080009, /*unit_id*/108031, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"バイトばっかりな私だけど\n最近はキミとの時間も\n大事にしたいなって\n思ってるんだからね？");
 INSERT INTO `unit_comments` VALUES (/*id*/1080010, /*unit_id*/108031, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"師匠と弟子の関係だったのに\n気がついたらキミに\n頼りっぱなしになってたわね…\nふふ、恥ずかしいな");
+CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
+CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

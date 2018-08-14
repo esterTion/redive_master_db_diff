@@ -329,3 +329,4 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/108001, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/108001, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったわね。さあ、レベルを上げて海を制するわよ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/108001, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったみたいね。夏の冒険に役立てましょう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/108001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになったわ。海の効率を極めるわよ～！");
+CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
