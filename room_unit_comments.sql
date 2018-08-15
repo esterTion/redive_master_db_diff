@@ -2220,6 +2220,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2352, /*unit_id*/107501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2353, /*unit_id*/107501, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふい～、泳ぎで冷えた\n身体を暖めましょう～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2355, /*unit_id*/107501, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"おいひ～です～\nこれ、海水浴にも\n持っていきたいですね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2356, /*unit_id*/107501, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"南国のフルーツ図鑑\n…じゅるり…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2358, /*unit_id*/107501, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"わ～♪　おいしそ…\nか、かわいいですね～", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2359, /*unit_id*/107501, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"これくらい大きな貝…\n食べたいな～\n食べたいな～～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2360, /*unit_id*/107601, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この格好で\n部屋をうろつくのは\n不思議な感じがします", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2361, /*unit_id*/107601, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"南国の果実を使って\n主さまにデザートを\nお作りしましょう", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2362, /*unit_id*/107601, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"せっかくの水着ですし\nこれから定期的に\n海水浴に行きたいです", /*insert_word_type*/0);
@@ -2242,6 +2244,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2379, /*unit_id*/107601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2380, /*unit_id*/107601, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"これは暖かいです…\n後ほど主さまと一緒に\nあたりましょう", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2382, /*unit_id*/107601, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"泳いだ後の食事は\n一段と美味しく\n感じます", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2383, /*unit_id*/107601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"深海魚の生態…\nこれは主さまにも\nお伝えしなくては…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2385, /*unit_id*/107601, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"顔立ちが、主さまに\n似ております…\nかわいらしい♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2386, /*unit_id*/107601, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふかふかですね\n主さまのようです♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2387, /*unit_id*/107701, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"お掃除、お掃除\nふんふふ～ん☆\nあ、聞かれてました？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2388, /*unit_id*/107701, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"日焼けには回復魔法が\n効きますよ。どうして\n逃げるんですか～！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2389, /*unit_id*/107701, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"今日はドジを\nしませんように！", /*insert_word_type*/0);
@@ -2264,6 +2268,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2406, /*unit_id*/107701, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2407, /*unit_id*/107701, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あったかいですね…\nはっ！　いけません！\nメイドがサボるなんて", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2409, /*unit_id*/107701, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"料理のできない\nメイドなんて…\nはぐはぐ、おいしい♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2410, /*unit_id*/107701, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"水着姿で接客をすると\n売り上げが倍になる\n…本当ですか、これ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2412, /*unit_id*/107701, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"えへへ♪\n南の島まで\n乗せてください！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2413, /*unit_id*/107701, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"なんだか、\n人魚姫に\nなった気分です♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2414, /*unit_id*/107801, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"みんなで過ごす\n休日っていいわよね…\nずっと続かないかな", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2415, /*unit_id*/107801, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"海に浮輪でぷかぷか\n浮かぶのって\n癖になりそう", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2416, /*unit_id*/107801, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ビーチにいると\n日焼けが心配だわ", /*insert_word_type*/0);
@@ -2286,6 +2292,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2433, /*unit_id*/107801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2434, /*unit_id*/107801, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あったかぁい♪\n身体が冷えてきたから\n丁度いいわ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2436, /*unit_id*/107801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"運動後のご飯って\nなんでこんなに\n美味しいんだろ♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2437, /*unit_id*/107801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"どんなカナヅチでも、\n絶対必ず泳げる方法、\n書いてないかしら？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2439, /*unit_id*/107801, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あんたもあたしが\n操ってあげる！\nなんてね～♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2440, /*unit_id*/107801, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"リゾートリゾートっ\nのんびりしましょ♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2441, /*unit_id*/108001, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ここなら思う存分\nデスクワークに\n励めるわね！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2442, /*unit_id*/108001, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"武器のメンテナンスも\nしっかりしないと\n最高効率は望めないわ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2443, /*unit_id*/108001, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"準備をしっかり整えて\nもっともっと\n稼がなくちゃね！", /*insert_word_type*/0);
@@ -2308,4 +2316,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2460, /*unit_id*/108001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2461, /*unit_id*/108001, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"身体が冷えたから\n助かるわ…冷えは\n女の天敵だもの", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2463, /*unit_id*/108001, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"海のバイトは\n体力勝負よ\nエネルギーはしっかり\n摂取しないとね！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2464, /*unit_id*/108001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"座学も大切ね\nもっと知識を\n身につけないと…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2466, /*unit_id*/108001, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"海の楽園みたいね…\n今だけは効率を\n忘れちゃいそう…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2467, /*unit_id*/108001, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"落ち着くわ…\n海とひとつになった\n気分ね！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
