@@ -335,6 +335,8 @@ a/room_spineunit_107711.unity3d,fe523eee284b037d6491b269c3e9a9cf,tutorial2,44611
 a/room_spineunit_107731.unity3d,6189ed7b634e44ecd36d7293cb7872fb,tutorial2,44615,
 a/room_spineunit_107811.unity3d,ba8e9f7003ca6a7128a57b3602a7f074,tutorial2,48148,
 a/room_spineunit_107831.unity3d,7062916ed310dd88e740720a30371a54,tutorial2,48155,
+a/room_spineunit_107911.unity3d,4e62cb5715cfb8451dd0a30c996098fb,tutorial2,45348,
+a/room_spineunit_107931.unity3d,1a474a481d2e5961b082df47a48b6b2c,tutorial2,45318,
 a/room_spineunit_108011.unity3d,34aba60be5e7c834424fb76465fa8885,tutorial2,43736,
 a/room_spineunit_108031.unity3d,c24e0d6fcc8319370e42296476845b95,tutorial2,43724,
 a/roomeffect_0001.unity3d,cbf2dc4291851c783b81275fe615fd02,room,56337,

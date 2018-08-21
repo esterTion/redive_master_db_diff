@@ -2,3 +2,4 @@ CREATE TABLE 'campaign_freegacha_data' ('id' INTEGER NOT NULL, 'campaign_id' INT
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/1, /*campaign_id*/1, /*gacha_id*/30007);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/2, /*campaign_id*/1, /*gacha_id*/30008);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/3, /*campaign_id*/2, /*gacha_id*/30012);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/4, /*campaign_id*/2, /*gacha_id*/40001);
