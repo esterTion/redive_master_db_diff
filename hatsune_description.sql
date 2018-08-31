@@ -16,3 +16,6 @@ INSERT INTO `hatsune_description` VALUES (/*id*/14, /*event_id*/10005, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/15, /*event_id*/10005, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/16, /*event_id*/10005, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/17, /*event_id*/10005, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/18, /*event_id*/10006, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/19, /*event_id*/10006, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/20, /*event_id*/10006, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");

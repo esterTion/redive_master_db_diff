@@ -4,3 +4,4 @@ INSERT INTO `hatsune_map` VALUES (/*course_id*/10002, /*event_id*/10002, /*name*
 INSERT INTO `hatsune_map` VALUES (/*course_id*/10003, /*event_id*/10003, /*name*/"ランドソル郊外", /*map_id*/10003, /*sheet_id*/"bgm_M106", /*que_id*/"bgm_M106", /*start_area_id*/10003101, /*end_area_id*/10003101);
 INSERT INTO `hatsune_map` VALUES (/*course_id*/10004, /*event_id*/10004, /*name*/"タパスビーチ周辺", /*map_id*/10004, /*sheet_id*/"bgm_M112", /*que_id*/"bgm_M112", /*start_area_id*/10004101, /*end_area_id*/10004101);
 INSERT INTO `hatsune_map` VALUES (/*course_id*/10005, /*event_id*/10005, /*name*/"イルシオンの孤島", /*map_id*/10005, /*sheet_id*/"bgm_M121", /*que_id*/"bgm_M121", /*start_area_id*/10005101, /*end_area_id*/10005101);
+INSERT INTO `hatsune_map` VALUES (/*course_id*/10006, /*event_id*/10006, /*name*/"王都ランドソル", /*map_id*/10006, /*sheet_id*/"bgm_M128", /*que_id*/"bgm_M128", /*start_area_id*/10006101, /*end_area_id*/10006101);
