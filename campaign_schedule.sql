@@ -45,3 +45,10 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/43, /*campaign_category*/32, /*val
 INSERT INTO `campaign_schedule` VALUES (/*id*/44, /*campaign_category*/42, /*value*/3000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2018/08/25 05:00:00", /*end_time*/"2018/08/31 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/45, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2018/08/31 05:00:00", /*end_time*/"2018/09/10 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/46, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2018/08/31 05:00:00", /*end_time*/"2018/09/10 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/47, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/"2018/09/10 05:00:00", /*end_time*/"2018/09/20 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/48, /*campaign_category*/31, /*value*/2000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/"2018/09/20 05:00:00", /*end_time*/"2018/09/25 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/49, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2018/09/20 05:00:00", /*end_time*/"2018/09/25 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/50, /*campaign_category*/32, /*value*/2000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/"2018/09/25 05:00:00", /*end_time*/"2018/09/30 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/51, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2018/09/25 05:00:00", /*end_time*/"2018/09/30 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/52, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2018/09/30 05:00:00", /*end_time*/"2018/10/10 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/53, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2018/09/30 05:00:00", /*end_time*/"2018/10/10 04:59:59");
