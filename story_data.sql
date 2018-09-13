@@ -84,3 +84,4 @@ INSERT INTO `story_data` VALUES (/*story_group_id*/4001, /*story_type*/4, /*valu
 INSERT INTO `story_data` VALUES (/*story_group_id*/4002, /*story_type*/4, /*value*/0, /*title*/"アリーナ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/4003, /*story_type*/4, /*value*/0, /*title*/"ダンジョン", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `story_data` VALUES (/*story_group_id*/4004, /*story_type*/4, /*value*/5, /*title*/"イベント", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2030/12/17 14:59:59");
+INSERT INTO `story_data` VALUES (/*story_group_id*/4005, /*story_type*/4, /*value*/0, /*title*/"ルナの塔", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2015/04/01 15:00:00", /*end_time*/"2030/12/17 14:59:59");
