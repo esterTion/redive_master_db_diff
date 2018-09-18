@@ -3,6 +3,7 @@ INSERT INTO `tips` VALUES (/*id*/4100101, /*value*/100101, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4100201, /*value*/100201, /*tips_index*/1, /*title*/"まどろみのユイ");
 INSERT INTO `tips` VALUES (/*id*/4100301, /*value*/100301, /*tips_index*/1, /*title*/"実は釣り好き");
 INSERT INTO `tips` VALUES (/*id*/4100401, /*value*/100401, /*tips_index*/1, /*title*/"イタズラガール");
+INSERT INTO `tips` VALUES (/*id*/4100501, /*value*/100501, /*tips_index*/1, /*title*/"ポーズの練習！");
 INSERT INTO `tips` VALUES (/*id*/4100601, /*value*/100601, /*tips_index*/1, /*title*/"一緒にいきたい");
 INSERT INTO `tips` VALUES (/*id*/4100701, /*value*/100701, /*tips_index*/1, /*title*/"作ってオーラ");
 INSERT INTO `tips` VALUES (/*id*/4100801, /*value*/100801, /*tips_index*/1, /*title*/"自信満々");

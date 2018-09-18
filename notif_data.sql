@@ -23,6 +23,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/100401, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/100401, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだー！ミソギ、にいちゃんより大きくなっちゃうかも！？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/100401, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだよ！ミソギ、新しいイタズラグッズが欲しいな～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/100401, /*notif_type*/6, /*comment*/"ギルドハウスのアイテムがいっぱいだよ！早く受け取らないと、ミソギがもらっちゃうよ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/100501, /*notif_type*/1, /*comment*/"スタミナが全回復したッス！ここからスーパーヒーロータイムの始まりッスね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/100501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったみたいッス！これで冒険が捗るッスね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/100501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったッスよ！さあ、世界の平和を守りに出発ッス！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/100501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったッス！絶対無敵のヒーローへの近道ッスね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/100501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったッスね…ひ、ヒーローの人形とか買わないッスか！？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/100501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいッスよ！回収して冒険の準備を整えるッス！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/100601, /*notif_type*/1, /*comment*/"スタミナが回復しましたよ。アカリ、またお兄ちゃんとしたいな～♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/100601, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいです。アカリといっしょにイキましょう～バトルに♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/100601, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナが回復したみたい。アカリ、もう待ちきれないです♪");
