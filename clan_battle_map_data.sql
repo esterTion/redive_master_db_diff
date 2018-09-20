@@ -11,3 +11,5 @@ INSERT INTO `clan_battle_map_data` VALUES (/*id*/9, /*clan_battle_id*/1005, /*ma
 INSERT INTO `clan_battle_map_data` VALUES (/*id*/10, /*clan_battle_id*/1005, /*map_bg*/710051, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1005002, /*aura_effect*/2);
 INSERT INTO `clan_battle_map_data` VALUES (/*id*/11, /*clan_battle_id*/1006, /*map_bg*/710061, /*difficulty*/1, /*lap_num_from*/1, /*lap_num_to*/1, /*clan_battle_boss_group_id*/1006001, /*aura_effect*/1);
 INSERT INTO `clan_battle_map_data` VALUES (/*id*/12, /*clan_battle_id*/1006, /*map_bg*/710061, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1006002, /*aura_effect*/2);
+INSERT INTO `clan_battle_map_data` VALUES (/*id*/13, /*clan_battle_id*/1007, /*map_bg*/710071, /*difficulty*/1, /*lap_num_from*/1, /*lap_num_to*/1, /*clan_battle_boss_group_id*/1007001, /*aura_effect*/1);
+INSERT INTO `clan_battle_map_data` VALUES (/*id*/14, /*clan_battle_id*/1007, /*map_bg*/710071, /*difficulty*/1, /*lap_num_from*/2, /*lap_num_to*/-1, /*clan_battle_boss_group_id*/1007002, /*aura_effect*/2);
