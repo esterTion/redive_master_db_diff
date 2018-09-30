@@ -63,3 +63,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/107701, /*unit_name*/"スズメ
 INSERT INTO `unit_background` VALUES (/*unit_id*/107801, /*unit_name*/"キャル（サマー）", /*bg_id*/500164, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/107901, /*unit_name*/"タマキ（サマー）", /*bg_id*/500284, /*bg_name*/"無人島", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/108001, /*unit_name*/"ミフユ（サマー）", /*bg_id*/500284, /*bg_name*/"無人島", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108101, /*unit_name*/"シノブ（ハロウィン）", /*bg_id*/500264, /*bg_name*/"古城 ハロウィン", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108201, /*unit_name*/"ミヤコ（ハロウィン）", /*bg_id*/500264, /*bg_name*/"古城 ハロウィン", /*position*/0.0, /*face_type*/4);
