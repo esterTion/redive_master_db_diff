@@ -21,7 +21,7 @@ a/event_btn_quest_event_10003.unity3d,a5a64e994c0d5ba72f625634a5ad99b9,common,48
 a/event_btn_quest_event_10004.unity3d,78211a58424882f9e202a49b73a04aed,common,5570,
 a/event_btn_quest_event_10005.unity3d,fb049264375eb284d1844ae2efdb010c,common,4392,
 a/event_btn_quest_event_10007.unity3d,9b6ef1dcc9bf00b79953edb45b842d9d,common,5574,
-a/event_event_banner.unity3d,76d95558a87c0c2cbfe94626b09ef929,common,19157,
+a/event_event_banner_10001.unity3d,22bdd0a7b5b46775d12b81a028be110b,common,19162,
 a/event_event_banner_10002.unity3d,856db4687153b2278671c1f53870a678,common,18848,
 a/event_event_banner_10003.unity3d,80cc35f0bf168f3fe3ca3120a6e2bbb9,common,17930,
 a/event_event_banner_10004.unity3d,5825e64d6af22c08317092670e5ca9ae,common,21765,

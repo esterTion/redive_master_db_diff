@@ -1,0 +1,1 @@
+CREATE TABLE 'music_list' ('music_id' INTEGER NOT NULL, 'list_name' TEXT NOT NULL, 'font_size' REAL NOT NULL, 'pre_shop_start' TEXT NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'cost_item_num' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'kana' TEXT NOT NULL, PRIMARY KEY('music_id'));

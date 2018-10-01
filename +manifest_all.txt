@@ -4,7 +4,7 @@ a/all_abnormalstateicon2.unity3d,88e186bf6bb4cd26315f4e1a74ece879,tutorial0,3906
 a/all_arrowobjanimation.unity3d,134b89bda6c41db789589ea19ed337e2,tutorial1,2970,
 a/all_atlasabnormalstate.unity3d,d2635dde2b62e20453b95c11c40e3783,tutorial0,64312,
 a/all_atlasadv.unity3d,d991c9ff2c5d8ec288e54b0b764fe1aa,tutorial0,475618,
-a/all_atlasalbummemory.unity3d,ce42f5d980e754d893feb657494595d8,tutorial1,9197,
+a/all_atlasalbummemory.unity3d,b39b1ef169d53c536fabd34344645489,tutorial1,15133,
 a/all_atlasalbumtop.unity3d,4ac04dde1ed0d26a180bdd12901565b2,tutorial1,14936,
 a/all_atlasarena.unity3d,c13e7e298ba9596951d62a03c55e2b65,tutorial1,208823,
 a/all_atlasbattle.unity3d,0b972f3edaabbf0841c85c6adc867052,tutorial0,220134,
