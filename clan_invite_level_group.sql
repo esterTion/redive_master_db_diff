@@ -18,5 +18,5 @@ INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/16, /*team_level
 INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/17, /*team_level_from*/91, /*team_level_to*/95);
 INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/18, /*team_level_from*/96, /*team_level_to*/100);
 INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/19, /*team_level_from*/101, /*team_level_to*/105);
-INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/20, /*team_level_from*/106, /*team_level_to*/107);
-INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/21, /*team_level_from*/108, /*team_level_to*/-1);
+INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/20, /*team_level_from*/106, /*team_level_to*/110);
+INSERT INTO `clan_invite_level_group` VALUES (/*level_group_id*/21, /*team_level_from*/111, /*team_level_to*/-1);
