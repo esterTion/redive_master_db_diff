@@ -51,7 +51,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1005009, /*unit_id*/100531, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1005010, /*unit_id*/100531, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"あんたと一緒なら勇気100倍、\nいや100万倍ッス！\nこれからも一緒に頑張るッスよ！");
 INSERT INTO `unit_comments` VALUES (/*id*/1006001, /*unit_id*/100601, /*use_type*/1, /*voice_id*/1, /*face_id*/5, /*change_time*/3.5, /*change_face*/2, /*description*/"お兄ちゃん、\nまたあとでサックスの練習、\n付き合ってくれますか？");
 INSERT INTO `unit_comments` VALUES (/*id*/1006002, /*unit_id*/100601, /*use_type*/1, /*voice_id*/2, /*face_id*/4, /*change_time*/5.0, /*change_face*/5, /*description*/"はぁ、はぁ…\nもう練習できません…\nお兄ちゃん激しすぎます…");
-INSERT INTO `unit_comments` VALUES (/*id*/1006003, /*unit_id*/100601, /*use_type*/1, /*voice_id*/3, /*face_id*/6, /*change_time*/3.0, /*change_face*/4, /*description*/"え？　もっとするの…？\n今日はもうヘトヘト…\n私、限界です、お兄ちゃん…");
+INSERT INTO `unit_comments` VALUES (/*id*/1006003, /*unit_id*/100601, /*use_type*/1, /*voice_id*/3, /*face_id*/6, /*change_time*/3.0, /*change_face*/4, /*description*/"え？ もっとするの…？\n今日はもうヘトヘト…\n私、限界です、お兄ちゃん…");
 INSERT INTO `unit_comments` VALUES (/*id*/1006004, /*unit_id*/100601, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/5.5, /*change_face*/2, /*description*/"お兄ちゃんったら\nいつも激しすぎて、私…\nドキドキが止まらないんです…");
 INSERT INTO `unit_comments` VALUES (/*id*/1006005, /*unit_id*/100601, /*use_type*/1, /*voice_id*/5, /*face_id*/3, /*change_time*/4.5, /*change_face*/4, /*description*/"あのね、お兄ちゃんは\n私とお姉ちゃんとどっちが…\nううん、何でもないです…");
 INSERT INTO `unit_comments` VALUES (/*id*/1006006, /*unit_id*/100631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ふふ、お兄ちゃん見てください！\nジャズのリズムに乗って\nアカリ流ポールダンスです！");
@@ -123,7 +123,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1015001, /*unit_id*/101501, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1015002, /*unit_id*/101501, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/"今日はどんなご本を\n読もうかしら…\nあなたは、どれが好き？");
 INSERT INTO `unit_comments` VALUES (/*id*/1015003, /*unit_id*/101501, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/1.0, /*change_face*/5, /*description*/"うふふ♪\n先生のことは、\nお母さんだと思っていいからね");
 INSERT INTO `unit_comments` VALUES (/*id*/1015004, /*unit_id*/101501, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/"いいこいいこ♪\n先生がずっと\nそばにいるからね");
-INSERT INTO `unit_comments` VALUES (/*id*/1015005, /*unit_id*/101501, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/4.0, /*change_face*/5, /*description*/"先生はいつでも\nあなたの味方。\nたくさん、甘えていいのよ");
+INSERT INTO `unit_comments` VALUES (/*id*/1015005, /*unit_id*/101501, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/4.0, /*change_face*/5, /*description*/"先生はいつでも\nあなたの味方\nたくさん、甘えていいのよ");
 INSERT INTO `unit_comments` VALUES (/*id*/1015006, /*unit_id*/101531, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"もしもなにか辛いことがあったら\n遠慮しないで先生に言ってね？\nなにがあっても、私があなたの\n力になってあげるから");
 INSERT INTO `unit_comments` VALUES (/*id*/1015007, /*unit_id*/101531, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"いつもお疲れ様♪\nあなたが頑張っているところ、\n先生はちゃーんと見ているからね\nいい子いい子");
 INSERT INTO `unit_comments` VALUES (/*id*/1015008, /*unit_id*/101531, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"あらあら、怪我しちゃったの？\nこっちに来て見せてごらん？\n先生が治してあげるわね～\nほーら、痛いの痛いの飛んでけ～");
@@ -200,7 +200,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1023008, /*unit_id*/102331, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1023009, /*unit_id*/102331, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"お兄ちゃん！\n大丈夫？　けがはない？\nもう平気だよ、安心して\n私とぷうきちが来たからね！");
 INSERT INTO `unit_comments` VALUES (/*id*/1023010, /*unit_id*/102331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"お兄ちゃんに悪さする魔物めー！\n許さないんだから！\nやっちゃおう、ぷうきち！\n『合点だぜアヤネ！』");
 INSERT INTO `unit_comments` VALUES (/*id*/1025001, /*unit_id*/102501, /*use_type*/1, /*voice_id*/1, /*face_id*/4, /*change_time*/6.0, /*change_face*/6, /*description*/"いつも失敗してすみません…\nは、腹を切ってお詫びをっ！\n…え、そっちの方が迷惑？");
-INSERT INTO `unit_comments` VALUES (/*id*/1025002, /*unit_id*/102501, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/2.5, /*change_face*/6, /*description*/"身の回りのお世話は私が──\nわぁ！\nあ、頭ぶつけちゃいました…");
+INSERT INTO `unit_comments` VALUES (/*id*/1025002, /*unit_id*/102501, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/2.5, /*change_face*/6, /*description*/"身の回りのお世話は私が――\nわぁ！\nあ、頭ぶつけちゃいました…");
 INSERT INTO `unit_comments` VALUES (/*id*/1025003, /*unit_id*/102501, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/4.0, /*change_face*/4, /*description*/"ごはん作って、お洗濯して、\nお部屋の掃除も…\nや、やることがいっぱいで\n目が回っちゃいます～");
 INSERT INTO `unit_comments` VALUES (/*id*/1025004, /*unit_id*/102501, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/2.5, /*change_face*/2, /*description*/"精一杯、ご奉仕します！\nなんでも言ってくださいね？");
 INSERT INTO `unit_comments` VALUES (/*id*/1025005, /*unit_id*/102501, /*use_type*/1, /*voice_id*/5, /*face_id*/4, /*change_time*/7.0, /*change_face*/5, /*description*/"あの…お掃除頑張るので、\n終わったら、その…\n褒めてもらえませんか…？");
