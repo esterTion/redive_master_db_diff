@@ -1923,7 +1923,7 @@ a/storydata_still_106300401.unity3d,8601d2295077e0a1c1c2e5403febe81d,storydata,2
 a/storydata_still_106300801.unity3d,8afc8508bc29c8dfe064a365cdd4dbb0,storydata,222164,
 a/storydata_still_107100201.unity3d,9008979aeee65e069f6e95498b1dbd05,storydata,224212,
 a/storydata_still_107100202.unity3d,8223be3dcd932338924b601e6f54b441,storydata,224360,
-a/storydata_still_107100401.unity3d,66b189012036a138407946c7c4b288b6,storydata,218408,
+a/storydata_still_107100401.unity3d,013ea86465f557fdd6fb753609b747ca,storydata,218244,
 a/storydata_still_107500301.unity3d,ee5e45ead6fb6da425b61643e47aaa8d,storydata,223010,
 a/storydata_still_107500302.unity3d,4b586a4d60ad4b2f055a63d4be55c783,storydata,222683,
 a/storydata_still_107500401.unity3d,76c130026339a6b3155551b3d7755ac8,storydata,227848,
