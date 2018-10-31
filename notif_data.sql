@@ -311,6 +311,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/106301, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/106301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいみたい！これで、一人前の森番に近づけるかな？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/106301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだね！ちょうど矢がなくなりそうだったんだ～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/106301, /*notif_type*/6, /*comment*/"ギルドハウスで貰えるアイテムがいっぱいだよ！早く回収しないと、もったいないよー！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/107101, /*notif_type*/1, /*comment*/"スタミナとやらが回復したみたいだ。愉快なことがあるなら、少しくらい付きあってもいいぞ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/107101, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいのようだな。楽しい戦いをスキップするなんてワタシには理解できんがね…。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/107101, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいらしいな。これがあれば、肉を断ち切る感触を味わえるのか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/107101, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいのようだ。ふん、ワタシがこれ以上強くなったら、どうなっても知らんぞ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/107101, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだな。オマエがくれると言うのなら、まぁ好きに使わせてもらおうか。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/107101, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいだぞ。すべてオマエのものだ。さっさと受け取るがいい。");
 INSERT INTO `notif_data` VALUES (/*unit_id*/107501, /*notif_type*/1, /*comment*/"スタミナが全回復しましたよ☆これで泳ぎに行けますね！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/107501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいですね！よーし、海の幸を捕りに行きましょう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/107501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいですよ！海まで競争しましょう！");
