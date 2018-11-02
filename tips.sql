@@ -46,6 +46,7 @@ INSERT INTO `tips` VALUES (/*id*/4105101, /*value*/105101, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4105201, /*value*/105201, /*tips_index*/1, /*title*/"乙女の憧れ");
 INSERT INTO `tips` VALUES (/*id*/4105301, /*value*/105301, /*tips_index*/1, /*title*/"子供じゃない");
 INSERT INTO `tips` VALUES (/*id*/4105401, /*value*/105401, /*tips_index*/1, /*title*/"最高の服を");
+INSERT INTO `tips` VALUES (/*id*/4105601, /*value*/105601, /*tips_index*/1, /*title*/"増える舎弟");
 INSERT INTO `tips` VALUES (/*id*/4105701, /*value*/105701, /*tips_index*/1, /*title*/"紙ヒコーキに夢を乗せて");
 INSERT INTO `tips` VALUES (/*id*/4105801, /*value*/105801, /*tips_index*/1, /*title*/"ナイスリアクション");
 INSERT INTO `tips` VALUES (/*id*/4105901, /*value*/105901, /*tips_index*/1, /*title*/"はじめてのあじ");
