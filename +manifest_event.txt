@@ -32,7 +32,7 @@ a/event_event_banner_10003.unity3d,80cc35f0bf168f3fe3ca3120a6e2bbb9,common,17930
 a/event_event_banner_10004.unity3d,5825e64d6af22c08317092670e5ca9ae,common,21765,
 a/event_event_banner_10005.unity3d,384a3eeaa323d8678771702256e08e9f,common,22192,
 a/event_event_banner_10006.unity3d,802b8764e21a265b65a504730370b35f,common,19660,
-a/event_event_banner_10007.unity3d,c586faf8a9e8473e7ed0efacaaf4306c,common,22775,
+a/event_event_banner_10007.unity3d,c586faf8a9e8473e7ed0efacaaf4306c,tutorial2,22775,
 a/event_event_banner_10008.unity3d,742f5e88eb9e4662b11fea2f590786cf,common,23804,
 a/event_event_logo.unity3d,331bd1e51074164869e5dc53792a69b4,common,74597,
 a/event_event_logo_10002.unity3d,7e29f5d2c0415b4d3d38a25b01a4c963,common,60482,
