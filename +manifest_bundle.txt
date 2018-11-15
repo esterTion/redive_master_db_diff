@@ -30,7 +30,7 @@ a/bdl_donationconditionlistcontentobject.unity3d,0fb30ea6a36057326d16edff18b3ba9
 a/bdl_dungeoncourse31001.unity3d,b7b62f6c66e3949f8e899c2b53582aed,tutorial1,1345875,
 a/bdl_dungeoncourse31002.unity3d,8b53ac7e0e144e953e2d14155872f984,tutorial1,1698008,
 a/bdl_dungeoncourse31003.unity3d,288d6772d145b9821ac3e3ec3150bee8,tutorial1,1535143,
-a/bdl_dungeoncourse310032.unity3d,cd875a146cbb7bd1a678e75c0ce5a14b,tutorial1,1531965,
+a/bdl_dungeoncourse310032.unity3d,0640714d264110a1589a76b33f18a5e4,tutorial1,1531962,
 a/bdl_dungeoncourse31004.unity3d,3151f29fc86fe2b1ad3b17cc1148bc14,tutorial1,1412289,
 a/bdl_equipmentitemicon.unity3d,d4ee06626c0ede00ca6cffa30ae24307,tutorial1,7334,
 a/bdl_inbattlestamp.unity3d,5127dc8443a5d5397076164238f6fdd4,tutorial1,6003,
