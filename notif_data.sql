@@ -71,6 +71,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/101201, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/101201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションが満タンだよ！これで私の超能…ま、魔法がまた強くなるね！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだ～！キミキミ、私にもわけて～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101201, /*notif_type*/6, /*comment*/"スヤスヤ…ギルドハウスのアイテム…ぜんぶ…いっぱい…ぐぅ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/1, /*comment*/"スタミナが全回復したでござるよ！いざ、定期巡回に参りましょうぞ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだね！よーし、伝説の魔導書を探しに行くなり～");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいですと！？これは、魔法少女として動き出す時！？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがマックスになったよ！魔法少女に成長はつきものですな！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいに！？よっしゃー、魔導書買い漁るぞ～！…え、ダメ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/6, /*comment*/"ギルドハウスで貰えるアイテムがいっぱいだってさ！アイテムはよ！はよ受け取ってクレメンス！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101501, /*notif_type*/1, /*comment*/"スタミナが全回復したみたいね～。先生と一緒に遊びに行きましょうか♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101501, /*notif_type*/2, /*comment*/"あらあら、ギルドハウスのスキップチケットがいっぱいだわ。あなたといろんな所に行けるわね～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいみたい。さーて、先生をどこに連れて行ってくれるのかな～？");

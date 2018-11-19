@@ -7,3 +7,4 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5005, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5006, /*story_type*/5, /*value*/10006, /*title*/"黒鉄の亡霊（ナイトメア）", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/08/27 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5007, /*story_type*/5, /*value*/10007, /*title*/"トリックオアプリン！ 約束のハロウィンパーティー", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/09/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5008, /*story_type*/5, /*value*/10008, /*title*/"トワイライトブレイカーズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/10/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

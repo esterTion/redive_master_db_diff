@@ -11,6 +11,7 @@ INSERT INTO `tips` VALUES (/*id*/4100901, /*value*/100901, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4101001, /*value*/101001, /*tips_index*/1, /*title*/"王国はあります");
 INSERT INTO `tips` VALUES (/*id*/4101101, /*value*/101101, /*tips_index*/1, /*title*/"小さな間違い");
 INSERT INTO `tips` VALUES (/*id*/4101201, /*value*/101201, /*tips_index*/1, /*title*/"寝惚けて");
+INSERT INTO `tips` VALUES (/*id*/4101301, /*value*/101301, /*tips_index*/1, /*title*/"新奥義");
 INSERT INTO `tips` VALUES (/*id*/4101501, /*value*/101501, /*tips_index*/1, /*title*/"愛は剣より強し");
 INSERT INTO `tips` VALUES (/*id*/4101601, /*value*/101601, /*tips_index*/1, /*title*/"においで引き寄せ");
 INSERT INTO `tips` VALUES (/*id*/4101701, /*value*/101701, /*tips_index*/1, /*title*/"てーげーカオリ");

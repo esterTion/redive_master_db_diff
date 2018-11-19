@@ -8,3 +8,4 @@ INSERT INTO `room_effect` VALUES (/*id*/6, /*reward_get*/6, /*jukebox*/0, /*nebb
 INSERT INTO `room_effect` VALUES (/*id*/7, /*reward_get*/7, /*jukebox*/0, /*nebbia*/0);
 INSERT INTO `room_effect` VALUES (/*id*/8, /*reward_get*/8, /*jukebox*/0, /*nebbia*/0);
 INSERT INTO `room_effect` VALUES (/*id*/9, /*reward_get*/0, /*jukebox*/1, /*nebbia*/0);
+INSERT INTO `room_effect` VALUES (/*id*/10, /*reward_get*/0, /*jukebox*/0, /*nebbia*/1);
