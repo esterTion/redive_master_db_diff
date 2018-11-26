@@ -72,3 +72,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_DETAIL", /*bg_id*/530030
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_TOP", /*bg_id*/530050, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_CHANGE_LIST", /*bg_id*/530050, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_PURCHAES_LIST", /*bg_id*/530050, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIQUE_EQUIP", /*bg_id*/500253, /*event_id*/0);

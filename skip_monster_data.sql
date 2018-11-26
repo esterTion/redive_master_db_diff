@@ -452,6 +452,8 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12016003, /*area_id*/12016, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12017001, /*area_id*/12017, /*quest_name*/"フィデス氷原 17-1", /*wave_group_id_1*/101170403, /*bg_skip_id*/100991);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12017002, /*area_id*/12017, /*quest_name*/"フィデス氷原 17-2", /*wave_group_id_1*/101170403, /*bg_skip_id*/100961);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12017003, /*area_id*/12017, /*quest_name*/"フィデス氷原 17-3", /*wave_group_id_1*/101170403, /*bg_skip_id*/100991);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001001, /*area_id*/21001, /*quest_name*/"マナクエストLv1", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001002, /*area_id*/21001, /*quest_name*/"マナクエストLv2", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001003, /*area_id*/21001, /*quest_name*/"マナクエストLv3", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);

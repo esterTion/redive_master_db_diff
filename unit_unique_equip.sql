@@ -1,2 +1,10 @@
 CREATE TABLE 'unit_unique_equip' ('unit_id' INTEGER NOT NULL, 'equip_slot' INTEGER NOT NULL, 'equip_id' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100101, /*equip_slot*/1, /*equip_id*/130011);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100201, /*equip_slot*/1, /*equip_id*/130021);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100301, /*equip_slot*/1, /*equip_id*/130031);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102101, /*equip_slot*/1, /*equip_id*/130211);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102801, /*equip_slot*/1, /*equip_id*/130281);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102901, /*equip_slot*/1, /*equip_id*/130291);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105801, /*equip_slot*/1, /*equip_id*/130581);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105901, /*equip_slot*/1, /*equip_id*/130591);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106001, /*equip_slot*/1, /*equip_id*/130601);
