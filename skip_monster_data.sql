@@ -459,8 +459,10 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001002, /*area_id*/21001, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001003, /*area_id*/21001, /*quest_name*/"マナクエストLv3", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001004, /*area_id*/21001, /*quest_name*/"マナクエストLv4", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001005, /*area_id*/21001, /*quest_name*/"マナクエストLv5", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001006, /*area_id*/21001, /*quest_name*/"マナクエストLv6", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002001, /*area_id*/21002, /*quest_name*/"経験値クエストLv1", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002002, /*area_id*/21002, /*quest_name*/"経験値クエストLv2", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002003, /*area_id*/21002, /*quest_name*/"経験値クエストLv3", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002004, /*area_id*/21002, /*quest_name*/"経験値クエストLv4", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002005, /*area_id*/21002, /*quest_name*/"経験値クエストLv5", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002006, /*area_id*/21002, /*quest_name*/"経験値クエストLv6", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
