@@ -383,4 +383,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/108301, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/108301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいね！成長して、魔性の女になっちゃうわ♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/108301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいじゃない！…なによ？はしゃいでなんてないわよ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/108301, /*notif_type*/6, /*comment*/"ギルドハウスで貰えるアイテムがいっぱいだわ！お菓子もこれも、受け取り忘れないようにね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108401, /*notif_type*/1, /*comment*/"スタミナが全回復しましたね。これで聖夜のステージを歌い切れます…聴いてくださいね。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108401, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになりましたね。聖夜の贈り物、大切に使いましょう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108401, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになりましたね。サンタさんからのプレゼントでしょうか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108401, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになりましたね。これでもっと素敵な聖歌が歌えるかも…");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108401, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになりましたね。ふふ、クリスマスパーティーをしましょうか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108401, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、いっぱいになりましたね。聖夜の冒険に役立てましょう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108501, /*notif_type*/1, /*comment*/"スタミナが全回復したみたい…お、お兄ちゃん、クリスマスの町を一緒に歩きませんか…？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいですぅ…。このチケットで、クリスマスの舞台が観れたらいいなぁ…♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいですぅ…。あの…よかったらお芝居の練習を手伝ってくれませんか…？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱい…成長すれば、人見知りとか口下手も治ったりするのかなぁ…？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱい…。クリスマスですし、無駄遣いしても、ちょっとだけなら黙っていてあげますぅ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、全部いっぱい…。きっと、お兄ちゃんへのクリスマスプレゼントですね…♪");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
