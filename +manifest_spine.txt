@@ -811,7 +811,7 @@ a/spine_sdnormal_305100.unity3d,97ac071636fce0a2504f41b96904adad,tutorial2,14366
 a/spine_sdnormal_305200.unity3d,8462ad7802b416d1a4a87b2cc5e93e7d,tutorial2,269134,
 a/spine_sdnormal_305300.unity3d,75125fb1cb7030cbdc12ebad9fd5659e,tutorial2,217029,
 a/spine_sdnormal_305400.unity3d,5894c54fc727d465840d8674add79406,tutorial2,160987,
-a/spine_sdnormal_305500.unity3d,f3bd70184a0bf19437c02385f747f457,tutorial2,208736,
+a/spine_sdnormal_305500.unity3d,ae0bafa2a92b4db866728dbd007926a3,tutorial2,208736,
 a/spine_sdnormal_390100.unity3d,584b3d7c050e5eb107baf6ac34f7d0fe,tutorial0,162899,
 a/spine_sdnormal_400401.unity3d,4ede7f3c8ea9abf694d4cf9e5926b92e,tutorial2,15965,
 a/spine_sdnormal_401201.unity3d,1757063100e4a90a3714f7ab15df7f44,tutorial2,7506,

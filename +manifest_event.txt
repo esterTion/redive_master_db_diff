@@ -13,7 +13,7 @@ a/event_btn_circle_event_10009.unity3d,835c2ed6b84662e475f0527dcf19eb08,common,5
 a/event_btn_circle_event_tex_10006.unity3d,8101bc3303d1953d333662bb058ede35,common,3024,
 a/event_btn_circle_event_tex_10007.unity3d,ef294045d2a56d8f005c1067859be501,common,3029,
 a/event_btn_circle_event_tex_10008.unity3d,9b3751214369acf15fa2b69726104f39,common,3029,
-a/event_btn_circle_event_tex_10009.unity3d,324044bb07a8b0bd6ce5b6ad33459ca3,common,2923,
+a/event_btn_circle_event_tex_10009.unity3d,cdb96778924e9e55d50649f68e352859,common,3029,
 a/event_btn_event_effect_10002.unity3d,0509c2d74ba08103e607efa27f980626,common,4079,
 a/event_btn_event_effect_10003.unity3d,86b562a7cf7c2d549137b41348dd0b23,common,2909,
 a/event_btn_event_effect_10004.unity3d,6f4d0d8725ac9444b93432eae059c8d2,common,5168,
