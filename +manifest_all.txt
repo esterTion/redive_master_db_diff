@@ -13,7 +13,7 @@ a/all_atlasbossbattle10009.unity3d,eafa75d7dfc819f2ec8e5c656ce8bb3a,tutorial1,11
 a/all_atlasclan.unity3d,15460aad84e1e604a569f2ddc86ac2cd,tutorial1,229254,
 a/all_atlasclanbattle.unity3d,6e196e5ce7759625eb06452cd23b3d1f,tutorial1,162586,
 a/all_atlasclanbattlechest.unity3d,a07d87eca1a4487e1d5a78f0b107b93f,tutorial1,35990,
-a/all_atlascommon.unity3d,0b751e6d5517569f961dfb250e18df4a,tutorial0,1120476,
+a/all_atlascommon.unity3d,2cdd31413cd5f80618b216bd72e31517,tutorial0,1147635,
 a/all_atlascomplete.unity3d,9b7e204cf3e4e3d0e95aee4d952aeec8,tutorial1,209323,
 a/all_atlascoopmap.unity3d,cd95ca39aa5afacc3c77429e86e2622d,tutorial1,30345,
 a/all_atlascoopsearch.unity3d,3df410612fea94b0eb6ae700a766cfe7,tutorial1,6727,
