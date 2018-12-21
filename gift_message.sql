@@ -9,6 +9,7 @@ INSERT INTO `gift_message` VALUES (/*id*/2007, /*discription*/"{0}月クラン�
 INSERT INTO `gift_message` VALUES (/*id*/2008, /*discription*/"{0}で獲得した報酬です。", /*type_1*/9, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2009, /*discription*/"{0}月クランバトルランキング{2}位の報酬です。", /*type_1*/10, /*type_2*/11, /*type_3*/7, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2010, /*discription*/"「{0}」{1}日分の補てんアイテムです。", /*type_1*/1, /*type_2*/2, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2013, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/1, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3001, /*discription*/"ギルドハウス2階解放時に獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3002, /*discription*/"ギルドハウス3階解放時に獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9101, /*discription*/"運営からのお詫びの品です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
