@@ -42,6 +42,6 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1000802004, /*event_id*/10008, /
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802005, /*event_id*/10008, /*type*/2, /*description*/"渓谷の洞窟が悪党の本拠地であることを知り、\nアンナたちとの合流を目指すルカとナナカ。\n辛くも脱出したアンナたちを救出し、\n一同はひとまず洞窟から退くことにする。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002001, /*event_id*/10010, /*type*/2, /*description*/"願いを奉じ、浄化する神殿。ここでは、\n成就しなかった「具現化した願い」が人を襲うので\nユイ達に警備の依頼がきていた。報酬からお年玉を\n渡すため警備に参加する。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002002, /*event_id*/10010, /*type*/2, /*description*/"参拝客で慌ただしくなるも、困っているみんなで\n助け合ってもらいつつ、仕事をこなしていく一同。\nそこに、親を探す「具現化した願い」が現れるが、\n親として優しく接するヒヨリ達に浄化された。");
-INSERT INTO `hatsune_description` VALUES (/*id*/1001002003, /*event_id*/10010, /*type*/2, /*description*/"仕事に慣れてきた一同だが、そこに彼女とキスを\nする方法を知りたい「具現化した願い」が現れる。\nだが、体制を崩したユイを庇い、キスする寸前の\n主人公達の姿を見て浄化した。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1001002003, /*event_id*/10010, /*type*/2, /*description*/"仕事に慣れてきた一同だが、そこに彼女とキスを\nする方法を知りたい「具現化した願い」が現れる。\nだが、体勢を崩したユイを庇い、キスする寸前の\n主人公達の姿を見て浄化した。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002004, /*event_id*/10010, /*type*/2, /*description*/"夜が近づき、参拝客も増えて忙しさが増す一同。\nそこに「具現化した願い」が現れる。\n元気づけて欲しいと嘆き彷徨うが、\nレイの「必死」な応援で浄化するのであった。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002005, /*event_id*/10010, /*type*/2, /*description*/"多くの願いを浄化し、一度休憩を入れる一同。\nその時、願いが最も濃くなるという\n年末までの数時間が訪れ、願いが次々と具現化。\n暴走した願いは、黒い霧となって神殿を覆った。");
