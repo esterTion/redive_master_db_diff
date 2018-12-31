@@ -401,4 +401,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/108601, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/108601, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱい！ぷうきちが飲んだら、成長して大きくなるのかな？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/108601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだよぉ！これだけあれば、デッカい七面鳥も甘ぁいケーキも食べ放題だよね♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/108601, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、全部いっぱい！受け取らないと、ぷうきちサンタが子供たちに配っちゃうよ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108801, /*notif_type*/1, /*comment*/"スタミナが全回復したみたい。あ、あのね騎士クン…一緒に初詣に行きたいんだけど…ダメかな？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108801, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱい。外に行くなら、初日の出が綺麗に見える場所がいいな…。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108801, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだよ。お正月用のお餅を準備しないと…騎士クンも来てくれるとうれしいな。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108801, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだね。わたしも強くなって、自分の想いを伝えられるぐらいの勇気が欲しいな…。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108801, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったみたい。お正月にお買い物するなら…福袋とかどう？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108801, /*notif_type*/6, /*comment*/"ギルドハウスのアイテムがいっぱい。お正月で忙しいよね。あの…ここにはおせちもあるし、ゆっくり過ごせると思うよ…？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108901, /*notif_type*/1, /*comment*/"スタミナが全回復したようだね。お正月だからって怠けすぎは禁物だよ。一緒に特訓しよう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108901, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいか。修業を早く終わらせて、お正月の町をゆっくり歩くのもいいね。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108901, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだね。この時期にしかできない、雪上での戦闘訓練をしてみようか。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108901, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだね。強さへの探究はどんな時でも持っていないと。例えそれがお正月でもね。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108901, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだ。これだけあるなら、お正月の初売りに行くとか…その…私は今日、空いているのだけど？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/108901, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいだよ。正月ボケしてないで取りに来て…私だって待ってるんだから。");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

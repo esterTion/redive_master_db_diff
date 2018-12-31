@@ -30,8 +30,18 @@ INSERT INTO `hatsune_description` VALUES (/*id*/28, /*event_id*/10009, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/29, /*event_id*/10009, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/30, /*event_id*/10009, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/31, /*event_id*/10009, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/32, /*event_id*/10010, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/33, /*event_id*/10010, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/34, /*event_id*/10010, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/35, /*event_id*/10010, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/36, /*event_id*/10010, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802001, /*event_id*/10008, /*type*/2, /*description*/"働き口を求め、渓谷の洞窟へと向かうアンナ。\n古文書目当てに、仕入れ先へと向かうナナカ。\n村人の願いを聞き入れ、村へと向かうルカ。\n3人は各々の目的地へと出発するのだった。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802002, /*event_id*/10008, /*type*/2, /*description*/"村で悪党を鮮やかに成敗したルカ。\n報復に怯える村人との会話の中で、\n彼女は渓谷一帯で暗躍する巨悪の存在に勘付く。\n一方、渓谷の洞窟へと向かったアンナは・・・。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802003, /*event_id*/10008, /*type*/2, /*description*/"渓谷の洞窟で働き始めたアンナたちだったが、\nそこは事前の話とは違い、無法者がはびこり、\n過酷な労働が支配する劣悪な環境だった。\nそのころ、仕入先へと向かったナナカは・・・。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802004, /*event_id*/10008, /*type*/2, /*description*/"とある貴族に古文書を独占されてしまい、\n仕入の目的を果たすことができなかったナナカ。\n帰る道すがら悪党に襲われた彼女は、\nルカと合流するべく村への道を急ぐのだった・・・。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802005, /*event_id*/10008, /*type*/2, /*description*/"渓谷の洞窟が悪党の本拠地であることを知り、\nアンナたちとの合流を目指すルカとナナカ。\n辛くも脱出したアンナたちを救出し、\n一同はひとまず洞窟から退くことにする。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1001002001, /*event_id*/10010, /*type*/2, /*description*/"願いを奉じ、浄化する神殿。ここでは、\n成就しなかった「具現化した願い」が人を襲うので\nユイ達に警備の依頼がきていた。報酬からお年玉を\n渡すため警備に参加する。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1001002002, /*event_id*/10010, /*type*/2, /*description*/"参拝客で慌ただしくなるも、困っているみんなで\n助け合ってもらいつつ、仕事をこなしていく一同。\nそこに、親を探す「具現化した願い」が現れるが、\n親として優しく接するヒヨリ達に浄化された。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1001002003, /*event_id*/10010, /*type*/2, /*description*/"仕事に慣れてきた一同だが、そこに彼女とキスを\nする方法を知りたい「具現化した願い」が現れる。\nだが、体制を崩したユイを庇い、キスする寸前の\n主人公達の姿を見て浄化した。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1001002004, /*event_id*/10010, /*type*/2, /*description*/"夜が近づき、参拝客も増えて忙しさが増す一同。\nそこに「具現化した願い」が現れる。\n元気づけて欲しいと嘆き彷徨うが、\nレイの「必死」な応援で浄化するのであった。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1001002005, /*event_id*/10010, /*type*/2, /*description*/"多くの願いを浄化し、一度休憩を入れる一同。\nその時、願いが最も濃くなるという\n年末までの数時間が訪れ、願いが次々と具現化。\n暴走した願いは、黒い霧となって神殿を覆った。");
