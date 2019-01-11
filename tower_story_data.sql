@@ -2,3 +2,4 @@ CREATE TABLE 'tower_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type'
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7001, /*story_type*/7, /*value*/1, /*title*/"失われた記憶を求めて", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/09/13 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7002, /*story_type*/7, /*value*/2, /*title*/"姉妹の絆と願いの塔", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/10/13 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7003, /*story_type*/7, /*value*/3, /*title*/"スターたちの二重奏", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/11/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7004, /*story_type*/7, /*value*/4, /*title*/"シスターズ・ブッキング", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/01/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
