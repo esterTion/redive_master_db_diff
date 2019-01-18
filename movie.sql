@@ -76,6 +76,8 @@ INSERT INTO `movie` VALUES (/*movie_id*/200901101, /*story_group_id*/2009, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/200901380, /*story_group_id*/2009, /*story_id*/2009013, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200901381, /*story_group_id*/2009, /*story_id*/2009013, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200909901, /*story_group_id*/2009, /*story_id*/2009099, /*bgm_id*/"bgm_M188_emt10_00", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/201000101, /*story_group_id*/2010, /*story_id*/2010001, /*bgm_id*/"bgm_M201_emt10_001", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/201000401, /*story_group_id*/2010, /*story_id*/2010004, /*bgm_id*/"bgm_M204_emt10_004", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/301000301, /*story_group_id*/3010, /*story_id*/3010003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/500100701, /*story_group_id*/5001, /*story_id*/5001007, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/500200701, /*story_group_id*/5002, /*story_id*/5002007, /*bgm_id*/"", /*se_id*/"");
