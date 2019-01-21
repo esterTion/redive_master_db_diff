@@ -86,7 +86,7 @@ INSERT INTO `mission_reward_data` VALUES (/*id*/92, /*mission_reward_id*/2600200
 INSERT INTO `mission_reward_data` VALUES (/*id*/93, /*mission_reward_id*/26005001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
 INSERT INTO `mission_reward_data` VALUES (/*id*/94, /*mission_reward_id*/26005002, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
 INSERT INTO `mission_reward_data` VALUES (/*id*/95, /*mission_reward_id*/21007001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50);
-INSERT INTO `mission_reward_data` VALUES (/*id*/97, /*mission_reward_id*/28006001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
+INSERT INTO `mission_reward_data` VALUES (/*id*/97, /*mission_reward_id*/28006001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/1000);
 INSERT INTO `mission_reward_data` VALUES (/*id*/98, /*mission_reward_id*/28005001, /*reward_type*/5, /*reward_id*/0, /*reward_num*/20);
 INSERT INTO `mission_reward_data` VALUES (/*id*/99, /*mission_reward_id*/28005001, /*reward_type*/2, /*reward_id*/20001, /*reward_num*/10);
 INSERT INTO `mission_reward_data` VALUES (/*id*/100, /*mission_reward_id*/15005001, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/1500);
