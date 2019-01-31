@@ -52,3 +52,4 @@ INSERT INTO `gift_message` VALUES (/*id*/9505, /*discription*/"イベントボ�
 INSERT INTO `gift_message` VALUES (/*id*/9506, /*discription*/"イベントミッション達成で獲得したアイテムです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9507, /*discription*/"「{1}」で獲得したアイテムです。", /*type_1*/13, /*type_2*/12, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9508, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"ミニゲームで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
