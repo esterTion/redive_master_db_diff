@@ -85,3 +85,4 @@ INSERT INTO `event_top_adv` VALUES (/*event_top_adv_id*/83, /*event_id*/10011, /
 INSERT INTO `event_top_adv` VALUES (/*event_top_adv_id*/84, /*event_id*/10011, /*type*/1003, /*value_1*/10, /*value_2*/0, /*value_3*/0, /*story_id*/5011409, /*character_id*/109001, /*start_time*/"2019/01/31 12:00:00", /*end_time*/"2019/02/14 14:59:59");
 INSERT INTO `event_top_adv` VALUES (/*event_top_adv_id*/85, /*event_id*/10011, /*type*/1003, /*value_1*/13, /*value_2*/0, /*value_3*/0, /*story_id*/5011410, /*character_id*/101101, /*start_time*/"2019/01/31 12:00:00", /*end_time*/"2019/02/14 14:59:59");
 INSERT INTO `event_top_adv` VALUES (/*event_top_adv_id*/86, /*event_id*/10011, /*type*/1003, /*value_1*/15, /*value_2*/0, /*value_3*/0, /*story_id*/5011411, /*character_id*/109101, /*start_time*/"2019/01/31 12:00:00", /*end_time*/"2019/02/14 14:59:59");
+CREATE INDEX 'event_top_adv_0_event_id_1_type' on 'event_top_adv'('event_id','type');
