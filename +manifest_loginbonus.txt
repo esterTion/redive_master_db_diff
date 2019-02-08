@@ -6,7 +6,7 @@ a/loginbonus_logoeffect_00000.unity3d,551a9ff67a4b35f15a3e4a9236d9fce8,common,12
 a/loginbonus_logoeffect_40003.unity3d,b5518127a4293deb88b2ca9fb943dfc3,tutorial2,1309512,
 a/loginbonus_logoeffect_40004.unity3d,dfee5ccf9c7b142947b551b7633f53b8,common,1308044,
 a/loginbonus_logoeffect_60000.unity3d,f86ddf91035c9c9b47d86c6d50955a68,common,1674888,
-a/loginbonus_logoeffect_80001.unity3d,dfa24aafd5e05a15d458c86e412abe4f,common,1512249,
+a/loginbonus_logoeffect_80001.unity3d,dd265f204c39a7e42c2915ca2d22ada7,common,1512216,
 a/loginbonus_logoeffect_common.unity3d,138ab761ca1fe2fa0da369f6f56fdd13,tutorial2,6793,
 a/loginbonus_stamp_0000.unity3d,d46a5f04ae1e71c9f40ec67ea79f098d,common,6200,
 a/loginbonus_stamp_0001.unity3d,9ce21554a03ea742250cfa5d4a465188,common,6507,
