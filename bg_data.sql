@@ -73,6 +73,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_TOP", /*bg_id*/530050, /*eve
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_CHANGE_LIST", /*bg_id*/530050, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_PURCHAES_LIST", /*bg_id*/530050, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIQUE_EQUIP", /*bg_id*/500253, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"ANNIVERSARY_LOGIN_BONUS", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINIGAME_PCT_TOP", /*bg_id*/500600, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINIGAME_PCT", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_TOP", /*bg_id*/500590, /*event_id*/0);

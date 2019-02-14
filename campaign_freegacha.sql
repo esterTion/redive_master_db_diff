@@ -2,3 +2,4 @@ CREATE TABLE 'campaign_freegacha' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER 
 INSERT INTO `campaign_freegacha` VALUES (/*id*/1, /*campaign_id*/1, /*freegacha_1*/0, /*freegacha_10*/1, /*start_time*/"2018/05/22 5:00:00", /*end_time*/"2018/06/01 4:59:59", /*stock_10_flag*/0);
 INSERT INTO `campaign_freegacha` VALUES (/*id*/2, /*campaign_id*/2, /*freegacha_1*/0, /*freegacha_10*/1, /*start_time*/"2018/08/21 5:00:00", /*end_time*/"2018/09/01 4:59:59", /*stock_10_flag*/0);
 INSERT INTO `campaign_freegacha` VALUES (/*id*/3, /*campaign_id*/3, /*freegacha_1*/0, /*freegacha_10*/1, /*start_time*/"2018/12/22 5:00:00", /*end_time*/"2019/01/04 4:59:59", /*stock_10_flag*/0);
+INSERT INTO `campaign_freegacha` VALUES (/*id*/4, /*campaign_id*/4, /*freegacha_1*/0, /*freegacha_10*/1, /*start_time*/"2019/02/15 5:00:00", /*end_time*/"2019/02/28 11:59:59", /*stock_10_flag*/1);
