@@ -229,3 +229,11 @@ INSERT INTO `room_setup` VALUES (/*room_item_id*/1107, /*grid_height*/2, /*grid_
 INSERT INTO `room_setup` VALUES (/*room_item_id*/1108, /*grid_height*/3, /*grid_width*/6, /*unit_id*/0);
 INSERT INTO `room_setup` VALUES (/*room_item_id*/1109, /*grid_height*/1, /*grid_width*/2, /*unit_id*/0);
 INSERT INTO `room_setup` VALUES (/*room_item_id*/1113, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1201, /*grid_height*/3, /*grid_width*/4, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1202, /*grid_height*/3, /*grid_width*/3, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1203, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1204, /*grid_height*/2, /*grid_width*/3, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1205, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1206, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1207, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/1208, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
