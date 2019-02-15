@@ -44,6 +44,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9309, /*discription*/"所持上限を�
 INSERT INTO `gift_message` VALUES (/*id*/9310, /*discription*/"所持上限を超えて獲得したバトルアリーナの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9311, /*discription*/"所持上限を超えて獲得したプリンセスアリーナのタイム報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9312, /*discription*/"所持上限を超えて獲得したプリンセスアリーナの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9313, /*discription*/"所持上限を超えて獲得したキャラ交換の報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9401, /*discription*/"デイリージュエルパックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9501, /*discription*/"「イベントログインボーナス」{1}日目で獲得したアイテムです。", /*type_1*/13, /*type_2*/2, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9502, /*discription*/"イベントクエスト初回クリアで獲得したアイテムです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
