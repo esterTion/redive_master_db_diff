@@ -77,6 +77,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがマックスになったよ！魔法少女に成長はつきものですな！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいに！？よっしゃー、魔導書買い漁るぞ～！…え、ダメ？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101301, /*notif_type*/6, /*comment*/"ギルドハウスで貰えるアイテムがいっぱいだってさ！アイテムはよ！はよ受け取ってクレメンス！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101401, /*notif_type*/1, /*comment*/"スタミナが全回復したみたいだね。さあ、楽しい推理の時間の始まりだよ！行こう助手くん！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101401, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったね。推理の効率化に役立てよう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101401, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったね。助手くん、これで長時間の調査も問題ないよ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101401, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったね。レベルを上げて難解な謎に挑戦しよう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101401, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったみたいだね。ありがたい、調査費用に使わせてもらおう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/101401, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになったみたいだよ。これで推理が捗るね！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101501, /*notif_type*/1, /*comment*/"スタミナが全回復したみたいね～。先生と一緒に遊びに行きましょうか♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101501, /*notif_type*/2, /*comment*/"あらあら、ギルドハウスのスキップチケットがいっぱいだわ。あなたといろんな所に行けるわね～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/101501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいみたい。さーて、先生をどこに連れて行ってくれるのかな～？");
