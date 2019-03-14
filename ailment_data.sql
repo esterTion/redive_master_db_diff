@@ -18,3 +18,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/16, /*ailment_action*/13, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/17, /*ailment_action*/30, /*ailment_detail_1*/0, /*ailment_name*/"即死");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/18, /*ailment_action*/3, /*ailment_detail_1*/-1, /*ailment_name*/"ノックバック");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/19, /*ailment_action*/11, /*ailment_detail_1*/1, /*ailment_name*/"混乱");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/20, /*ailment_action*/9, /*ailment_detail_1*/4, /*ailment_name*/"猛毒");

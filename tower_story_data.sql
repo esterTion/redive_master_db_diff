@@ -3,3 +3,4 @@ INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7001, /*story_type*/7, 
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7002, /*story_type*/7, /*value*/2, /*title*/"姉妹の絆と願いの塔", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/10/13 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7003, /*story_type*/7, /*value*/3, /*title*/"スターたちの二重奏", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2018/11/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7004, /*story_type*/7, /*value*/4, /*title*/"シスターズ・ブッキング", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/01/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7005, /*story_type*/7, /*value*/5, /*title*/"あまのじゃくゴーストハウス", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/03/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");

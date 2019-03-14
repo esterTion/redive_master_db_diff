@@ -5,3 +5,4 @@ INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/3, /*max_floor_num*/130, 
 INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/4, /*max_floor_num*/150, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125");
 INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/5, /*max_floor_num*/170, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125");
 INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/6, /*max_floor_num*/190, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125");
+INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/7, /*max_floor_num*/210, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125");
