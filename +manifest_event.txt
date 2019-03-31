@@ -8,6 +8,8 @@ a/event_adv_bg_speech_event_10010.unity3d,2dee617dd1b1c653f4e47fa4fcee3ba3,commo
 a/event_adv_bg_speech_event_10011.unity3d,33cf464568583c1aab4a48b76d4177bf,common,2851,
 a/event_adv_bg_speech_event_10012.unity3d,e8f9156abe76ae94e83ecd141d4b9f6c,common,3209,
 a/event_adv_bg_speech_event_10013.unity3d,f4706f2d8673ee7cf1cf48aea01408a2,common,2646,
+a/event_aprilfool_banner.unity3d,a6497483f1a40dbb490cab4309d1c292,common,17381,
+a/event_aprilfool_ribbon.unity3d,3ba93fd3f747367c7b27a7a6e723cbae,common,6804,
 a/event_bg_81000100.unity3d,db516b2e0a0c188dce60a490e68106e9,common,433768,
 a/event_bg_81000200.unity3d,2eb8095b497b1ff95560331f48eec85b,common,865862,
 a/event_btn_circle_event_10006.unity3d,5bec56eba0d974a5592c0aadb3e12b39,common,5321,

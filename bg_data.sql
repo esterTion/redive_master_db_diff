@@ -80,3 +80,5 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"MINIGAME_PCT", /*bg_id*/0, /*event_i
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_TOP", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_RESULT", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_OPENING", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EVENT_ROBO_LLAMA", /*bg_id*/710049, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"GLOBAL_RAID_RANKING", /*bg_id*/500390, /*event_id*/0);
