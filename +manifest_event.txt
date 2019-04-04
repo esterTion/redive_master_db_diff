@@ -91,6 +91,7 @@ a/event_event_teaser_10010.unity3d,9e86b32421579974f2bfb27f9ca6e1f2,common,42376
 a/event_event_teaser_10011.unity3d,19d0e433d8783b5f778762d3871410e4,common,422700,
 a/event_event_teaser_10012.unity3d,3477d9b1b72992ce231bec6f898f2d7f,common,428266,
 a/event_event_teaser_10013.unity3d,82b394ea7ec071febf6b22968752abb5,common,419531,
+a/event_event_text_light_gradation.unity3d,b9ee9dcdf11e60a5203d6450e0f005ea,common,1846,
 a/event_hatsuneeffect.unity3d,76e2a03f56d1036cfd697086ba2df061,common,392741,
 a/event_icon_quiz_910012.unity3d,9753d6fae56b7121e493e95c56f1395a,common,6959,
 a/event_img_event_boxgacha_00.unity3d,5fff1ad11a7ee51b0d046f6ad2fab3d6,common,86375,
