@@ -923,5 +923,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1093009, /*unit_id*/109331, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1093010, /*unit_id*/109331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"追試の女帝、落第の女王…\n数々のいみょうを持つルゥの実力\n見せてやるですぅ！");
 INSERT INTO `unit_comments` VALUES (/*id*/1093011, /*unit_id*/109301, /*use_type*/2, /*voice_id*/6, /*face_id*/6, /*change_time*/2.8, /*change_face*/2, /*description*/"今日はあなたの誕生日です？\nじゃあ、ルゥもお祝いするです！\nおめでとうですぅ！");
 INSERT INTO `unit_comments` VALUES (/*id*/1093012, /*unit_id*/109331, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ルゥ、暗記は苦手ですが…\nお友だちの誕生日は\nばっちり覚えてるですぅ！\nお誕生日おめでとうですよ！");
+INSERT INTO `unit_comments` VALUES (/*id*/1094001, /*unit_id*/109401, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/4.4, /*change_face*/4, /*description*/"私のこの姿や、竜の力…\nあなたは、\n怖がらないでいてくれる…？");
+INSERT INTO `unit_comments` VALUES (/*id*/1094002, /*unit_id*/109401, /*use_type*/1, /*voice_id*/2, /*face_id*/5, /*change_time*/3.6, /*change_face*/2, /*description*/"私はみんなみたいに\nはしゃげないけど…\nこれでも楽しんでるつもり");
+INSERT INTO `unit_comments` VALUES (/*id*/1094003, /*unit_id*/109401, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/5.3, /*change_face*/2, /*description*/"アンは、ずっと一人だった私の\nそばにいてくれて…\n私の世界を照らしてくれたんだ");
+INSERT INTO `unit_comments` VALUES (/*id*/1094004, /*unit_id*/109401, /*use_type*/1, /*voice_id*/4, /*face_id*/6, /*change_time*/3.7, /*change_face*/2, /*description*/"違う世界に来てしまうなんて…\nでも、あなたたちみたいな\n優しい人に出会えて、よかった");
+INSERT INTO `unit_comments` VALUES (/*id*/1094005, /*unit_id*/109401, /*use_type*/1, /*voice_id*/5, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/"あなたには本当に感謝してる…\nもし私に手伝えることがあれば\n何でもいってね、頑張るから");
+INSERT INTO `unit_comments` VALUES (/*id*/1094006, /*unit_id*/109431, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"皆を護るためなら、\nいくらでも力が出せるよ…！\n竜の炎を見せてあげる！");
+INSERT INTO `unit_comments` VALUES (/*id*/1094007, /*unit_id*/109431, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"皆のことは…\n絶対に傷つけさせない\n私の炎は、そのためにあるの…！");
+INSERT INTO `unit_comments` VALUES (/*id*/1094008, /*unit_id*/109431, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"私に足りなかったのは、\n自分に負けない強さ…\nでも今は、もう大丈夫！");
+INSERT INTO `unit_comments` VALUES (/*id*/1094009, /*unit_id*/109431, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"こんな力、いらないって\n思ったこともあるけれど…\n今は少し誇れる気がするんだ");
+INSERT INTO `unit_comments` VALUES (/*id*/1094010, /*unit_id*/109431, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"私、結構丈夫なんだ\nだから…任せて！");
+INSERT INTO `unit_comments` VALUES (/*id*/1094011, /*unit_id*/109401, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/4.3, /*change_face*/2, /*description*/"今日はあなたの誕生日なんだね\nその…おめでとう\nなにか欲しいものとかある？");
+INSERT INTO `unit_comments` VALUES (/*id*/1094012, /*unit_id*/109431, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ハッピーバースデー\nあなたのお祝いの日なのに、\n私までうれしいんだ。不思議だね");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
