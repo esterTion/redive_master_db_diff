@@ -776,7 +776,7 @@ a/all_ef_rainbow_ring_01_unique.unity3d,58e3a48da7e3415bd85814a81783d4f9,tutoria
 a/all_ef_skill_up_01.unity3d,48d245a5417ced2eb0f04f74f3ac7ef4,tutorial1,22069,
 a/all_ef_skill_up_02.unity3d,de4e5f4bb30f9e7da245f851e533deda,tutorial1,22651,
 a/all_ef_text_limitbreak_able_add.unity3d,dd0e47ac025457789735a934547a7faa,tutorial1,3947,
-a/all_effectmaterial_0.unity3d,95a449b15c79357d5eb37f3b6ede98c5,tutorial0,309633,
+a/all_effectmaterial_0.unity3d,2664a3a543442532907a6165752aa13f,tutorial0,310953,
 a/all_effectmaterial_1.unity3d,fb6b2c0558548e8ac4ca3ac718ce00dc,tutorial0,88025,
 a/all_effectmaterial_2.unity3d,ed4179a12ec5e0e478cf7f7f46873c6b,tutorial0,138476,
 a/all_effectmaterial_3.unity3d,da0ef2a17707bbdca0573a755da78434,tutorial0,101052,
