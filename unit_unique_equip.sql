@@ -4,6 +4,7 @@ INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100201, /*equip_slot*/1, /*eq
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100301, /*equip_slot*/1, /*equip_id*/130031);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100501, /*equip_slot*/1, /*equip_id*/130051);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100601, /*equip_slot*/1, /*equip_id*/130061);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100801, /*equip_slot*/1, /*equip_id*/130081);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100901, /*equip_slot*/1, /*equip_id*/130091);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/101101, /*equip_slot*/1, /*equip_id*/130111);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/101201, /*equip_slot*/1, /*equip_id*/130121);
@@ -12,6 +13,8 @@ INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/101701, /*equip_slot*/1, /*eq
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/101801, /*equip_slot*/1, /*equip_id*/130181);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102101, /*equip_slot*/1, /*equip_id*/130211);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102201, /*equip_slot*/1, /*equip_id*/130221);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102301, /*equip_slot*/1, /*equip_id*/130231);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102501, /*equip_slot*/1, /*equip_id*/130251);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102601, /*equip_slot*/1, /*equip_id*/130261);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102701, /*equip_slot*/1, /*equip_id*/130271);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102801, /*equip_slot*/1, /*equip_id*/130281);
@@ -25,12 +28,15 @@ INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/103701, /*equip_slot*/1, /*eq
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/103801, /*equip_slot*/1, /*equip_id*/130381);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104001, /*equip_slot*/1, /*equip_id*/130401);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104301, /*equip_slot*/1, /*equip_id*/130431);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104501, /*equip_slot*/1, /*equip_id*/130451);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104601, /*equip_slot*/1, /*equip_id*/130461);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104701, /*equip_slot*/1, /*equip_id*/130471);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104801, /*equip_slot*/1, /*equip_id*/130481);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/104901, /*equip_slot*/1, /*equip_id*/130491);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105101, /*equip_slot*/1, /*equip_id*/130511);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105201, /*equip_slot*/1, /*equip_id*/130521);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105301, /*equip_slot*/1, /*equip_id*/130531);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105701, /*equip_slot*/1, /*equip_id*/130571);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105801, /*equip_slot*/1, /*equip_id*/130581);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/105901, /*equip_slot*/1, /*equip_id*/130591);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106001, /*equip_slot*/1, /*equip_id*/130601);

@@ -15,3 +15,6 @@ INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/13, /*exchange_id*/30, /*unit_
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/14, /*exchange_id*/30, /*unit_id*/100101, /*rarity*/1);
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/15, /*exchange_id*/31, /*unit_id*/109201, /*rarity*/3);
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/16, /*exchange_id*/32, /*unit_id*/109401, /*rarity*/3);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/17, /*exchange_id*/33, /*unit_id*/109501, /*rarity*/3);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/18, /*exchange_id*/33, /*unit_id*/107101, /*rarity*/3);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/19, /*exchange_id*/34, /*unit_id*/109501, /*rarity*/3);

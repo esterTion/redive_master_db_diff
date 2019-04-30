@@ -39,4 +39,5 @@ INSERT INTO `hatsune_map_event` VALUES (/*id*/10012303, /*target_event_id*/10012
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10012401, /*target_event_id*/10012, /*event_type*/6, /*condition_id*/0, /*param1*/501, /*param2*/0);
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10012531, /*target_event_id*/10012, /*event_type*/3, /*condition_id*/1001204, /*param1*/211, /*param2*/0);
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10013531, /*target_event_id*/10013, /*event_type*/3, /*condition_id*/1001304, /*param1*/211, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10015531, /*target_event_id*/10015, /*event_type*/3, /*condition_id*/1001504, /*param1*/211, /*param2*/0);
 CREATE INDEX 'hatsune_map_event_0_target_event_id' on 'hatsune_map_event'('target_event_id');
