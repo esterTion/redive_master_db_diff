@@ -1,0 +1,1 @@
+CREATE TABLE 'enemy_m_parts' ('enemy_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'child_enemy_parameter_1' INTEGER NOT NULL, 'child_enemy_parameter_2' INTEGER NOT NULL, 'child_enemy_parameter_3' INTEGER NOT NULL, 'child_enemy_parameter_4' INTEGER NOT NULL, 'child_enemy_parameter_5' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
