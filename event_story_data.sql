@@ -13,4 +13,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5011, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5012, /*story_type*/5, /*value*/10012, /*title*/"王都の名探偵 嘆きの追跡者（ストーカー）", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/02/22 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5013, /*story_type*/5, /*value*/10013, /*title*/"アストルムに咲く双輪の華", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/03/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5015, /*story_type*/5, /*value*/10015, /*title*/"ショーグン道中記　白翼のサムライ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/04/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5017, /*story_type*/5, /*value*/10017, /*title*/"Ｒｅ：ゼロから集まる異世界食卓", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/05/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

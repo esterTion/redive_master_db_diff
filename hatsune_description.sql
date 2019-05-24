@@ -71,3 +71,4 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1001002002, /*event_id*/10010, /
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002003, /*event_id*/10010, /*type*/2, /*description*/"仕事に慣れてきた一同だが、そこに彼女とキスを\nする方法を知りたい「具現化した願い」が現れる。\nだが、体勢を崩したユイを庇い、キスする寸前の\n主人公達の姿を見て浄化した。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002004, /*event_id*/10010, /*type*/2, /*description*/"夜が近づき、参拝客も増えて忙しさが増す一同。\nそこに「具現化した願い」が現れる。\n元気づけて欲しいと嘆き彷徨うが、\nレイの「必死」な応援で浄化するのであった。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002005, /*event_id*/10010, /*type*/2, /*description*/"多くの願いを浄化し、一度休憩を入れる一同。\nその時、願いが最も濃くなるという\n年末までの数時間が訪れ、願いが次々と具現化。\n暴走した願いは、黒い霧となって神殿を覆った。");
+CREATE INDEX 'hatsune_description_0_event_id_1_type' on 'hatsune_description'('event_id','type');
