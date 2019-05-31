@@ -484,7 +484,7 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/109701, /*notif_type*/2, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/109701, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになっているようです。もったいないですから受け取っておきましょう");
 INSERT INTO `notif_data` VALUES (/*unit_id*/109701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいのようです。レムに使ってくれてもいいんですよ？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/109701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいのようです。この世界のマナは不思議ですね");
-INSERT INTO `notif_data` VALUES (/*unit_id*/109701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが全ていっぱいのようです。レムが片づけてしまう前に回収しておいてくださいね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/109701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが全ていっぱいのようです。レムが片付けてしまう前に回収しておいてくださいね");
 INSERT INTO `notif_data` VALUES (/*unit_id*/109801, /*notif_type*/1, /*comment*/"スタミナが全て回復したようね。ラムに付いてきて欲しいの？仕方がないわね。感謝なさい");
 INSERT INTO `notif_data` VALUES (/*unit_id*/109801, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいよ。戦いを手早く終わらせるのはいいことね");
 INSERT INTO `notif_data` VALUES (/*unit_id*/109801, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになっているわ。さぁ、ラムの代わりに頑張りなさい");
