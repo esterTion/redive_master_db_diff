@@ -159,8 +159,8 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/159, /*campaign_category*/31, /*va
 INSERT INTO `campaign_schedule` VALUES (/*id*/160, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2019/06/14 05:00:00", /*end_time*/"2019/06/22 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/161, /*campaign_category*/251, /*value*/1500.0, /*system_id*/7004, /*icon_image*/80, /*start_time*/"2019/06/15 12:00:00", /*end_time*/"2019/06/22 20:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/162, /*campaign_category*/252, /*value*/1500.0, /*system_id*/7005, /*icon_image*/80, /*start_time*/"2019/06/15 12:00:00", /*end_time*/"2019/06/22 20:59:59");
-INSERT INTO `campaign_schedule` VALUES (/*id*/163, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2019/06/18 05:00:00", /*end_time*/"2019/06/21 04:59:59");
-INSERT INTO `campaign_schedule` VALUES (/*id*/164, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2019/06/18 05:00:00", /*end_time*/"2019/06/21 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/163, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2019/06/14 05:00:00", /*end_time*/"2019/06/18 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/164, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2019/06/14 05:00:00", /*end_time*/"2019/06/18 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/165, /*campaign_category*/32, /*value*/2000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/"2019/06/21 05:00:00", /*end_time*/"2019/06/27 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/166, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2019/06/21 05:00:00", /*end_time*/"2019/06/27 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/167, /*campaign_category*/37, /*value*/2000.0, /*system_id*/109, /*icon_image*/30, /*start_time*/"2019/06/21 05:00:00", /*end_time*/"2019/06/27 04:59:59");
