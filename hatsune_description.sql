@@ -68,6 +68,10 @@ INSERT INTO `hatsune_description` VALUES (/*id*/66, /*event_id*/10017, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/67, /*event_id*/10017, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。\n期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/68, /*event_id*/10017, /*type*/3, /*description*/"エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/69, /*event_id*/10017, /*type*/4, /*description*/"イベントクエストやボスに挑戦すると、信頼度エピソードが発生する　　ことがございます。会話の結果によって信頼度がアップし、　　　　　　特定の信頼度に到達するとプレゼントがもらえます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/70, /*event_id*/10018, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/71, /*event_id*/10018, /*type*/1, /*description*/"イベントクエストを進めるとボスが登場します。\nボスには、ボスチケットを使うことで挑むことができます。\nボス撃破で討伐証を大量にゲットできるので思い切って挑戦しましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/72, /*event_id*/10018, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/73, /*event_id*/10018, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802001, /*event_id*/10008, /*type*/2, /*description*/"働き口を求め、渓谷の洞窟へと向かうアンナ。\n古文書目当てに、仕入れ先へと向かうナナカ。\n村人の願いを聞き入れ、村へと向かうルカ。\n3人は各々の目的地へと出発するのだった。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802002, /*event_id*/10008, /*type*/2, /*description*/"村で悪党を鮮やかに成敗したルカ。\n報復に怯える村人との会話の中で、\n彼女は渓谷一帯で暗躍する巨悪の存在に勘付く。\n一方、渓谷の洞窟へと向かったアンナは・・・。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802003, /*event_id*/10008, /*type*/2, /*description*/"渓谷の洞窟で働き始めたアンナたちだったが、\nそこは事前の話とは違い、無法者がはびこり、\n過酷な労働が支配する劣悪な環境だった。\nそのころ、仕入先へと向かったナナカは・・・。");
