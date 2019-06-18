@@ -983,5 +983,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1098009, /*unit_id*/109831, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1098010, /*unit_id*/109831, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"風の魔法は便利よ。敵を\n切り裂くだけでなく、面倒な男を\nねじ切ることだってできるわ\nどこを？　ご想像にお任せするわ");
 INSERT INTO `unit_comments` VALUES (/*id*/1098011, /*unit_id*/109801, /*use_type*/2, /*voice_id*/6, /*face_id*/3, /*change_time*/6.5, /*change_face*/2, /*description*/"誕生日をラムに祝ってもらえる\nなんて光栄に思うことね\n誕生日プレゼント？　もちろん\n出来たての蒸かし芋よ！");
 INSERT INTO `unit_comments` VALUES (/*id*/1098012, /*unit_id*/109831, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"何が欲しいの？\n言ってごらんなさい\nなんでって、誕生日なんでしょ？\nご褒美くらいくれてやるわ");
+INSERT INTO `unit_comments` VALUES (/*id*/1099001, /*unit_id*/109901, /*use_type*/1, /*voice_id*/1, /*face_id*/6, /*change_time*/7.9, /*change_face*/1, /*description*/"不思議なものね\nマナもあって精霊もいるのに\n見たこともないものがいっぱい\nここが異世界なんだ…");
+INSERT INTO `unit_comments` VALUES (/*id*/1099002, /*unit_id*/109901, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/6.3, /*change_face*/2, /*description*/"軽くお散歩でもする？\n精霊の子たちとお話ししにいくの\nそれがこの子たちとの\n契約条件の一つだから");
+INSERT INTO `unit_comments` VALUES (/*id*/1099003, /*unit_id*/109901, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/5.0, /*change_face*/6, /*description*/"さっき街に行ったら\nエルフの人をみかけたわ\nもしかしてこの世界にも\nハーフエルフっているのかな…？");
+INSERT INTO `unit_comments` VALUES (/*id*/1099004, /*unit_id*/109901, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/5.2, /*change_face*/6, /*description*/"コッコロちゃんって賢くて\nすごーくかわいいわよね\n…本当に私の妹だったら\nよかったのにな");
+INSERT INTO `unit_comments` VALUES (/*id*/1099005, /*unit_id*/109901, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/5.4, /*change_face*/6, /*description*/"こっちの世界に来てから\nパックってあまり出てこないの\nマナを使いすぎないように\n気を使ってるのかな");
+INSERT INTO `unit_comments` VALUES (/*id*/1099006, /*unit_id*/109931, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"あなたも少し座らない？\nランドソルの花もすごーくきれい\n微精霊たちもよろこんでるわ");
+INSERT INTO `unit_comments` VALUES (/*id*/1099007, /*unit_id*/109931, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"少しお話しましょう？\nこの世界のことや\n私の世界のこと…\n話したいことがたくさんあるの");
+INSERT INTO `unit_comments` VALUES (/*id*/1099008, /*unit_id*/109931, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"そっか、コッコロちゃんも\n精霊たちとお話しできるのね\nふふ、やっぱり他人とは\n思えないな");
+INSERT INTO `unit_comments` VALUES (/*id*/1099009, /*unit_id*/109931, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"あら、花びらが髪についてる\nとってあげるから\n頭をこっちに向けて？\nそうそう…はい、とれたよ♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1099010, /*unit_id*/109931, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ねえ…またこのお花畑を\n一緒に見に来てくれる？\n…精霊使いにとって約束は\n何よりも大切なんだからね");
+INSERT INTO `unit_comments` VALUES (/*id*/1099011, /*unit_id*/109901, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/6.0, /*change_face*/2, /*description*/"こっちの世界だと\nはっぴーばーすでー\nでいいのかな？\nお誕生日おめでとう");
+INSERT INTO `unit_comments` VALUES (/*id*/1099012, /*unit_id*/109931, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"お誕生日なんだね、おめでとう\nこうやってお祝いできて\nすごーくうれしいな");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
