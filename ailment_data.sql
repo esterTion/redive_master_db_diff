@@ -19,4 +19,5 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/17, /*ailment_action*/30, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/18, /*ailment_action*/3, /*ailment_detail_1*/-1, /*ailment_name*/"ノックバック");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/19, /*ailment_action*/11, /*ailment_detail_1*/1, /*ailment_name*/"混乱");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/20, /*ailment_action*/9, /*ailment_detail_1*/4, /*ailment_name*/"猛毒");
-INSERT INTO `ailment_data` VALUES (/*ailment_id*/21, /*ailment_action*/56, /*ailment_detail_1*/-1, /*ailment_name*/"");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/21, /*ailment_action*/56, /*ailment_detail_1*/-1, /*ailment_name*/"千里眼");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/22, /*ailment_action*/59, /*ailment_detail_1*/-1, /*ailment_name*/"回復阻害");
