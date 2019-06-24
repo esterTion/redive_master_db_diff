@@ -86,7 +86,7 @@ a/event_event_banner_10015.unity3d,01bac2aaa527060e4e7be137b60698c0,common,23502
 a/event_event_banner_10016.unity3d,b641290dab098bfa76ed2acb75ea7aa8,common,18990,
 a/event_event_banner_10017.unity3d,e955e7851153ef9e89bfc223ed387ced,common,16799,
 a/event_event_banner_10018.unity3d,26511ef4fe645759373aeaeed34fe15c,common,20316,
-a/event_event_banner_10019.unity3d,72f5b62e952ceefc6f386f84d3f360f1,common,23109,
+a/event_event_banner_10019.unity3d,cef9b78962012c289ab0ba854d40c167,common,18821,
 a/event_event_logo.unity3d,331bd1e51074164869e5dc53792a69b4,common,74597,
 a/event_event_logo_10002.unity3d,7e29f5d2c0415b4d3d38a25b01a4c963,common,60482,
 a/event_event_logo_10003.unity3d,b954adbf199a540dc6d197e14906bd1e,common,58870,
