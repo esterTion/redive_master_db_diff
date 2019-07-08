@@ -1133,7 +1133,7 @@ a/spine_sdnormal_307400.unity3d,0c4d58a5d65db982baefebb9abbfe622,tutorial2,23260
 a/spine_sdnormal_307500.unity3d,05b734206048e23a8b7ff675fc10ec41,tutorial2,198541,
 a/spine_sdnormal_307600.unity3d,356ea79e144ffa1359ec21f54a96fdfc,tutorial2,198568,
 a/spine_sdnormal_307700.unity3d,1d583323760d726e0ede4da0700fbb2b,tutorial2,239903,
-a/spine_sdnormal_307800.unity3d,69d7495f8126d98d45b113abc1bb771d,tutorial2,184258,
+a/spine_sdnormal_307800.unity3d,4636891d98ead7c04f0f9ab801d008ee,tutorial2,184258,
 a/spine_sdnormal_307801.unity3d,af2624379a84bf9cda1c63bcb69d68a5,tutorial2,184257,
 a/spine_sdnormal_307802.unity3d,b88d649d47bfefbff339b7a5ced44392,tutorial2,184274,
 a/spine_sdnormal_307900.unity3d,c3d1e8c1cfe065166db8222b264ca982,tutorial2,203228,
