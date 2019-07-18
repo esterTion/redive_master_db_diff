@@ -1019,5 +1019,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1101009, /*unit_id*/110131, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1101010, /*unit_id*/110131, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"君、もしかして少し背が伸びた？\n気のせいじゃないと思うよ\n君の成長を感じると、なんだか\nうれしくて胸がドキドキするから");
 INSERT INTO `unit_comments` VALUES (/*id*/1101011, /*unit_id*/110101, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/9.2, /*change_face*/2, /*description*/"今日は君のお誕生日ね\nふふ、もちろん忘れてないわ\n一つ大人になったお祝いに\n海の家でパーティーしましょ！");
 INSERT INTO `unit_comments` VALUES (/*id*/1101012, /*unit_id*/110131, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"お誕生日おめでとう～\n浜辺で見る君の顔が\nすっかり大人にみえるわ\nふふ、夏のせいかしらね");
+INSERT INTO `unit_comments` VALUES (/*id*/1103001, /*unit_id*/110301, /*use_type*/1, /*voice_id*/1, /*face_id*/2, /*change_time*/4.9, /*change_face*/1, /*description*/"あははっ\n日が暮れるまで浜辺でゆっくり…\nこんな日があってもいいわよね");
+INSERT INTO `unit_comments` VALUES (/*id*/1103002, /*unit_id*/110301, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/6.0, /*change_face*/6, /*description*/"貝殻を集めてアクセサリー作り\nなんてのも悪くないわね\n思い出作りよ？　売ろうなんて\n考えてないわよ？　たぶんね");
+INSERT INTO `unit_comments` VALUES (/*id*/1103003, /*unit_id*/110301, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/4.1, /*change_face*/2, /*description*/"海の砂ってサラサラしてて気持ち\nいいわよね。持ち帰って救護院に\n砂場を作ったりできないかしら？");
+INSERT INTO `unit_comments` VALUES (/*id*/1103004, /*unit_id*/110301, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/4.9, /*change_face*/5, /*description*/"子どもたちと賑やかに\n過ごすのはもちろん楽しいけど\nあんたと二人きりで過ごすのも\nなかなかいいわね");
+INSERT INTO `unit_comments` VALUES (/*id*/1103005, /*unit_id*/110301, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/3.1, /*change_face*/2, /*description*/"あたしの水着をこんな間近で\n見られるなんて、あんた本当に\n得してるわよ♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1103006, /*unit_id*/110331, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"エレガントじゃないかもだけど\n今だけは許してね\nあたし今、とびっきり\n舞い上がっちゃってる！");
+INSERT INTO `unit_comments` VALUES (/*id*/1103007, /*unit_id*/110331, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"夏の日差しって、開放的な\n気分にさせるわよね！\nあたしももう少し\n冒険してみようかしら♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1103008, /*unit_id*/110331, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"海に来るのなんて久しぶりね～\nせっかくのバカンスなんだから\n楽しまなきゃ損よ！");
+INSERT INTO `unit_comments` VALUES (/*id*/1103009, /*unit_id*/110331, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"本当にきれいな海よね\nもし誰もいない浜辺であんたと\n二人っきりだったら…って！\nなんであたしそんなことを！");
+INSERT INTO `unit_comments` VALUES (/*id*/1103010, /*unit_id*/110331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"捕まえてみなさ～い♪\nな、なんてことあたしが\nできるわけないじゃない！！");
+INSERT INTO `unit_comments` VALUES (/*id*/1103011, /*unit_id*/110301, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/1.9, /*change_face*/1, /*description*/"誕生日おめでとう♪\n救護院のみんなもあんたの\n誕生日を祝いたがってるから\n楽しみにしてなさいね！");
+INSERT INTO `unit_comments` VALUES (/*id*/1103012, /*unit_id*/110331, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"誕生日おめでとう！\n二人きりでバースデーパーティー\nしましょうか♪　なんてね");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

@@ -1,7 +1,9 @@
 CREATE TABLE 'story_character_mask' ('chara_id' INTEGER NOT NULL, 'offset' REAL NOT NULL, 'size' REAL NOT NULL, 'softness' REAL NOT NULL, PRIMARY KEY('chara_id'));
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/111, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/113, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/131, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/211, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/213, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/231, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/311, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/312, /*offset*/-25.0, /*size*/460.0, /*softness*/50.0);
@@ -271,6 +273,8 @@ INSERT INTO `story_character_mask` VALUES (/*chara_id*/110011, /*offset*/20.0, /
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/110031, /*offset*/30.0, /*size*/740.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/110111, /*offset*/0.0, /*size*/515.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/110211, /*offset*/0.0, /*size*/900.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/110311, /*offset*/0.0, /*size*/540.0, /*softness*/30.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/110331, /*offset*/0.0, /*size*/560.0, /*softness*/20.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/161199, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/161499, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/171199, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
