@@ -82,6 +82,11 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1002001, /*event_id*/10020, /*ty
 INSERT INTO `hatsune_description` VALUES (/*id*/1002002, /*event_id*/10020, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002003, /*event_id*/10020, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002004, /*event_id*/10020, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/100210105, /*event_id*/10021, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/100210106, /*event_id*/10021, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/100210107, /*event_id*/10021, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/100210108, /*event_id*/10021, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/100210309, /*event_id*/10021, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802001, /*event_id*/10008, /*type*/2, /*description*/"働き口を求め、渓谷の洞窟へと向かうアンナ。\n古文書目当てに、仕入れ先へと向かうナナカ。\n村人の願いを聞き入れ、村へと向かうルカ。\n3人は各々の目的地へと出発するのだった。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802002, /*event_id*/10008, /*type*/2, /*description*/"村で悪党を鮮やかに成敗したルカ。\n報復に怯える村人との会話の中で、\n彼女は渓谷一帯で暗躍する巨悪の存在に勘付く。\n一方、渓谷の洞窟へと向かったアンナは・・・。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802003, /*event_id*/10008, /*type*/2, /*description*/"渓谷の洞窟で働き始めたアンナたちだったが、\nそこは事前の話とは違い、無法者がはびこり、\n過酷な労働が支配する劣悪な環境だった。\nそのころ、仕入先へと向かったナナカは・・・。");

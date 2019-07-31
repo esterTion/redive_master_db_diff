@@ -84,6 +84,8 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"RACE_TOP", /*bg_id*/0, /*event_id*/0
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_FKE_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PCT_TOP", /*bg_id*/500600, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PCT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_KMK_TOP", /*bg_id*/500713, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_KMK_BATTLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_TOP", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_RESULT", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_OPENING", /*bg_id*/0, /*event_id*/0);
