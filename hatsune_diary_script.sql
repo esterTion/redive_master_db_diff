@@ -1,0 +1,2 @@
+CREATE TABLE 'hatsune_diary_script' ('id' INTEGER NOT NULL, 'diary_id' INTEGER NOT NULL, 'seq_num' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'diary_text' TEXT NOT NULL, 'text_animation_speed' INTEGER NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'command' INTEGER NOT NULL, 'command_param' REAL NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'hatsune_diary_script_0_diary_id' on 'hatsune_diary_script'('diary_id');
