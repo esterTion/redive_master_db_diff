@@ -7,7 +7,7 @@ INSERT INTO `love_chara` VALUES (/*love_level*/5, /*total_love*/1400, /*unlocked
 INSERT INTO `love_chara` VALUES (/*love_level*/6, /*total_love*/2100, /*unlocked_class*/1, /*rarity*/3);
 INSERT INTO `love_chara` VALUES (/*love_level*/7, /*total_love*/2800, /*unlocked_class*/1, /*rarity*/3);
 INSERT INTO `love_chara` VALUES (/*love_level*/8, /*total_love*/4200, /*unlocked_class*/1, /*rarity*/3);
-INSERT INTO `love_chara` VALUES (/*love_level*/9, /*total_love*/5600, /*unlocked_class*/2, /*rarity*/1);
-INSERT INTO `love_chara` VALUES (/*love_level*/10, /*total_love*/7000, /*unlocked_class*/2, /*rarity*/1);
-INSERT INTO `love_chara` VALUES (/*love_level*/11, /*total_love*/9000, /*unlocked_class*/2, /*rarity*/1);
-INSERT INTO `love_chara` VALUES (/*love_level*/12, /*total_love*/11500, /*unlocked_class*/2, /*rarity*/1);
+INSERT INTO `love_chara` VALUES (/*love_level*/9, /*total_love*/6300, /*unlocked_class*/1, /*rarity*/6);
+INSERT INTO `love_chara` VALUES (/*love_level*/10, /*total_love*/9100, /*unlocked_class*/1, /*rarity*/6);
+INSERT INTO `love_chara` VALUES (/*love_level*/11, /*total_love*/12600, /*unlocked_class*/1, /*rarity*/6);
+INSERT INTO `love_chara` VALUES (/*love_level*/12, /*total_love*/16800, /*unlocked_class*/1, /*rarity*/6);

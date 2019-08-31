@@ -4,3 +4,4 @@ INSERT INTO `shop_static_price_group` VALUES (/*id*/2, /*price_group_id*/1, /*bu
 INSERT INTO `shop_static_price_group` VALUES (/*id*/3, /*price_group_id*/1, /*buy_count_from*/41, /*buy_count_to*/60, /*count*/3);
 INSERT INTO `shop_static_price_group` VALUES (/*id*/4, /*price_group_id*/1, /*buy_count_from*/61, /*buy_count_to*/80, /*count*/4);
 INSERT INTO `shop_static_price_group` VALUES (/*id*/5, /*price_group_id*/1, /*buy_count_from*/81, /*buy_count_to*/-1, /*count*/5);
+INSERT INTO `shop_static_price_group` VALUES (/*id*/6, /*price_group_id*/2, /*buy_count_from*/1, /*buy_count_to*/-1, /*count*/20);

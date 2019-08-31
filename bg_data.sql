@@ -71,6 +71,8 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_GACHA_RESULT", /*bg_id*/5003
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_DETAIL", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_DETAIL_MAX", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY", /*bg_id*/530200, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY_LETTER", /*bg_id*/530201, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CARTOON", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"TOWER_TOP", /*bg_id*/0, /*event_id*/0);
@@ -94,3 +96,5 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_PROFILE_CARD", /*bg_id*/530032,
 INSERT INTO `bg_data` VALUES (/*view_name*/"EVENT_ROBO_LLAMA", /*bg_id*/710049, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GLOBAL_RAID_RANKING", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_EMBLEM", /*bg_id*/530032, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIT_EXPAND", /*bg_id*/500130, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_HIGH_RARITY_EQUIP", /*bg_id*/500721, /*event_id*/0);

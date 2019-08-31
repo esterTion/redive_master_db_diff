@@ -1,4 +1,5 @@
 CREATE TABLE 'dear_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6017, /*story_type*/6, /*value*/10017, /*title*/"Re:ゼロから集まる異世界食卓", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/05/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6019, /*story_type*/6, /*value*/10019, /*title*/"スズナレインボーステージ！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/06/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6023, /*story_type*/6, /*value*/10023, /*title*/"森の臆病者と聖なる学舎の異端児", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/08/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');
