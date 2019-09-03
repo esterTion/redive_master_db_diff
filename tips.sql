@@ -63,3 +63,4 @@ INSERT INTO `tips` VALUES (/*id*/4109301, /*value*/109301, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4109401, /*value*/109401, /*tips_index*/1, /*title*/"ダメだよ？");
 INSERT INTO `tips` VALUES (/*id*/4109501, /*value*/109501, /*tips_index*/1, /*title*/"くせになる");
 INSERT INTO `tips` VALUES (/*id*/4109601, /*value*/109601, /*tips_index*/1, /*title*/"新忍法");
+INSERT INTO `tips` VALUES (/*id*/4110701, /*value*/110701, /*tips_index*/1, /*title*/"ぼっち専用");

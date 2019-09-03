@@ -48,6 +48,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9312, /*discription*/"所持上限を�
 INSERT INTO `gift_message` VALUES (/*id*/9313, /*discription*/"所持上限を超えて獲得したキャラ交換の報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9314, /*discription*/"ガチャ更新によりキャラ交換Ptを変換したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9315, /*discription*/"スタミナが変換されて獲得したコインです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9316, /*discription*/"SPフェスキャラ交換Ptを変換したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9401, /*discription*/"デイリージュエルパックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9402, /*discription*/"7日間スタミナ応援パックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9403, /*discription*/"アイテム装備パックⅠを購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

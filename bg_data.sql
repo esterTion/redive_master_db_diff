@@ -98,3 +98,5 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"GLOBAL_RAID_RANKING", /*bg_id*/50039
 INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_EMBLEM", /*bg_id*/530032, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIT_EXPAND", /*bg_id*/500130, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_HIGH_RARITY_EQUIP", /*bg_id*/500721, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_ALBUM_GLOSSARY", /*bg_id*/500080, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_MISSION", /*bg_id*/500390, /*event_id*/0);
