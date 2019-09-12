@@ -21,4 +21,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10020, /*event_id*/10020, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10021, /*event_id*/10021, /*gacha_name*/"真夏のマホマホ王国 波打ち際のソウルサマー！", /*item_type*/2, /*item_id*/60202, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10022, /*event_id*/10022, /*gacha_name*/"タマキとミフユの無人島０ルピ生活", /*item_type*/2, /*item_id*/60212, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10023, /*event_id*/10023, /*gacha_name*/"森の臆病者と聖なる学舎の異端児", /*item_type*/2, /*item_id*/60222, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10024, /*event_id*/10024, /*gacha_name*/"黒鉄の亡霊（ナイトメア）", /*item_type*/2, /*item_id*/60232, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
