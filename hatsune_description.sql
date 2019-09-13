@@ -91,7 +91,7 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1002302, /*event_id*/10023, /*ty
 INSERT INTO `hatsune_description` VALUES (/*id*/1002303, /*event_id*/10023, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002304, /*event_id*/10023, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。\n期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002305, /*event_id*/10023, /*type*/4, /*description*/"イベントクエストやボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。");
-INSERT INTO `hatsune_description` VALUES (/*id*/1002306, /*event_id*/10023, /*type*/5, /*description*/"聖テレサ女学院の短期編入を終えて\nエルフの森に帰ったアオイのもとに\n３通の手紙が届いた。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002306, /*event_id*/10023, /*type*/5, /*description*/"聖テレサ女学院の短期編入を終えた\nアオイのもとに『なかよし部』の\n３人から便りが届いた......");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002401, /*event_id*/10024, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002402, /*event_id*/10024, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002403, /*event_id*/10024, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
