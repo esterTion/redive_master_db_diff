@@ -18,4 +18,5 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/16, /*name*/"サマービーチ�
 INSERT INTO `clanprofile_content` VALUES (/*id*/17, /*name*/"サマービーチの夕日", /*start_time*/"2019-06-30 12:00:00", /*end_time*/"", /*disp_order*/3);
 INSERT INTO `clanprofile_content` VALUES (/*id*/18, /*name*/"サマービーチの星空", /*start_time*/"2019-06-30 12:00:00", /*end_time*/"", /*disp_order*/4);
 INSERT INTO `clanprofile_content` VALUES (/*id*/19, /*name*/"海中の背景", /*start_time*/"2019-08-08 18:00:00", /*end_time*/"", /*disp_order*/1);
-INSERT INTO `clanprofile_content` VALUES (/*id*/20, /*name*/"？？？", /*start_time*/"2019-08-08 18:00:00", /*end_time*/"", /*disp_order*/20);
+INSERT INTO `clanprofile_content` VALUES (/*id*/20, /*name*/"？？？", /*start_time*/"2019-08-08 18:00:00", /*end_time*/"", /*disp_order*/21);
+INSERT INTO `clanprofile_content` VALUES (/*id*/21, /*name*/"聖テレサ女学院\n（なかよし部）", /*start_time*/"2019-09-16 15:00:00", /*end_time*/"", /*disp_order*/20);
