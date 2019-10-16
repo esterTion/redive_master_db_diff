@@ -563,4 +563,10 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/111201, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/111201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだよ！これで、とびっきりのいたずらできるかも！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/111201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったよ！これでミソギにお菓子買ってくれる～？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/111201, /*notif_type*/6, /*comment*/"ギルドハウスのアイテムがいっぱいになったよ！何も仕掛けてないから取りに来て！にひひ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111301, /*notif_type*/1, /*comment*/"スタミナがぜんかいふくだって、おにいちゃん！ミミとハロウィンパレードしよ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111301, /*notif_type*/2, /*comment*/"えへへ、トリックオアトリート～♪ギルドハウスのスキップチケットがいっぱいだよ、おにいちゃん！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111301, /*notif_type*/3, /*comment*/"おにいちゃん、ギルドハウスのスタミナがいっぱいだよ！ハロウィンのおようふくでお出かけしようよ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111301, /*notif_type*/4, /*comment*/"おにいちゃん！ギルドハウスのEXPポーションがいっぱいだから、たくさん使って楽しくハロウィンしよ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいなんだって！おにいちゃん、ミミのお菓子も買ってくれるかなぁ…");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111301, /*notif_type*/6, /*comment*/"おにいちゃん！ギルドハウスのアイテムがぜんぶいっぱいになったみたいだよ！えへへ、ハッピーハロウィン～♪");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

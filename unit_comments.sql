@@ -1147,5 +1147,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1112009, /*unit_id*/111231, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1112010, /*unit_id*/111231, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"いろんな人にいたずらするのも\n楽しいけど\nにいちゃんにいたずらするのが\n一番楽しいなー！");
 INSERT INTO `unit_comments` VALUES (/*id*/1112011, /*unit_id*/111201, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/2.7, /*change_face*/1, /*description*/"誕生日おめでとう、にいちゃん！\nミソギからのお祝いはー、んー\nやっぱりいたずらかな！");
 INSERT INTO `unit_comments` VALUES (/*id*/1112012, /*unit_id*/111231, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ハッピーバースデーにいちゃん！\nいっつもミソギと遊んでくれて\nありがとう！\nこれからも一緒に遊ぼうね！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113001, /*unit_id*/111301, /*use_type*/1, /*voice_id*/1, /*face_id*/3, /*change_time*/4.2, /*change_face*/1, /*description*/"お菓子をくれなきゃ\nいたずらしちゃうよ～！\nえっと…どんないたずらをすれば\nいいのかな～？");
+INSERT INTO `unit_comments` VALUES (/*id*/1113002, /*unit_id*/111301, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/1.4, /*change_face*/1, /*description*/"おにいちゃん♪\nハロウィンのパレードで\nぴょんぴょんってしよ～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113003, /*unit_id*/111301, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/5.2, /*change_face*/2, /*description*/"ハロウィンって楽しいね～\nミミも、みんなが楽しそうだと\nもっとも～っと\n楽しくなってきちゃうんだ～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113004, /*unit_id*/111301, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/3.1, /*change_face*/5, /*description*/"トリックオアトリート～！\nえへへ、おにいちゃん\nお菓子ちょうだい♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113005, /*unit_id*/111301, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/6.0, /*change_face*/2, /*description*/"こちょこちょこちょ…えへへ～\nハロウィンのいたずらだよ～♪\nトリックオアトリート！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113006, /*unit_id*/111331, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"にこにこ笑顔でおさんぽすれば\nハロウィンの魔法がうまれるの～\nえへへ、ハッピーハロウィン♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113007, /*unit_id*/111331, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ふぁぁ…ハロウィンって\nとっても楽しいね～！\nねえねえ、おにいちゃんも\nいっしょにパレードしよ～♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113008, /*unit_id*/111331, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"ハッピーハロウィン♪\nおにいちゃん\nミミのハロウィンのおようふく\nにあってるかな～？");
+INSERT INTO `unit_comments` VALUES (/*id*/1113009, /*unit_id*/111331, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"おにいちゃんと\nいっしょのハロウィン\nミミず～っとおぼえてるからね♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113010, /*unit_id*/111331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"毎日がハロウィンならいいのに…\nだってだって\nそしたらミミ、おにいちゃんと\nず～っといっしょに遊べるもん！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113011, /*unit_id*/111301, /*use_type*/2, /*voice_id*/6, /*face_id*/6, /*change_time*/4.1, /*change_face*/2, /*description*/"ハッピーハロ…じゃなくて\nハッピーバースデイ！\nおにいちゃん！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113012, /*unit_id*/111331, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"おにいちゃん\nお誕生日おめでとう～！\nミミね、おにいちゃんのこと\nだーいすきだよ～♪");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
