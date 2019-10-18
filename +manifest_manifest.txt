@@ -1,4 +1,4 @@
-manifest/all_assetmanifest,0975abd8f7faa08435b86e8a94caceb3,every,191519,
+manifest/all_assetmanifest,c7673664b97d1d06bcaf59a71f908737,every,191519,
 manifest/banner_assetmanifest,bb3a40367f6ef462226024003a393313,every,6100,
 manifest/bg_assetmanifest,8cd207c0cb848ee0c6ff3cecceb43968,every,262753,
 manifest/clanbattle_assetmanifest,84599a0650a0c00a6735db87d2c3a1f9,every,2756,
