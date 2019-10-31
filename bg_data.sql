@@ -88,6 +88,8 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PCT_TOP", /*bg_id*/500600,
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PCT", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_KMK_TOP", /*bg_id*/500713, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_KMK_BATTLE", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_SRT_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_SRT_WORD_LIST", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_TOP", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_RESULT", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_OPENING", /*bg_id*/0, /*event_id*/0);
@@ -104,3 +106,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"SUPPORT_UNIT", /*bg_id*/500390, /*ev
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_HIGH_RARITY_EQUIP", /*bg_id*/500721, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_ALBUM_GLOSSARY", /*bg_id*/500080, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_MISSION", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_BATTLE_TOP", /*bg_id*/500390, /*event_id*/0);
