@@ -207,7 +207,7 @@ INSERT INTO `srt_panel` VALUES (/*reading_id*/1004604, /*reading*/"ミックス�
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1004700, /*reading*/"マイク", /*read_type*/1, /*panel_id*/10047, /*detail_text*/"音を信号に変換する装置。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1004701, /*reading*/"うた", /*read_type*/1, /*panel_id*/10047, /*detail_text*/"マイクは歌の必需品！");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1004702, /*reading*/"ライブ", /*read_type*/1, /*panel_id*/10047, /*detail_text*/"ステージでの生演奏。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/1004703, /*reading*/"アイドルのひっすあいてむ", /*read_type*/2, /*panel_id*/10047, /*detail_text*/"これがなくちゃはじまらない。");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/1004703, /*reading*/"アイドルのひっすアイテム", /*read_type*/2, /*panel_id*/10047, /*detail_text*/"これがなくちゃはじまらない。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1004704, /*reading*/"ブリリアントマイク", /*read_type*/3, /*panel_id*/10047, /*detail_text*/"ノゾミの専用装備。カルミナマーク入り！");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1004800, /*reading*/"くちべに", /*read_type*/1, /*panel_id*/10048, /*detail_text*/"口元を引き立たせる化粧品。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1004801, /*reading*/"リップ", /*read_type*/1, /*panel_id*/10048, /*detail_text*/"「くちべに」の英語読み。");
@@ -301,7 +301,7 @@ INSERT INTO `srt_panel` VALUES (/*reading_id*/1006702, /*reading*/"ちょうみ�
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1006800, /*reading*/"ベルトコンベア", /*read_type*/1, /*panel_id*/10068, /*detail_text*/"流れ作業を行うための機械。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1006801, /*reading*/"こうじょう", /*read_type*/2, /*panel_id*/10068, /*detail_text*/"製品の大量生産を行う施設。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1006802, /*reading*/"ファクトリー", /*read_type*/2, /*panel_id*/10068, /*detail_text*/"「こうじょう」の英語読み。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/1006803, /*reading*/"たいやきこうじょう", /*read_type*/3, /*panel_id*/10068, /*detail_text*/"メリクリウス財団の威信をかけた一大事業。あの時爆発さえしなければ…");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/1006803, /*reading*/"たいやきこうじょう", /*read_type*/3, /*panel_id*/10068, /*detail_text*/"【メルクリウス財団】の威信をかけた一大事業。あの時爆発さえしなければ…");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1006900, /*reading*/"シャンデリア", /*read_type*/1, /*panel_id*/10069, /*detail_text*/"きらびやかで豪華な照明器具。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1006901, /*reading*/"あかり", /*read_type*/2, /*panel_id*/10069, /*detail_text*/"暗闇を照らす光。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/1007000, /*reading*/"しお", /*read_type*/1, /*panel_id*/10070, /*detail_text*/"しょっぱい。");
@@ -495,7 +495,7 @@ INSERT INTO `srt_panel` VALUES (/*reading_id*/2006100, /*reading*/"カヤ", /*re
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006101, /*reading*/"のうきんケンカバカ", /*read_type*/3, /*panel_id*/20061, /*detail_text*/"喧嘩上等。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006200, /*reading*/"ホマレ", /*read_type*/1, /*panel_id*/20062, /*detail_text*/"【ドラゴンズネスト】の謎多きギルドマスター。ボス。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006201, /*reading*/"ギャングのボス", /*read_type*/3, /*panel_id*/20062, /*detail_text*/"親分、首領の意味。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/2006300, /*reading*/"クロエ", /*read_type*/1, /*panel_id*/20063, /*detail_text*/"【聖テレサ女学院（なかよし部）】。ガチめのバイブスの持ち主。");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/2006300, /*reading*/"クロエ", /*read_type*/1, /*panel_id*/20063, /*detail_text*/"【聖テレサ女学院（なかよし部）】メンバー。ガチめのバイブスの持ち主。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006301, /*reading*/"ダウナー", /*read_type*/3, /*panel_id*/20063, /*detail_text*/"別に怒っていたり機嫌が悪いわけではないらしい。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006302, /*reading*/"テレじょのやべーやつ", /*read_type*/3, /*panel_id*/20063, /*detail_text*/"テレ女のやべーやつ。すなわち、クロエのこと。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006400, /*reading*/"チエル", /*read_type*/1, /*panel_id*/20064, /*detail_text*/"【聖テレサ女学院（なかよし部）】のちぇる～ん☆担当。");
