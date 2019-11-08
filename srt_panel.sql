@@ -435,7 +435,7 @@ INSERT INTO `srt_panel` VALUES (/*reading_id*/2003801, /*reading*/"ユイのお�
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2003900, /*reading*/"イリヤ", /*read_type*/1, /*panel_id*/20039, /*detail_text*/"【悪魔偽王国軍（ディアボロス）】マスターであり、伝説の吸血鬼。世界征服のため今日もがんばる。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2003901, /*reading*/"バンパイア", /*read_type*/3, /*panel_id*/20039, /*detail_text*/"血を吸う生き物。恐ろしい化け物のはずだが、なぜか弱点は多いらしい。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2003902, /*reading*/"でんせつのバンパイア", /*read_type*/3, /*panel_id*/20039, /*detail_text*/"かつてランドソル中を恐怖のるつぼにたたき落としたといわれる。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/2003903, /*reading*/"よるをすべるもの", /*read_type*/3, /*panel_id*/20039, /*detail_text*/"夜を統べているらしい。");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/2003903, /*reading*/"よをすべるもの", /*read_type*/3, /*panel_id*/20039, /*detail_text*/"夜を統べているらしい。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2004000, /*reading*/"クウカ", /*read_type*/1, /*panel_id*/20040, /*detail_text*/"【ヴァイスフリューゲル　ランドソル支部】の妄想担当。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2004001, /*reading*/"ドえむ", /*read_type*/3, /*panel_id*/20040, /*detail_text*/"淑女の嗜み…？");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2004100, /*reading*/"タマキ", /*read_type*/1, /*panel_id*/20041, /*detail_text*/"【メルクリウス財団】所属のタイヤキ屋。しかしてその正体は…にゃっ！にゃにゃっ！");
