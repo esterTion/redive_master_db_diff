@@ -581,4 +581,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/106501, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/106501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったぜ！どんどん使って強くなって、連勝記録更新といこうぜ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/106501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったぜ。溜めててもしょうがねえ。早く使っちまおうぜ！なあ、いいだろ？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/106501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが全部いっぱいになったぜ！こんだけありゃ、もっとケンカを楽しめるな！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111501, /*notif_type*/1, /*comment*/"スタミナが全回復しているな。これなら存分にクリスマスを愉しむことができそうだな♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだな。せっかくのクリスマスだ、溜め込んでないで派手に使ってしまえ。思い切りを見せてみろ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになってしまったぞ。ほら、ワタシと共に愉快なところへ行こうじゃないか♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだとさ。強さはどれだけ高めてもかまわん。惜しみなく使うがいいよ。");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいじゃないか。なんならワタシが運用法を考えてやろうか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいだな。まとめてクリスマスプレゼントにしてしまおうか。あはは、冗談だ☆");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111601, /*notif_type*/1, /*comment*/"スタミナが全回復したよ！早速街に出て思う存分クリスマスを楽しもうね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111601, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだね！これを使って街中でクリスマスライブを開こうよ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111601, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだよ！これならオールナイトライブもできちゃいそう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111601, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったよ！これでもっといいライブができるね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいみたい！豪華なクリスマスパーティーができそうだね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/111601, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいだよ！サンタさんもびっくりのすごい数だね！");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

@@ -24,3 +24,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/22, /*ailment_action*/59, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/23, /*ailment_action*/61, /*ailment_detail_1*/-1, /*ailment_name*/"恐慌");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/24, /*ailment_action*/60, /*ailment_detail_1*/-1, /*ailment_name*/"刻印付与");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/25, /*ailment_action*/62, /*ailment_detail_1*/-1, /*ailment_name*/"畏怖");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/26, /*ailment_action*/69, /*ailment_detail_1*/-1, /*ailment_name*/"トナカイ化");

@@ -101,3 +101,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/111101, /*unit_name*/"キョウ
 INSERT INTO `unit_background` VALUES (/*unit_id*/111201, /*unit_name*/"ミソギ（ハロウィン）", /*bg_id*/500811, /*bg_name*/"屋敷_メインホール", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111301, /*unit_name*/"ミミ（ハロウィン）", /*bg_id*/500811, /*bg_name*/"屋敷_メインホール", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111401, /*unit_name*/"ルナ", /*bg_id*/500175, /*bg_name*/"ミステリオン森林", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/111501, /*unit_name*/"クリスティーナ（クリスマス）", /*bg_id*/500038, /*bg_name*/"ランドソル_繁華街_クリスマス", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/111601, /*unit_name*/"ノゾミ（クリスマス）", /*bg_id*/500038, /*bg_name*/"ランドソル_繁華街_クリスマス", /*position*/0.0, /*face_type*/4);
