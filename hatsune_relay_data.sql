@@ -1,0 +1,1 @@
+CREATE TABLE 'hatsune_relay_data' ('relay_story_id' INTEGER NOT NULL, 'is_enable_read' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('relay_story_id'));
