@@ -27,4 +27,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10026, /*event_id*/10026, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10027, /*event_id*/10027, /*gacha_name*/"ドラゴンエクスプローラーズ", /*item_type*/2, /*item_id*/60262, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10028, /*event_id*/10028, /*gacha_name*/"トワイライトブレイカーズ", /*item_type*/2, /*item_id*/60272, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10029, /*event_id*/10029, /*gacha_name*/"プレゼントパニック！　ランドソルのサンタたち", /*item_type*/2, /*item_id*/60282, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10030, /*event_id*/10030, /*gacha_name*/"忘却のキャロル", /*item_type*/2, /*item_id*/60292, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
