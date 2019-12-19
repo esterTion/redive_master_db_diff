@@ -102,6 +102,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIT_EXPAND", /*bg_id*/500130,
 INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_TOP", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_LIST", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_MANAGEMENT", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_CAMPAIGN", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SUPPORT_UNIT", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_HIGH_RARITY_EQUIP", /*bg_id*/500721, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_ALBUM_GLOSSARY", /*bg_id*/500080, /*event_id*/0);

@@ -27,3 +27,4 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/603, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/701, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/"メインクエスト3-1（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/904, /*team_level*/1, /*story_id*/0, /*quest_id*/11002009, /*dialog*/"メインクエスト2-9（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/905, /*team_level*/1, /*story_id*/0, /*quest_id*/11002009, /*dialog*/"メインクエスト2-9（NORMAL）クリアで解放");
+INSERT INTO `content_release_data` VALUES (/*system_id*/906, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/"");

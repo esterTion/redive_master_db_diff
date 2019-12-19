@@ -1,2 +1,14 @@
 CREATE TABLE 'campaign_mission_reward_data' ('id' INTEGER NOT NULL, 'campaign_mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/1, /*campaign_mission_reward_id*/30109001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/2, /*campaign_mission_reward_id*/30109001, /*reward_type*/2, /*reward_id*/20002, /*reward_num*/10);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/3, /*campaign_mission_reward_id*/30109002, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/4, /*campaign_mission_reward_id*/30109002, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/40000);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/5, /*campaign_mission_reward_id*/30109003, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/300);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/6, /*campaign_mission_reward_id*/30109004, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/500);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/7, /*campaign_mission_reward_id*/30109005, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/500);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/8, /*campaign_mission_reward_id*/30109005, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/1000000);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/9, /*campaign_mission_reward_id*/30109006, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/500);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/10, /*campaign_mission_reward_id*/30109006, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/500000);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/11, /*campaign_mission_reward_id*/30110001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/600);
+INSERT INTO `campaign_mission_reward_data` VALUES (/*id*/12, /*campaign_mission_reward_id*/30110006, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/200000);
 CREATE INDEX 'campaign_mission_reward_data_0_campaign_mission_reward_id' on 'campaign_mission_reward_data'('campaign_mission_reward_id');

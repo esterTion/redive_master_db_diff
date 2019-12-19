@@ -1,6 +1,7 @@
 a/lipsyncothers_lipsync_album_1058.unity3d,aff55fdd2b5241fd57ab84e579ae1291,tutorial2,2128,
 a/lipsyncothers_lipsync_album_1059.unity3d,6e340e919a4e041d3ab7b387131d87ad,tutorial2,2140,
 a/lipsyncothers_lipsync_album_1060.unity3d,0767a4068ee24a14bc83b88e869c3055,tutorial2,2135,
+a/lipsyncothers_lipsync_campaign_1908.unity3d,97eb458a5c307b9e6e58b99dc9aab6f2,tutorial2,2286,
 a/lipsyncothers_lipsync_clan_1058.unity3d,6357c487ab1b8e43e58ec22dd4a70200,tutorial2,2130,
 a/lipsyncothers_lipsync_clan_1059.unity3d,b8e016e9fd36423eed7a31b665d70311,tutorial2,2127,
 a/lipsyncothers_lipsync_clan_1060.unity3d,aa8c8a1f3c176cb285cf5ee9bdaade21,tutorial2,2130,
