@@ -25,3 +25,6 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/23, /*ailment_action*/61, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/24, /*ailment_action*/60, /*ailment_detail_1*/-1, /*ailment_name*/"刻印付与");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/25, /*ailment_action*/62, /*ailment_detail_1*/-1, /*ailment_name*/"畏怖");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/26, /*ailment_action*/69, /*ailment_detail_1*/-1, /*ailment_name*/"トナカイ化");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/27, /*ailment_action*/8, /*ailment_detail_1*/10, /*ailment_name*/"気絶");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/28, /*ailment_action*/9, /*ailment_detail_1*/5, /*ailment_name*/"呪詛");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/29, /*ailment_action*/70, /*ailment_detail_1*/-1, /*ailment_name*/"ＨＰ変化");
