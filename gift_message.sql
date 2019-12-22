@@ -70,3 +70,4 @@ INSERT INTO `gift_message` VALUES (/*id*/9510, /*discription*/"「{0}」で獲�
 INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"ミニゲームで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「ロボリマ来襲！」で獲得したランキング報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「ロボリマ来襲！」で獲得したアタック報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/"「王都終末決戦」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

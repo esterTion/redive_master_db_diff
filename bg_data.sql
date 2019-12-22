@@ -108,3 +108,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_HIGH_RARITY_EQUIP", /*bg_id*/5
 INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_ALBUM_GLOSSARY", /*bg_id*/500080, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_MISSION", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_BATTLE_TOP", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EVENT_KAISER_BATTLE", /*bg_id*/0, /*event_id*/0);
