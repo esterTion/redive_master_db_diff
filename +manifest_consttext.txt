@@ -1,1 +1,1 @@
-a/consttext_consttext.unity3d,09e32027a008c996597d54ce9faf6022,tutorial0,82280,
+a/consttext_consttext.unity3d,6d575be435c2b0f0f17580da20150cb8,tutorial0,82272,
