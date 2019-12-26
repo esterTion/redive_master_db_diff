@@ -318,6 +318,10 @@ INSERT INTO `story_character_mask` VALUES (/*chara_id*/111511, /*offset*/-40.0, 
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/111611, /*offset*/-50.0, /*size*/750.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/111711, /*offset*/-80.0, /*size*/875.0, /*softness*/70.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/111712, /*offset*/-40.0, /*size*/600.0, /*softness*/80.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/111811, /*offset*/-10.0, /*size*/600.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/111911, /*offset*/-30.0, /*size*/660.0, /*softness*/70.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/112011, /*offset*/-30.0, /*size*/750.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/112111, /*offset*/-50.0, /*size*/650.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/161199, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/161499, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/171199, /*offset*/0.0, /*size*/800.0, /*softness*/50.0);
@@ -325,6 +329,7 @@ INSERT INTO `story_character_mask` VALUES (/*chara_id*/190011, /*offset*/0.0, /*
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/190111, /*offset*/0.0, /*size*/1200.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/190711, /*offset*/-15.0, /*size*/530.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/190811, /*offset*/0.0, /*size*/1200.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/190814, /*offset*/0.0, /*size*/1000.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/190911, /*offset*/0.0, /*size*/1200.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/191011, /*offset*/0.0, /*size*/1200.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/191111, /*offset*/-30.0, /*size*/690.0, /*softness*/60.0);
