@@ -241,6 +241,7 @@ a/event_img_event_boxgacha_10029_00.unity3d,a3fa701f383ec49fe04959d08a414d98,com
 a/event_img_event_boxgacha_10030_00.unity3d,310a77e5da5ead03b6639e8f1c1ea9fe,common,86681,
 a/event_kaiser_battle_banner_logo.unity3d,8e1f59a2ec31179831fa32a5945583eb,common,21004,
 a/event_kaiser_battle_clear.unity3d,7bf6ef32a31b8617adc383170e26f44a,common,432289,
+a/event_kaiser_battle_end.unity3d,64ed50277d8e02f0fa128b8cf3f52101,common,434139,
 a/event_kaiser_battle_main_boss_teaser.unity3d,ae95f172d930005896cdc9a350641ccb,common,115945,
 a/event_kaiser_battle_teaser.unity3d,b3dc08c3a0f7dca55b2dfedd9637a13e,common,442258,
 a/event_kaiser_story_teaser.unity3d,da8e8204bc4e8c65b1d916f7507052e3,common,386153,
