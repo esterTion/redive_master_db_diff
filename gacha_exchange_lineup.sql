@@ -63,3 +63,8 @@ INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/61, /*exchange_id*/58, /*unit_
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/62, /*exchange_id*/59, /*unit_id*/108401, /*rarity*/3, /*gacha_bonus_id*/0);
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/63, /*exchange_id*/59, /*unit_id*/108601, /*rarity*/3, /*gacha_bonus_id*/0);
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/64, /*exchange_id*/60, /*unit_id*/111701, /*rarity*/3, /*gacha_bonus_id*/1006);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/65, /*exchange_id*/61, /*unit_id*/112001, /*rarity*/3, /*gacha_bonus_id*/1007);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/66, /*exchange_id*/61, /*unit_id*/106101, /*rarity*/3, /*gacha_bonus_id*/0);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/67, /*exchange_id*/61, /*unit_id*/107101, /*rarity*/3, /*gacha_bonus_id*/0);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/68, /*exchange_id*/61, /*unit_id*/107001, /*rarity*/3, /*gacha_bonus_id*/0);
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/69, /*exchange_id*/62, /*unit_id*/112001, /*rarity*/3, /*gacha_bonus_id*/1007);

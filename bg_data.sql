@@ -109,3 +109,9 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_ALBUM_GLOSSARY", /*bg_id*/50008
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_MISSION", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_BATTLE_TOP", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"EVENT_KAISER_BATTLE", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_INTERVIEW", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_HIGHLIGHT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_GUILD_INTRODUCTION", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_INTERVIEW_MAIN", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_PARTY", /*bg_id*/0, /*event_id*/0);
