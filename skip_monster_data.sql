@@ -1165,3 +1165,4 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002008, /*area_id*/21002, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73140350, /*area_id*/14, /*quest_name*/"ルナの塔回廊探索10月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73150360, /*area_id*/15, /*quest_name*/"ルナの塔回廊探索11月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73160370, /*area_id*/16, /*quest_name*/"ルナの塔回廊探索12月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73170380, /*area_id*/17, /*quest_name*/"ルナの塔回廊探索1月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
