@@ -151,3 +151,6 @@ INSERT INTO `experience_unit` VALUES (/*unit_level*/149, /*total_exp*/3092434);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/150, /*total_exp*/3153386);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/151, /*total_exp*/3214938);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/152, /*total_exp*/3277090);
+INSERT INTO `experience_unit` VALUES (/*unit_level*/153, /*total_exp*/3339842);
+INSERT INTO `experience_unit` VALUES (/*unit_level*/154, /*total_exp*/3403194);
+INSERT INTO `experience_unit` VALUES (/*unit_level*/155, /*total_exp*/3467146);

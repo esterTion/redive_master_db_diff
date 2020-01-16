@@ -150,3 +150,6 @@ INSERT INTO `skill_cost` VALUES (/*target_level*/148, /*cost*/96670);
 INSERT INTO `skill_cost` VALUES (/*target_level*/149, /*cost*/97470);
 INSERT INTO `skill_cost` VALUES (/*target_level*/150, /*cost*/98270);
 INSERT INTO `skill_cost` VALUES (/*target_level*/151, /*cost*/99070);
+INSERT INTO `skill_cost` VALUES (/*target_level*/152, /*cost*/99870);
+INSERT INTO `skill_cost` VALUES (/*target_level*/153, /*cost*/100670);
+INSERT INTO `skill_cost` VALUES (/*target_level*/154, /*cost*/101470);

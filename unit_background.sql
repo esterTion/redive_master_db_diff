@@ -104,5 +104,6 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/111401, /*unit_name*/"ルナ", 
 INSERT INTO `unit_background` VALUES (/*unit_id*/111501, /*unit_name*/"クリスティーナ（クリスマス）", /*bg_id*/500038, /*bg_name*/"ランドソル_繁華街_クリスマス", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111601, /*unit_name*/"ノゾミ（クリスマス）", /*bg_id*/500038, /*bg_name*/"ランドソル_繁華街_クリスマス", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111701, /*unit_name*/"イリヤ（クリスマス）", /*bg_id*/500038, /*bg_name*/"ランドソル_繁華街_クリスマス", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/111901, /*unit_name*/"コッコロ（ニューイヤー）", /*bg_id*/500910, /*bg_name*/"ランドソル_繁華街_駅伝", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112001, /*unit_name*/"キャル（ニューイヤー）", /*bg_id*/500910, /*bg_name*/"ランドソル_繁華街_駅伝", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112101, /*unit_name*/"スズメ（ニューイヤー）", /*bg_id*/500910, /*bg_name*/"ランドソル_繁華街_駅伝", /*position*/0.0, /*face_type*/2);
