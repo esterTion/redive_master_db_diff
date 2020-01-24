@@ -21,4 +21,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5025, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5027, /*story_type*/5, /*value*/10027, /*title*/"ドラゴンエクスプローラーズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/10/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5029, /*story_type*/5, /*value*/10029, /*title*/"プレゼントパニック！　ランドソルのサンタたち", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/11/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5031, /*story_type*/5, /*value*/10031, /*title*/"激走！　ランドソルギルドレース", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/12/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5033, /*story_type*/5, /*value*/10033, /*title*/"魔法少女　二人はミスティ＆ピュアリー", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/01/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
