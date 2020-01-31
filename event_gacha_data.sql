@@ -30,4 +30,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10029, /*event_id*/10029, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10030, /*event_id*/10030, /*gacha_name*/"忘却のキャロル", /*item_type*/2, /*item_id*/60292, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10031, /*event_id*/10031, /*gacha_name*/"激走！　ランドソルギルドレース", /*item_type*/2, /*item_id*/60302, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10032, /*event_id*/10032, /*gacha_name*/"新春トゥインクルクライシス！", /*item_type*/2, /*item_id*/60312, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10033, /*event_id*/10033, /*gacha_name*/"魔法少女　二人はミスティ＆ピュアリー", /*item_type*/2, /*item_id*/60322, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

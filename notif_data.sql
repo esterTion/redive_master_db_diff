@@ -617,4 +617,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/111901, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/111901, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいです。これだけあれば、わたくしの舞も上手くなるでしょうか…");
 INSERT INTO `notif_data` VALUES (/*unit_id*/111901, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになりました。お年玉と同じく、賢い使い方をいたしましょう");
 INSERT INTO `notif_data` VALUES (/*unit_id*/111901, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいになりました。福が舞い込んできたようですね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112201, /*notif_type*/1, /*comment*/"スタミナが全回復しているよ助手くん。事件は街に溢れている。さぁ、変身して捜査を始めよう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112201, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいか…これは事件の気配がするね。魔法探偵としては、放っておけないよ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112201, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになっているよ。魔法の力で解決、といきたいけれど、一緒に手伝ってくれるかい？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだね。魔法少女は愛と希望の力が源とはいえ、もらえるものはもらうよ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいじゃないか助手くん。仕方がないね、私が使い道について知恵を貸してあげるとしよう");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112201, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱい…身に覚えはあるかね、助手くん。どうすればいいか、よく考えてみるといいよ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112301, /*notif_type*/1, /*comment*/"スタミナが全回復しましたよ。一緒にランドソルの平和を守りましょう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112301, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになりましたよ。これで魔物退治もはかどりますね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112301, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいみたいです。これでアンチビーストを倒しにいけますね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいみたいです。お姉ちゃんみたいに、もっと強くならなくちゃ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになりました。魔法少女グッズがたくさん買えそうですね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112301, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいですよ。受け取ったら、ランドソルの見回りに行きましょう");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

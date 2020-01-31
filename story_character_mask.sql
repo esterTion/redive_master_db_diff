@@ -56,6 +56,7 @@ INSERT INTO `story_character_mask` VALUES (/*chara_id*/3511, /*offset*/-60.0, /*
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/3911, /*offset*/-30.0, /*size*/800.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/4011, /*offset*/0.0, /*size*/800.0, /*softness*/30.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/4111, /*offset*/0.0, /*size*/800.0, /*softness*/30.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/4211, /*offset*/0.0, /*size*/600.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/11411, /*offset*/-15.0, /*size*/730.0, /*softness*/0.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/100011, /*offset*/-60.0, /*size*/750.0, /*softness*/45.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/100012, /*offset*/-60.0, /*size*/750.0, /*softness*/45.0);
@@ -192,6 +193,7 @@ INSERT INTO `story_character_mask` VALUES (/*chara_id*/104831, /*offset*/0.0, /*
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/104832, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/104911, /*offset*/-200.0, /*size*/900.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/104912, /*offset*/-10.0, /*size*/545.0, /*softness*/50.0);
+INSERT INTO `story_character_mask` VALUES (/*chara_id*/104913, /*offset*/-200.0, /*size*/900.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/104931, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/104932, /*offset*/0.0, /*size*/700.0, /*softness*/50.0);
 INSERT INTO `story_character_mask` VALUES (/*chara_id*/105011, /*offset*/0.0, /*size*/900.0, /*softness*/50.0);

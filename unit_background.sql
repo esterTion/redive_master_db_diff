@@ -107,3 +107,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/111701, /*unit_name*/"イリヤ
 INSERT INTO `unit_background` VALUES (/*unit_id*/111901, /*unit_name*/"コッコロ（ニューイヤー）", /*bg_id*/500910, /*bg_name*/"ランドソル_繁華街_駅伝", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112001, /*unit_name*/"キャル（ニューイヤー）", /*bg_id*/500910, /*bg_name*/"ランドソル_繁華街_駅伝", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112101, /*unit_name*/"スズメ（ニューイヤー）", /*bg_id*/500910, /*bg_name*/"ランドソル_繁華街_駅伝", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112201, /*unit_name*/"カスミ（マジカル）", /*bg_id*/500010, /*bg_name*/"ランドソル_市街地_昼", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112301, /*unit_name*/"シオリ（マジカル）", /*bg_id*/500010, /*bg_name*/"ランドソル_市街地_昼", /*position*/0.0, /*face_type*/2);
