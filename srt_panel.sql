@@ -385,11 +385,11 @@ INSERT INTO `srt_panel` VALUES (/*reading_id*/2001702, /*reading*/"ハイタ～�
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2001800, /*reading*/"イオ", /*read_type*/1, /*panel_id*/20018, /*detail_text*/"【ルーセント学院】のセクシーな新米教師。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2001801, /*reading*/"しんまいきょうし", /*read_type*/3, /*panel_id*/20018, /*detail_text*/"新米だけど、生徒に寄り添ういい先生。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2001802, /*reading*/"ちゃんイオ", /*read_type*/3, /*panel_id*/20018, /*detail_text*/"スズナがイオを呼ぶ際の呼称。イオちゃんの意味。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/2001900, /*reading*/"ミミ", /*read_type*/1, /*panel_id*/20019, /*detail_text*/"【リトルリリカル】の甘えん坊担当。るんたった〜るんたっ\nた〜♪");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/2001900, /*reading*/"ミミ", /*read_type*/1, /*panel_id*/20019, /*detail_text*/"【リトルリリカル】の甘えん坊担当。るんたった～るんたっ\nた～♪");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2001901, /*reading*/"うさぎさんだいすき", /*read_type*/3, /*panel_id*/20019, /*detail_text*/"ぴょんぴょ～ん♪");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2002000, /*reading*/"クルミ", /*read_type*/1, /*panel_id*/20020, /*detail_text*/"【サレンディア救護院】の泣き虫でも、臆病でも、勇気を出してがんばる女の子。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2002001, /*reading*/"めいじょゆう", /*read_type*/3, /*panel_id*/20020, /*detail_text*/"ちいさくても名女優。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/2002100, /*reading*/"ヨリ", /*read_type*/1, /*panel_id*/20021, /*detail_text*/"【悪魔偽王国軍（ディアボロス）】の双子で、姉のツンデレシャイガール。");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/2002100, /*reading*/"ヨリ", /*read_type*/1, /*panel_id*/20021, /*detail_text*/"【悪魔偽王国軍（ディアボロス）】の双子で、姉のツンデレ\nシャイガール。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2002101, /*reading*/"ふたごのあね", /*read_type*/3, /*panel_id*/20021, /*detail_text*/"顔は似てても性格は異なる。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2002102, /*reading*/"シャイ", /*read_type*/3, /*panel_id*/20021, /*detail_text*/"照れの裏返しで、つい強めのことを…");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2002103, /*reading*/"てんさいゲーマー", /*read_type*/3, /*panel_id*/20021, /*detail_text*/"華麗なる指さばき。");

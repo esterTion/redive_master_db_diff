@@ -98,3 +98,4 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/112031, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/112131, /*unit_name*/"天野 すずめ", /*bg_id*/510390, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/112231, /*unit_name*/"霧原 かすみ", /*bg_id*/510320, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/112331, /*unit_name*/"柏崎 栞", /*bg_id*/510320, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/180431, /*unit_name*/"ユースティアナ・フォン・アストライア", /*bg_id*/510350, /*face_type*/4);

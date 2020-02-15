@@ -1,0 +1,6 @@
+a/arcade_arcade_logo_1001.unity3d,a2f08334cbc1e89b4b1b6dadcf847231,common,72881,
+a/arcade_arcade_logo_1002.unity3d,4376d42ce12a7a72a538767c8b271a3f,common,62117,
+a/arcade_arcade_logo_1003.unity3d,ca10e1ff4d1a111be9af74161518b4b8,common,53759,
+a/arcade_arcade_logo_1004.unity3d,120a5ecd41ac47362bc25d29c7afffba,common,59049,
+a/arcade_bg_arcade_01.unity3d,cb3ee5cb8ca3a5e9634cdf80dbe9f701,common,7214,
+a/arcade_bg_arcade_02.unity3d,fdad55149aa5be58473e298191bf00db,common,57358,

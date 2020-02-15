@@ -22,6 +22,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/1002701, /*story_group_id*/5027, /*story
 INSERT INTO `movie` VALUES (/*movie_id*/1002901, /*story_group_id*/5029, /*story_id*/5029000, /*bgm_id*/"bgm_M281", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1003101, /*story_group_id*/5031, /*story_id*/5031000, /*bgm_id*/"bgm_M294", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1003301, /*story_group_id*/5033, /*story_id*/5033000, /*bgm_id*/"bgm_M316", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/180400301, /*story_group_id*/1804, /*story_id*/1804003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200000101, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"", /*se_id*/"amb_adv_mystery_01");
 INSERT INTO `movie` VALUES (/*movie_id*/200000102, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"bgm_M38", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200000103, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"bgm_M38", /*se_id*/"");
@@ -127,6 +128,10 @@ INSERT INTO `movie` VALUES (/*movie_id*/201500981, /*story_group_id*/2015, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/210100101, /*story_group_id*/2101, /*story_id*/2101001, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/210100102, /*story_group_id*/2101, /*story_id*/2101001, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/210100301, /*story_group_id*/2101, /*story_id*/2101003, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/210101301, /*story_group_id*/2101, /*story_id*/2101013, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/210101401, /*story_group_id*/2101, /*story_id*/2101014, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/210101480, /*story_group_id*/2101, /*story_id*/2101014, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/210101481, /*story_group_id*/2101, /*story_id*/2101014, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/301000301, /*story_group_id*/3010, /*story_id*/3010003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/500100701, /*story_group_id*/5001, /*story_id*/5001007, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/500200701, /*story_group_id*/5002, /*story_id*/5002007, /*bgm_id*/"", /*se_id*/"");

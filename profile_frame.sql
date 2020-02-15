@@ -1,1 +1,12 @@
 CREATE TABLE 'profile_frame' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `profile_frame` VALUES (/*id*/1, /*name*/"おまかせ", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/1);
+INSERT INTO `profile_frame` VALUES (/*id*/2, /*name*/"デフォルト", /*type*/2, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/2);
+INSERT INTO `profile_frame` VALUES (/*id*/3, /*name*/"アニバーサリー", /*type*/3, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/3);
+INSERT INTO `profile_frame` VALUES (/*id*/4, /*name*/"ピンク", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/4);
+INSERT INTO `profile_frame` VALUES (/*id*/5, /*name*/"レッド", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/5);
+INSERT INTO `profile_frame` VALUES (/*id*/6, /*name*/"イエロー", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/6);
+INSERT INTO `profile_frame` VALUES (/*id*/7, /*name*/"グリーン", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/7);
+INSERT INTO `profile_frame` VALUES (/*id*/8, /*name*/"ライトブルー", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/8);
+INSERT INTO `profile_frame` VALUES (/*id*/9, /*name*/"ブルー", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/9);
+INSERT INTO `profile_frame` VALUES (/*id*/10, /*name*/"パープル", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/10);
+INSERT INTO `profile_frame` VALUES (/*id*/11, /*name*/"グレー", /*type*/1, /*start_time*/"2020-02-15 15:00:00", /*end_time*/"", /*disp_order*/11);

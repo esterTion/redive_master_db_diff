@@ -115,3 +115,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_HIGHLIGHT", /*bg_id*/0, /*eve
 INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_GUILD_INTRODUCTION", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_INTERVIEW_MAIN", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_PARTY", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"ARCADE_TOP", /*bg_id*/0, /*event_id*/0);
