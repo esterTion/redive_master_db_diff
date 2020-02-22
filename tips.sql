@@ -68,5 +68,5 @@ INSERT INTO `tips` VALUES (/*id*/4110801, /*value*/110801, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4111401, /*value*/111401, /*tips_index*/1, /*title*/"おともだちになってくれる？");
 INSERT INTO `tips` VALUES (/*id*/4111501, /*value*/106501, /*tips_index*/1, /*title*/"買うぜ？");
 INSERT INTO `tips` VALUES (/*id*/4112201, /*value*/112201, /*tips_index*/1, /*title*/"キメッ☆");
-INSERT INTO `tips` VALUES (/*id*/4112301, /*value*/112301, /*tips_index*/1, /*title*/"魔法少女");
+INSERT INTO `tips` VALUES (/*id*/4112301, /*value*/112301, /*tips_index*/1, /*title*/"魔法少女？");
 INSERT INTO `tips` VALUES (/*id*/4180401, /*value*/180401, /*tips_index*/1, /*title*/"パワーアップ☆");
