@@ -92,3 +92,4 @@ INSERT INTO `voice_group` VALUES (/*group_id*/20095, /*group_id_comment*/"ネネ
 INSERT INTO `voice_group` VALUES (/*group_id*/20096, /*group_id_comment*/"ネネカ&リマ", /*group_unit_id_01*/107001001, /*group_unit_id_02*/105201001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
 INSERT INTO `voice_group` VALUES (/*group_id*/20097, /*group_id_comment*/"ネネカ&ムイミ", /*group_unit_id_01*/107001001, /*group_unit_id_02*/106101001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
 INSERT INTO `voice_group` VALUES (/*group_id*/20098, /*group_id_comment*/"ムイミ&クリスティーナ", /*group_unit_id_01*/106101001, /*group_unit_id_02*/107101001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
+INSERT INTO `voice_group` VALUES (/*group_id*/20103, /*group_id_comment*/"ウヅキ＆ミオ", /*group_unit_id_01*/112401001, /*group_unit_id_02*/112601001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);

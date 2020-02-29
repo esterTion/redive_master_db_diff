@@ -73,6 +73,8 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_DETAIL", /*bg_id*/0, /*
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_DETAIL_MAX", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY", /*bg_id*/530200, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY_LETTER", /*bg_id*/530201, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_PHOTO_MEMORY", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CARTOON", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"TOWER_TOP", /*bg_id*/0, /*event_id*/0);

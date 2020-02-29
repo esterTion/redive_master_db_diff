@@ -32,4 +32,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10031, /*event_id*/10031, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10032, /*event_id*/10032, /*gacha_name*/"新春トゥインクルクライシス！", /*item_type*/2, /*item_id*/60312, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10033, /*event_id*/10033, /*gacha_name*/"魔法少女　二人はミスティ＆ピュアリー", /*item_type*/2, /*item_id*/60322, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10034, /*event_id*/10034, /*gacha_name*/"バトルオブバレンタイン！　想いぶつかるスウィートバトル", /*item_type*/2, /*item_id*/60332, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10035, /*event_id*/10035, /*gacha_name*/"スターライトプリンセス　Re:M@STER！", /*item_type*/2, /*item_id*/60342, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
