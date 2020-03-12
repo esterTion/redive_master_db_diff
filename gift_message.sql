@@ -76,6 +76,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9507, /*discription*/"「{1}」で獲�
 INSERT INTO `gift_message` VALUES (/*id*/9508, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9509, /*discription*/"謎解きで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9510, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/18, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9511, /*discription*/"3月イベントコンテンツで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"ミニゲームで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「ロボリマ来襲！」で獲得したランキング報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「ロボリマ来襲！」で獲得したアタック報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

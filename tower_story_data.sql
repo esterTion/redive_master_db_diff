@@ -9,3 +9,4 @@ INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7007, /*story_type*/7, 
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7008, /*story_type*/7, /*value*/8, /*title*/"あまあま妹シューターズ！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/09/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7009, /*story_type*/7, /*value*/9, /*title*/"もふもふメルヘン珍道中", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/11/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7010, /*story_type*/7, /*value*/10, /*title*/"ティーチャーズガイダンス", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/01/14 12:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7011, /*story_type*/7, /*value*/11, /*title*/"忍剣珍道中", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/03/12 12:00:00", /*end_time*/"2030/04/24 14:59:59");
