@@ -110,5 +110,6 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/112101, /*unit_name*/"スズメ
 INSERT INTO `unit_background` VALUES (/*unit_id*/112201, /*unit_name*/"カスミ（マジカル）", /*bg_id*/500010, /*bg_name*/"ランドソル_市街地_昼", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112301, /*unit_name*/"シオリ（マジカル）", /*bg_id*/500010, /*bg_name*/"ランドソル_市街地_昼", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112401, /*unit_name*/"ウヅキ（デレマス）", /*bg_id*/500920, /*bg_name*/"ムーサの町_昼", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112501, /*unit_name*/"リン（デレマス）", /*bg_id*/500920, /*bg_name*/"ムーサの町_昼", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112601, /*unit_name*/"ミオ（デレマス）", /*bg_id*/500920, /*bg_name*/"ムーサの町_昼", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180401, /*unit_name*/"ぺコリーヌ（プリンセス）", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/4);
