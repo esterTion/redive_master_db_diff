@@ -90,4 +90,13 @@ INSERT INTO `hatsune_map_event` VALUES (/*id*/10032501, /*target_event_id*/10032
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10032502, /*target_event_id*/10032, /*event_type*/501, /*condition_id*/10032110, /*param1*/101462, /*param2*/101472);
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10032503, /*target_event_id*/10032, /*event_type*/501, /*condition_id*/10032110, /*param1*/101463, /*param2*/101473);
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10032531, /*target_event_id*/10032, /*event_type*/3, /*condition_id*/1003204, /*param1*/211, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037001, /*target_event_id*/10037, /*event_type*/4, /*condition_id*/1003701, /*param1*/1, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037002, /*target_event_id*/10037, /*event_type*/4, /*condition_id*/1003702, /*param1*/2, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037003, /*target_event_id*/10037, /*event_type*/4, /*condition_id*/1003703, /*param1*/3, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037004, /*target_event_id*/10037, /*event_type*/4, /*condition_id*/1003704, /*param1*/4, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037301, /*target_event_id*/10037, /*event_type*/5, /*condition_id*/1003701, /*param1*/101, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037302, /*target_event_id*/10037, /*event_type*/5, /*condition_id*/1003702, /*param1*/101, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037303, /*target_event_id*/10037, /*event_type*/5, /*condition_id*/1003703, /*param1*/101, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037401, /*target_event_id*/10037, /*event_type*/6, /*condition_id*/0, /*param1*/501, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10037531, /*target_event_id*/10037, /*event_type*/3, /*condition_id*/1003704, /*param1*/211, /*param2*/0);
 CREATE INDEX 'hatsune_map_event_0_target_event_id' on 'hatsune_map_event'('target_event_id');

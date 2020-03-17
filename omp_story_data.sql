@@ -13,6 +13,6 @@ INSERT INTO `omp_story_data` VALUES (/*omp_story_id*/7103, /*event_id*/10035, /*
 INSERT INTO `omp_story_data` VALUES (/*omp_story_id*/7104, /*event_id*/10035, /*condition_quest_id*/10035115, /*condition_boss_id*/0, /*story_seq*/11, /*is_readable_on_result*/0, /*reward_type*/0, /*reward_id*/0, /*reward_count*/0, /*sub_title*/"ニュージェネレーションズと美食殿のメモリー");
 INSERT INTO `omp_story_data` VALUES (/*omp_story_id*/7105, /*event_id*/10036, /*condition_quest_id*/10036111, /*condition_boss_id*/0, /*story_seq*/12, /*is_readable_on_result*/0, /*reward_type*/0, /*reward_id*/0, /*reward_count*/0, /*sub_title*/"ニュージェネレーションズと美食殿のメモリー");
 INSERT INTO `omp_story_data` VALUES (/*omp_story_id*/7106, /*event_id*/10036, /*condition_quest_id*/10036111, /*condition_boss_id*/0, /*story_seq*/13, /*is_readable_on_result*/0, /*reward_type*/0, /*reward_id*/0, /*reward_count*/0, /*sub_title*/"ニュージェネレーションズと美食殿のメモリー");
-INSERT INTO `omp_story_data` VALUES (/*omp_story_id*/7201, /*event_id*/10035, /*condition_quest_id*/10035103, /*condition_boss_id*/0, /*story_seq*/15, /*is_readable_on_result*/1, /*reward_type*/0, /*reward_id*/0, /*reward_count*/0, /*sub_title*/"");
+INSERT INTO `omp_story_data` VALUES (/*omp_story_id*/7201, /*event_id*/10035, /*condition_quest_id*/10035103, /*condition_boss_id*/0, /*story_seq*/15, /*is_readable_on_result*/1, /*reward_type*/7, /*reward_id*/2405, /*reward_count*/1, /*sub_title*/"");
 CREATE INDEX 'omp_story_data_0_event_id' on 'omp_story_data'('event_id');
 CREATE INDEX 'omp_story_data_0_story_seq' on 'omp_story_data'('story_seq');

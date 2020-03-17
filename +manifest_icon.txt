@@ -2056,6 +2056,7 @@ a/icon_icon_roomitem_002205.unity3d,1d37c79ce34772fdd923a01a99c79714,tutorial1,8
 a/icon_icon_roomitem_002206.unity3d,fcc6a40208454b3a65df3d1ac289ada0,tutorial1,8233,
 a/icon_icon_roomitem_002307.unity3d,97acc38c74767bcf103e82c4b1b9fdf3,tutorial1,8044,
 a/icon_icon_roomitem_002308.unity3d,49dc650baf5bd244d8608ad97d817641,tutorial1,7974,
+a/icon_icon_roomitem_002405.unity3d,d3ceb56c8f52448a4ec1a30ac95e7c0e,tutorial1,8081,
 a/icon_icon_skill_1001.unity3d,114bb9e47fa0a86f0c29863ad4fba312,tutorial1,8447,
 a/icon_icon_skill_1002.unity3d,0882f827128dd9078145487ef3ec3104,tutorial1,8497,
 a/icon_icon_skill_1003.unity3d,d4a337e1bbef1608dfb916a271bc50d3,tutorial1,8319,
