@@ -1,0 +1,1 @@
+CREATE TABLE 'birthday_login_bonus_data' ('login_bonus_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'login_bonus_type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('login_bonus_id'));
