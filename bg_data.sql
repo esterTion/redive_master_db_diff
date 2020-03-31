@@ -49,6 +49,8 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_DETAIL", /*bg_id*/530030
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_DIVISION", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_DEAR_TOP", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_DEAR_DETAIL", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_NYX_DRAMA", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_NYX_STORY", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ADVENTURE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"LOGING_BONUS", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_TOP", /*bg_id*/500390, /*event_id*/0);
@@ -73,6 +75,8 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_DETAIL", /*bg_id*/0, /*
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DEAR_DETAIL_MAX", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY", /*bg_id*/530200, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY_LETTER", /*bg_id*/530201, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYX_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYX_RECORD", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_PHOTO_MEMORY", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);

@@ -35,4 +35,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10034, /*event_id*/10034, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10035, /*event_id*/10035, /*gacha_name*/"スターライトプリンセス　Re:M@STER！", /*item_type*/2, /*item_id*/60342, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10036, /*event_id*/10036, /*gacha_name*/"スターライトプリンセス　Re:M@STER！", /*item_type*/2, /*item_id*/60342, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10037, /*event_id*/10037, /*gacha_name*/"王都の名探偵　嘆きの追跡者（ストーカー）", /*item_type*/2, /*item_id*/60362, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10038, /*event_id*/10038, /*gacha_name*/"授けの財団と聖なる学舎の異端児", /*item_type*/2, /*item_id*/60372, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

@@ -1,1 +1,11 @@
 CREATE TABLE 'nyx_drama_data' ('drama_id' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'condition_unlocked_story_id' INTEGER NOT NULL, 'condition_locked_story_id' INTEGER NOT NULL, PRIMARY KEY('drama_id'));
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/101, /*story_phase*/1, /*title*/"特別講座プレゼンレポート", /*sub_title*/"ちぇるるんインパクト", /*condition_unlocked_story_id*/12, /*condition_locked_story_id*/13);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/102, /*story_phase*/1, /*title*/"特別講座プレゼンレポート", /*sub_title*/"クロエご明察", /*condition_unlocked_story_id*/13, /*condition_locked_story_id*/14);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/103, /*story_phase*/1, /*title*/"特別講座プレゼンレポート", /*sub_title*/"吹き散らせ先輩風", /*condition_unlocked_story_id*/14, /*condition_locked_story_id*/22);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/201, /*story_phase*/2, /*title*/"メルクリウス財団活動日誌", /*sub_title*/"アキノのリーダーシップ", /*condition_unlocked_story_id*/22, /*condition_locked_story_id*/23);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/202, /*story_phase*/2, /*title*/"メルクリウス財団活動日誌", /*sub_title*/"燃えろたい焼き魂", /*condition_unlocked_story_id*/23, /*condition_locked_story_id*/24);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/203, /*story_phase*/2, /*title*/"メルクリウス財団活動日誌", /*sub_title*/"麦しゅわに不可能なし", /*condition_unlocked_story_id*/24, /*condition_locked_story_id*/25);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/204, /*story_phase*/2, /*title*/"メルクリウス財団活動日誌", /*sub_title*/"ミフユの説教１日コース", /*condition_unlocked_story_id*/25, /*condition_locked_story_id*/32);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/301, /*story_phase*/3, /*title*/"ユニのメモ帳", /*sub_title*/"発泡と生菓子の哲学", /*condition_unlocked_story_id*/32, /*condition_locked_story_id*/33);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/302, /*story_phase*/3, /*title*/"ユニのメモ帳", /*sub_title*/"虎穴に潜らずんば", /*condition_unlocked_story_id*/33, /*condition_locked_story_id*/34);
+INSERT INTO `nyx_drama_data` VALUES (/*drama_id*/303, /*story_phase*/3, /*title*/"ユニのメモ帳", /*sub_title*/"動作試験と破滅の誘惑", /*condition_unlocked_story_id*/34, /*condition_locked_story_id*/0);
