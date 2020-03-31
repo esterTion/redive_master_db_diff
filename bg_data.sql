@@ -103,6 +103,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"MY_PROFILE_CARD", /*bg_id*/530032, /
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_PROFILE_CARD", /*bg_id*/530032, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"EVENT_ROBO_LLAMA", /*bg_id*/710049, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GLOBAL_RAID_RANKING", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"SPACE_BATTLE", /*bg_id*/710048, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_EMBLEM", /*bg_id*/530032, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIT_EXPAND", /*bg_id*/500130, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"FRIEND_TOP", /*bg_id*/500390, /*event_id*/0);

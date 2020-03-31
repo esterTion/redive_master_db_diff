@@ -1,3 +1,11 @@
 CREATE TABLE 'space_top_data' ('id' INTEGER NOT NULL, 'space_id' INTEGER NOT NULL, 'space_battle_id' INTEGER NOT NULL, 'part_flag' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'time_from' TEXT NOT NULL, 'time_to' TEXT NOT NULL, 'skip_battle_time' TEXT NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `space_top_data` VALUES (/*id*/1, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/1, /*story_id*/4007001, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/"2020/04/02", /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/2, /*space_id*/1002, /*space_battle_id*/1002001, /*part_flag*/0, /*story_id*/0, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/"2020/04/02", /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/3, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/2, /*story_id*/4007001, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/0, /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/4, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/0, /*story_id*/4007002, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/0, /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/5, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/0, /*story_id*/4007003, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/0, /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/6, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/0, /*story_id*/4007004, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/0, /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/7, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/0, /*story_id*/0, /*time_from*/"2020/04/01", /*time_to*/"2020/04/01 23:59:59", /*skip_battle_time*/"2020/04/02", /*name*/"バトル オブ ランドソル");
+INSERT INTO `space_top_data` VALUES (/*id*/8, /*space_id*/1002, /*space_battle_id*/0, /*part_flag*/0, /*story_id*/4007005, /*time_from*/"2020/04/02", /*time_to*/"2020/04/08 23:59:59", /*skip_battle_time*/0, /*name*/"バトル オブ ランドソル");
 CREATE INDEX 'space_top_data_0_space_id' on 'space_top_data'('space_id');
 CREATE INDEX 'space_top_data_0_story_id' on 'space_top_data'('story_id');

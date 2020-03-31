@@ -1,1 +1,2 @@
 CREATE TABLE 'space_schedule' ('space_id' INTEGER NOT NULL, 'teaser_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'count_start_time' TEXT NOT NULL, 'count_end_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'sid' INTEGER NOT NULL, 'pre_story_id' INTEGER NOT NULL, PRIMARY KEY('space_id'));
+INSERT INTO `space_schedule` VALUES (/*space_id*/1002, /*teaser_time*/"2020/04/01", /*start_time*/"2020/04/01", /*count_start_time*/"2020/04/01", /*count_end_time*/"2020/04/01 23:59:59", /*end_time*/"2020/04/08 23:59:59", /*sid*/1002, /*pre_story_id*/4007000);
