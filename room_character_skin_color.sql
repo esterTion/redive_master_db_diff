@@ -90,6 +90,7 @@ INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1105, /*skin_col
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1106, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1107, /*skin_color_id*/1);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1108, /*skin_color_id*/1);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1109, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1110, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1111, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1112, /*skin_color_id*/1);
