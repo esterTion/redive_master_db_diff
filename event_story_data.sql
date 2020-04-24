@@ -25,4 +25,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5033, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5035, /*story_type*/5, /*value*/10035, /*title*/"スターライトプリンセス　Re:M@STER！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/02/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5036, /*story_type*/5, /*value*/10036, /*title*/"スターライトプリンセス　Re:M@STER！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/02/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5038, /*story_type*/5, /*value*/10038, /*title*/"授けの財団と聖なる学舎の異端児", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/03/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5040, /*story_type*/5, /*value*/10040, /*title*/"まきばの四農士　貧乏牧場奮闘記！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/04/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

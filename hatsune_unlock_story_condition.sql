@@ -207,3 +207,4 @@ INSERT INTO `hatsune_unlock_story_condition` VALUES (/*story_id*/5038004, /*even
 INSERT INTO `hatsune_unlock_story_condition` VALUES (/*story_id*/5038005, /*event_id*/10038, /*condition_entry*/0, /*condition_quest_id*/10038111, /*condition_boss_id*/0, /*condition_mission_id*/0, /*condition_time*/0);
 INSERT INTO `hatsune_unlock_story_condition` VALUES (/*story_id*/5038006, /*event_id*/10038, /*condition_entry*/0, /*condition_quest_id*/10038115, /*condition_boss_id*/0, /*condition_mission_id*/0, /*condition_time*/0);
 INSERT INTO `hatsune_unlock_story_condition` VALUES (/*story_id*/5038007, /*event_id*/10038, /*condition_entry*/0, /*condition_quest_id*/0, /*condition_boss_id*/1003801, /*condition_mission_id*/0, /*condition_time*/0);
+CREATE INDEX 'hatsune_unlock_story_condition_0_event_id' on 'hatsune_unlock_story_condition'('event_id');
