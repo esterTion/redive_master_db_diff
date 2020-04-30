@@ -3,4 +3,5 @@ INSERT INTO `minigame` VALUES (/*id*/1, /*minigame_scheme_id*/1001, /*event_id*/
 INSERT INTO `minigame` VALUES (/*id*/2, /*minigame_scheme_id*/1002, /*event_id*/10015, /*release_conditions_1*/2, /*conditions_id_1*/10015103, /*first_time_story_id*/0);
 INSERT INTO `minigame` VALUES (/*id*/3, /*minigame_scheme_id*/1003, /*event_id*/10021, /*release_conditions_1*/2, /*conditions_id_1*/10021108, /*first_time_story_id*/5021700);
 INSERT INTO `minigame` VALUES (/*id*/4, /*minigame_scheme_id*/1004, /*event_id*/10027, /*release_conditions_1*/3, /*conditions_id_1*/5027007, /*first_time_story_id*/5027700);
+INSERT INTO `minigame` VALUES (/*id*/5, /*minigame_scheme_id*/1005, /*event_id*/10040, /*release_conditions_1*/2, /*conditions_id_1*/10040105, /*first_time_story_id*/5040700);
 CREATE INDEX 'minigame_0_event_id' on 'minigame'('event_id');

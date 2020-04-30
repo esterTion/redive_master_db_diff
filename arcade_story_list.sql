@@ -7,4 +7,9 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027700, /*arcade_id*/1004, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027701, /*arcade_id*/1004, /*sub_title*/"過熱する戦い");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027702, /*arcade_id*/1004, /*sub_title*/"真打登場");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027703, /*arcade_id*/1004, /*sub_title*/"戦いの果てに……");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040700, /*arcade_id*/1005, /*sub_title*/"チーズを見張ろう！");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040701, /*arcade_id*/1005, /*sub_title*/"小さき敵との攻防");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040702, /*arcade_id*/1005, /*sub_title*/"チーズの誘惑");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040703, /*arcade_id*/1005, /*sub_title*/"芽生える愛情？");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040704, /*arcade_id*/1005, /*sub_title*/"労働は続くよどこまでも");
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

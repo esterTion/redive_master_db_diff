@@ -125,3 +125,6 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"EKIDEN_PARTY", /*bg_id*/530510, /*ev
 INSERT INTO `bg_data` VALUES (/*view_name*/"ARCADE_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"UEK_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SHIORI_EVENT_SELECT", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_BATTLE", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_RECORD", /*bg_id*/0, /*event_id*/0);

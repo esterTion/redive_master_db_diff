@@ -665,4 +665,10 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/111001, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/111001, /*notif_type*/4, /*comment*/"ギルドハウスのＥＸＰポーションが上限に達している。可及的すみやかに回収したまえ");
 INSERT INTO `notif_data` VALUES (/*unit_id*/111001, /*notif_type*/5, /*comment*/"ギルドハウスのマナが上限に達している。可及的すみやかに回収したまえ");
 INSERT INTO `notif_data` VALUES (/*unit_id*/111001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべて上限に達しているぞ。何故こんなになるまで放っておいたんだ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/1, /*comment*/"スタミナが全回復したよ～。…ちょっと、働けって圧力かけるのやめてよね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだってさ。仕事もこれでスキップしたいねぇ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだよ。まあ、あたしの気力はゼロなんだけどね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったねぇ。でも、経験積んだくらいじゃあたしのなまけ癖は直らないよ～");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったよ。これだけあればもう働かなくてもいいよね？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいみたい。あんパンはあるの？ドングリは？");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

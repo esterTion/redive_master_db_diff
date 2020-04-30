@@ -37,4 +37,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10036, /*event_id*/10036, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10037, /*event_id*/10037, /*gacha_name*/"王都の名探偵　嘆きの追跡者（ストーカー）", /*item_type*/2, /*item_id*/60362, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10038, /*event_id*/10038, /*gacha_name*/"授けの財団と聖なる学舎の異端児", /*item_type*/2, /*item_id*/60372, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10039, /*event_id*/10039, /*gacha_name*/"アストルムに咲く双輪の華", /*item_type*/2, /*item_id*/60382, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10040, /*event_id*/10040, /*gacha_name*/"まきばの四農士　貧乏牧場奮闘記！", /*item_type*/2, /*item_id*/60392, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
