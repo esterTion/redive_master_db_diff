@@ -830,7 +830,7 @@ a/bdl_viewminigamepcttop.unity3d,3ebb2b0144fb06262e060c2352a59c68,tutorial1,1210
 a/bdl_viewminigamesrttop.unity3d,d07a303b0d2dfaf2d47ebd9e1080b500,tutorial1,12077,
 a/bdl_viewminigamesrtwordlist.unity3d,888711827e31b2efa1d276a5a94fbcdb,tutorial1,11811,
 a/bdl_viewminigamettkbattle.unity3d,af0256aa638907124ab32b0e29966a97,tutorial1,16732,
-a/bdl_viewminigamettkrecord.unity3d,e38e643ac68de58f1c2a84e49756d68b,tutorial1,8087,
+a/bdl_viewminigamettkrecord.unity3d,540b74392e0753afa3363c4bb29e9d6d,tutorial1,8105,
 a/bdl_viewminigamettktop.unity3d,7353c2ff3066883a4abd368750c0919a,tutorial1,12806,
 a/bdl_viewmission.unity3d,236c59bd298e6e87cf0beb22aad38cdd,tutorial1,20381,
 a/bdl_viewmyprofilecard.unity3d,eada3f728552022a436438d5458ccf8e,tutorial1,50695,
