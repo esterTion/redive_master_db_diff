@@ -671,4 +671,10 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったねぇ。でも、経験積んだくらいじゃあたしのなまけ癖は直らないよ～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったよ。これだけあればもう働かなくてもいいよね？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/112701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいみたい。あんパンはあるの？ドングリは？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112801, /*notif_type*/1, /*comment*/"スタミナが全回復したってよ！それじゃさっそく行商に行くべさ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112801, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったべ！よーし、今日のお仕事を一気に片付けちまうべさ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112801, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだべよ！牧場も仲間も全部まとめて守ってやるべ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112801, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったべさ！牧場の牛乳とどっちが美味いべかな？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112801, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったべ。それじゃあマナ板の上に置いとくべ、なんてな！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/112801, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになったみたいだべ！いやー、大豊作だべな～！");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

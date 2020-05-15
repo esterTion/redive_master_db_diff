@@ -71,6 +71,7 @@ a/comic_comic_l_111401_01.unity3d,94c838983a5c17e903f4e1525176cecc,tutorial2,911
 a/comic_comic_l_112201_01.unity3d,fea2e2670976bc4c83c18af357755a0c,tutorial2,81877,
 a/comic_comic_l_112301_01.unity3d,25db6500d65262f9b374a701bf77ead4,tutorial2,86086,
 a/comic_comic_l_112701_01.unity3d,a498dfcc7056d12a0df74631ec566e83,tutorial2,90021,
+a/comic_comic_l_112801_01.unity3d,85d9882462a25cc3d7ada211ff9ca929,tutorial2,84974,
 a/comic_comic_l_180401_01.unity3d,a6c2044542ece740f1f2a1489b879928,tutorial2,85491,
 a/comic_comic_s_100101_01.unity3d,6dc4fa613538a8252d73cd43e630fdd2,tutorial2,16090,
 a/comic_comic_s_100201_01.unity3d,7375c44513e02a12be00671f65b92960,tutorial2,15816,
@@ -145,4 +146,5 @@ a/comic_comic_s_111401_01.unity3d,6a0f90687d555458e3a2553e017a91c5,tutorial2,163
 a/comic_comic_s_112201_01.unity3d,31c33e07a80245395b6bfb020e86b148,tutorial2,15854,
 a/comic_comic_s_112301_01.unity3d,d07a17a6434ae06abe973a0cbaf7b2f4,tutorial2,15969,
 a/comic_comic_s_112701_01.unity3d,f9464b1861db4dd2dc811f4d1ef7cc12,tutorial2,16171,
+a/comic_comic_s_112801_01.unity3d,504b805e906c659460fb45e24dea3f6b,tutorial2,15966,
 a/comic_comic_s_180401_01.unity3d,655ebb22118ce112a0c4b9110eb99a3a,tutorial2,16132,
