@@ -7,7 +7,7 @@ a/minigame_minigame_1003_fx.unity3d,60a709eb6eaed271ad78ca1fd809adc6,common,4814
 a/minigame_minigame_1003_material.unity3d,bb2eb51c35b9526f4f7d7a0156d06bd2,common,343760,
 a/minigame_minigame_1003_texture.unity3d,9e3d84f1bc12cf806cde37d49c9efd6d,common,1175669,
 a/minigame_minigame_1004.unity3d,e1e975314203dd7a0b123cfcb9790587,common,5802719,
-a/minigame_minigame_1005.unity3d,73e1b1a1805d5c4fa1f4d1f080d4f225,common,4101964,
+a/minigame_minigame_1005.unity3d,0f9a852f128d1493b9bfef3a7dd4a565,common,4101858,
 a/minigame_minigame_1005_fx.unity3d,57ac07b3df6018cd7c39dff99d7d5cfc,common,281572,
 a/minigame_minigame_1005_material.unity3d,b00a35a9aa486f824c4ea184a22cbb22,common,109796,
 a/minigame_minigame_1005_record.unity3d,cada1e25535377136bf4558794efca9a,common,3882834,
