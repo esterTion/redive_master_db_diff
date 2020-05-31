@@ -128,3 +128,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"SHIORI_EVENT_SELECT", /*bg_id*/50039
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_BATTLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_RECORD", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"TME_TOP", /*bg_id*/0, /*event_id*/0);
