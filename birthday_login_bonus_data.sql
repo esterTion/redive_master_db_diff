@@ -10,4 +10,5 @@ INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104401, /*nam
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9105501, /*name*/"アユミ「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-04-07 05:00:00", /*end_time*/"2020-04-08 04:59:59", /*adv_id*/1055500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9105801, /*name*/"ペコリーヌ「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-03-31 05:00:00", /*end_time*/"2020-04-01 04:59:59", /*adv_id*/1058500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9105901, /*name*/"コッコロ「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-05-11 05:00:00", /*end_time*/"2020-05-12 04:59:59", /*adv_id*/1059500);
+INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9106301, /*name*/"アリサ「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-06-17 05:00:00", /*end_time*/"2020-06-18 04:59:59", /*adv_id*/1063500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9112401, /*name*/"ウヅキ（デレマス）「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-04-24 05:00:00", /*end_time*/"2020-04-25 04:59:59", /*adv_id*/1124500);
