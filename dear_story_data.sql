@@ -9,4 +9,5 @@ INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6033, /*story_type*/6, /
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6038, /*story_type*/6, /*value*/10038, /*title*/"授けの財団と聖なる学舎の異端児", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/03/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6040, /*story_type*/6, /*value*/10040, /*title*/"まきばの四農士　貧乏牧場奮闘記！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/04/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6042, /*story_type*/6, /*value*/10042, /*title*/"不思議の国のリノ　小さなアリスと希望の絵本", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/05/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6044, /*story_type*/6, /*value*/10044, /*title*/"七夕剣客旅情譚　天に流れる夏の恋", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/06/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');

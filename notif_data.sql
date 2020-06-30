@@ -701,4 +701,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/106601, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/106601, /*notif_type*/4, /*comment*/"ギルドハウスのＥＸＰポーションが満タンですね…いらないならあたしがもらっちゃうですよ？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/106601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいです！これはいただきに行くしかないですよ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/106601, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが満杯ですよ！あふれちゃう前にゲットするです！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113201, /*notif_type*/1, /*comment*/"スタミナが全回復したな！のんびりしている暇はないぞシグルド、冒険へ出発だ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113201, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったぞ！ふふ、我らの歴史に新たな１ページを刻むとしよう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113201, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったぞ！くっ、力の昂りを抑えられぬ…早く解き放たなければ…！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったぞ！なあシグルド、これをかき氷にかけてみるのはどうだ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったぞ！虚空に呑まれる前に我らの手で救い出してやろう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113201, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいになったぞ！熾炎戦鬼煉獄血盟暗黒団のさらなる力としようではないか！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180201, /*notif_type*/1, /*comment*/"騎士クン、スタミナが全回復したよ。冒険に出かけるの？わたしも一緒に戦うね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180201, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったよ。戦闘が簡単に済むなら、騎士クンもそのほうがいいよね？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180201, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったみたい。体力は大切にしてね。焦らずに進んでいこう？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだよ。変身したわたしも、これがあればもっと成長できるんだね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだね。騎士クン。みんなを守るために、今以上に魔法を強化したいな");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180201, /*notif_type*/6, /*comment*/"ギルドハウスのアイテムがいっぱいになってるみたい。荷物の受け取り、わたしも一緒にお手伝いするね");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

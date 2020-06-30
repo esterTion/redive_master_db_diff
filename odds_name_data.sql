@@ -96,3 +96,9 @@ INSERT INTO `odds_name_data` VALUES (/*id*/98, /*odds_file*/1004220101, /*name*/
 INSERT INTO `odds_name_data` VALUES (/*id*/99, /*odds_file*/1004220102, /*name*/"カヤのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/100, /*odds_file*/1004320101, /*name*/"イオ（サマー）のメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/101, /*odds_file*/1004320102, /*name*/"ミサキのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/102, /*odds_file*/1004420101, /*name*/"アンナ（サマー）のメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/103, /*odds_file*/1004420102, /*name*/"エリコのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/104, /*odds_file*/"box_rank_3-8", /*name*/"ランダム装備BOX", /*icon_type*/99002, /*description*/"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (/*id*/105, /*odds_file*/"box_rank_3-10", /*name*/"ランダム装備BOX", /*icon_type*/99002, /*description*/"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (/*id*/106, /*odds_file*/"box_rank_9-13", /*name*/"ランダム装備BOX", /*icon_type*/99002, /*description*/"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (/*id*/107, /*odds_file*/"box_rank_11-14", /*name*/"ランダム装備BOX", /*icon_type*/99002, /*description*/"ランダムな装備が獲得できる。");
