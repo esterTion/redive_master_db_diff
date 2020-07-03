@@ -1,0 +1,3 @@
+CREATE TABLE 'item_e_ticket_data' ('ticket_id' INTEGER NOT NULL, 'exchange_number' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('ticket_id','exchange_number'));
+CREATE INDEX 'item_e_ticket_data_0_ticket_id' on 'item_e_ticket_data'('ticket_id');
+CREATE INDEX 'item_e_ticket_data_0_exchange_number' on 'item_e_ticket_data'('exchange_number');
