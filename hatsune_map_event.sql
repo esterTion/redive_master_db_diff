@@ -101,4 +101,16 @@ INSERT INTO `hatsune_map_event` VALUES (/*id*/10037401, /*target_event_id*/10037
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10037531, /*target_event_id*/10037, /*event_type*/3, /*condition_id*/1003704, /*param1*/211, /*param2*/0);
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10039531, /*target_event_id*/10039, /*event_type*/3, /*condition_id*/1003904, /*param1*/211, /*param2*/0);
 INSERT INTO `hatsune_map_event` VALUES (/*id*/10041531, /*target_event_id*/10041, /*event_type*/3, /*condition_id*/1004104, /*param1*/211, /*param2*/0);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045001, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/101921, /*param2*/101931);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045002, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/101922, /*param2*/101932);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045003, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/101923, /*param2*/101933);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045004, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100011, /*param2*/100351);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045005, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100012, /*param2*/100352);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045006, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100013, /*param2*/100353);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045007, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100014, /*param2*/100354);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045008, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100015, /*param2*/100355);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045009, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100016, /*param2*/100356);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045010, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100017, /*param2*/100357);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045011, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100018, /*param2*/100358);
+INSERT INTO `hatsune_map_event` VALUES (/*id*/10045012, /*target_event_id*/10045, /*event_type*/501, /*condition_id*/10045112, /*param1*/100019, /*param2*/100359);
 CREATE INDEX 'hatsune_map_event_0_target_event_id' on 'hatsune_map_event'('target_event_id');
