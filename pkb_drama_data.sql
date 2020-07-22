@@ -1,0 +1,1 @@
+CREATE TABLE 'pkb_drama_data' ('drama_id' INTEGER NOT NULL, 'condition_pitcher_id_1' INTEGER NOT NULL, 'condition_pitcher_id_2' INTEGER NOT NULL, 'condition_batter_id_1' INTEGER NOT NULL, 'condition_batter_id_2' INTEGER NOT NULL, PRIMARY KEY('drama_id'));

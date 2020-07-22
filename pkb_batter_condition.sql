@@ -1,0 +1,1 @@
+CREATE TABLE 'pkb_batter_condition' ('batter_id' INTEGER NOT NULL, 'pkb_score' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'detail' TEXT NOT NULL, 'meet' INTEGER NOT NULL, 'critical' INTEGER NOT NULL, 'power' INTEGER NOT NULL, 'ability_name' TEXT NOT NULL, 'ability_detail' TEXT NOT NULL, 'is_playable' INTEGER NOT NULL, PRIMARY KEY('batter_id'));
