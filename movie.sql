@@ -27,6 +27,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/1003801, /*story_group_id*/5038, /*story
 INSERT INTO `movie` VALUES (/*movie_id*/1004001, /*story_group_id*/5040, /*story_id*/5040000, /*bgm_id*/"bgm_M351", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1004201, /*story_group_id*/5042, /*story_id*/5042000, /*bgm_id*/"bgm_M375", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1004401, /*story_group_id*/5044, /*story_id*/5044000, /*bgm_id*/"bgm_M380A", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/1004601, /*story_group_id*/5046, /*story_id*/5046000, /*bgm_id*/"bgm_M393", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180200301, /*story_group_id*/1802, /*story_id*/1802003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180400301, /*story_group_id*/1804, /*story_id*/1804003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180500301, /*story_group_id*/1805, /*story_id*/1805003, /*bgm_id*/"", /*se_id*/"");
@@ -217,4 +218,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/504200701, /*story_group_id*/5042, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/504400101, /*story_group_id*/5044, /*story_id*/5044001, /*bgm_id*/"bgm_M113_emt5044_001", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/504400601, /*story_group_id*/5044, /*story_id*/5044006, /*bgm_id*/"bgm_M384_emt5044_006", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/504400701, /*story_group_id*/5044, /*story_id*/5044007, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/504600101, /*story_group_id*/5046, /*story_id*/5046001, /*bgm_id*/"bgm_M394_emt5046_001", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/504600601, /*story_group_id*/5046, /*story_id*/5046006, /*bgm_id*/"bgm_M397_emt5046_006", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/504600701, /*story_group_id*/5046, /*story_id*/5046007, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/700100001, /*story_group_id*/7001, /*story_id*/7001000, /*bgm_id*/"", /*se_id*/"");
