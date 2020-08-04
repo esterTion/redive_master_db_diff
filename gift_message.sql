@@ -56,6 +56,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9317, /*discription*/"フレンドサ�
 INSERT INTO `gift_message` VALUES (/*id*/9318, /*discription*/"所持上限を超えて獲得したスペシャル交換チケットの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9319, /*discription*/"購入時に獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9320, /*discription*/"CSPキャラ交換Ptを変換したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9321, /*discription*/"所持上限を超えて獲得したメモリーピース交換チケットの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9401, /*discription*/"デイリージュエルパックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9402, /*discription*/"7日間スタミナ応援パックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9403, /*discription*/"アイテム装備パックⅠを購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -89,3 +90,5 @@ INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「バトル オ�
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「バトル オブ ランドソル」で獲得したアタック報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/"「王都終末決戦」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9703, /*discription*/"「バトル オブ ランドソル」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9800, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/21, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9801, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/22, /*type_2*/0, /*type_3*/0, /*type_4*/0);
