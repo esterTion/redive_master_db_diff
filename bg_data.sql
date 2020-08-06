@@ -21,6 +21,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"COOP_LOBBY_SEARCH", /*bg_id*/500250,
 INSERT INTO `bg_data` VALUES (/*view_name*/"COOP_RESUME", /*bg_id*/500250, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"BATTLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GACHA_TOP", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"GACHA_SPFES_TOP", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GACHA_RESULT_PREMIUM", /*bg_id*/530041, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GACHA_RESULT_NORMAL", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GACHA_ANIMATION", /*bg_id*/0, /*event_id*/0);

@@ -1550,6 +1550,9 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13021003, /*area_id*/13021, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13022001, /*area_id*/13022, /*quest_name*/"マティルド岩峯・南部 22-1", /*wave_group_id_1*/103220103, /*bg_skip_id*/100431);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13022002, /*area_id*/13022, /*quest_name*/"マティルド岩峯・南部 22-2", /*wave_group_id_1*/103220207, /*bg_skip_id*/100361);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13022003, /*area_id*/13022, /*quest_name*/"マティルド岩峯・南部 22-3", /*wave_group_id_1*/103220305, /*bg_skip_id*/101641);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13023001, /*area_id*/13023, /*quest_name*/"マティルド岩峯・北部 23-1", /*wave_group_id_1*/103230102, /*bg_skip_id*/100431);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13023002, /*area_id*/13023, /*quest_name*/"マティルド岩峯・北部 23-2", /*wave_group_id_1*/103220207, /*bg_skip_id*/100361);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13023003, /*area_id*/13023, /*quest_name*/"マティルド岩峯・北部 23-3", /*wave_group_id_1*/103220305, /*bg_skip_id*/101641);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/19001001, /*area_id*/19001, /*quest_name*/"神殿調査クエストLv1", /*wave_group_id_1*/109010101, /*bg_skip_id*/102003);
