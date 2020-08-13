@@ -22,3 +22,4 @@ INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/20, /*max_floor_num*/410,
 INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/21, /*max_floor_num*/420, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125", /*cloister_quest_id*/73210420);
 INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/22, /*max_floor_num*/430, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125", /*cloister_quest_id*/73220430);
 INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/23, /*max_floor_num*/440, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125", /*cloister_quest_id*/73230440);
+INSERT INTO `tower_area_data` VALUES (/*tower_area_id*/24, /*max_floor_num*/450, /*area_bg*/81000104, /*tower_bgm*/"bgm_M125", /*cloister_quest_id*/73240450);
