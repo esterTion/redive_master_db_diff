@@ -13,3 +13,8 @@ INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/5, /*equipment_e
 INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/5, /*equipment_enhance_level*/3, /*needed_point*/280, /*total_point*/540);
 INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/5, /*equipment_enhance_level*/4, /*needed_point*/480, /*total_point*/1020);
 INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/5, /*equipment_enhance_level*/5, /*needed_point*/780, /*total_point*/1800);
+INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/6, /*equipment_enhance_level*/1, /*needed_point*/100, /*total_point*/100);
+INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/6, /*equipment_enhance_level*/2, /*needed_point*/160, /*total_point*/260);
+INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/6, /*equipment_enhance_level*/3, /*needed_point*/280, /*total_point*/540);
+INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/6, /*equipment_enhance_level*/4, /*needed_point*/480, /*total_point*/1020);
+INSERT INTO `equipment_enhance_data` VALUES (/*promotion_level*/6, /*equipment_enhance_level*/5, /*needed_point*/780, /*total_point*/1800);
