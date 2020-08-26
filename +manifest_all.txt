@@ -98,7 +98,7 @@ a/all_atlasfkeseisouken.unity3d,6b4c48e2c29ee1b2b784d7b6170c388f,tutorial1,57045
 a/all_atlasfriend.unity3d,13d2c9b973ea9b115717a4e012cdd93a,tutorial1,40204,
 a/all_atlasgachaprizeresult.unity3d,f5607cec5c8075ff27ed71161be22d71,tutorial1,227523,
 a/all_atlasgacharesult.unity3d,4d90c67d85814b7d978fbbcf096dd895,tutorial1,81476,
-a/all_atlasgachatop.unity3d,586335a40869ca78b7869976de44b391,tutorial1,496817,
+a/all_atlasgachatop.unity3d,04b5a07c03fc4690e2415e0f18de6baf,tutorial1,485009,
 a/all_atlasgoldshop.unity3d,32a98d6c382b11c3bd2ba4b353e41764,tutorial1,49315,
 a/all_atlasgrandarenahistory.unity3d,6141c2f488a22a6719f987a8e792fba7,tutorial1,20755,
 a/all_atlasgrandarenaresult.unity3d,2ae62ab5fbeba2f6002ec0923dd8ca28,tutorial1,225924,
