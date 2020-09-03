@@ -122,6 +122,7 @@ INSERT INTO `chara_identity` VALUES (/*unit_id*/113301, /*chara_type*/13);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/113401, /*chara_type*/12);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/113501, /*chara_type*/15);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/113601, /*chara_type*/47);
+INSERT INTO `chara_identity` VALUES (/*unit_id*/113701, /*chara_type*/6);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/180201, /*chara_type*/2);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/180401, /*chara_type*/58);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/180501, /*chara_type*/59);
