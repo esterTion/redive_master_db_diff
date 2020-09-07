@@ -3975,4 +3975,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4365, /*unit_id*/113701, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4366, /*unit_id*/113701, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"体が火照ってきて\nなんだかアカリ…\nクラクラしちゃう…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4368, /*unit_id*/113701, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"はむ、んぐ…あっ\nほっぺについちゃった\nベトベトですよぉ～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4369, /*unit_id*/113701, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"エンジェルって色んな\n物語に出てきますよね\nもっと調べなくちゃ！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4371, /*unit_id*/103201, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あの方の前では\n常に気高く\nありたいですわね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4372, /*unit_id*/103201, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"どんなに道に迷っても\nあなたさまの元には\n絶対に辿り着く\n自信がありますわ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4373, /*unit_id*/102801, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あんたと一緒に\nいるときが一番楽しい\n一時かもしれないわ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4374, /*unit_id*/102801, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"いつかあんたと一緒に\nサレンディア救護院を\n切り盛り…なんてね♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
