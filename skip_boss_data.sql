@@ -75,3 +75,5 @@ INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1004701, /*skip_motion_id*/30820
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1004702, /*skip_motion_id*/308200, /*skip_bg_id*/81002302, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1004801, /*skip_motion_id*/311500, /*skip_bg_id*/81002405, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1004802, /*skip_motion_id*/311500, /*skip_bg_id*/81002406, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
+INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1004901, /*skip_motion_id*/308400, /*skip_bg_id*/81002501, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
+INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1004902, /*skip_motion_id*/308400, /*skip_bg_id*/81002502, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);

@@ -46,4 +46,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10045, /*event_id*/10045, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10046, /*event_id*/10046, /*gacha_name*/"ミサトサマーエール！　夢追う真夏のナイン", /*item_type*/2, /*item_id*/60452, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10047, /*event_id*/10047, /*gacha_name*/"森の臆病者と聖なる学舎の異端児", /*item_type*/2, /*item_id*/60462, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10048, /*event_id*/10048, /*gacha_name*/"ハッピー・チェンジ・エンジェルズ", /*item_type*/2, /*item_id*/60472, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10049, /*event_id*/10049, /*gacha_name*/"リトル・ブレイブ・ハロウィンナイト！", /*item_type*/2, /*item_id*/60482, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
