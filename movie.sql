@@ -29,6 +29,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/1004201, /*story_group_id*/5042, /*story
 INSERT INTO `movie` VALUES (/*movie_id*/1004401, /*story_group_id*/5044, /*story_id*/5044000, /*bgm_id*/"bgm_M380A", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1004601, /*story_group_id*/5046, /*story_id*/5046000, /*bgm_id*/"bgm_M393", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1004801, /*story_group_id*/5048, /*story_id*/5048000, /*bgm_id*/"bgm_M403", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/1005001, /*story_group_id*/5050, /*story_id*/5050000, /*bgm_id*/"bgm_M413", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180200301, /*story_group_id*/1802, /*story_id*/1802003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180400301, /*story_group_id*/1804, /*story_id*/1804003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180500301, /*story_group_id*/1805, /*story_id*/1805003, /*bgm_id*/"", /*se_id*/"");
@@ -231,4 +232,8 @@ INSERT INTO `movie` VALUES (/*movie_id*/504600701, /*story_group_id*/5046, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/504800301, /*story_group_id*/5048, /*story_id*/5048003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/504800601, /*story_group_id*/5048, /*story_id*/5048006, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/504800701, /*story_group_id*/5048, /*story_id*/5048007, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/505000101, /*story_group_id*/5050, /*story_id*/5050001, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/505000601, /*story_group_id*/5050, /*story_id*/5050006, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/505000701, /*story_group_id*/5050, /*story_id*/5050007, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/505000801, /*story_group_id*/5050, /*story_id*/5050008, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/700100001, /*story_group_id*/7001, /*story_id*/7001000, /*bgm_id*/"", /*se_id*/"");
