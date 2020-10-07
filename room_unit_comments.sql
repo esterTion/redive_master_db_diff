@@ -4047,4 +4047,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4447, /*unit_id*/114101, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4449, /*unit_id*/114101, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"もぐもぐ…\nいっぱい食べて\n強いヒーローに\nなるッスよ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4450, /*unit_id*/114101, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ちゃんと勉強の本も\n読んでるッスよ…！\nヒーローには賢さも\n必要らしいッス！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4452, /*unit_id*/114101, /*trigger*/3, /*voice_id*/12, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"わわっ、お菓子が\nいっぱいッス！\nみんなで\n食べるッスよ！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4454, /*unit_id*/103001, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ワタシがチューシンと\nなった今、天下統一は\n目の前デス！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4455, /*unit_id*/103001, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"もうショーグンってば\nそれはセイシツに\nすることデ～ス…", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
