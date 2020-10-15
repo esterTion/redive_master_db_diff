@@ -767,6 +767,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/113901, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/113901, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいです！もうっ、なんで私が騎士さんのお世話をしてるんですかねっ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/113901, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいですね。ハロウィンのお祭り騒ぎで使い過ぎないよう、気をつけてくださいよ？まぁ、私がついてるから大丈夫ですけどね。　");
 INSERT INTO `notif_data` VALUES (/*unit_id*/113901, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになっちゃってますね。ほらほら、早く片付けないと、イタズラしちゃいますよ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/1, /*comment*/"スタミナが全回復したね。それじゃ、ハロウィンの街並みを見物しに行こうか");
+INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだね。戦いを手早く済ませて、ハロウィンのパレードを楽しもう");
+INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいみたいだ。これでハロウィンを満喫できそうだね。さあ出かけよう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだよ。ハロウィンを守る強さを手に入れられそうだね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだね。ハロウィンのお土産を買いに行ってみようか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいだ。これでハロウィンパーティーの準備もはかどりそうだね。ほら、受け取りに行こう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/114101, /*notif_type*/1, /*comment*/"スタミナ全快ッス！さあ、一緒にハロウィンの平和を守るためパトロールッスよ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/114101, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいッス！これを使って任務をすばやくこなすッス！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/114101, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったッス！回収したらホワイトタイガー出動ッスよ！");

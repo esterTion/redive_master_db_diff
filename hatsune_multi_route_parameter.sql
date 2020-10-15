@@ -14,5 +14,10 @@ INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/12, /*quest_id*/100371
 INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/13, /*quest_id*/10037110, /*type*/11, /*param_1*/10037110, /*param_2*/10037114, /*param_3*/0, /*text_1*/"");
 INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/14, /*quest_id*/10037115, /*type*/11, /*param_1*/10037115, /*param_2*/10037115, /*param_3*/0, /*text_1*/"");
 INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/15, /*quest_id*/10037110, /*type*/4, /*param_1*/120, /*param_2*/0, /*param_3*/0, /*text_1*/"");
+INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/16, /*quest_id*/20008101, /*type*/1, /*param_1*/20008111, /*param_2*/0, /*param_3*/0, /*text_1*/"");
+INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/17, /*quest_id*/20008112, /*type*/1, /*param_1*/20008115, /*param_2*/0, /*param_3*/0, /*text_1*/"");
+INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/18, /*quest_id*/20008101, /*type*/3, /*param_1*/20008103, /*param_2*/0, /*param_3*/0, /*text_1*/"");
+INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/19, /*quest_id*/20008105, /*type*/3, /*param_1*/20008115, /*param_2*/0, /*param_3*/0, /*text_1*/"");
+INSERT INTO `hatsune_multi_route_parameter` VALUES (/*id*/20, /*quest_id*/20008112, /*type*/4, /*param_1*/150, /*param_2*/0, /*param_3*/0, /*text_1*/"");
 CREATE INDEX 'hatsune_multi_route_parameter_0_quest_id' on 'hatsune_multi_route_parameter'('quest_id');
 CREATE INDEX 'hatsune_multi_route_parameter_0_type' on 'hatsune_multi_route_parameter'('type');
