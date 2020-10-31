@@ -49,4 +49,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10048, /*event_id*/10048, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10049, /*event_id*/10049, /*gacha_name*/"リトル・ブレイブ・ハロウィンナイト！", /*item_type*/2, /*item_id*/60482, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10050, /*event_id*/10050, /*gacha_name*/"響け！絶叫！ハロウィンゴーストフェスティバル", /*item_type*/2, /*item_id*/60492, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10051, /*event_id*/10051, /*gacha_name*/"ドラゴンエクスプローラーズ", /*item_type*/2, /*item_id*/60502, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10052, /*event_id*/10052, /*gacha_name*/"魔法提督ラブリー★モニカ レッツゴー！マジカルカルテット！", /*item_type*/2, /*item_id*/60512, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

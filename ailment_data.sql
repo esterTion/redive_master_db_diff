@@ -29,3 +29,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/27, /*ailment_action*/8, /*ailm
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/28, /*ailment_action*/9, /*ailment_detail_1*/5, /*ailment_name*/"呪詛");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/29, /*ailment_action*/70, /*ailment_detail_1*/-1, /*ailment_name*/"ＨＰ変化");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/30, /*ailment_action*/8, /*ailment_detail_1*/11, /*ailment_name*/"時間停止");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/31, /*ailment_action*/76, /*ailment_detail_1*/-1, /*ailment_name*/"ＨＰ回復量減少");
