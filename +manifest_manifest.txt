@@ -19,5 +19,5 @@ manifest/resourcedefine_assetmanifest,fc0dfbe71d9c705b99dc6a9b994d4f60,every,178
 manifest/room_assetmanifest,c316f8851966f3f5bece4fd11760f79c,every,138310,
 manifest/shader_assetmanifest,24b8b64d2f3eea93f5641c0b6c621257,every,74,
 manifest/spine_assetmanifest,27de21fda83c1d84ed292c9a5675519e,every,197684,
-manifest/storydata_assetmanifest,11d9126cc82cddd9bbc444cd9f791540,every,483947,
+manifest/storydata_assetmanifest,2f7e461c5f5e050316c6f72d68b4a1d5,every,483947,
 manifest/unit_assetmanifest,bec0a30e1c08948cc5ecd27940714008,every,169416,
