@@ -4094,4 +4094,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4502, /*unit_id*/114201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4503, /*unit_id*/114201, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この温かさ…\n愛と希望に\n通じるものがある…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4505, /*unit_id*/114201, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"食事の大切さは\n魔法少女も軍人も\n変わりない\nしっかり食べるんだ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4506, /*unit_id*/114201, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"魔法少女の本を\n読んでるのだが\nわ、私もこんななのか", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4508, /*unit_id*/103301, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"オラとあんちゃんは\nボケもツッコミも\nあうんの呼吸だべ♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4509, /*unit_id*/103301, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あんちゃんと二人で\nネタ合わせ…初めての\n共同作業だべ♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
