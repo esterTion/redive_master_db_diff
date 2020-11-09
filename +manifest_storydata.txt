@@ -5826,7 +5826,7 @@ a/storydata_still_505000801.unity3d,c6bf5c6996bc8a48b5006781225bb92e,common,2282
 a/storydata_still_505200001.unity3d,aa8e80ce8434a710e15ff168627fb954,common,219955,
 a/storydata_still_505200002.unity3d,49c6d7e55a1dc992f4ea2798bb770606,common,219810,
 a/storydata_still_505200101.unity3d,8e340a3a4a8d398e6fdb26d5cb65f781,common,230064,
-a/storydata_still_505200201.unity3d,21b68c51c8cc8a5b0bbb1b570255d5e8,common,226630,
+a/storydata_still_505200201.unity3d,d8b0f56e4de73dc363962737fe800813,common,226622,
 a/storydata_still_505200801.unity3d,d408c435ead5cc0162374aa44d37414e,common,228021,
 a/storydata_still_700100501.unity3d,fcefa0fbc104a155f7acfd72d63f1fca,common,220168,
 a/storydata_still_700100502.unity3d,b68b880b61359dcf355fcac00e29af10,common,220025,
