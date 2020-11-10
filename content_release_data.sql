@@ -10,6 +10,10 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/110, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/111, /*team_level*/1, /*story_id*/0, /*quest_id*/12018001, /*dialog*/"メインクエスト18-1（HARD）クリアで解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/112, /*team_level*/1, /*story_id*/0, /*quest_id*/11018005, /*dialog*/"メインクエスト18-5（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/115, /*team_level*/1, /*story_id*/0, /*quest_id*/11008001, /*dialog*/"メインクエスト8-1（NORMAL）クリアで解放");
+INSERT INTO `content_release_data` VALUES (/*system_id*/116, /*team_level*/1, /*story_id*/0, /*quest_id*/11002004, /*dialog*/"メインクエスト2-4（NORMAL）クリアで解放");
+INSERT INTO `content_release_data` VALUES (/*system_id*/117, /*team_level*/1, /*story_id*/0, /*quest_id*/11003003, /*dialog*/"メインクエスト3-3（NORMAL）クリアで解放");
+INSERT INTO `content_release_data` VALUES (/*system_id*/118, /*team_level*/1, /*story_id*/0, /*quest_id*/11002007, /*dialog*/"メインクエスト2-7（NORMAL）クリアで解放");
+INSERT INTO `content_release_data` VALUES (/*system_id*/119, /*team_level*/1, /*story_id*/0, /*quest_id*/11009003, /*dialog*/"メインクエスト9-3（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/201, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/"");
 INSERT INTO `content_release_data` VALUES (/*system_id*/202, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/"メインクエスト4-6（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/203, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/"メインクエスト8-15（NORMAL）クリアで解放");
