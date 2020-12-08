@@ -4178,4 +4178,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4605, /*unit_id*/114601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4606, /*unit_id*/114601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"クリスマスデート\n完全攻略マニュアル？\n…読んでおかなくちゃ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4608, /*unit_id*/114601, /*trigger*/3, /*voice_id*/14, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あら、絵が飛び出して\n見えるけど…\n酔っ払ってるせいじゃ\nないわよね…？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4609, /*unit_id*/114601, /*trigger*/3, /*voice_id*/15, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"いい手触りね～\nウチにもほしいけど\n麦しゅわをこぼしたら\n大変そうだわ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4610, /*unit_id*/101601, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ヒデサイの視線\nずっと独り占め\nしてたいな～", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4611, /*unit_id*/101601, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ヒデサイといるだけで\nうち、おに楽しいし！\nヒデサイもっしょ～？", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
