@@ -52,4 +52,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10051, /*event_id*/10051, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10052, /*event_id*/10052, /*gacha_name*/"魔法提督ラブリー★モニカ レッツゴー！マジカルカルテット！", /*item_type*/2, /*item_id*/60512, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10053, /*event_id*/10053, /*gacha_name*/"Re:ゼロから集まる異世界食卓", /*item_type*/2, /*item_id*/60522, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10054, /*event_id*/10054, /*gacha_name*/"デビュタント・シャングリ・ラ　聖夜のラブゲーム", /*item_type*/2, /*item_id*/60532, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10055, /*event_id*/10055, /*gacha_name*/"プレゼントパニック！　ランドソルのサンタたち", /*item_type*/2, /*item_id*/60542, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
