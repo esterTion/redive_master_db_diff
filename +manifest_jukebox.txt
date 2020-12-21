@@ -152,3 +152,6 @@ a/jukebox_thumb_music_000151.unity3d,49e131d54f78bdaec07c77115c63c2f8,common,892
 a/jukebox_thumb_music_000152.unity3d,50f9b39603aa38ada4d02c51c399e6e5,common,9110,
 a/jukebox_thumb_music_000153.unity3d,17a3a26c98f58502585f04b59ee0746c,common,8876,
 a/jukebox_thumb_music_000154.unity3d,bfe347606ffb00034f9ac2d56e66d768,common,8971,
+a/jukebox_thumb_music_000155.unity3d,b7767c1de43cb71a6e6f2f98c18065d9,common,7602,
+a/jukebox_thumb_music_000156.unity3d,51651ec00f79bfdd1a6c6ca4348b4100,common,8931,
+a/jukebox_thumb_music_000157.unity3d,9dadd6f1cfa82e82938dfc993ba59893,common,8802,
