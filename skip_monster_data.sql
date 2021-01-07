@@ -1841,6 +1841,9 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13023003, /*area_id*/13023, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13024001, /*area_id*/13024, /*quest_name*/"レディウス群峰・西麓 24-1", /*wave_group_id_1*/103240104, /*bg_skip_id*/101641);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13024002, /*area_id*/13024, /*quest_name*/"レディウス群峰・西麓 24-2", /*wave_group_id_1*/103240203, /*bg_skip_id*/101691);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13024003, /*area_id*/13024, /*quest_name*/"レディウス群峰・西麓 24-3", /*wave_group_id_1*/103240301, /*bg_skip_id*/101801);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13025001, /*area_id*/13025, /*quest_name*/"レディウス群峰・東麓 25-1", /*wave_group_id_1*/103250101, /*bg_skip_id*/101641);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13025002, /*area_id*/13025, /*quest_name*/"レディウス群峰・東麓 25-2", /*wave_group_id_1*/103240203, /*bg_skip_id*/101691);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13025003, /*area_id*/13025, /*quest_name*/"レディウス群峰・東麓 25-3", /*wave_group_id_1*/103240301, /*bg_skip_id*/101801);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001003, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv3", /*wave_group_id_1*/108010308, /*bg_skip_id*/101341);

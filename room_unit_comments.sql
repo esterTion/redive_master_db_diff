@@ -4270,4 +4270,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4708, /*unit_id*/111801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4709, /*unit_id*/111801, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ここでお餅を\n焼いたらおいしく\nなりそうですね～♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4711, /*unit_id*/111801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"おいしすぎて\n食べる手が\n止まりません～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4712, /*unit_id*/111801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"新しいおせち料理の\nヒントは…なるほど…\nふむふむ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4714, /*unit_id*/100601, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"お兄ちゃんとあんな\n特訓やこんな特訓が\nしたいなぁ、えへへ♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4715, /*unit_id*/100601, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"お兄ちゃんに褒めて\nもらうと、身体が\nじぃーんと\n熱くなっちゃいます♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
