@@ -80,7 +80,7 @@ a/event_btn_circle_event_tex_10056.unity3d,6a37f58318e1adf0a99cddd514e07ff0,comm
 a/event_btn_circle_event_tex_10057.unity3d,bafdffa6aa3b54b9957739c510298a2a,common,3020,
 a/event_completeeffect_001.unity3d,b0a566d6c6dbcfd01858086fabc72813,common,245095,
 a/event_ekiden.unity3d,909685fb905d9d92027798673408b76b,common,3099499,
-a/event_ekidentexture.unity3d,13e4465db35936c42f7f9d9d80f85686,common,4737392,
+a/event_ekidentexture.unity3d,f5fd8815ed65282c2926bca78f87300f,common,4699065,
 a/event_enk_letter_01.unity3d,4d94087316670d6bbce9d99fe491a63a,common,71874,
 a/event_enk_letter_02.unity3d,82b4e5af5904f3e8f6680ddc7e6e5d0a,common,65291,
 a/event_enk_letter_03.unity3d,15f3c87cc25b8b3fada63412931ab694,common,72075,
