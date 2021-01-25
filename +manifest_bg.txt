@@ -1,4 +1,5 @@
 a/bg_animationtexture.unity3d,8fc1c4529b4496758864ecf21bd2dd53,tutorial0,1166742,
+a/bg_battle_skip_00000.unity3d,39eea2eeafc93789f5e950fa4f87a06c,tutorial1,7230,
 a/bg_bg_100001.unity3d,0e20bd1b36862869f801bc0458308747,tutorial1,429584,
 a/bg_bg_100001_mask.unity3d,f30aac704ea653de62b361f3a24ef49a,tutorial1,26114,
 a/bg_bg_100001_mat.unity3d,1e8ea00cff7cb53ffbce1594cd3e1334,tutorial1,3151,

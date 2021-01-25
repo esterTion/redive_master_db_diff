@@ -114,7 +114,7 @@ a/animation_gachaprizeselectbutton.unity3d,21e75348335f29426a339d13ace63276,tuto
 a/animation_gacharesulticon.unity3d,f9deae2074a5e8a25882843995d7b136,tutorial1,15403,
 a/animation_gacharesulticonnew.unity3d,2f527407fa5eb7fc7f9d9ae30370ac5c,tutorial1,9567,
 a/animation_goaltext.unity3d,45f3896e5dd74d9ae565a5cc06e5902c,tutorial1,10454,
-a/animation_grandarenaresult.unity3d,9ea33ccfdd9e1ecd76d25c45754545a7,tutorial1,10223,
+a/animation_grandarenaresult.unity3d,3a26ee2494e6035780a5122c89db77f5,tutorial1,10584,
 a/animation_grandarenaresultlose.unity3d,2a7742f753b3b92eeca53f90e136e31d,tutorial1,9307,
 a/animation_grandarenaresultwin.unity3d,04ae4081d048973f79043e1d8c65c627,tutorial1,9316,
 a/animation_guest191301.unity3d,2cf5afb8f5f55ab8614a7cd29d8e980b,tutorial1,11528,
