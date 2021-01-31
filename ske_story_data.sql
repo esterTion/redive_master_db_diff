@@ -1,2 +1,7 @@
 CREATE TABLE 'ske_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_quest_id' INTEGER NOT NULL, 'unlock_condition_boss_id' INTEGER NOT NULL, 'read_condition_event_story_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+INSERT INTO `ske_story_data` VALUES (/*sub_story_id*/1005801, /*original_event_id*/10058, /*title*/"絆ダイアリーその1", /*unlock_condition_quest_id*/10058108, /*unlock_condition_boss_id*/0, /*read_condition_event_story_id*/5058003);
+INSERT INTO `ske_story_data` VALUES (/*sub_story_id*/1005802, /*original_event_id*/10058, /*title*/"絆ダイアリーその2", /*unlock_condition_quest_id*/10058110, /*unlock_condition_boss_id*/0, /*read_condition_event_story_id*/5058003);
+INSERT INTO `ske_story_data` VALUES (/*sub_story_id*/1005803, /*original_event_id*/10058, /*title*/"絆ダイアリーその3", /*unlock_condition_quest_id*/10058112, /*unlock_condition_boss_id*/0, /*read_condition_event_story_id*/5058003);
+INSERT INTO `ske_story_data` VALUES (/*sub_story_id*/1005804, /*original_event_id*/10058, /*title*/"絆ダイアリーその4", /*unlock_condition_quest_id*/10058115, /*unlock_condition_boss_id*/0, /*read_condition_event_story_id*/5058004);
+INSERT INTO `ske_story_data` VALUES (/*sub_story_id*/1005805, /*original_event_id*/10058, /*title*/"絆ダイアリーその5", /*unlock_condition_quest_id*/10058115, /*unlock_condition_boss_id*/1005801, /*read_condition_event_story_id*/5058005);
 CREATE INDEX 'ske_story_data_0_original_event_id' on 'ske_story_data'('original_event_id');

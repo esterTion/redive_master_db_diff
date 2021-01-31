@@ -833,4 +833,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/115001, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/115001, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいですね。お年玉と同じく、使い道はよく考えるように");
 INSERT INTO `notif_data` VALUES (/*unit_id*/115001, /*notif_type*/5, /*comment*/"ギルドハウスのマナが貯まっていますね。倹約は美徳ですが、使い時を見誤ってはいけませんよ");
 INSERT INTO `notif_data` VALUES (/*unit_id*/115001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが全て貯まっていますね。正月らしく豪勢に振る舞うのも、また一興です");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115501, /*notif_type*/1, /*comment*/"スタミナが全回復いたしましたよ。わたくしに冒険のおともをさせてくださいまし");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになりました。わたくしたちの冒険を便利に進められそうですね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになりましたよ。主さまと散策できるのを心待ちにしております♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいです。主さまと歩み続けるため、どこまでも強くなりたいです");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになりましたよ。主さま、使い道はもうお決まりですか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいです。冒険をより良くするため、無駄なく活用いたしましょう");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115601, /*notif_type*/1, /*comment*/"騎士クン。スタミナが全回復してるよ。出かけるなら、精霊も一緒についていきたいんだって");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115601, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだね。これを使えば、精霊ともっと深くつながれそうな気がする");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115601, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったよ。騎士クン、精霊と魔法の練習をするんだけど…ついてきてくれる？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115601, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだよ。精霊を召喚するために、わたし自身も強くならないと…！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになってるよ。わたしも精霊も、もっと成長できるかな…？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115601, /*notif_type*/6, /*comment*/"騎士クン、ギルドハウスで受け取れるアイテムがいっぱいになってるよ。…えっと、精霊も心配してるから、受け取りに来てほしいな");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
