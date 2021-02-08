@@ -4338,4 +4338,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4785, /*unit_id*/115601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4786, /*unit_id*/115601, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あったかい…\nまるで誰かが\n抱きしめてくれた\nみたい…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4788, /*unit_id*/115601, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"自然の恵みに\n感謝して…\nいただきます♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4789, /*unit_id*/115601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"もっと精霊について\n勉強して、みんなを\n守れるように\nなりたいな…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4791, /*unit_id*/102201, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"アイツといると胸が\nぎゅーっとなる…\nこれってもしかして…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4792, /*unit_id*/102201, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"アンタとならきっと\nどんなゲームでも…\nそ、その、たた、\n楽しいって思えるわ！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
