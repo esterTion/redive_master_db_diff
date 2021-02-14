@@ -4060,6 +4060,7 @@ a/bg_profilecard_common_frame_011.unity3d,8cf0fcb99b0600a0acf8dc475b9ff2b3,tutor
 a/bg_profilecard_titlelogo_0000.unity3d,1383193eb5397cde5a248675f1e9bf6e,tutorial1,15245,
 a/bg_profilecard_titlelogo_1002.unity3d,8d2d53e699f912352507ecf246cfa2d4,tutorial1,17945,
 a/bg_profilecard_titlelogo_1003.unity3d,660d1561bd342552e8c2cf376a782212,tutorial1,21055,
+a/bg_profilecard_titlelogo_1004.unity3d,e3389b5d202070428979cb4e85ae7199,tutorial1,16633,
 a/bg_skip_bg_material.unity3d,18e8265bd68e04e9326a29093a075b92,tutorial1,2075,
 a/bg_still_unit_100131.unity3d,8814cade263e9593773bd6c7063d9115,tutorial1,1346199,
 a/bg_still_unit_100161.unity3d,21eba71b71e50c8da45c06c95d33cf1a,tutorial1,1030272,
