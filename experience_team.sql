@@ -187,3 +187,6 @@ INSERT INTO `experience_team` VALUES (/*team_level*/185, /*total_exp*/525034, /*
 INSERT INTO `experience_team` VALUES (/*team_level*/186, /*total_exp*/529459, /*max_stamina*/244, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
 INSERT INTO `experience_team` VALUES (/*team_level*/187, /*total_exp*/533884, /*max_stamina*/245, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
 INSERT INTO `experience_team` VALUES (/*team_level*/188, /*total_exp*/538309, /*max_stamina*/246, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
+INSERT INTO `experience_team` VALUES (/*team_level*/189, /*total_exp*/542734, /*max_stamina*/247, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
+INSERT INTO `experience_team` VALUES (/*team_level*/190, /*total_exp*/547159, /*max_stamina*/248, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
+INSERT INTO `experience_team` VALUES (/*team_level*/191, /*total_exp*/551584, /*max_stamina*/249, /*over_limit_stamina*/999, /*recover_stamina_count*/30);
