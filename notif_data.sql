@@ -857,4 +857,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/115701, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/115701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいじゃないか！どうして気づかなかったんだい？海で遊び過ぎた？ふふ、困った助手くんだね♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/115701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいと見た。君の雇い主として、使い道をしっかりと管理させてもらおうかな。まずは海の家にでも行こうか。お腹が空いてきたよ♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/115701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱい…何かの暗号かな？一つ一つ整理しながら、夏の真実へと近づくとしよう");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180601, /*notif_type*/1, /*comment*/"スタミナが全回復したわよ。使わないのはもったいないし、冒険に行くんならついてってあげてもいいわよ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180601, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいみたいね。じゃんじゃんスキップして先に進みましょ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180601, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいね。ちょうど体を動かしたい気分なの。少し散歩につき合ってくれない？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180601, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだわ。強くなって損はないんだし、ぱーっと使っちゃいましょ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいよ！さっそく使っちゃいましょ。でも、使い道はしっかり考えなさいよ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/180601, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいになったわ。もらえるものはちゃんともらっときましょ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115801, /*notif_type*/1, /*comment*/"スタミナが全回復したみたい！一緒に踊りましょ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115801, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいよ！レッスンがはかどるわね♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115801, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいみたい。これで一緒にたくさん踊りのレッスンができるわね♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115801, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいよ。これで上手に踊れるようになるわね♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115801, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいよ！キラキラ光ってシャンデリアみたい♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/115801, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいよ！早く取りに行きましょう♪");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
