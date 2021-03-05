@@ -2,7 +2,7 @@ CREATE TABLE 'actual_unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' T
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100131, /*unit_name*/"春咲 ひより", /*bg_id*/510100, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100231, /*unit_name*/"草野 優衣", /*bg_id*/510220, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100331, /*unit_name*/"士条 怜", /*bg_id*/510350, /*face_type*/2);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100431, /*unit_name*/"穂高 みそぎ", /*bg_id*/510330, /*face_type*/4);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100431, /*unit_name*/"穂高 みそぎ", /*bg_id*/510340, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100531, /*unit_name*/"織原 茉莉", /*bg_id*/510010, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100631, /*unit_name*/"風宮 あかり", /*bg_id*/510120, /*face_type*/8);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/100731, /*unit_name*/"出雲 宮子", /*bg_id*/510090, /*face_type*/4);
@@ -17,7 +17,7 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/101532, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/101631, /*unit_name*/"美波 鈴奈", /*bg_id*/510300, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/101731, /*unit_name*/"喜屋武 香織", /*bg_id*/510050, /*face_type*/9);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/101831, /*unit_name*/"支倉 伊緒", /*bg_id*/510220, /*face_type*/2);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/102031, /*unit_name*/"茜 ミミ", /*bg_id*/510120, /*face_type*/4);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/102031, /*unit_name*/"茜 ミミ", /*bg_id*/510330, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/102131, /*unit_name*/"栗林 くるみ", /*bg_id*/510100, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/102232, /*unit_name*/"風宮 より", /*bg_id*/510350, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/102331, /*unit_name*/"北条 綾音", /*bg_id*/510200, /*face_type*/1);

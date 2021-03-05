@@ -4452,4 +4452,10 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4914, /*unit_id*/115901, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4915, /*unit_id*/115901, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あったけぇ…\nちょっとだけなら、\n寝ちまっても\nいいよな…？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4917, /*unit_id*/115901, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"これうめえな！\nたぶん材料は…よし！\nあたしも作ってみるか", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4918, /*unit_id*/115901, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この本は…\n誰でも分かる作法…か\n最低限このぐらいは\n勉強しとくか…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4920, /*unit_id*/102001, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ミミがおとなに\nなっても\nおにいちゃんとは\nずーっといっしょ♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4921, /*unit_id*/102001, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ミミとくべつなだっこ\nしてほしいな…うん！\nおひめさまだっこ～♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4922, /*unit_id*/100401, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"次はにいちゃんに\nどんなイタズラしよう\n早く会いたいな～", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4923, /*unit_id*/100401, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ミソギの特別な\nイタズラ見てくれる？\nいいよねっ♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4924, /*unit_id*/103601, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"大人になったら、\nあの人と何しようかな\n…楽しみだなぁ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4925, /*unit_id*/103601, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"頭を撫でないで\nください！　もう、\n少しだけ、ですからね", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
