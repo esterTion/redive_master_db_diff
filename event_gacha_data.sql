@@ -60,4 +60,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10059, /*event_id*/10059, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10060, /*event_id*/10060, /*gacha_name*/"魔法少女　二人はミスティ＆ピュアリー", /*item_type*/2, /*item_id*/60592, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10061, /*event_id*/10061, /*gacha_name*/"シンデレラレッスン　華やかなる日々はリンゴの味", /*item_type*/2, /*item_id*/60602, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10062, /*event_id*/10062, /*gacha_name*/"スターライトプリンセス　Re:M@STER！", /*item_type*/2, /*item_id*/60612, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10063, /*event_id*/10063, /*gacha_name*/"スターライトプリンセス　Re:M@STER！", /*item_type*/2, /*item_id*/60612, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
