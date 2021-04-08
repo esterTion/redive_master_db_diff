@@ -4500,4 +4500,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4970, /*unit_id*/116301, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4971, /*unit_id*/116301, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この火を使って\n聖火リレーしましょう\n先輩、一本抜いて！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4973, /*unit_id*/116301, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あむあむ…ちゃんと\n食べないとユニ先輩\nみたいになっちゃう！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4974, /*unit_id*/116301, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふむふむ…ちゃんと\n読まないとクロエ先輩\nみたいになっちゃう！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4976, /*unit_id*/102901, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今なら書ける気がする\n私の本当の\n想いを込めた\nラブソングを！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4977, /*unit_id*/102901, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"輝きを増した私を\nいっぱい見てね！\n…ちょ、ちょっと\n見つめすぎだよ！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

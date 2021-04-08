@@ -2057,7 +2057,7 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13025002, /*area_id*/13025, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13025003, /*area_id*/13025, /*quest_name*/"レディウス群峰・東麓 25-3", /*wave_group_id_1*/103250307, /*bg_skip_id*/101801);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13026001, /*area_id*/13026, /*quest_name*/"ペテロ大森林・西部 26-1", /*wave_group_id_1*/103260101, /*bg_skip_id*/101641);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13026002, /*area_id*/13026, /*quest_name*/"ペテロ大森林・西部 26-2", /*wave_group_id_1*/103260201, /*bg_skip_id*/101691);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13026003, /*area_id*/13026, /*quest_name*/"ペテロ大森林・西部 26-3", /*wave_group_id_1*/103240301, /*bg_skip_id*/101841);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13026003, /*area_id*/13026, /*quest_name*/"ペテロ大森林・西部 26-3", /*wave_group_id_1*/103260305, /*bg_skip_id*/101841);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001003, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv3", /*wave_group_id_1*/108010308, /*bg_skip_id*/101341);
