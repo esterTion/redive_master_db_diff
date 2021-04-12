@@ -1,1 +1,8 @@
 CREATE TABLE 'dungeon_skip_data' ('area_id' INTEGER NOT NULL, 'skip_motion_id' INTEGER NOT NULL, 'skip_bg_id' INTEGER NOT NULL, 'skip_position_x' INTEGER NOT NULL, 'skip_position_y' INTEGER NOT NULL, 'skip_scale_x' REAL NOT NULL, 'skip_scale_y' REAL NOT NULL, PRIMARY KEY('area_id'));
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31001, /*skip_motion_id*/300900, /*skip_bg_id*/100721, /*skip_position_x*/0, /*skip_position_y*/-10, /*skip_scale_x*/0.8, /*skip_scale_y*/0.8);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31002, /*skip_motion_id*/302300, /*skip_bg_id*/100722, /*skip_position_x*/0, /*skip_position_y*/-40, /*skip_scale_x*/0.7, /*skip_scale_y*/0.7);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31003, /*skip_motion_id*/302400, /*skip_bg_id*/100261, /*skip_position_x*/0, /*skip_position_y*/-40, /*skip_scale_x*/0.8, /*skip_scale_y*/0.8);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31004, /*skip_motion_id*/302500, /*skip_bg_id*/100283, /*skip_position_x*/0, /*skip_position_y*/-20, /*skip_scale_x*/0.9, /*skip_scale_y*/0.9);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31005, /*skip_motion_id*/301700, /*skip_bg_id*/101611, /*skip_position_x*/0, /*skip_position_y*/-10, /*skip_scale_x*/0.9, /*skip_scale_y*/0.9);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31006, /*skip_motion_id*/310100, /*skip_bg_id*/102174, /*skip_position_x*/0, /*skip_position_y*/-40, /*skip_scale_x*/0.7, /*skip_scale_y*/0.7);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31007, /*skip_motion_id*/399800, /*skip_bg_id*/102751, /*skip_position_x*/-80, /*skip_position_y*/-60, /*skip_scale_x*/0.3, /*skip_scale_y*/0.3);

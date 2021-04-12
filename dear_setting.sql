@@ -1,5 +1,4 @@
 CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT NULL, 'tutorial_quest_id' INTEGER NOT NULL, 'tutorial_chara_index' INTEGER NOT NULL, 'tutorial_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id'));
-INSERT INTO `dear_setting` VALUES (/*event_id*/10038, /*system_name*/"信頼度", /*tutorial_quest_id*/10038103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6038101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10040, /*system_name*/"信頼度", /*tutorial_quest_id*/10040103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6040101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10042, /*system_name*/"信頼度", /*tutorial_quest_id*/10042103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6042101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10043, /*system_name*/"信頼度", /*tutorial_quest_id*/10043102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6019101);
@@ -16,3 +15,4 @@ INSERT INTO `dear_setting` VALUES (/*event_id*/10055, /*system_name*/"信頼度"
 INSERT INTO `dear_setting` VALUES (/*event_id*/10056, /*system_name*/"信頼度", /*tutorial_quest_id*/10056103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6056101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10060, /*system_name*/"信頼度", /*tutorial_quest_id*/10060103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6033201);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10061, /*system_name*/"信頼度", /*tutorial_quest_id*/10061106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6061101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10065, /*system_name*/"信頼度", /*tutorial_quest_id*/10065103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6038101);

@@ -85,3 +85,4 @@ INSERT INTO `room_effect_reward_get` VALUES (/*id*/7, /*level*/1, /*reward_type*
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/8, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600);
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/11, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600);
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/12, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600);
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/19, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600);
