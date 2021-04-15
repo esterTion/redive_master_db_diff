@@ -12,3 +12,4 @@ INSERT INTO `shiori_item` VALUES (/*event_id*/20010, /*unit_material_id_1*/31089
 INSERT INTO `shiori_item` VALUES (/*event_id*/20011, /*unit_material_id_1*/31090, /*unit_material_id_2*/31011);
 INSERT INTO `shiori_item` VALUES (/*event_id*/20012, /*unit_material_id_1*/31043, /*unit_material_id_2*/31008);
 INSERT INTO `shiori_item` VALUES (/*event_id*/20013, /*unit_material_id_1*/31093, /*unit_material_id_2*/31018);
+INSERT INTO `shiori_item` VALUES (/*event_id*/20014, /*unit_material_id_1*/31053, /*unit_material_id_2*/31045);
