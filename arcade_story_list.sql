@@ -7,6 +7,7 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027700, /*arcade_id*/1004, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027701, /*arcade_id*/1004, /*sub_title*/"過熱する戦い");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027702, /*arcade_id*/1004, /*sub_title*/"真打登場");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027703, /*arcade_id*/1004, /*sub_title*/"戦いの果てに……");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027704, /*arcade_id*/1004, /*sub_title*/"さらなる高みへ！");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040700, /*arcade_id*/1005, /*sub_title*/"チーズを見張ろう！");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040701, /*arcade_id*/1005, /*sub_title*/"小さき敵との攻防");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040702, /*arcade_id*/1005, /*sub_title*/"チーズの誘惑");

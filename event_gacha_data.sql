@@ -63,5 +63,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10062, /*event_id*/10062, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10063, /*event_id*/10063, /*gacha_name*/"スターライトプリンセス　Re:M@STER！", /*item_type*/2, /*item_id*/60612, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10064, /*event_id*/10064, /*gacha_name*/"鋼の聖女と聖なる学舎の異端児", /*item_type*/2, /*item_id*/60632, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10065, /*event_id*/10065, /*gacha_name*/"授けの財団と聖なる学舎の異端児", /*item_type*/2, /*item_id*/60642, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10066, /*event_id*/10066, /*gacha_name*/"イノリＳＯＳ！！　タイムトラベル・ドラゴンズ", /*item_type*/2, /*item_id*/60652, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

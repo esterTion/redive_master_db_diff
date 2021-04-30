@@ -16,3 +16,4 @@ INSERT INTO `dear_setting` VALUES (/*event_id*/10056, /*system_name*/"信頼度"
 INSERT INTO `dear_setting` VALUES (/*event_id*/10060, /*system_name*/"信頼度", /*tutorial_quest_id*/10060103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6033201);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10061, /*system_name*/"信頼度", /*tutorial_quest_id*/10061106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6061101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10065, /*system_name*/"信頼度", /*tutorial_quest_id*/10065103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6038101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10066, /*system_name*/"信頼度", /*tutorial_quest_id*/10066108, /*tutorial_chara_index*/1, /*tutorial_story_id*/6066101);
