@@ -21,7 +21,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/102001, /*unit_name*/"茜 ミ�
 INSERT INTO `unit_background` VALUES (/*unit_id*/102101, /*unit_name*/"栗林 くるみ", /*bg_id*/500110, /*bg_name*/"サレンディア救護院 広間", /*position*/0.0, /*face_type*/5);
 INSERT INTO `unit_background` VALUES (/*unit_id*/102201, /*unit_name*/"風宮 より", /*bg_id*/500260, /*bg_name*/"古城", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/102301, /*unit_name*/"北条 綾音", /*bg_id*/500110, /*bg_name*/"サレンディア救護院 広間", /*position*/0.0, /*face_type*/4);
-INSERT INTO `unit_background` VALUES (/*unit_id*/102501, /*unit_name*/"天野 すずめ", /*bg_id*/500110, /*bg_name*/"サレンディア救護院 広間", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/102501, /*unit_name*/"天野 すずめ", /*bg_id*/500110, /*bg_name*/"サレンディア救護院 広間", /*position*/0.0, /*face_type*/10);
 INSERT INTO `unit_background` VALUES (/*unit_id*/102601, /*unit_name*/"森近 鈴", /*bg_id*/500150, /*bg_name*/"牧場 拠点", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/102701, /*unit_name*/"倉石 恵理子", /*bg_id*/500050, /*bg_name*/"ランドソル 飲食店内", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/102801, /*unit_name*/"佐々木 咲恋", /*bg_id*/500110, /*bg_name*/"サレンディア救護院 広間", /*position*/0.0, /*face_type*/4);

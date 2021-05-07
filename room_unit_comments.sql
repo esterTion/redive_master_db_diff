@@ -4548,4 +4548,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5022, /*unit_id*/116501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5023, /*unit_id*/116501, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あったかいですねぇ\nちょっとこのまま\n一休憩です…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5025, /*unit_id*/116501, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"はむはむ♪\nボスたるもの食べねば\n戦はできませんよ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5026, /*unit_id*/116501, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ボスなら経済書ぐらい\n…う。難しくて\n読めねーです…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5028, /*unit_id*/102501, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あなたはドジな私を\n受け入れてくれる…\nだから、頑張れます！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5029, /*unit_id*/102501, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"何でも仰ってください\nちょっぴり大胆な\nことでも…な～んて♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
