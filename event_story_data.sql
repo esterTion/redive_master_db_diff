@@ -39,4 +39,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5059, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5061, /*story_type*/5, /*value*/10061, /*title*/"シンデレラレッスン　華やかなる日々はリンゴの味", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/02/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5064, /*story_type*/5, /*value*/10064, /*title*/"鋼の聖女と聖なる学舎の異端児", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/03/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5066, /*story_type*/5, /*value*/10066, /*title*/"イノリＳＯＳ！！　タイムトラベル・ドラゴンズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/04/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5068, /*story_type*/5, /*value*/10068, /*title*/"以心電心！　アオイ トイ フレンズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/05/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
