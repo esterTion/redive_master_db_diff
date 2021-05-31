@@ -724,5 +724,13 @@ INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/838, /*mission_reward_id*
 INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/839, /*mission_reward_id*/56011486, /*reward_type*/15, /*reward_id*/10201486, /*reward_num*/1, /*icon_type*/1002);
 INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/840, /*mission_reward_id*/56011487, /*reward_type*/15, /*reward_id*/10201487, /*reward_num*/1, /*icon_type*/1003);
 INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/841, /*mission_reward_id*/56011487, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50, /*icon_type*/0);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/842, /*mission_reward_id*/56011488, /*reward_type*/15, /*reward_id*/10201488, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/843, /*mission_reward_id*/56011489, /*reward_type*/15, /*reward_id*/10201489, /*reward_num*/1, /*icon_type*/1002);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/844, /*mission_reward_id*/56011490, /*reward_type*/15, /*reward_id*/10201490, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/845, /*mission_reward_id*/56011490, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50, /*icon_type*/0);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/846, /*mission_reward_id*/56011491, /*reward_type*/15, /*reward_id*/10201491, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/847, /*mission_reward_id*/56011492, /*reward_type*/15, /*reward_id*/10201492, /*reward_num*/1, /*icon_type*/1002);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/848, /*mission_reward_id*/56011493, /*reward_type*/15, /*reward_id*/10201493, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO `emblem_mission_reward_data` VALUES (/*id*/849, /*mission_reward_id*/56011493, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50, /*icon_type*/0);
 CREATE INDEX 'emblem_mission_reward_data_0_mission_reward_id' on 'emblem_mission_reward_data'('mission_reward_id');
 CREATE INDEX 'emblem_mission_reward_data_0_reward_id' on 'emblem_mission_reward_data'('reward_id');

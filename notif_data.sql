@@ -905,4 +905,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/116601, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/116601, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったな。なあキミ、景気づけに一本もらってもいいか？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/116601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったな。せっかくだしこれでパーっと豪華なツアーにしちまおうぜ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/116601, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになったな。早く取りにこないとガイドの土産で配っちまうぞ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116701, /*notif_type*/1, /*comment*/"スタミナが全回復しましたよ！これでバイト仲間作りを目指して、働きましょう…！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116701, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいです！バイト仲間もテンポ良く作れたらいいんですが…");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116701, /*notif_type*/3, /*comment*/"ギ、ギルドハウスのスタミナがいっぱいですよ！友達作りに出かけませんか…？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいです！ガ、ガブ飲みさせてください…！ぼっち卒業のために！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいです！これで、だいじょぶマイフレンドくんの更なるカスタマイズを…！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいですよ！友達もこんなにたくさんできたらいいなあ…！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116801, /*notif_type*/1, /*comment*/"スタミナが全回復したにゃ！よーし！今日もおもちゃ工場で元気に働くにゃ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116801, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったにゃ！これでおもちゃ作りも爆速でできるかにゃ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116801, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいにゃ！スタミナがあれば、もっとたくさんのおもちゃが作れるにゃ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116801, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったにゃ！この経験をおもちゃ工場の仕事に役立てるにゃ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116801, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったにゃ！これを使って高級たい焼きの型を作るなんてどうかにゃ？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/116801, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになったみたいにゃ！相棒、忘れないようににゃ！");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
