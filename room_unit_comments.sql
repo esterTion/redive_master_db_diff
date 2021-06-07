@@ -4616,4 +4616,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5099, /*unit_id*/116801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5100, /*unit_id*/116801, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふにゃ～…\nこのまま働かずに\nまるまってたいにゃ…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5102, /*unit_id*/116801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"商売は戦いにゃ\nたくさん食べて\nたくさん働くにゃ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5103, /*unit_id*/116801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふむふむ。たい焼きの\nアレンジレシピ集…\nためになるにゃ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5105, /*unit_id*/102101, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"お芝居の前に\nお兄ちゃんの顔を\n見ると、とっても\n落ち着きますぅ…♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5106, /*unit_id*/102101, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"お兄ちゃんにもっと\n見てもらいたい…\nだから私…\n強くなりたいです…！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
