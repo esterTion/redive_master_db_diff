@@ -2007,6 +2007,20 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11046011, /*area_id*/11046, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11046012, /*area_id*/11046, /*quest_name*/"ラテリ連山・崖上 46-12", /*wave_group_id_1*/101461201, /*bg_skip_id*/101621);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11046013, /*area_id*/11046, /*quest_name*/"ラテリ連山・崖上 46-13", /*wave_group_id_1*/101461303, /*bg_skip_id*/101621);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11046014, /*area_id*/11046, /*quest_name*/"ラテリ連山・崖上 46-14", /*wave_group_id_1*/101461404, /*bg_skip_id*/101121);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047001, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-1", /*wave_group_id_1*/101470102, /*bg_skip_id*/100101);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047002, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-2", /*wave_group_id_1*/101470201, /*bg_skip_id*/100101);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047003, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-3", /*wave_group_id_1*/101470305, /*bg_skip_id*/100101);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047004, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-4", /*wave_group_id_1*/101470401, /*bg_skip_id*/100101);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047005, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-5", /*wave_group_id_1*/101470506, /*bg_skip_id*/101621);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047006, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-6", /*wave_group_id_1*/101470603, /*bg_skip_id*/101621);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047007, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-7", /*wave_group_id_1*/101470701, /*bg_skip_id*/101621);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047008, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-8", /*wave_group_id_1*/101470807, /*bg_skip_id*/101621);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047009, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-9", /*wave_group_id_1*/101470903, /*bg_skip_id*/101621);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047010, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-10", /*wave_group_id_1*/101471004, /*bg_skip_id*/101621);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047011, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-11", /*wave_group_id_1*/101471107, /*bg_skip_id*/101111);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047012, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-12", /*wave_group_id_1*/101471201, /*bg_skip_id*/101111);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047013, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-13", /*wave_group_id_1*/101471304, /*bg_skip_id*/101081);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/11047014, /*area_id*/11047, /*quest_name*/"ラテリ連山・崖下 47-14", /*wave_group_id_1*/101471404, /*bg_skip_id*/101091);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12001001, /*area_id*/12001, /*quest_name*/"ジュノー平野 1-1（ハード）", /*wave_group_id_1*/101010101, /*bg_skip_id*/100911);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12001002, /*area_id*/12001, /*quest_name*/"ジュノー平野 1-2（ハード）", /*wave_group_id_1*/101010101, /*bg_skip_id*/100911);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12001003, /*area_id*/12001, /*quest_name*/"ジュノー平野 1-3（ハード）", /*wave_group_id_1*/101010101, /*bg_skip_id*/100361);
@@ -2145,6 +2159,9 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12045003, /*area_id*/12045, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12046001, /*area_id*/12046, /*quest_name*/"ラテリ連山・崖上 46-1", /*wave_group_id_1*/102460108, /*bg_skip_id*/100231);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12046002, /*area_id*/12046, /*quest_name*/"ラテリ連山・崖上 46-2", /*wave_group_id_1*/102460209, /*bg_skip_id*/100731);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12046003, /*area_id*/12046, /*quest_name*/"ラテリ連山・崖上 46-3", /*wave_group_id_1*/102460301, /*bg_skip_id*/101131);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12047001, /*area_id*/12047, /*quest_name*/"ラテリ連山・崖下 47-1", /*wave_group_id_1*/102470108, /*bg_skip_id*/100731);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12047002, /*area_id*/12047, /*quest_name*/"ラテリ連山・崖下 47-2", /*wave_group_id_1*/102470209, /*bg_skip_id*/101641);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12047003, /*area_id*/12047, /*quest_name*/"ラテリ連山・崖下 47-3", /*wave_group_id_1*/102470301, /*bg_skip_id*/101101);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018001, /*area_id*/13018, /*quest_name*/"ファエトン原野・北部 18-1", /*wave_group_id_1*/103180101, /*bg_skip_id*/101401);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018002, /*area_id*/13018, /*quest_name*/"ファエトン原野・北部 18-2", /*wave_group_id_1*/103180204, /*bg_skip_id*/100691);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018003, /*area_id*/13018, /*quest_name*/"ファエトン原野・北部 18-3", /*wave_group_id_1*/103180301, /*bg_skip_id*/101431);
@@ -2562,3 +2579,4 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73300510, /*area_id*/30, /*q
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73310520, /*area_id*/31, /*quest_name*/"ルナの塔回廊探索3月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73320530, /*area_id*/32, /*quest_name*/"ルナの塔回廊探索4月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73330540, /*area_id*/33, /*quest_name*/"ルナの塔回廊探索5月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73340550, /*area_id*/34, /*quest_name*/"ルナの塔回廊探索6月", /*wave_group_id_1*/720033005, /*bg_skip_id*/102051);
