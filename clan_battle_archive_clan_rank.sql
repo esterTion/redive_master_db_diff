@@ -1,1 +1,15 @@
 CREATE TABLE 'clan_battle_archive_clan_rank' ('id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/1, /*rank_from*/1, /*rank_to*/1);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/2, /*rank_from*/2, /*rank_to*/2);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/3, /*rank_from*/3, /*rank_to*/3);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/4, /*rank_from*/4, /*rank_to*/10);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/5, /*rank_from*/11, /*rank_to*/50);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/6, /*rank_from*/51, /*rank_to*/100);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/7, /*rank_from*/101, /*rank_to*/1000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/8, /*rank_from*/1001, /*rank_to*/2000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/9, /*rank_from*/2001, /*rank_to*/5000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/10, /*rank_from*/5001, /*rank_to*/7000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/11, /*rank_from*/7001, /*rank_to*/10000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/12, /*rank_from*/10001, /*rank_to*/15000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/13, /*rank_from*/15001, /*rank_to*/20000);
+INSERT INTO `clan_battle_archive_clan_rank` VALUES (/*id*/14, /*rank_from*/20001, /*rank_to*/-1);
