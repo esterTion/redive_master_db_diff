@@ -4686,4 +4686,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5179, /*unit_id*/117001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5180, /*unit_id*/117001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この薬の調合法…\n今度試してみましょう\nもちろんあのおかたに\n飲んでいただいて…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5182, /*unit_id*/117001, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"二人乗りができると\nいいですわね…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5183, /*unit_id*/117001, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふかふかですわ…\nあのおかたの分も\n欲しくなります…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5184, /*unit_id*/101701, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今日はキミと\nいつまでも歌って\n踊りたい気分さ～♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5185, /*unit_id*/101701, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あは～♪\nキミの隣は、故郷より\n落ち着くかも～…♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
