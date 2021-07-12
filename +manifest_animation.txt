@@ -165,6 +165,7 @@ a/animation_pcttapeffect.unity3d,b321a3b4c81d2e250a5d4fa4001e82bd,tutorial1,1345
 a/animation_pcttimeup.unity3d,3e2b37d99113d80aace25cfdeaaead14,tutorial1,9858,
 a/animation_pcttopbg.unity3d,cb811a6c4c58f36634207f827d1d2369,tutorial1,9115,
 a/animation_pointfall.unity3d,3269676408bf696f56b32b76f9b45eec,tutorial1,11300,
+a/animation_promotionbonusdetailbutton.unity3d,5ff0b404f48f881479c5f3ebe2c96a67,tutorial1,9131,
 a/animation_questbutton.unity3d,a9c66cac357d96c10970d22932847c21,tutorial1,9903,
 a/animation_questbuttontwosize.unity3d,41c8c21d1b5867e0d16e4524ce17b02c,tutorial1,9916,
 a/animation_questcharaleveluptext.unity3d,11848b4093da79fd02415c61643deb6d,tutorial1,9729,
