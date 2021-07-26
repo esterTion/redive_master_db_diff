@@ -41,4 +41,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5064, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5066, /*story_type*/5, /*value*/10066, /*title*/"イノリＳＯＳ！！　タイムトラベル・ドラゴンズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/04/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5068, /*story_type*/5, /*value*/10068, /*title*/"以心電心！ アオイトイフレンズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/05/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5070, /*story_type*/5, /*value*/10070, /*title*/"エンドレスサマープロデュース 真夏のふたり占めパラダイス", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/06/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5072, /*story_type*/5, /*value*/10072, /*title*/"カルミナサマーライブ　ジャストアモーメント！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/07/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

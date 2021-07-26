@@ -1,0 +1,1 @@
+CREATE TABLE 'cgg_goods_data' ('goods_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'rarity' INTEGER NOT NULL, 'shelf_position_id' INTEGER NOT NULL, 'detail_scale_x' REAL NOT NULL, 'detail_scale_y' REAL NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('goods_id'));

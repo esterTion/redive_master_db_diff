@@ -4,3 +4,4 @@ INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10002, /*group_name*/"プ�
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10003, /*group_name*/"プリンセスコネクト！Re:Dive 3");
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10004, /*group_name*/"プリンセスコネクト！Re:Dive 4");
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20001, /*group_name*/"プリンセスコネクト！Re:Dive 3周年記念");
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20002, /*group_name*/"公式アートワークス Vol.3 発売記念アイテム");
