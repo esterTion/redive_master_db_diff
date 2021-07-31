@@ -1,2 +1,5 @@
 CREATE TABLE 'cgg_gacha_info' ('gacha_type' INTEGER NOT NULL, 'cgg_id' INTEGER NOT NULL, 'gacha_name' TEXT NOT NULL, 'gacha_description' TEXT NOT NULL, 'cost_currency_num' INTEGER NOT NULL, 'gacha_intro' TEXT NOT NULL, PRIMARY KEY('gacha_type'));
+INSERT INTO `cgg_gacha_info` VALUES (/*gacha_type*/1, /*cgg_id*/1, /*gacha_name*/"スタンダードコレクション", /*gacha_description*/"スタンダードコレクションではポスターやペナントなど\n部屋に飾れる定番グッズが盛りだくさん！\nあなたの部屋をカルミナで彩ろう！", /*cost_currency_num*/3, /*gacha_intro*/"1回メダル{0}枚！\n定番グッズであなたの部屋をカルミナで彩ろう！");
+INSERT INTO `cgg_gacha_info` VALUES (/*gacha_type*/2, /*cgg_id*/1, /*gacha_name*/"プレミアムコレクション", /*gacha_description*/"プレミアムコレクションではサイン色紙や\nブロマイドなど、★★以上のグッズが盛りだくさん！\nレアグッズをたくさんゲットしよう！", /*cost_currency_num*/10, /*gacha_intro*/"1回メダル{0}枚！\nメンバー直筆サイン色紙など、★★以上のグッズを確定でゲット！");
+INSERT INTO `cgg_gacha_info` VALUES (/*gacha_type*/3, /*cgg_id*/1, /*gacha_name*/"フェスコレクション", /*gacha_description*/"フェスコレクションではカルミナサマーライブで\n大活躍するグッズが勢ぞろい！\nゲットしたグッズを片手に、いざライブ会場へ！", /*cost_currency_num*/3, /*gacha_intro*/"1回メダル{0}枚！\nカルミナライブに参加する際のマストアイテムをゲットしよう！");
 CREATE INDEX 'cgg_gacha_info_0_cgg_id' on 'cgg_gacha_info'('cgg_id');

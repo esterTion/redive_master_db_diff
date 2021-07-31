@@ -88,4 +88,14 @@ INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/87, /*login_bonus_id*/91
 INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/88, /*login_bonus_id*/9106802, /*reward_type*/2, /*reward_id*/31068, /*reward_num*/10);
 INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/89, /*login_bonus_id*/9105302, /*reward_type*/2, /*reward_id*/31053, /*reward_num*/10);
 INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/90, /*login_bonus_id*/9102702, /*reward_type*/2, /*reward_id*/31027, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/91, /*login_bonus_id*/9110802, /*reward_type*/2, /*reward_id*/31108, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/92, /*login_bonus_id*/9104302, /*reward_type*/2, /*reward_id*/31043, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/94, /*login_bonus_id*/9100402, /*reward_type*/2, /*reward_id*/31004, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/95, /*login_bonus_id*/9103702, /*reward_type*/2, /*reward_id*/31037, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/96, /*login_bonus_id*/9106102, /*reward_type*/2, /*reward_id*/31061, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/97, /*login_bonus_id*/9101802, /*reward_type*/2, /*reward_id*/31018, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/98, /*login_bonus_id*/9101302, /*reward_type*/2, /*reward_id*/31013, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/99, /*login_bonus_id*/9101102, /*reward_type*/2, /*reward_id*/31011, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/100, /*login_bonus_id*/9100102, /*reward_type*/2, /*reward_id*/31001, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/101, /*login_bonus_id*/9103002, /*reward_type*/2, /*reward_id*/31030, /*reward_num*/10);
 CREATE INDEX 'birthday_login_bonus_detail_0_login_bonus_id' on 'birthday_login_bonus_detail'('login_bonus_id');

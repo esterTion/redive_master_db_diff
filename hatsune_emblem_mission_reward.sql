@@ -247,5 +247,15 @@ INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/261, /*mission_reward_
 INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/262, /*mission_reward_id*/99001139, /*reward_type*/15, /*reward_id*/11001139, /*reward_num*/1, /*icon_type*/1003);
 INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/263, /*mission_reward_id*/99001139, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
 INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/264, /*mission_reward_id*/99001140, /*reward_type*/15, /*reward_id*/11001140, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/265, /*mission_reward_id*/99001142, /*reward_type*/15, /*reward_id*/11001142, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/266, /*mission_reward_id*/99001142, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/267, /*mission_reward_id*/99001143, /*reward_type*/15, /*reward_id*/11001143, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/268, /*mission_reward_id*/99001143, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/269, /*mission_reward_id*/99001144, /*reward_type*/15, /*reward_id*/11001144, /*reward_num*/1, /*icon_type*/1002);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/270, /*mission_reward_id*/99001144, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/271, /*mission_reward_id*/99001145, /*reward_type*/15, /*reward_id*/11001145, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/272, /*mission_reward_id*/99001145, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/273, /*mission_reward_id*/99001146, /*reward_type*/15, /*reward_id*/11001146, /*reward_num*/0, /*icon_type*/1001);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/274, /*mission_reward_id*/99001147, /*reward_type*/15, /*reward_id*/11001147, /*reward_num*/0, /*icon_type*/1002);
 CREATE INDEX 'hatsune_emblem_mission_reward_0_mission_reward_id' on 'hatsune_emblem_mission_reward'('mission_reward_id');
 CREATE INDEX 'hatsune_emblem_mission_reward_0_reward_id' on 'hatsune_emblem_mission_reward'('reward_id');
