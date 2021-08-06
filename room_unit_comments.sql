@@ -4760,4 +4760,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5262, /*unit_id*/117401, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5263, /*unit_id*/117401, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"次のトレンドは…\nふむふむ、やっぱり\nこう来ましたか…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5265, /*unit_id*/117401, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"デザインはもちろん\n触り心地も\n最高ですね♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5266, /*unit_id*/117401, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"夏の撮影スポットに\n活用できそうですね\nさっそく衣装考えて…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5267, /*unit_id*/104001, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"えへへ…♪\n団長さんが初めての\n友達で本当に良かった", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5268, /*unit_id*/104001, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あっ、団長さん！\n今日のＢＢ団の活動\nなんですけど…二人で\n大縄跳びしませんか！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

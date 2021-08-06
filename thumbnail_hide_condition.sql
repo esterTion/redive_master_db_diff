@@ -1,0 +1,1 @@
+CREATE TABLE 'thumbnail_hide_condition' ('story_group_id' INTEGER NOT NULL, 'hide_story_id_from' INTEGER NOT NULL, 'hide_story_id_to' INTEGER NOT NULL, 'unlock_condition_story_id' INTEGER NOT NULL, PRIMARY KEY('story_group_id'));
