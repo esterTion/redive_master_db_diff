@@ -97,4 +97,6 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000094, /*group_id*/20001, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000095, /*group_id*/20002, /*still_group_id*/0, /*still_name*/"公式アートワークス Vol.3 発売記念アイテム1", /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000096, /*group_id*/20002, /*still_group_id*/0, /*still_name*/"公式アートワークス Vol.3 発売記念アイテム2", /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000097, /*group_id*/20002, /*still_group_id*/0, /*still_name*/"公式アートワークス Vol.3 発売記念アイテム3", /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000098, /*group_id*/20003, /*still_group_id*/0, /*still_name*/"3.5周年記念カスタムマイページ1", /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000099, /*group_id*/20003, /*still_group_id*/0, /*still_name*/"3.5周年記念カスタムマイページ2", /*vertical_still_flg*/0, /*scroll_direction*/0);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');
