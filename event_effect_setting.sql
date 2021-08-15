@@ -5,9 +5,9 @@ INSERT INTO `event_effect_setting` VALUES (/*event_id*/20013, /*type*/3, /*value
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/20013, /*type*/5, /*value*/90001);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10043, /*type*/4, /*value*/80002);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10045, /*type*/4, /*value*/80003);
-INSERT INTO `event_effect_setting` VALUES (/*event_id*/10049, /*type*/1, /*value*/91001);
-INSERT INTO `event_effect_setting` VALUES (/*event_id*/10049, /*type*/2, /*value*/91002);
-INSERT INTO `event_effect_setting` VALUES (/*event_id*/10049, /*type*/3, /*value*/91001);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/20018, /*type*/1, /*value*/91001);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/20018, /*type*/2, /*value*/91002);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/20018, /*type*/3, /*value*/91001);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10050, /*type*/1, /*value*/91001);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10050, /*type*/2, /*value*/91002);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10050, /*type*/3, /*value*/91001);
