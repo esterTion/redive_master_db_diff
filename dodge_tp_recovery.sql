@@ -14,6 +14,7 @@ INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/113, /*recovery_ratio*/0.0)
 INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/114, /*recovery_ratio*/0.0);
 INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/115, /*recovery_ratio*/0.0);
 INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/120, /*recovery_ratio*/0.0);
+INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/121, /*recovery_ratio*/0.0);
 INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/401, /*recovery_ratio*/0.0);
 INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/402, /*recovery_ratio*/0.0);
 INSERT INTO `dodge_tp_recovery` VALUES (/*system_id*/501, /*recovery_ratio*/0.0);

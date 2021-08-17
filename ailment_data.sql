@@ -32,3 +32,8 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/30, /*ailment_action*/8, /*ailm
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/31, /*ailment_action*/76, /*ailment_detail_1*/-1, /*ailment_name*/"ＨＰ回復量減少");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/32, /*ailment_action*/78, /*ailment_detail_1*/-1, /*ailment_name*/"弱体被ダメージ上昇");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/33, /*ailment_action*/79, /*ailment_detail_1*/-1, /*ailment_name*/"行動時毒ダメージ");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/34, /*ailment_action*/8, /*ailment_detail_1*/14, /*ailment_name*/"スタン2");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/35, /*ailment_action*/9, /*ailment_detail_1*/7, /*ailment_name*/"毒2");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/36, /*ailment_action*/9, /*ailment_detail_1*/8, /*ailment_name*/"呪い2");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/37, /*ailment_action*/11, /*ailment_detail_1*/2, /*ailment_name*/"混乱2");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/38, /*ailment_action*/8, /*ailment_detail_1*/13, /*ailment_name*/"結晶化");
