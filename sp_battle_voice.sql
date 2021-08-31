@@ -1,2 +1,15 @@
 CREATE TABLE 'sp_battle_voice' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'voice_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, PRIMARY KEY('id','unit_id'));
+INSERT INTO `sp_battle_voice` VALUES (/*id*/1, /*unit_id*/180701, /*voice_type*/1001, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/2, /*unit_id*/180701, /*voice_type*/1002, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/3, /*unit_id*/180701, /*voice_type*/1003, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/4, /*unit_id*/180701, /*voice_type*/1004, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/5, /*unit_id*/180701, /*voice_type*/1005, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/6, /*unit_id*/180701, /*voice_type*/1014, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/7, /*unit_id*/180701, /*voice_type*/1015, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/8, /*unit_id*/180701, /*voice_type*/1016, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/9, /*unit_id*/180701, /*voice_type*/1017, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/10, /*unit_id*/180701, /*voice_type*/1010, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/11, /*unit_id*/180701, /*voice_type*/1011, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/12, /*unit_id*/180701, /*voice_type*/1012, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/13, /*unit_id*/180701, /*voice_type*/1013, /*value*/2);
 CREATE INDEX 'sp_battle_voice_0_unit_id' on 'sp_battle_voice'('unit_id');

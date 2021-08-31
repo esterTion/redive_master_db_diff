@@ -27,3 +27,6 @@ INSERT INTO `room_chat_info` VALUES (/*id*/25, /*formation_id*/5, /*scenario_id*
 INSERT INTO `room_chat_info` VALUES (/*id*/26, /*formation_id*/6, /*scenario_id*/26);
 INSERT INTO `room_chat_info` VALUES (/*id*/27, /*formation_id*/6, /*scenario_id*/27);
 INSERT INTO `room_chat_info` VALUES (/*id*/28, /*formation_id*/6, /*scenario_id*/28);
+INSERT INTO `room_chat_info` VALUES (/*id*/29, /*formation_id*/7, /*scenario_id*/29);
+INSERT INTO `room_chat_info` VALUES (/*id*/30, /*formation_id*/8, /*scenario_id*/30);
+INSERT INTO `room_chat_info` VALUES (/*id*/31, /*formation_id*/8, /*scenario_id*/31);

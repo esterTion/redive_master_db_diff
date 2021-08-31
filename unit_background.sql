@@ -160,3 +160,4 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/180301, /*unit_name*/"レイ（
 INSERT INTO `unit_background` VALUES (/*unit_id*/180401, /*unit_name*/"ぺコリーヌ（プリンセス）", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180501, /*unit_name*/"コッコロ（プリンセス）", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180601, /*unit_name*/"キャル（プリンセス）", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/18);
+INSERT INTO `unit_background` VALUES (/*unit_id*/180701, /*unit_name*/"ハツネ＆シオリ", /*bg_id*/501370, /*bg_name*/"滝壺_昼", /*position*/0.0, /*face_type*/2);
