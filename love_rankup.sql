@@ -6,4 +6,8 @@ INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/5, /*effect_un
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/6, /*effect_unit_id*/118301);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/7, /*effect_unit_id*/118401);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/8, /*effect_unit_id*/118301);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/9, /*effect_unit_id*/170101);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/10, /*effect_unit_id*/170101);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/11, /*effect_unit_id*/170101);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/12, /*effect_unit_id*/170101);
 CREATE INDEX 'love_rankup_0_unit_id' on 'love_rankup'('unit_id');

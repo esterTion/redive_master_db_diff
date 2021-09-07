@@ -1851,7 +1851,7 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/1953, /*unit_id*/105701, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/1954, /*unit_id*/105701, /*trigger*/1, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"騎空艇に乗って、\n誰もいったことがない\n場所を見つけたいな", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/1955, /*unit_id*/105701, /*trigger*/1, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"父さん以上の\n世界一の\n騎空士になりたい！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/1956, /*unit_id*/105701, /*trigger*/1, /*voice_id*/101, /*beloved_step*/4, /*time*/0, /*face_id*/1, /*description*/"仲間と行く空の旅…\n何度想像しても\nドキドキするなぁ", /*insert_word_type*/0);
-INSERT INTO `room_unit_comments` VALUES (/*id*/1957, /*unit_id*/105701, /*trigger*/1, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/"父さん……\n私にもね、大切な\n仲間ができたよ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/1957, /*unit_id*/105701, /*trigger*/1, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/"父さん…\n私にもね、大切な\n仲間ができたよ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/1958, /*unit_id*/105701, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"仕事の依頼？\nすぐに支度\nしてくるね！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/1959, /*unit_id*/105701, /*trigger*/2, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ねえねえ！\n団員募集のポスター\n一緒に作ろうよ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/1960, /*unit_id*/105701, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"なーにー？\nどうしたの？\n今呼んだよね？", /*insert_word_type*/0);
@@ -4852,4 +4852,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5367, /*unit_id*/117501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5368, /*unit_id*/117501, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"冷えは病につながるわ\nしっかり温めて\n体をいたわりましょ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5370, /*unit_id*/117501, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"おいしい♪\n研究のお供に\nもってこいの\n味だわ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5371, /*unit_id*/117501, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"医学は日進月歩…\n闇医者とはいえ\n最新の論文には\n目を通しておかないと", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5425, /*unit_id*/105701, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"仲間のためなら\nきっと…どこまでも\n強くなれるよね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5426, /*unit_id*/105701, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"プリンセスフォーム？\n私と同じような力を\n持ってる人がいるの？\n会ってみたいな～！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
