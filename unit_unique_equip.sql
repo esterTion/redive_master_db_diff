@@ -120,3 +120,5 @@ INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/113301, /*equip_slot*/1, /*eq
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/113401, /*equip_slot*/1, /*equip_id*/131341);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/113501, /*equip_slot*/1, /*equip_id*/131351);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/113601, /*equip_slot*/1, /*equip_id*/131361);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/113701, /*equip_slot*/1, /*equip_id*/131371);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/113801, /*equip_slot*/1, /*equip_id*/131381);
