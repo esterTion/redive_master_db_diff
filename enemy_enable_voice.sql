@@ -24,6 +24,7 @@ INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308203, /*voice_id*/308200);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308204, /*voice_id*/308204);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308205, /*voice_id*/308200);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308206, /*voice_id*/308200);
+INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308207, /*voice_id*/308200);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308400, /*voice_id*/308400);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308401, /*voice_id*/308400);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/308402, /*voice_id*/308400);
