@@ -103,3 +103,4 @@ INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9111001, /*nam
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9112401, /*name*/"ウヅキ（デレマス）「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-04-24 05:00:00", /*end_time*/"2020-04-25 04:59:59", /*adv_id*/1124500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9112501, /*name*/"リン「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-08-10 05:00:00", /*end_time*/"2020-08-11 04:59:59", /*adv_id*/1125500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9112601, /*name*/"ミオ（デレマス）「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2020-12-01 05:00:00", /*end_time*/"2020-12-02 04:59:59", /*adv_id*/1126500);
+INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9118002, /*name*/"クレジッタ「バースデーストーリー」", /*login_bonus_type*/9, /*start_time*/"2021/09/19 5:00:00", /*end_time*/"2021/09/20 4:59:59", /*adv_id*/1180501);
