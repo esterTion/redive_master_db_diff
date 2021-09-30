@@ -983,4 +983,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/118001, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/118001, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになりましたわよ。お茶の代わりに一服しませんこと？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/118001, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったようですわね。無駄にしてはなりませんわよ？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/118001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになりましたわ！さぁさ、我が陛下に献上するのです！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117701, /*notif_type*/1, /*comment*/"スタミナが全回復したみたいだね～♪ハロウィンセイバーズ、出動さ～！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117701, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいさ～！これがあればたくさんサーターアンダギーを作れるさ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117701, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナ、いっぱいだよ～？一緒にランドソルのハロウィンを楽しみ尽くすさ～！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいさ～！これでお菓子作りの腕も上がったりしないかな～？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだね～せっかくのハロウィンだし、イタズラグッズでも買いにいくさ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117701, /*notif_type*/6, /*comment*/"ギルドハウスのアイテムがいっぱいさ～！早く受け取りに来てね～お菓子を用意して待ってるさ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117801, /*notif_type*/1, /*comment*/"スタミナが全回復したデス！ハロウィンセイバーズ、出動デース！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117801, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいデス！踊れや騒げや、ハロウィンパレードに出かけまショウ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117801, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになりまシタ！ヒャッキヤコウを始めまショウ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117801, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになりまシタ！悪霊退治に活かすデース！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117801, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいデス！バラまいて家来を増やすデス！宵越しのゼニは持ちまセン！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/117801, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいになりまシタ！金銀財宝ウハウハデース！");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

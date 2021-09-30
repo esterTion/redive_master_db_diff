@@ -1,2 +1,2 @@
-a/resourcedefine_bundlerelation.unity3d,a9b011116fc6b88a63f6527b40ed14cc,tutorial0,21506,
+a/resourcedefine_bundlerelation.unity3d,8b4fc6e934b1116a71b0c1f1b72b0a7a,tutorial0,21722,
 a/resourcedefine_resourcedefine.unity3d,84b85548400c2ef4f32be87f6784ca32,tutorial2,1230,
