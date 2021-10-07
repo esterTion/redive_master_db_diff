@@ -4944,4 +4944,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5499, /*unit_id*/117801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5501, /*unit_id*/117801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ついつい食べすぎて\nしまうのは\n妖魔のせいデスか！？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5502, /*unit_id*/117801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"トーゴク妖怪の\n図鑑デス！　個性的な\n妖怪ばかりデスね！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5504, /*unit_id*/117801, /*trigger*/3, /*voice_id*/12, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ハロウィンの甘味を\n集めまシタよ！\nショーグンへの\n貢ぎ物デス！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5531, /*unit_id*/101301, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"彼と二人で\n買い物に…って…\nこれってデートに\nなっちゃうのかな！？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5532, /*unit_id*/101301, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"とうっ！　どうどう？\n今の決めポーズ！\nかっこいいよね♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
