@@ -153,6 +153,7 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/117731, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/117831, /*unit_name*/"ニノン・ジュベール", /*bg_id*/510220, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/117931, /*unit_name*/"美波 鈴奈", /*bg_id*/510300, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/118031, /*unit_name*/"クレア・ボヤンシア", /*bg_id*/510100, /*face_type*/4);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/118531, /*unit_name*/"観崎 佳凛", /*bg_id*/510100, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/180131, /*unit_name*/"春咲 ひより", /*bg_id*/510121, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/180231, /*unit_name*/"草野 優衣", /*bg_id*/510350, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/180331, /*unit_name*/"士条 怜", /*bg_id*/510100, /*face_type*/2);

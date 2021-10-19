@@ -197,6 +197,8 @@ a/animation_raceloginbonuslogo.unity3d,82fff8687d6a4c5f53876060fbbcc21f,tutorial
 a/animation_racewaveeffect.unity3d,50017c288c11d3e5fca31cbd47d83bc0,tutorial1,10679,
 a/animation_rarityupsixstar.unity3d,02678f87f4bf3facd5484a7fc7f11b62,tutorial1,24837,
 a/animation_readystarttext.unity3d,6029320cfe856f5cb7a3c845c7121291,tutorial1,10396,
+a/animation_redeemunit.unity3d,faa21b0248140c387adb860b127b0ae1,tutorial1,10805,
+a/animation_redeemunitrelease.unity3d,16a8d83dedc23618b8558a0b0ce67445,tutorial1,41439,
 a/animation_resulteffect.unity3d,c73f19552fe4134be7cf47e914cd2a53,tutorial1,9912,
 a/animation_resulticonitemrare.unity3d,e1408191ad3aea74a93ee88ba9be14dd,tutorial1,10906,
 a/animation_resulttextanimation.unity3d,f19ad0dc48b91fa0809901739613639b,tutorial1,10347,

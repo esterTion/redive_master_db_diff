@@ -212,6 +212,8 @@ a/banner_banner_c_10011.unity3d,62a1060191c5e3b80ebc8a67975ff2d8,tutorial1,25496
 a/banner_banner_c_10012.unity3d,ce34f13687bfd3292b61c8eb7614e3de,tutorial1,28770,
 a/banner_banner_campaign_00001.unity3d,dc8f48f4a53095a55893108956789703,tutorial1,20394,
 a/banner_banner_campaign_end_00001.unity3d,d88aa927211e61b5997251d5f8666cca,tutorial1,20377,
+a/banner_banner_redeem_91185.unity3d,5a4de5d9537ecd634f1c58ccfedb9b29,tutorial1,23663,
+a/banner_banner_redeem_on_91185.unity3d,fcf41790f9dd5a955f131d9a8e056086,tutorial1,23643,
 a/banner_banner_room_20006.unity3d,3ace089a2a0a1fce49c24762aedf0142,tutorial1,19367,
 a/banner_banner_room_20007.unity3d,e87feeca11afb049c1ad9bc1506a6f15,tutorial1,18147,
 a/banner_banner_room_20008.unity3d,6e4510b10231d6711dd2f6c6b298f03f,tutorial1,18013,
