@@ -1,1 +1,2 @@
 CREATE TABLE 'exceed_level_stage' ('exceed_stage' INTEGER NOT NULL, 'increase_level_limit' INTEGER NOT NULL, 'unlock_quest_id' INTEGER NOT NULL, 'unlock_team_level' INTEGER NOT NULL, 'general_exceed_item_id' INTEGER NOT NULL, PRIMARY KEY('exceed_stage'));
+INSERT INTO `exceed_level_stage` VALUES (/*exceed_stage*/1, /*increase_level_limit*/10, /*unlock_quest_id*/11019005, /*unlock_team_level*/-1, /*general_exceed_item_id*/41000);

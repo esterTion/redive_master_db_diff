@@ -1007,4 +1007,10 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/118501, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/118501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになりました。これを飲んで高難度の依頼に挑戦しましょう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/118501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいです。有効活用して立派なギルドに成長してくださいね♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/118501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになりました！備品の補充も大事な仕事ですよ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/106701, /*notif_type*/1, /*comment*/"スタミナが全回復したよ～☆元気なら私とおでかけしてほしいな～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/106701, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだね♪じゃんじゃん使っちゃおう～☆");
+INSERT INTO `notif_data` VALUES (/*unit_id*/106701, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだ～☆これだけあれば、もっと一緒に戦えるね…♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/106701, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったね～☆私を強くしてくれるよね～？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/106701, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったよ～♪使い道は私がちゃ～んと見ておくね…☆");
+INSERT INTO `notif_data` VALUES (/*unit_id*/106701, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが全部いっぱいだって～☆もっと楽しいことができそう…わくわくしてきちゃった～♪");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
