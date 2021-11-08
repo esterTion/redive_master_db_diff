@@ -5035,4 +5035,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5629, /*unit_id*/119001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5630, /*unit_id*/119001, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"やんっ♪\n燃え上がる愛みたい♪\n火照ってきちゃった♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5632, /*unit_id*/119001, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"生徒の見本に\nなれるように\n好き嫌いはしないの", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5633, /*unit_id*/119001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"『学び舎に咲く禁断の\n愛』？　気になるわ…\nううん、ダメよっ！\nでも…ちょっとだけ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5635, /*unit_id*/106301, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"次に会う時は、\nまたあそこに一緒に…\nえへへ…！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5636, /*unit_id*/106301, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"横顔見てるの、\nバレてないよね…？\n…ちらっ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5637, /*unit_id*/105301, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"背が少し伸びたか！？\nあ、あいつのところへ\n報告に行かねばっ！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5638, /*unit_id*/105301, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"私も貴公の隣に\n立っていられるよう\n日々精進していくぞ！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
