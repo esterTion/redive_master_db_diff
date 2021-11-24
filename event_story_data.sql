@@ -45,4 +45,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5072, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5074, /*story_type*/5, /*value*/10074, /*title*/"イリーガルオーエドカルテ　\nDr.ミツキの診察室", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/08/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5076, /*story_type*/5, /*value*/10076, /*title*/"ハロウィンセイバーズ・スクランブル！　もふもふ捕獲大作戦", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/09/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5078, /*story_type*/5, /*value*/10078, /*title*/"魔法少女外伝　\nマジカル★ノワールズ！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/10/25 18:30:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5080, /*story_type*/5, /*value*/10080, /*title*/"メリープリンクリスマス！　\n空舞う少女とまごころのお菓子", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2021/11/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
