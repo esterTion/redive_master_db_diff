@@ -21,6 +21,7 @@ INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/19, /*reward_type
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/20, /*reward_type*/2, /*reward_id*/23001, /*max_count*/24, /*inc_step*/3, /*interval_second*/6000, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/21, /*reward_type*/2, /*reward_id*/23001, /*max_count*/48, /*inc_step*/3, /*interval_second*/5700, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/22, /*reward_type*/2, /*reward_id*/23001, /*max_count*/48, /*inc_step*/3, /*interval_second*/5400, /*stock_min_step*/"", /*stock_mid_step*/"");
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/23, /*reward_type*/2, /*reward_id*/23001, /*max_count*/51, /*inc_step*/3, /*interval_second*/5220, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/80, /*inc_step*/20, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/2, /*reward_type*/6, /*reward_id*/93001, /*max_count*/96, /*inc_step*/24, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/3, /*reward_type*/6, /*reward_id*/93001, /*max_count*/112, /*inc_step*/28, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
@@ -43,6 +44,7 @@ INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/19, /*reward_type
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/20, /*reward_type*/6, /*reward_id*/93001, /*max_count*/248, /*inc_step*/62, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/21, /*reward_type*/6, /*reward_id*/93001, /*max_count*/256, /*inc_step*/64, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/22, /*reward_type*/6, /*reward_id*/93001, /*max_count*/264, /*inc_step*/66, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/23, /*reward_type*/6, /*reward_id*/93001, /*max_count*/272, /*inc_step*/68, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/1, /*reward_type*/2, /*reward_id*/20001, /*max_count*/3, /*inc_step*/1, /*interval_second*/14400, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/2, /*reward_type*/2, /*reward_id*/20001, /*max_count*/5, /*inc_step*/1, /*interval_second*/9600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/3, /*reward_type*/2, /*reward_id*/20001, /*max_count*/7, /*inc_step*/1, /*interval_second*/7200, /*stock_min_step*/"", /*stock_mid_step*/"");
@@ -65,6 +67,7 @@ INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/19, /*reward_type
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/20, /*reward_type*/2, /*reward_id*/20004, /*max_count*/10, /*inc_step*/1, /*interval_second*/9300, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/21, /*reward_type*/2, /*reward_id*/20004, /*max_count*/10, /*inc_step*/1, /*interval_second*/8700, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/22, /*reward_type*/2, /*reward_id*/20004, /*max_count*/13, /*inc_step*/1, /*interval_second*/6600, /*stock_min_step*/"", /*stock_mid_step*/"");
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/23, /*reward_type*/2, /*reward_id*/20004, /*max_count*/14, /*inc_step*/1, /*interval_second*/6300, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/1, /*reward_type*/12, /*reward_id*/94002, /*max_count*/12000, /*inc_step*/3000, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/2, /*reward_type*/12, /*reward_id*/94002, /*max_count*/18000, /*inc_step*/4500, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/3, /*reward_type*/12, /*reward_id*/94002, /*max_count*/24000, /*inc_step*/6000, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
@@ -87,6 +90,7 @@ INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/19, /*reward_type
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/20, /*reward_type*/12, /*reward_id*/94002, /*max_count*/432000, /*inc_step*/108000, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/21, /*reward_type*/12, /*reward_id*/94002, /*max_count*/474000, /*inc_step*/118500, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/22, /*reward_type*/12, /*reward_id*/94002, /*max_count*/516000, /*inc_step*/129000, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/23, /*reward_type*/12, /*reward_id*/94002, /*max_count*/562000, /*inc_step*/140500, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/5, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/6, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/7, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600, /*stock_min_step*/"", /*stock_mid_step*/"");
