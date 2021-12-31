@@ -291,4 +291,16 @@ INSERT INTO `room_chat_scenario` VALUES (/*id*/31, /*scenario_idx*/3, /*unit_pos
 INSERT INTO `room_chat_scenario` VALUES (/*id*/31, /*scenario_idx*/4, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/4, /*icon_id*/0);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/31, /*scenario_idx*/5, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/9, /*icon_id*/7);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/31, /*scenario_idx*/6, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/1, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/10, /*icon_id*/6);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/2, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/10, /*icon_id*/13);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/3, /*unit_pos_no*/3, /*delay*/0, /*affect_type*/1, /*anime_id*/1, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/4, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/2, /*icon_id*/11);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/5, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/2, /*icon_id*/8);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/6, /*unit_pos_no*/3, /*delay*/0, /*affect_type*/1, /*anime_id*/1, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/32, /*scenario_idx*/7, /*unit_pos_no*/3, /*delay*/0, /*affect_type*/1, /*anime_id*/72, /*icon_id*/7);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/33, /*scenario_idx*/1, /*unit_pos_no*/3, /*delay*/0, /*affect_type*/1, /*anime_id*/6, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/33, /*scenario_idx*/2, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/3, /*anime_id*/10, /*icon_id*/13);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/33, /*scenario_idx*/3, /*unit_pos_no*/3, /*delay*/0, /*affect_type*/1, /*anime_id*/3, /*icon_id*/3);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/33, /*scenario_idx*/4, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/3, /*anime_id*/72, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/33, /*scenario_idx*/5, /*unit_pos_no*/3, /*delay*/0, /*affect_type*/1, /*anime_id*/12, /*icon_id*/2);
 CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id');

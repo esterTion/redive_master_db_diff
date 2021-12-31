@@ -202,6 +202,7 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1191001, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1192001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1193001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1199001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1208001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1701011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1801001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1802001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -210,4 +211,5 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1804001, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1805001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1806001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1807001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1808001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1913001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);

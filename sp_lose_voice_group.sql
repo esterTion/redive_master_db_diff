@@ -4,3 +4,10 @@ INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20115, /*unit_id*/180701, 
 INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20116, /*unit_id*/180701, /*speaker_unit_id*/118401);
 INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20117, /*unit_id*/180701, /*speaker_unit_id*/118401);
 INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20118, /*unit_id*/180701, /*speaker_unit_id*/118401);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20123, /*unit_id*/180801, /*speaker_unit_id*/120501);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20124, /*unit_id*/180801, /*speaker_unit_id*/120401);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20125, /*unit_id*/180801, /*speaker_unit_id*/120601);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20126, /*unit_id*/180801, /*speaker_unit_id*/120401);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20127, /*unit_id*/180801, /*speaker_unit_id*/120501);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/20128, /*unit_id*/180801, /*speaker_unit_id*/120601);
+INSERT INTO `sp_lose_voice_group` VALUES (/*group_id*/30157, /*unit_id*/180801, /*speaker_unit_id*/120601);
