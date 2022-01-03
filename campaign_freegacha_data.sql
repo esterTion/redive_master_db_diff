@@ -74,3 +74,5 @@ INSERT INTO `campaign_freegacha_data` VALUES (/*id*/72, /*campaign_id*/21, /*gac
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/73, /*campaign_id*/22, /*gacha_id*/30170);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/74, /*campaign_id*/22, /*gacha_id*/30171);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/75, /*campaign_id*/22, /*gacha_id*/50172);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/76, /*campaign_id*/22, /*gacha_id*/30173);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/77, /*campaign_id*/23, /*gacha_id*/30173);
