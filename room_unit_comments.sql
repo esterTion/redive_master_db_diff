@@ -5245,4 +5245,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5869, /*unit_id*/120701, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5870, /*unit_id*/120701, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"キャルじゃないけど…\nこのまま丸く\nなりたいところね…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5872, /*unit_id*/120701, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"はむはむっ…♪\nせっかくの正月だもの\n堪能しなくちゃね♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5873, /*unit_id*/120701, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"…ふんふん\n帯の結び方って\nこんなにあるのね…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5875, /*unit_id*/104201, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今の私が作れる\n最高の一曲…\nあの人に届くといいな", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5876, /*unit_id*/104201, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あの、歌を…\n聞いてくれませんか？\nあなたに贈る\n特別な歌を", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
