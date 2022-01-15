@@ -80,3 +80,6 @@ INSERT INTO `event_effect_setting` VALUES (/*event_id*/10082, /*type*/1, /*value
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10082, /*type*/2, /*value*/91201);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10082, /*type*/3, /*value*/91201);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10082, /*type*/4, /*value*/10082);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10083, /*type*/1, /*value*/91201);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10083, /*type*/2, /*value*/91201);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10083, /*type*/3, /*value*/91201);
