@@ -295,7 +295,7 @@ a/spine_180801_no_weapon.cysp.unity3d,c89df244868451ad495bb92d6f96e725,tutorial2
 a/spine_180801_posing.cysp.unity3d,27e8da09527a1aa7f8dcb391dc76ce70,tutorial2,21130,
 a/spine_180801_race.cysp.unity3d,97e3fedfcaa2266c440f7518cafa7e02,tutorial2,6932,
 a/spine_180801_run_jump.cysp.unity3d,2de57797dc6ae742f9496eecaabab7ea,tutorial2,5235,
-a/spine_180801_smile.cysp.unity3d,6d5b5a5d9d330a7f9a821d3c02debd71,tutorial2,7250,
+a/spine_180801_smile.cysp.unity3d,2c29ef85046de407bcac4fcbbe2ffb1f,tutorial2,7283,
 a/spine_180811_battle.cysp.unity3d,6fc8881f56aa9f84e1fa37fdab9809d3,tutorial2,101631,
 a/spine_180831_battle.cysp.unity3d,3e1794950affb0b517e7ea5e41435734,tutorial2,101631,
 a/spine_191301_battle.cysp.unity3d,34745c3e9438011f0239d841fd520ac6,tutorial2,15498,
