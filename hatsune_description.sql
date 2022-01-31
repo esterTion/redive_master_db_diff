@@ -459,6 +459,12 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1008305, /*event_id*/10083, /*ty
 INSERT INTO `hatsune_description` VALUES (/*id*/1008306, /*event_id*/10083, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。\n期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1008307, /*event_id*/10083, /*type*/3, /*description*/"エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1008308, /*event_id*/10083, /*type*/4, /*description*/"イベントクエストやボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008401, /*event_id*/10084, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008402, /*event_id*/10084, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008403, /*event_id*/10084, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008404, /*event_id*/10084, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008405, /*event_id*/10084, /*type*/3, /*description*/"エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008406, /*event_id*/10084, /*type*/4, /*description*/"イベントクエストやボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210105, /*event_id*/10021, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210106, /*event_id*/10021, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210107, /*event_id*/10021, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
@@ -490,4 +496,6 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1003202005, /*event_id*/10032, /
 INSERT INTO `hatsune_description` VALUES (/*id*/1005302001, /*event_id*/10053, /*type*/2, /*description*/"ペテルギウスを名乗る男に襲われる【美食殿】一行。\n間一髪で魔女教大罪司教である彼を撃退し、\n【美食殿】と仲を深めたエミリアたちは\n【サレンディア救護院】に身を置くことになる。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1005302002, /*event_id*/10053, /*type*/2, /*description*/"大罪司教ペテルギウスの暗躍に王宮の騎士団が動き\n副団長のクリスティーナがとある村へと派遣される。\n大罪司教の動きをキャルから知らされた一行は\nその謎の能力を危険視し現場へ向かうのだった。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1005302003, /*event_id*/10053, /*type*/2, /*description*/"苦戦するクリスティーナの元へ駆けつけた一行。\n有利かと思われた形勢は魔女教徒の出現で一転する。\nエミリアたちを加えた【美食殿】は魔法の氷塊で\nペテルギウスを孤立させ、最終決戦に挑む！");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008402001, /*event_id*/10032, /*type*/2, /*description*/"眠ったまま目を覚まさない主人公を起こすため、\nコッコロたちはランドソルに住む人々と共に手を\n尽くす。多少行きすぎた手段を用いて起こそうと\nするものの、なかなか結果は出ないのであった。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1008402002, /*event_id*/10032, /*type*/2, /*description*/"【美食殿】のギルドハウスには多くの人々が押し\n寄せていた。交わしたお願いや約束を自分たちが\n果たそうと決意するシェフィたち。しかし想像を\n超える過密スケジュールに驚愕するのであった。");
 CREATE INDEX 'hatsune_description_0_event_id_1_type' on 'hatsune_description'('event_id','type');

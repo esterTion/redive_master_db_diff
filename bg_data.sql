@@ -151,3 +151,5 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"CGG_GACHA_TOP", /*bg_id*/0, /*event_
 INSERT INTO `bg_data` VALUES (/*view_name*/"CGG_GOODS_LIST", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NOP_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NOP_GUILD", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_YSN_INTERLUDE", /*bg_id*/530800, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_YSN_EPILOGUE", /*bg_id*/530800, /*event_id*/0);
