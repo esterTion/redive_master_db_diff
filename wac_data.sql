@@ -1,0 +1,2 @@
+CREATE TABLE 'wac_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'unlock_time' TEXT NOT NULL, 'pre_drama_id' INTEGER NOT NULL, 'post_drama_id' INTEGER NOT NULL, 'idle_drama_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'mural_group_id' INTEGER NOT NULL, 'mural_offset_x' REAL NOT NULL, 'birthday_login_bonus_id' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, PRIMARY KEY('wac_id','date_id'));
+CREATE INDEX 'wac_data_0_mural_group_id' on 'wac_data'('mural_group_id');

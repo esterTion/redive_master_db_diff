@@ -1,0 +1,1 @@
+CREATE TABLE 'wac_mural_bg_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'start_offset_x' TEXT NOT NULL, 'end_offset_x' TEXT NOT NULL, PRIMARY KEY('wac_id','date_id'));

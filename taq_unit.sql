@@ -1,0 +1,1 @@
+CREATE TABLE 'taq_unit' ('unit_id' INTEGER NOT NULL, 'sort_order' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, 'genre_status_1' INTEGER NOT NULL, 'genre_status_2' INTEGER NOT NULL, 'genre_status_3' INTEGER NOT NULL, 'genre_status_4' INTEGER NOT NULL, 'genre_status_5' INTEGER NOT NULL, 'genre_status_6' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
