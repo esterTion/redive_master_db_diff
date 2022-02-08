@@ -3,5 +3,6 @@ INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1067001, /*sp_skill_id*/
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158001, /*sp_skill_id*/1158100, /*base_skill_id*/1158001, /*skill_category*/1);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158002, /*sp_skill_id*/1158101, /*base_skill_id*/1158001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158003, /*sp_skill_id*/1158102, /*base_skill_id*/1158001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1164001, /*sp_skill_id*/1164101, /*base_skill_id*/1164001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1185001, /*sp_skill_id*/1185101, /*base_skill_id*/1185001, /*skill_category*/2);
 CREATE UNIQUE INDEX 'define_spskill_0_sp_skill_id' on 'define_spskill'('sp_skill_id');

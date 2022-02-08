@@ -144,6 +144,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/115901, /*unit_name*/"マコト
 INSERT INTO `unit_background` VALUES (/*unit_id*/116001, /*unit_name*/"マホ（シンデレラ）", /*bg_id*/500060, /*bg_name*/"自警団 拠点", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/116201, /*unit_name*/"クロエ（聖学祭）", /*bg_id*/500732, /*bg_name*/"聖テレサ女学院_正門_聖学祭", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/116301, /*unit_name*/"チエル（聖学祭）", /*bg_id*/500732, /*bg_name*/"聖テレサ女学院_正門_聖学祭", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/116401, /*unit_name*/"ユニ（聖学祭）", /*bg_id*/500732, /*bg_name*/"聖テレサ女学院_正門_聖学祭", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/116501, /*unit_name*/"イノリ（タイムトラベル）", /*bg_id*/500010, /*bg_name*/"ランドソル_市街地_昼", /*position*/0.0, /*face_type*/18);
 INSERT INTO `unit_background` VALUES (/*unit_id*/116601, /*unit_name*/"カヤ（タイムトラベル）", /*bg_id*/500010, /*bg_name*/"ランドソル_市街地_昼", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/116701, /*unit_name*/"アオイ（作業服）", /*bg_id*/501340, /*bg_name*/"おもちゃ工場", /*position*/0.0, /*face_type*/4);
