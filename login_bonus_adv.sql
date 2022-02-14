@@ -49,7 +49,7 @@ INSERT INTO `login_bonus_adv` VALUES (/*id*/57, /*login_bonus_id*/80006, /*start
 INSERT INTO `login_bonus_adv` VALUES (/*id*/58, /*login_bonus_id*/80006, /*start_time*/"2022/02/12 5:00:00", /*end_time*/"2022/02/13 4:59:59", /*count_key*/3, /*adv_id*/9004014, /*read_process_flag*/0);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/59, /*login_bonus_id*/80006, /*start_time*/"2022/02/13 5:00:00", /*end_time*/"2022/02/14 4:59:59", /*count_key*/3, /*adv_id*/9004015, /*read_process_flag*/0);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/60, /*login_bonus_id*/80006, /*start_time*/"2022/02/14 5:00:00", /*end_time*/"2022/02/15 4:59:59", /*count_key*/3, /*adv_id*/9004016, /*read_process_flag*/0);
-INSERT INTO `login_bonus_adv` VALUES (/*id*/61, /*login_bonus_id*/80006, /*start_time*/"2022/02/15 5:00:00", /*end_time*/"2022/02/16 4:59:59", /*count_key*/3, /*adv_id*/9004001, /*read_process_flag*/1);
+INSERT INTO `login_bonus_adv` VALUES (/*id*/61, /*login_bonus_id*/80006, /*start_time*/"2022/02/15 5:00:00", /*end_time*/"2022/02/16 4:59:59", /*count_key*/3, /*adv_id*/9004017, /*read_process_flag*/1);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/62, /*login_bonus_id*/70007, /*start_time*/0, /*end_time*/0, /*count_key*/1, /*adv_id*/436, /*read_process_flag*/0);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/63, /*login_bonus_id*/70007, /*start_time*/0, /*end_time*/0, /*count_key*/2, /*adv_id*/437, /*read_process_flag*/0);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/64, /*login_bonus_id*/70007, /*start_time*/0, /*end_time*/0, /*count_key*/3, /*adv_id*/438, /*read_process_flag*/0);

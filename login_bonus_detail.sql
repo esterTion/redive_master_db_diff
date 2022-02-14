@@ -240,4 +240,5 @@ INSERT INTO `login_bonus_detail` VALUES (/*id*/259, /*login_bonus_id*/80006, /*c
 INSERT INTO `login_bonus_detail` VALUES (/*id*/260, /*login_bonus_id*/80006, /*count*/15, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100, /*character_id*/0, /*character_name*/"", /*description*/"", /*voice_id*/0, /*bg_id*/530135);
 INSERT INTO `login_bonus_detail` VALUES (/*id*/261, /*login_bonus_id*/80006, /*count*/16, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100, /*character_id*/0, /*character_name*/"", /*description*/"", /*voice_id*/0, /*bg_id*/530136);
 INSERT INTO `login_bonus_detail` VALUES (/*id*/262, /*login_bonus_id*/80006, /*count*/17, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100, /*character_id*/0, /*character_name*/"", /*description*/"", /*voice_id*/0, /*bg_id*/530137);
+INSERT INTO `login_bonus_detail` VALUES (/*id*/263, /*login_bonus_id*/80006, /*count*/17, /*reward_type*/7, /*reward_id*/2816, /*reward_num*/1, /*character_id*/0, /*character_name*/"", /*description*/"", /*voice_id*/0, /*bg_id*/530137);
 CREATE INDEX 'login_bonus_detail_0_login_bonus_id_1_count' on 'login_bonus_detail'('login_bonus_id','count');

@@ -1,1 +1,16 @@
 CREATE TABLE 'wac_mural_bg_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'start_offset_x' TEXT NOT NULL, 'end_offset_x' TEXT NOT NULL, PRIMARY KEY('wac_id','date_id'));
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/11, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1480, /*end_offset_x*/-1480);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/21, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1400, /*end_offset_x*/-1302);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/31, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1302, /*end_offset_x*/-1263);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/41, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1263, /*end_offset_x*/-1224);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/51, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1224, /*end_offset_x*/-1185);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/61, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1185, /*end_offset_x*/-1146);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/71, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1146, /*end_offset_x*/-1146);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/81, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1146, /*end_offset_x*/-1146);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/91, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1146, /*end_offset_x*/-1107);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/101, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1107, /*end_offset_x*/-1068);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/111, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1068, /*end_offset_x*/-1029);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/121, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1029, /*end_offset_x*/-1029);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/131, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1029, /*end_offset_x*/-1029);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/141, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1029, /*end_offset_x*/-1029);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/151, /*bg_id*/1, /*type*/1, /*start_offset_x*/-1029, /*end_offset_x*/-990);
