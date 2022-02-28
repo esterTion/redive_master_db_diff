@@ -161,6 +161,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/117701, /*unit_name*/"カオリ
 INSERT INTO `unit_background` VALUES (/*unit_id*/117801, /*unit_name*/"ニノン（ハロウィン）", /*bg_id*/505035, /*bg_name*/"ランドソル_繁華街_ハロウィン_夜", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/117901, /*unit_name*/"スズナ（ハロウィン）", /*bg_id*/505035, /*bg_name*/"ランドソル_繁華街_ハロウィン_夜", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/118001, /*unit_name*/"クレジッタ", /*bg_id*/501070, /*bg_name*/"ランドソル_王城周辺_執務室", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/118101, /*unit_name*/"ランファ", /*bg_id*/501040, /*bg_name*/"レイジ・レギオン拠点", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/118501, /*unit_name*/"カリン", /*bg_id*/500371, /*bg_name*/"ランドソル_お役所", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/119001, /*unit_name*/"イオ（ノワール）", /*bg_id*/501450, /*bg_name*/"ノワールのアジト", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/119101, /*unit_name*/"クウカ（ノワール）", /*bg_id*/501450, /*bg_name*/"ノワールのアジト", /*position*/0.0, /*face_type*/4);

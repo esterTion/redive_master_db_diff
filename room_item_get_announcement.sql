@@ -9,3 +9,4 @@ INSERT INTO `room_item_get_announcement` VALUES (/*id*/7, /*room_item_id*/2809, 
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/8, /*room_item_id*/2814, /*start_date*/"2021/07/31 12:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"2021/07/31 12:00");
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/9, /*room_item_id*/2804, /*start_date*/"2022/01/18 12:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"2022/01/18 12:00");
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/10, /*room_item_id*/2816, /*start_date*/"2022/02/15 05:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"");
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/11, /*room_item_id*/2818, /*start_date*/"2022/02/28 12:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"");

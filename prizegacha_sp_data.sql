@@ -1,2 +1,12 @@
 CREATE TABLE 'prizegacha_sp_data' ('gacha_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'disp_rarity' INTEGER NOT NULL, PRIMARY KEY('gacha_id','rarity'));
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/1, /*disp_rarity*/101);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/2, /*disp_rarity*/102);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/3, /*disp_rarity*/103);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/4, /*disp_rarity*/104);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/5, /*disp_rarity*/1);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/6, /*disp_rarity*/2);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/7, /*disp_rarity*/3);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/8, /*disp_rarity*/4);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/9, /*disp_rarity*/5);
+INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50183, /*rarity*/10, /*disp_rarity*/6);
 CREATE INDEX 'prizegacha_sp_data_0_gacha_id' on 'prizegacha_sp_data'('gacha_id');
