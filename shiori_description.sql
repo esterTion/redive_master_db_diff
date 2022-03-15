@@ -14,4 +14,5 @@ INSERT INTO `shiori_description` VALUES (/*id*/20018, /*type*/12, /*description*
 INSERT INTO `shiori_description` VALUES (/*id*/20020, /*type*/13, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `shiori_description` VALUES (/*id*/20021, /*type*/14, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `shiori_description` VALUES (/*id*/20022, /*type*/15, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
+INSERT INTO `shiori_description` VALUES (/*id*/20025, /*type*/16, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');
