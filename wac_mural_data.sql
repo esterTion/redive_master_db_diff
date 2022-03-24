@@ -14,4 +14,12 @@ INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/1, /*date_id*/341, /*part
 INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/1, /*date_id*/351, /*parts_id*/13, /*pos_x*/280, /*pos_y*/80, /*depth*/13, /*width*/156, /*height*/219);
 INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/1, /*date_id*/401, /*parts_id*/14, /*pos_x*/417, /*pos_y*/-97, /*depth*/14, /*width*/213, /*height*/183);
 INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/1, /*date_id*/411, /*parts_id*/15, /*pos_x*/417, /*pos_y*/-97, /*depth*/15, /*width*/213, /*height*/183);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/451, /*parts_id*/1, /*pos_x*/-259, /*pos_y*/-73, /*depth*/2, /*width*/242, /*height*/229);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/481, /*parts_id*/2, /*pos_x*/-222, /*pos_y*/124, /*depth*/4, /*width*/226, /*height*/179);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/501, /*parts_id*/3, /*pos_x*/-101, /*pos_y*/-67, /*depth*/6, /*width*/219, /*height*/192);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/521, /*parts_id*/4, /*pos_x*/-26, /*pos_y*/-27, /*depth*/8, /*width*/168, /*height*/190);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/551, /*parts_id*/5, /*pos_x*/117, /*pos_y*/-50, /*depth*/11, /*width*/192, /*height*/260);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/601, /*parts_id*/6, /*pos_x*/241, /*pos_y*/120, /*depth*/14, /*width*/159, /*height*/138);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/611, /*parts_id*/7, /*pos_x*/241, /*pos_y*/120, /*depth*/14, /*width*/159, /*height*/138);
+INSERT INTO `wac_mural_data` VALUES (/*mural_group_id*/2, /*date_id*/621, /*parts_id*/8, /*pos_x*/243, /*pos_y*/-71, /*depth*/14, /*width*/224, /*height*/229);
 CREATE INDEX 'wac_mural_data_0_mural_group_id' on 'wac_mural_data'('mural_group_id');
