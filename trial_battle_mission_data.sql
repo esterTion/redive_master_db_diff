@@ -1,0 +1,1 @@
+CREATE TABLE 'trial_battle_mission_data' ('trial_mission_id' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'condition_value' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, PRIMARY KEY('trial_mission_id'));

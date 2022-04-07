@@ -5451,4 +5451,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6102, /*unit_id*/121501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6103, /*unit_id*/121501, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ぽかぽかで\nいい気持ち…\n夜道を歩く前に\n温まっておこうっと…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6105, /*unit_id*/121501, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"怪盗活動に備えて\n今のうちにしっかり\n食べておかなきゃ…！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6106, /*unit_id*/121501, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"女の子は秘密が\n多いほうが魅力的…？\nそ、そうなんだ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6108, /*unit_id*/104501, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ドＳさんはいつも\nクウカの妄想の中に…\nぐふふ、じゅるり～♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6109, /*unit_id*/104501, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"やさしい触り方も\n嫌いじゃありません…\nは…恥ずかしいですが", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
