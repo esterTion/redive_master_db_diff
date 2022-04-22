@@ -167,4 +167,5 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000165, /*group_id*/10006, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000166, /*group_id*/10006, /*still_group_id*/0, /*still_name*/"Menu8scene8", /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000167, /*group_id*/10006, /*still_group_id*/0, /*still_name*/"Menu8scene9", /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000168, /*group_id*/10006, /*still_group_id*/0, /*still_name*/"Menu8scene10", /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000170, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"みんなでお花見", /*vertical_still_flg*/0, /*scroll_direction*/0);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');
