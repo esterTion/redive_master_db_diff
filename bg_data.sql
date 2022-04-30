@@ -154,3 +154,6 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NOP_GUILD", /*bg_id*/0, /*ev
 INSERT INTO `bg_data` VALUES (/*view_name*/"WAC_TOP", /*bg_id*/530900, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_YSN_INTERLUDE", /*bg_id*/530800, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_YSN_EPILOGUE", /*bg_id*/530800, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"SPECIAL_STILL_TMA", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ANNIVERSARY_TOP", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ANNIVERSARY_DETAIL", /*bg_id*/530030, /*event_id*/0);
