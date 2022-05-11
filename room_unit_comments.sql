@@ -5541,4 +5541,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6206, /*unit_id*/122001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6207, /*unit_id*/122001, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"温かい…\n潮風で冷えた体に\n沁みますね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6209, /*unit_id*/122001, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あ、おいしい…\n日持ちするなら船旅に\n持っていこうかな…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6210, /*unit_id*/122001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"アンナさんに教えて\nもらった小説は…\nあ、これですね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6212, /*unit_id*/102601, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"なにもしないを\nしてるんだよ\nあ～いそがしいそがし", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6213, /*unit_id*/102601, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"はぁ～あんたといると\nどこまでも気持ちよく\nダラダラできるね～", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
