@@ -155,5 +155,9 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"WAC_TOP", /*bg_id*/530900, /*event_i
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_YSN_INTERLUDE", /*bg_id*/530800, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_YSN_EPILOGUE", /*bg_id*/530800, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SPECIAL_STILL_TMA", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"TRIAL_BATTLE_SELECT_CATEGORY", /*bg_id*/531000, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"TRIAL_BATTLE_SELECT_DIFFICULTY", /*bg_id*/531000, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"TRIAL_BATTLE_MISSION", /*bg_id*/531000, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ANNIVERSARY_TOP", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ANNIVERSARY_DETAIL", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"SECRET_DUNGEON_TOP", /*bg_id*/501560, /*event_id*/0);

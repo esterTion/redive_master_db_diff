@@ -242,3 +242,6 @@ INSERT INTO `experience_unit` VALUES (/*unit_level*/240, /*total_exp*/11096066);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/241, /*total_exp*/11211618);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/242, /*total_exp*/11327770);
 INSERT INTO `experience_unit` VALUES (/*unit_level*/243, /*total_exp*/11444522);
+INSERT INTO `experience_unit` VALUES (/*unit_level*/244, /*total_exp*/11561874);
+INSERT INTO `experience_unit` VALUES (/*unit_level*/245, /*total_exp*/11679826);
+INSERT INTO `experience_unit` VALUES (/*unit_level*/246, /*total_exp*/11798378);

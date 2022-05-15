@@ -10,3 +10,4 @@ INSERT INTO `room_item_get_announcement` VALUES (/*id*/8, /*room_item_id*/2814, 
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/9, /*room_item_id*/2804, /*start_date*/"2022/01/18 12:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"2022/01/18 12:00", /*room_announcement_name*/"オーマ地域振興ポスター\n『新春トゥンヌス釣上図柄』");
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/10, /*room_item_id*/2816, /*start_date*/"2022/02/15 05:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"", /*room_announcement_name*/"");
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/11, /*room_item_id*/2818, /*start_date*/"2022/02/28 12:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"", /*room_announcement_name*/"");
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/12, /*room_item_id*/2805, /*start_date*/"2022/05/15 15:00", /*end_date*/"2030/12/31 23:59:59", /*get_date*/"2022/05/15 15:00", /*room_announcement_name*/"");

@@ -107,6 +107,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9513, /*discription*/"サイドスト�
 INSERT INTO `gift_message` VALUES (/*id*/9514, /*discription*/"サイドストーリーボス「{1}」のバトルで獲得したアイテムです。", /*type_1*/13, /*type_2*/15, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9515, /*discription*/"サイドストーリーミッション達成で獲得したアイテムです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9516, /*discription*/"「復刻イベントログインボーナス」{1}日目で獲得したアイテムです。", /*type_1*/13, /*type_2*/2, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9517, /*discription*/"「みんなの稽古場」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"ミニゲームで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「バトル オブ ランドソル」で獲得したランキング報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「バトル オブ ランドソル」で獲得したアタック報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
