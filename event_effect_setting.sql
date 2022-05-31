@@ -90,3 +90,4 @@ INSERT INTO `event_effect_setting` VALUES (/*event_id*/10090, /*type*/4, /*value
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/20025, /*type*/4, /*value*/10042);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10091, /*type*/4, /*value*/80002);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10093, /*type*/4, /*value*/80002);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10094, /*type*/4, /*value*/10094);

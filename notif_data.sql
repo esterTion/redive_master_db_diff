@@ -1139,4 +1139,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになった！ただでさえ無敵の海賊である私が、さらに強くなってしまうな…！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだぞ？我ら海賊団はどんな財宝も逃がしはしない…もらえるものはもらっておこう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいに…！財宝があるかもしれん！すぐに受け取りに行こう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/1, /*comment*/"スタミナが全回復しましたね…！今ならどこでだってキャンプができそうです…試しに行きましょう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/2, /*comment*/"ギルドハウスのスケップチケットがいっぱいになってますよ。キャンプ場まで楽しく向かえますね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/3, /*comment*/"ギ、ギルドハウスのスタミナがいっぱいです…！これだけあれば、遠出だっていくらでもできますよ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになってますよ。キャンパーとして成長できるチャンスです！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいです！せっかくですし…今度のキャンプ飯はリッチにしてみませんか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいです…！シェアできる友達もほしいなぁ…♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122201, /*notif_type*/1, /*comment*/"スタミナが全回復して元気いっぱいになったわ！さあ、キャンプに向かうわよ〜！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122201, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいね。きっちり仕事を片付けて、心置きなくキャンプを満喫しましょ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122201, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったわ！何日だってキャンプできそうね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいね！これを使えば、キャンプの設営ももっと楽になるかしら？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったわよ！気になってたキャンプ用品、この機会に買っちゃわない？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122201, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいよ。早く受け取っちゃいましょ？ほら、私も手伝ってあげるから。");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

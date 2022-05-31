@@ -1,2 +1,3 @@
 CREATE TABLE 'mypage_frame' ('frame_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'frame_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'start_time' TEXT NOT NULL, PRIMARY KEY('frame_id'));
+INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100941, /*group_id*/1, /*frame_name*/"エンジョイ＆リフレッシュ！でこぼこガールズ・キャンプ", /*description*/"ストーリーイベント「エンジョイ＆リフレッシュ！　でこぼこガールズ・キャンプ」の\nミッション「アストライアタケモドキを1体倒そう（HARD限定）」を達成すると確認できます。", /*start_time*/"2022/05/31 12:00:00");
 CREATE INDEX 'mypage_frame_0_group_id' on 'mypage_frame'('group_id');
