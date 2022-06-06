@@ -5609,4 +5609,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6283, /*unit_id*/122201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6284, /*unit_id*/122201, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"はぁ、温まるぅ～\n冬のキャンプで\n使ってみたいわね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6286, /*unit_id*/122201, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"おいしい～♪\nキャンプ飲みの\nおつまみに\nぴったりね！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6287, /*unit_id*/122201, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"へえ…こんなキャンプ\n飯もあるんだ？\n彼、好きだったり\nするかな…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6289, /*unit_id*/100701, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"一生ついててやるの\n幽霊の一生は\nなっが～～～いの！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6290, /*unit_id*/100701, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"む～…あんまり触ると\nすり抜けてやるの！\nウソなの。むふふ♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
