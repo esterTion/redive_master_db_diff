@@ -1,0 +1,1 @@
+CREATE TABLE 'sjr_ub_data' ('ub_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'in_game_description' TEXT NOT NULL, 'ub_type' INTEGER NOT NULL, 'ub_value_1' INTEGER NOT NULL, 'ub_value_2' INTEGER NOT NULL, 'ub_value_3' INTEGER NOT NULL, 'ub_value_4' INTEGER NOT NULL, PRIMARY KEY('ub_id'));

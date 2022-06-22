@@ -1,0 +1,1 @@
+CREATE TABLE 'sjr_proper_feature' ('proper_id' INTEGER NOT NULL, 'feature_group_1' INTEGER NOT NULL, 'feature_group_2' INTEGER NOT NULL, 'feature_group_3' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_3' INTEGER NOT NULL, PRIMARY KEY('proper_id'));

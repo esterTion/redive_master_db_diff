@@ -1,0 +1,1 @@
+CREATE TABLE 'sjr_score' ('round' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'first_score' INTEGER NOT NULL, 'second_score' INTEGER NOT NULL, 'third_score' INTEGER NOT NULL, 'time_score' INTEGER NOT NULL, 'action_score' INTEGER NOT NULL, 'normal_bonus' REAL NOT NULL, 'hard_bonus' REAL NOT NULL, 'extra_bonus' REAL NOT NULL, PRIMARY KEY('round','type'));
