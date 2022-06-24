@@ -2,3 +2,4 @@ CREATE TABLE 'wac_present_still_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTE
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/421, /*still_id*/9000169);
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/751, /*still_id*/9000170);
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1061, /*still_id*/9000210);
+INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1361, /*still_id*/9000211);
