@@ -1157,4 +1157,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/122301, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/122301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったよ！ほら、けんぞく！取りに行くよー！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/122301, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったよ！けんぞく、行くならヴァンピィちゃんも手伝ってあげる！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/122301, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、すべていっぱいになったよ！ベスちゃんも連れて、一緒に取りに行こ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122401, /*notif_type*/1, /*comment*/"スタミナ全回復！ほらほら騎士くん、海に行って人助けしよう♪それともプールがいいかな！？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122401, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱい！バカンス目いっぱい楽しんじゃお！やりたいこと、たくさんあるんだ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122401, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだ！ねぇねぇ騎士くん、早く受け取って海に行こうよー♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122401, /*notif_type*/4, /*comment*/"騎士くん、ギルドハウスのEXPポーションがいっぱいだよ♪たくさん飲んでパワーアップした夏を過ごそう！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122401, /*notif_type*/5, /*comment*/"マナがいっぱいだって！何に使おうかな～！あたしはソフトクリーム…って、これもしかしてデートかな！？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122401, /*notif_type*/6, /*comment*/"ギルドハウスのアイテム、いっぱいになってる！一緒に運んであげるね♪困ったときはお互いさまさま♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122501, /*notif_type*/1, /*comment*/"スタミナが全回復したんだ。なら一緒にリゾートを回ろうよ。気になってる場所がたくさんあってね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいみたいだ。これで海辺を散策するのも楽になるかな");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだよ。ビーチトレーニングをするにはうってつけだね。キミも付き合ってくれる？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだ。この夏を走り抜けるために、私も一回り強くならなきゃね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだね。夏を楽しむにも元手が必要だし、ありがたく使わせてもらおうか");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいだよ。受け取り終わったら、海辺で少し休憩しようか");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

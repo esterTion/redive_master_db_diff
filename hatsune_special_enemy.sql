@@ -238,3 +238,6 @@ INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610094504, /*event_id*/1
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610095501, /*event_id*/10095, /*mode*/2, /*enemy_point*/0, /*initial_position*/-180, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610095502, /*event_id*/10095, /*mode*/2, /*enemy_point*/0, /*initial_position*/20, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610095503, /*event_id*/10095, /*mode*/2, /*enemy_point*/0, /*initial_position*/150, /*order*/0);
+INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610096501, /*event_id*/10096, /*mode*/2, /*enemy_point*/0, /*initial_position*/-180, /*order*/0);
+INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610096502, /*event_id*/10096, /*mode*/2, /*enemy_point*/0, /*initial_position*/80, /*order*/0);
+INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610096503, /*event_id*/10096, /*mode*/2, /*enemy_point*/0, /*initial_position*/-145, /*order*/0);
