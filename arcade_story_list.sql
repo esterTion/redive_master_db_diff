@@ -15,7 +15,7 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040703, /*arcade_id*/1005, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040704, /*arcade_id*/1005, /*sub_title*/"労働は続くよどこまでも");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080700, /*arcade_id*/1008, /*sub_title*/"究極への道");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080701, /*arcade_id*/1008, /*sub_title*/"プリンは続くよどこまでも");
-INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096700, /*arcade_id*/1010, /*sub_title*/"6末ミニゲーム　導入ADV");
-INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096701, /*arcade_id*/1010, /*sub_title*/"6末ミニゲーム　ED　ADV");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096700, /*arcade_id*/1010, /*sub_title*/"バカンスは終わらない");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096701, /*arcade_id*/1010, /*sub_title*/"競い、分かり合う絆");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/9004201, /*arcade_id*/1009, /*sub_title*/"正解目指して一致団結！");
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');
