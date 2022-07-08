@@ -1140,7 +1140,7 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/4, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだぞ？我ら海賊団はどんな財宝も逃がしはしない…もらえるものはもらっておこう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/121901, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいに…！財宝があるかもしれん！すぐに受け取りに行こう！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/1, /*comment*/"スタミナが全回復しましたね…！今ならどこでだってキャンプができそうです…試しに行きましょう！");
-INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/2, /*comment*/"ギルドハウスのスケップチケットがいっぱいになってますよ。キャンプ場まで楽しく向かえますね！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになってますよ。キャンプ場まで楽しく向かえますね！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/3, /*comment*/"ギ、ギルドハウスのスタミナがいっぱいです…！これだけあれば、遠出だっていくらでもできますよ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになってますよ。キャンパーとして成長できるチャンスです！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/122101, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいです！せっかくですし…今度のキャンプ飯はリッチにしてみませんか？");
