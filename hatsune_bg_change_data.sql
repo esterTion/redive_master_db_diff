@@ -58,4 +58,7 @@ INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/67, /*area_id*/20018, /*condi
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/68, /*area_id*/10096, /*condition_type*/3, /*condition_id*/5096002, /*target_type*/2, /*bg_after_change_id*/501613);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/73, /*area_id*/10097, /*condition_type*/3, /*condition_id*/5070004, /*target_type*/2, /*bg_after_change_id*/501353);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/74, /*area_id*/10097, /*condition_type*/3, /*condition_id*/5070005, /*target_type*/2, /*bg_after_change_id*/500016);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/75, /*area_id*/10098, /*condition_type*/3, /*condition_id*/5098000, /*target_type*/2, /*bg_after_change_id*/501031);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/76, /*area_id*/10098101, /*condition_type*/1, /*condition_id*/10098104, /*target_type*/1, /*bg_after_change_id*/0);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/77, /*area_id*/10098102, /*condition_type*/1, /*condition_id*/10098111, /*target_type*/1, /*bg_after_change_id*/0);
 CREATE INDEX 'hatsune_bg_change_data_0_target_type_1_area_id' on 'hatsune_bg_change_data'('target_type','area_id');

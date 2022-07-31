@@ -160,4 +160,6 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"TRIAL_BATTLE_SELECT_DIFFICULTY", /*b
 INSERT INTO `bg_data` VALUES (/*view_name*/"TRIAL_BATTLE_MISSION", /*bg_id*/531000, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ANNIVERSARY_TOP", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_ANNIVERSARY_DETAIL", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_LSV", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SECRET_DUNGEON_TOP", /*bg_id*/501560, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"TRIAL_CLAN_BATTLE_SELECT_DIFFICULTY", /*bg_id*/531000, /*event_id*/0);

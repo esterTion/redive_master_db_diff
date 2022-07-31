@@ -4,3 +4,5 @@ INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/751, /*s
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1061, /*still_id*/9000210);
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1361, /*still_id*/9000211);
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1671, /*still_id*/9000212);
+INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1801, /*still_id*/9000213);
+INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/1981, /*still_id*/9000214);
