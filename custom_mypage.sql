@@ -213,6 +213,6 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000211, /*group_id*/40001, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000212, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"夏の森の探検隊", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000213, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"夏の思い出", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000214, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"夏のピクニック", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000215, /*group_id*/20005, /*still_group_id*/9000215, /*still_name*/"4.5周年記念カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000216, /*group_id*/20005, /*still_group_id*/9000215, /*still_name*/"4.5周年記念カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000215, /*group_id*/20005, /*still_group_id*/0, /*still_name*/"4.5周年記念カスタムマイページ1", /*vertical_still_flg*/1, /*scroll_direction*/0, /*mypage_type*/1);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000216, /*group_id*/20005, /*still_group_id*/0, /*still_name*/"4.5周年記念カスタムマイページ2", /*vertical_still_flg*/1, /*scroll_direction*/0, /*mypage_type*/1);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');

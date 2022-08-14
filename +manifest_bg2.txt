@@ -4637,6 +4637,7 @@ a/bg_profilecard_titlelogo_1003.unity3d,660d1561bd342552e8c2cf376a782212,tutoria
 a/bg_profilecard_titlelogo_1004.unity3d,e3389b5d202070428979cb4e85ae7199,tutorial1,16633,
 a/bg_profilecard_titlelogo_1005.unity3d,a01536f22911e219d849d3261881b2a5,tutorial1,21050,
 a/bg_profilecard_titlelogo_1006.unity3d,0fe8aa1bb3e9e06f1a326009bb5700ea,tutorial1,18400,
+a/bg_profilecard_titlelogo_1007.unity3d,2178c70264b821e2ca0ed4146336dd86,tutorial1,21043,
 a/bg_skip_bg_material.unity3d,18e8265bd68e04e9326a29093a075b92,tutorial1,2075,
 a/bg_still_unit_100131.unity3d,8814cade263e9593773bd6c7063d9115,tutorial1,1346199,
 a/bg_still_unit_100161.unity3d,21eba71b71e50c8da45c06c95d33cf1a,tutorial1,1030272,
