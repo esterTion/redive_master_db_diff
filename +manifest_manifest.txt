@@ -20,6 +20,6 @@ manifest/resourcedefine2_assetmanifest,0fdf430eb6d98385cb4c9aa5a29cd8c0,every,27
 manifest/room2_assetmanifest,34a367882ca3a9eee665812e7ddd7fd3,every,163985,
 manifest/shader2_assetmanifest,24b8b64d2f3eea93f5641c0b6c621257,every,74,
 manifest/spine2_assetmanifest,d93ced1784880281c370039106bbc30f,every,316800,
-manifest/storydata2_assetmanifest,5855c0d49eba7441f6eeb789d00158ac,every,802662,
+manifest/storydata2_assetmanifest,5e348572995c08374eee93facb024997,every,802662,
 manifest/unit2_assetmanifest,9edc5692c81d08e59cfac6de5c27e70f,every,259913,
 manifest/wac2_assetmanifest,f8d7eee12d2a978f0e5010dc4ba87074,every,598,
