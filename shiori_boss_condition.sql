@@ -86,3 +86,6 @@ INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2002803, /*event_id*/2002
 INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2002901, /*event_id*/20029, /*condition_quest_id*/20029115, /*condition_boss_id*/0, /*release_quest_id*/20029201, /*release_boss_id*/2002902);
 INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2002902, /*event_id*/20029, /*condition_quest_id*/0, /*condition_boss_id*/2002901, /*release_quest_id*/0, /*release_boss_id*/2002903);
 INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2002903, /*event_id*/20029, /*condition_quest_id*/0, /*condition_boss_id*/2002902, /*release_quest_id*/0, /*release_boss_id*/0);
+INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2003001, /*event_id*/20030, /*condition_quest_id*/20030115, /*condition_boss_id*/0, /*release_quest_id*/20030201, /*release_boss_id*/2003002);
+INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2003002, /*event_id*/20030, /*condition_quest_id*/0, /*condition_boss_id*/2003001, /*release_quest_id*/0, /*release_boss_id*/2003003);
+INSERT INTO `shiori_boss_condition` VALUES (/*boss_id*/2003003, /*event_id*/20030, /*condition_quest_id*/0, /*condition_boss_id*/2003002, /*release_quest_id*/0, /*release_boss_id*/0);

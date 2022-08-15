@@ -26,3 +26,6 @@ INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/24, /*feature_group_1*/1, 
 INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/25, /*feature_group_1*/1, /*feature_group_2*/2, /*feature_group_3*/3, /*value_1*/105, /*value_2*/120, /*value_3*/105);
 INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/26, /*feature_group_1*/1, /*feature_group_2*/2, /*feature_group_3*/3, /*value_1*/100, /*value_2*/100, /*value_3*/100);
 INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/27, /*feature_group_1*/1, /*feature_group_2*/2, /*feature_group_3*/3, /*value_1*/100, /*value_2*/100, /*value_3*/100);
+INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/28, /*feature_group_1*/1, /*feature_group_2*/2, /*feature_group_3*/3, /*value_1*/100, /*value_2*/100, /*value_3*/100);
+INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/29, /*feature_group_1*/1, /*feature_group_2*/2, /*feature_group_3*/3, /*value_1*/120, /*value_2*/120, /*value_3*/120);
+INSERT INTO `sjr_proper_feature` VALUES (/*proper_id*/30, /*feature_group_1*/1, /*feature_group_2*/2, /*feature_group_3*/3, /*value_1*/105, /*value_2*/105, /*value_3*/120);

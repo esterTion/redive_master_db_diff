@@ -2,7 +2,6 @@ CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT
 INSERT INTO `dear_setting` VALUES (/*event_id*/10053, /*system_name*/"信頼度", /*tutorial_quest_id*/10053102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6017101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10076, /*system_name*/"信頼度", /*tutorial_quest_id*/10076105, /*tutorial_chara_index*/1, /*tutorial_story_id*/6076101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10078, /*system_name*/"信頼度", /*tutorial_quest_id*/10078114, /*tutorial_chara_index*/1, /*tutorial_story_id*/6078101);
-INSERT INTO `dear_setting` VALUES (/*event_id*/10079, /*system_name*/"信頼度", /*tutorial_quest_id*/10079103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6052101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10081, /*system_name*/"信頼度", /*tutorial_quest_id*/10081103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6054101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10083, /*system_name*/"信頼度", /*tutorial_quest_id*/10083103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6056101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10088, /*system_name*/"信頼度", /*tutorial_quest_id*/10088106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6088201);
@@ -23,3 +22,4 @@ INSERT INTO `dear_setting` VALUES (/*event_id*/20025, /*system_name*/"信頼度"
 INSERT INTO `dear_setting` VALUES (/*event_id*/20026, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20028, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20029, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
+INSERT INTO `dear_setting` VALUES (/*event_id*/20030, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);

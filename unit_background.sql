@@ -186,6 +186,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/122301, /*unit_name*/"ヴァン
 INSERT INTO `unit_background` VALUES (/*unit_id*/122401, /*unit_name*/"ヒヨリ（サマー）", /*bg_id*/501610, /*bg_name*/"リゾートビーチ_昼", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/122501, /*unit_name*/"レイ（サマー）", /*bg_id*/501610, /*bg_name*/"リゾートビーチ_昼", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/122601, /*unit_name*/"ユイ（サマー）", /*bg_id*/501610, /*bg_name*/"リゾートビーチ_昼", /*position*/0.0, /*face_type*/6);
+INSERT INTO `unit_background` VALUES (/*unit_id*/122701, /*unit_name*/"キョウカ（サマー）", /*bg_id*/500285, /*bg_name*/"無人島", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/122801, /*unit_name*/"ミソギ（サマー）", /*bg_id*/500160, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/122901, /*unit_name*/"ミミ（サマー）", /*bg_id*/500160, /*bg_name*/"マルジェン海岸", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180101, /*unit_name*/"ヒヨリ（プリンセス）", /*bg_id*/500130, /*bg_name*/"エステレラ街道", /*position*/0.0, /*face_type*/2);
