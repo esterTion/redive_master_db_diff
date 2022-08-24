@@ -61,6 +61,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9320, /*discription*/"CSPキャラ交�
 INSERT INTO `gift_message` VALUES (/*id*/9321, /*discription*/"所持上限を超えて獲得したメモリーピース交換チケットの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9322, /*discription*/"ストーリー閲覧で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9323, /*discription*/"みんなのカレンダー内で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9324, /*discription*/"プリンセスアリーナ未ログイン期間に基づく{0}日分のランキング報酬です。", /*type_1*/23, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9401, /*discription*/"デイリージュエルパックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9402, /*discription*/"7日間スタミナ応援パックのアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9403, /*discription*/"アイテム装備パックⅠを購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
