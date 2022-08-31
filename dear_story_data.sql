@@ -23,4 +23,5 @@ INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6078, /*story_type*/6, /
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6088, /*story_type*/6, /*value*/10088, /*title*/"スイート・タイニー・ステージ！　駆け出し女優とリトルレディ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2022/02/24 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6090, /*story_type*/6, /*value*/10090, /*title*/"お宝頂戴！　インビジブル・スティーラーズ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2022/03/31 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6094, /*story_type*/6, /*value*/10094, /*title*/"エンジョイ＆リフレッシュ！　でこぼこガールズ・キャンプ", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2022/05/31 12:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6100, /*story_type*/6, /*value*/10100, /*title*/"マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2022/08/31 12:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');

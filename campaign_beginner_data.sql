@@ -5,3 +5,5 @@ INSERT INTO `campaign_beginner_data` VALUES (/*beginner_id*/3, /*id_from*/110010
 INSERT INTO `campaign_beginner_data` VALUES (/*beginner_id*/4, /*id_from*/11026001, /*id_to*/11057014);
 INSERT INTO `campaign_beginner_data` VALUES (/*beginner_id*/5, /*id_from*/12001001, /*id_to*/12053003);
 INSERT INTO `campaign_beginner_data` VALUES (/*beginner_id*/6, /*id_from*/11001001, /*id_to*/11057014);
+INSERT INTO `campaign_beginner_data` VALUES (/*beginner_id*/7, /*id_from*/12026001, /*id_to*/12055003);
+INSERT INTO `campaign_beginner_data` VALUES (/*beginner_id*/8, /*id_from*/11026001, /*id_to*/11059014);

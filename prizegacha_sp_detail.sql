@@ -3,3 +3,4 @@ INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/101, /*effect_id*/101,
 INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/102, /*effect_id*/102, /*name*/"コッコロ賞");
 INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/103, /*effect_id*/103, /*name*/"キャル賞");
 INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/104, /*effect_id*/104, /*name*/"シェフィ賞");
+INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/105, /*effect_id*/105, /*name*/"アメス賞");
