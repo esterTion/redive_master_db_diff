@@ -5825,4 +5825,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6526, /*unit_id*/123101, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6527, /*unit_id*/123101, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"うちも魔法使わんでも\n火ぃ起こせるよう\n練習せんとあかんなぁ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6529, /*unit_id*/123101, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この料理…\n冒険するときに\n作ってみまひょか", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6530, /*unit_id*/123101, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"王子はんとの\n愛と冒険のおとぎ話…\nはぁ…素敵やわぁ♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6532, /*unit_id*/103101, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あの人との\n最良の未来のために\n占いも霊能力ももっと\n精進しなきゃ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6533, /*unit_id*/103101, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あなたともっと深く\nつながりたいです\n絆も、そして魂までも", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6534, /*unit_id*/104401, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"絆の契約…\nあやつが望むのなら\n考えぬでもないがのう", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6535, /*unit_id*/104401, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"なんじゃ？\nわらわの姿に\n見惚れたかの？", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
