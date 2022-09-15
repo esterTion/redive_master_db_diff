@@ -112,6 +112,7 @@ INSERT INTO `tips` VALUES (/*id*/4122201, /*value*/122201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4122301, /*value*/122301, /*tips_index*/1, /*title*/"さいきょーですし♪");
 INSERT INTO `tips` VALUES (/*id*/4123001, /*value*/123001, /*tips_index*/1, /*title*/"ぷにぷにプニプニ");
 INSERT INTO `tips` VALUES (/*id*/4123101, /*value*/123101, /*tips_index*/1, /*title*/"ひらひらくるりん");
+INSERT INTO `tips` VALUES (/*id*/4123201, /*value*/123201, /*tips_index*/1, /*title*/"ピクニック気分で");
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/"じゃんけんタイム！");
 INSERT INTO `tips` VALUES (/*id*/4180201, /*value*/180201, /*tips_index*/1, /*title*/"ぺこぺこ");
 INSERT INTO `tips` VALUES (/*id*/4180301, /*value*/180301, /*tips_index*/1, /*title*/"守る力");
