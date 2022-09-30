@@ -1217,4 +1217,16 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/123301, /*notif_type*/3, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/123301, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションが～・もーぱっつんぱっつん～。片づけんのめんどいしー、あとよろー");
 INSERT INTO `notif_data` VALUES (/*unit_id*/123301, /*notif_type*/5, /*comment*/"なんか～ギルドハウスのマナがパンパン的なー？すげーあふれててウケっから～はよ来なね～");
 INSERT INTO `notif_data` VALUES (/*unit_id*/123301, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが～ぜーんぶいっぱいになったよ～。ン・ン～リッチなカンジ～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123501, /*notif_type*/1, /*comment*/"スタミナが全回復したし、ハロウィンでものんびりまったり見て回る～？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123501, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいだよ～。仕事はスキップして、お菓子巡りにでも繰り出さない？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123501, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだよ～。これなら、イタズラしまくっても疲れないね～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123501, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいだよ～。ハロウィンの人混みも乗り切れるくらい、成長できるかも？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123501, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいだよ～。これだけあれば、屋台のお菓子も買い放題だね～♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123501, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいになってるよ～。山積みのお菓子はうれしいけど、埋もれないか心配だよ…");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123601, /*notif_type*/1, /*comment*/"スタミナが全回復したよ。ハロウィンパレードを目いっぱい楽しんじゃおう♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123601, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったよ。効率的に見回りして、魔物を一斉検挙だ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123601, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいになったよ。あなたと出かけたくて仮装したから、早く戻ってきてほしいな♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123601, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになったみたい。コスプレ知識をたくさん磨けちゃうかも♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123601, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったみたいだ。これで一緒にコスプレ衣装を買いに行こうよ♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/123601, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが満杯だ。整理を手伝ってくれたら、コスプレ姿を披露しちゃうよ♪");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
