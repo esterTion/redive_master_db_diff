@@ -1,0 +1,1 @@
+CREATE TABLE 'ex_equipment_category' ('category' INTEGER NOT NULL, 'category_name' TEXT NOT NULL, 'category_base' TEXT NOT NULL, 'outline' TEXT NOT NULL, 'recycle_item_id' INTEGER NOT NULL, PRIMARY KEY('category'));

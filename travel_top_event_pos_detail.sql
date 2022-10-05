@@ -1,0 +1,1 @@
+CREATE TABLE 'travel_top_event_pos_detail' ('pos_id' INTEGER NOT NULL, 'pos_group_id' INTEGER NOT NULL, 'pos_x' INTEGER NOT NULL, 'pos_y' INTEGER NOT NULL, 'all_pos_flag' INTEGER NOT NULL, PRIMARY KEY('pos_id'));

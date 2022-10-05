@@ -1,0 +1,1 @@
+CREATE TABLE 'ex_equipment_rankup_data' ('rarity' INTEGER NOT NULL, 'rankup_level' INTEGER NOT NULL, 'consume_gold' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, PRIMARY KEY('rarity','rankup_level'));

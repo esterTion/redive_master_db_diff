@@ -5919,4 +5919,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6633, /*unit_id*/123601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6635, /*unit_id*/123601, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"パレードに参加すると\n体力を使うから、\nいっぱい食べておこう", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6636, /*unit_id*/123601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この絵本のお姫様\nかわいいね\nこの仮装もいいな♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6638, /*unit_id*/123601, /*trigger*/3, /*voice_id*/12, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"わあ、おいしそう！\n見回りに行く前に\n少しつまんじゃおう♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6640, /*unit_id*/103701, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今日こそは、あの人に\n気持ちを打ち明けて…\nそのあとは…うう\nど、どうしよう？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6641, /*unit_id*/103701, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"私が剣なら、あなたは\nさしずめ私の鞘…\nふふ、私の帰る\n場所ってことだよ♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
