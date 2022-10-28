@@ -100,3 +100,4 @@ INSERT INTO `campaign_freegacha_data` VALUES (/*id*/98, /*campaign_id*/27, /*gac
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/99, /*campaign_id*/27, /*gacha_id*/50217);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/100, /*campaign_id*/28, /*gacha_id*/30224);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/101, /*campaign_id*/28, /*gacha_id*/30225);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/102, /*campaign_id*/28, /*gacha_id*/30226);
