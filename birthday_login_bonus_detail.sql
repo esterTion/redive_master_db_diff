@@ -180,4 +180,12 @@ INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/181, /*login_bonus_id*/9
 INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/182, /*login_bonus_id*/9100803, /*reward_type*/2, /*reward_id*/31008, /*reward_num*/10);
 INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/183, /*login_bonus_id*/9104903, /*reward_type*/2, /*reward_id*/31049, /*reward_num*/10);
 INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/184, /*login_bonus_id*/9104703, /*reward_type*/2, /*reward_id*/31047, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/185, /*login_bonus_id*/9103803, /*reward_type*/2, /*reward_id*/31038, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/186, /*login_bonus_id*/9101403, /*reward_type*/2, /*reward_id*/31014, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/187, /*login_bonus_id*/9109403, /*reward_type*/2, /*reward_id*/31094, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/188, /*login_bonus_id*/9104803, /*reward_type*/2, /*reward_id*/31048, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/189, /*login_bonus_id*/9104503, /*reward_type*/2, /*reward_id*/31045, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/190, /*login_bonus_id*/9100603, /*reward_type*/2, /*reward_id*/31022, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/191, /*login_bonus_id*/9100603, /*reward_type*/2, /*reward_id*/31006, /*reward_num*/10);
+INSERT INTO `birthday_login_bonus_detail` VALUES (/*id*/192, /*login_bonus_id*/9100503, /*reward_type*/2, /*reward_id*/31005, /*reward_num*/10);
 CREATE INDEX 'birthday_login_bonus_detail_0_login_bonus_id' on 'birthday_login_bonus_detail'('login_bonus_id');
