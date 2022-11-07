@@ -5966,4 +5966,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6688, /*unit_id*/123801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6689, /*unit_id*/123801, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"寒さも野生のうちだ\n…とはいえ\n温まっていくか♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6691, /*unit_id*/123801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"悪くはないが物足りん\nこう見えて肉食なのだ\n肉はないのか肉は☆", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6692, /*unit_id*/123801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ウサギ族は地獄耳？\nワタシとの共通点だな", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6694, /*unit_id*/106401, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ここが私の家…\nそれはこれからも\nずっと変わらないわ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6695, /*unit_id*/106401, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ええと、その…今から\nデート…じゃなくって\n散歩でもどうかしら？\n…ふ、二人きりで…", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
