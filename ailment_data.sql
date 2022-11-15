@@ -39,3 +39,5 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/37, /*ailment_action*/11, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/38, /*ailment_action*/8, /*ailment_detail_1*/13, /*ailment_name*/"結晶化");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/39, /*ailment_action*/83, /*ailment_detail_1*/1, /*ailment_name*/"スロウ(加算可能)");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/40, /*ailment_action*/83, /*ailment_detail_1*/2, /*ailment_name*/"ヘイスト(加算可能)");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/41, /*ailment_action*/49, /*ailment_detail_1*/3, /*ailment_name*/"バフ消去");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/42, /*ailment_action*/49, /*ailment_detail_1*/10, /*ailment_name*/"バリア消去");

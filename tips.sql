@@ -60,6 +60,7 @@ INSERT INTO `tips` VALUES (/*id*/4106401, /*value*/106401, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4106601, /*value*/106601, /*tips_index*/1, /*title*/"下剋上");
 INSERT INTO `tips` VALUES (/*id*/4106701, /*value*/106701, /*tips_index*/1, /*title*/"ヒミツの作者");
 INSERT INTO `tips` VALUES (/*id*/4106801, /*value*/106801, /*tips_index*/1, /*title*/"腕前");
+INSERT INTO `tips` VALUES (/*id*/4106901, /*value*/106901, /*tips_index*/1, /*title*/"にぎにぎ");
 INSERT INTO `tips` VALUES (/*id*/4107001, /*value*/107001, /*tips_index*/1, /*title*/"ドッキリ大成功");
 INSERT INTO `tips` VALUES (/*id*/4107101, /*value*/107101, /*tips_index*/1, /*title*/"退屈だ……");
 INSERT INTO `tips` VALUES (/*id*/4109201, /*value*/109201, /*tips_index*/1, /*title*/"きょうみしんしん");
@@ -115,6 +116,7 @@ INSERT INTO `tips` VALUES (/*id*/4123101, /*value*/123101, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4123201, /*value*/123201, /*tips_index*/1, /*title*/"ピクニック気分で");
 INSERT INTO `tips` VALUES (/*id*/4123301, /*value*/123301, /*tips_index*/1, /*title*/"目のホヨー");
 INSERT INTO `tips` VALUES (/*id*/4123801, /*value*/123801, /*tips_index*/1, /*title*/"容赦なく");
+INSERT INTO `tips` VALUES (/*id*/4123901, /*value*/123901, /*tips_index*/1, /*title*/"●ヒミツ図鑑● ①マツリちゃん");
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/"じゃんけんタイム！");
 INSERT INTO `tips` VALUES (/*id*/4180201, /*value*/180201, /*tips_index*/1, /*title*/"ぺこぺこ");
 INSERT INTO `tips` VALUES (/*id*/4180301, /*value*/180301, /*tips_index*/1, /*title*/"守る力");

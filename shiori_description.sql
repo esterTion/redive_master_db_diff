@@ -20,5 +20,6 @@ INSERT INTO `shiori_description` VALUES (/*id*/20027, /*type*/18, /*description*
 INSERT INTO `shiori_description` VALUES (/*id*/20029, /*type*/19, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `shiori_description` VALUES (/*id*/20031, /*type*/20, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `shiori_description` VALUES (/*id*/20032, /*type*/21, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
+INSERT INTO `shiori_description` VALUES (/*id*/20033, /*type*/22, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `shiori_description` VALUES (/*id*/2003201, /*type*/2003201, /*description*/"VERY HARDでカズマサさまが援護してくれるようです。\n強力なスタン効果のユニオンバーストで、サポートしてくださいますよ。\nボスが身動きを取れなくなっている間に、一気に倒しましょう。");
 CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');
