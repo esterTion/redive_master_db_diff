@@ -1,2 +1,12 @@
 CREATE TABLE 'xeh_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106601, /*original_event_id*/10106, /*title*/"聖夜の幽霊×吸血鬼", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106602, /*original_event_id*/10106, /*title*/"小さなサンタの贈り物", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106603, /*original_event_id*/10106, /*title*/"嗚呼美しきクリスマス", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106604, /*original_event_id*/10106, /*title*/"輝け！　クリスマスライブ", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106605, /*original_event_id*/10106, /*title*/"エンジェル占いにご用心", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106606, /*original_event_id*/10106, /*title*/"サンタともふもふトナカイ", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106607, /*original_event_id*/10106, /*title*/"お姉ちゃんの愛さえあれば", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106608, /*original_event_id*/10106, /*title*/"素直になれないクリスマス", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106609, /*original_event_id*/10106, /*title*/"狙え！　新事業！", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
+INSERT INTO `xeh_story_data` VALUES (/*sub_story_id*/5106610, /*original_event_id*/10106, /*title*/"清き心のクリスマス", /*reward_type*/8, /*reward_id*/91002, /*reward_count*/45);
 CREATE INDEX 'xeh_story_data_0_original_event_id' on 'xeh_story_data'('original_event_id');

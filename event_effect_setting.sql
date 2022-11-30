@@ -118,3 +118,7 @@ INSERT INTO `event_effect_setting` VALUES (/*event_id*/10105, /*type*/1, /*value
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10105, /*type*/2, /*value*/10078);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10105, /*type*/3, /*value*/10078);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10105, /*type*/4, /*value*/80002);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10106, /*type*/1, /*value*/91101);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10106, /*type*/2, /*value*/91101);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10106, /*type*/3, /*value*/91101);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10106, /*type*/4, /*value*/10074);
