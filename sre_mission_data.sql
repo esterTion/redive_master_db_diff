@@ -1,0 +1,3 @@
+CREATE TABLE 'sre_mission_data' ('sre_mission_id' INTEGER NOT NULL, 'sre_id' INTEGER NOT NULL, 'category_id' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'sre_boss_id' INTEGER NOT NULL, 'condition_value' INTEGER NOT NULL, 'condition_num' TEXT NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('sre_mission_id'));
+CREATE INDEX 'sre_mission_data_0_sre_id_1_category_id' on 'sre_mission_data'('sre_id','category_id');
+CREATE INDEX 'sre_mission_data_0_sre_id' on 'sre_mission_data'('sre_id');
