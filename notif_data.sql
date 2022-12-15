@@ -1448,7 +1448,7 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/101701, /*notif_type*/8, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/101801, /*notif_type*/8, /*comment*/"アドベンチャーで設定してた繰り返し出発が終わったわ。予習復習も繰り返しが大事なのよ？忘れないでね♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/102001, /*notif_type*/8, /*comment*/"アドベンチャーの…くりかえししゅっぱつ？が終わったよ！ミミの拾ってきた宝物、見てほしいな♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/102101, /*notif_type*/8, /*comment*/"ア、アドベンチャーの繰り返し出発が終わりました…クルミも宝物探し、頑張ってきましたよ…お兄ちゃん♪");
-INSERT INTO `notif_data` VALUES (/*unit_id*/102201, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものもの手に入ったし、アンタも見てくれる？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/102201, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものも手に入ったし、アンタも見てくれる？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/102301, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったよ！ぷうきちと一緒にがんばったから、お宝にも期待してね♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/102501, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わりました～。みなさんと頑張ってきましたから、報酬を確認してくださいね？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/102601, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発、終わったよ～…もうヘロヘロだから、早く報酬の確認しちゃってよね～？");
@@ -1548,7 +1548,7 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/113401, /*notif_type*/8, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/113501, /*notif_type*/8, /*comment*/"アドベンチャーで設定してた繰り返し出発が終わったわ～。遠足みたいに楽しめて、お土産もいっぱいね～♪");
 INSERT INTO `notif_data` VALUES (/*unit_id*/113601, /*notif_type*/8, /*comment*/"アドベンチャーで設定していた繰り返し出発が終わったよ。報酬の分配をしたいから、少年も顔を出してほしいな");
 INSERT INTO `notif_data` VALUES (/*unit_id*/113701, /*notif_type*/8, /*comment*/"アドベンチャーで設定してた繰り返し出発が終わりました。すごいお宝ですよぉ～、お兄ちゃん♪");
-INSERT INTO `notif_data` VALUES (/*unit_id*/113801, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものもの手に入ったし、アンタも見てくれる？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/113801, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものも手に入ったし、アンタも見てくれる？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/113901, /*notif_type*/8, /*comment*/"騎士さん、アドベンチャーで設定してた繰り返し出発が終わりましたよ！報酬、早く確認してくださいね？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/114001, /*notif_type*/8, /*comment*/"アドベンチャーで設定していた繰り返し出発が完了した。報酬が多くてね…確認を手伝ってくれないか？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/114101, /*notif_type*/8, /*comment*/"アドベンチャーで設定してた繰り返し出発が終わったッス！はやくみんなで、お宝を分けるッス♪");
@@ -1674,5 +1674,5 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/4, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいよ！そういえばゲームショップのクリスマスセールがもうすぐね…いくわよ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいね。でも浮かれて配り歩いちゃだめよ？自分で活用するように！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/7, /*comment*/"アドベンチャーが終わったわよ！お宝の確認が終わったら、新しいボードゲームで遊んでみない？");
-INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものもの手に入ったし、アンタも見てくれる？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものも手に入ったし、アンタも見てくれる？");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

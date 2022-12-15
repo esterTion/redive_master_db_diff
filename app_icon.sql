@@ -61,6 +61,7 @@ INSERT INTO `app_icon` VALUES (/*id*/106531);
 INSERT INTO `app_icon` VALUES (/*id*/106631);
 INSERT INTO `app_icon` VALUES (/*id*/106731);
 INSERT INTO `app_icon` VALUES (/*id*/106831);
+INSERT INTO `app_icon` VALUES (/*id*/106931);
 INSERT INTO `app_icon` VALUES (/*id*/107031);
 INSERT INTO `app_icon` VALUES (/*id*/107131);
 INSERT INTO `app_icon` VALUES (/*id*/109231);
