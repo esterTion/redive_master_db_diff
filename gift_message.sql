@@ -117,5 +117,6 @@ INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「バトル オ�
 INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/"「王都終末決戦」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9703, /*discription*/"「バトル オブ ランドソル」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9704, /*discription*/"「レギオンウォー」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9705, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/24, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9800, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/21, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9801, /*discription*/"「{0}」で獲得したアイテムです。", /*type_1*/22, /*type_2*/0, /*type_3*/0, /*type_4*/0);

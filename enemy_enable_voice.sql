@@ -101,3 +101,7 @@ INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/316703, /*voice_id*/316700);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/316704, /*voice_id*/316700);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/316705, /*voice_id*/316700);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/316706, /*voice_id*/316700);
+INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/317200, /*voice_id*/317200);
+INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/317700, /*voice_id*/317700);
+INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/317800, /*voice_id*/317700);
+INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/317900, /*voice_id*/317900);

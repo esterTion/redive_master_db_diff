@@ -41,3 +41,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/39, /*ailment_action*/83, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/40, /*ailment_action*/83, /*ailment_detail_1*/2, /*ailment_name*/"ヘイスト(加算可能)");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/41, /*ailment_action*/49, /*ailment_detail_1*/3, /*ailment_name*/"バフ消去");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/42, /*ailment_action*/49, /*ailment_detail_1*/10, /*ailment_name*/"バリア消去");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/43, /*ailment_action*/9, /*ailment_detail_1*/9, /*ailment_name*/"黒炎");
