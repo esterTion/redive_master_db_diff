@@ -1675,4 +1675,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/5, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいね。でも浮かれて配り歩いちゃだめよ？自分で活用するように！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/7, /*comment*/"アドベンチャーが終わったわよ！お宝の確認が終わったら、新しいボードゲームで遊んでみない？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/124101, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わったわよ！面白そうなものも手に入ったし、アンタも見てくれる？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/1, /*comment*/"スタミナが全回復したようだね。聖女仮面としてクリスマスの街を見回りしようか");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいになったよ。聖夜の祝福で、厄介事は素早く片付けられそうだ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいだ。これで栄養補給すれば、クリスマスも休まず鍛錬に打ち込めそうだよ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいみたいだ。これで強くなって君も聖女仮面になろう！ああ冗談さ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいになったね。これだけあればレストランのクリスマスディナーも楽しめそうだよ");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいだ。一緒に片付けて、クリスマスパーティーの準備をしよう");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/7, /*comment*/"アドベンチャーが終わったよ。いろいろ拾ったんだけど、よく分からなくて…少年も確認してくれないか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/124201, /*notif_type*/8, /*comment*/"アドベンチャーで設定していた繰り返し出発が終わったよ。報酬の分配をしたいから、少年も顔を出してほしいな");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
