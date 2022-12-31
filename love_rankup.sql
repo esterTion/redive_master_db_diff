@@ -24,4 +24,11 @@ INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/5, /*effect_un
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/6, /*effect_unit_id*/121701);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/7, /*effect_unit_id*/121801);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/8, /*effect_unit_id*/121801);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/2, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/3, /*effect_unit_id*/124301);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/4, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/5, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/6, /*effect_unit_id*/124301);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/7, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/8, /*effect_unit_id*/124301);
 CREATE INDEX 'love_rankup_0_unit_id' on 'love_rankup'('unit_id');

@@ -2,3 +2,4 @@ CREATE TABLE 'sp_detail_voice' ('unit_id' INTEGER NOT NULL, 'cue_name_1' TEXT NO
 INSERT INTO `sp_detail_voice` VALUES (/*unit_id*/180701, /*cue_name_1*/"vo_cmn_180711_mypage_001", /*cue_name_2*/"vo_cmn_180811_mypage_004", /*cue_name_3*/"", /*cue_name_4*/"", /*cue_name_5*/"");
 INSERT INTO `sp_detail_voice` VALUES (/*unit_id*/180801, /*cue_name_1*/"vo_cmn_180811_mypage_001", /*cue_name_2*/"vo_cmn_180811_mypage_004", /*cue_name_3*/"vo_cmn_180811_mypage_007", /*cue_name_4*/"", /*cue_name_5*/"");
 INSERT INTO `sp_detail_voice` VALUES (/*unit_id*/180901, /*cue_name_1*/"vo_cmn_180911_mypage_001", /*cue_name_2*/"vo_cmn_180911_mypage_004", /*cue_name_3*/"", /*cue_name_4*/"", /*cue_name_5*/"");
+INSERT INTO `sp_detail_voice` VALUES (/*unit_id*/181001, /*cue_name_1*/"vo_cmn_181011_mypage_001", /*cue_name_2*/"vo_cmn_181011_mypage_004", /*cue_name_3*/"", /*cue_name_4*/"", /*cue_name_5*/"");

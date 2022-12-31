@@ -312,4 +312,14 @@ INSERT INTO `room_chat_scenario` VALUES (/*id*/34, /*scenario_idx*/6, /*unit_pos
 INSERT INTO `room_chat_scenario` VALUES (/*id*/35, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/8, /*icon_id*/0);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/35, /*scenario_idx*/2, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/72, /*icon_id*/10);
 INSERT INTO `room_chat_scenario` VALUES (/*id*/35, /*scenario_idx*/3, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/13, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/36, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/4, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/36, /*scenario_idx*/2, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/6, /*icon_id*/6);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/36, /*scenario_idx*/3, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/1, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/36, /*scenario_idx*/4, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/72, /*icon_id*/10);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/36, /*scenario_idx*/5, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/9, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/36, /*scenario_idx*/6, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/2, /*anime_id*/2, /*icon_id*/7);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/37, /*scenario_idx*/1, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/8, /*icon_id*/7);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/37, /*scenario_idx*/2, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/1, /*anime_id*/4, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/37, /*scenario_idx*/3, /*unit_pos_no*/2, /*delay*/0, /*affect_type*/1, /*anime_id*/5, /*icon_id*/0);
+INSERT INTO `room_chat_scenario` VALUES (/*id*/37, /*scenario_idx*/4, /*unit_pos_no*/1, /*delay*/0, /*affect_type*/2, /*anime_id*/13, /*icon_id*/6);
 CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id');
