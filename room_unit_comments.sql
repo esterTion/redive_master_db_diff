@@ -6174,4 +6174,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/6925, /*unit_id*/124601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/6926, /*unit_id*/124601, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"火のぬくもりに\n抱かれていると\n不思議と眠気が…\nふああ…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6928, /*unit_id*/124601, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"愛情のこもった料理は\nおいしいだけじゃなく\n心も満たされちゃう♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/6929, /*unit_id*/124601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"お正月のお作法も\nたくさんあるのね～\n先生も日々勉強だわ～", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6931, /*unit_id*/104701, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"少年への感謝をどんな\n形で伝えるべきか…\n言葉よりも物の方が\n良いのだろうか？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/6932, /*unit_id*/104701, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"話し相手になって\nもらってもいいかな？\n少年と一緒にいると\nとても楽しいんだ", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
