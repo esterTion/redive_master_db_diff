@@ -19,3 +19,8 @@ INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32004, /*floo
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32004, /*floor_num*/8, /*enemy_name*/"ランドスロース");
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32004, /*floor_num*/9, /*enemy_name*/"マッドベア");
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32004, /*floor_num*/10, /*enemy_name*/"ラースドラゴン");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32005, /*floor_num*/6, /*enemy_name*/"イワノヅチ");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32005, /*floor_num*/7, /*enemy_name*/"水瑚麟");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32005, /*floor_num*/8, /*enemy_name*/"ワイバーン");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32005, /*floor_num*/9, /*enemy_name*/"マダムプリズム");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32005, /*floor_num*/10, /*enemy_name*/"ラースドラゴン");
