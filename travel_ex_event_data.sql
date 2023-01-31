@@ -9,3 +9,4 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000006, /*title*/"アオ
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000007, /*title*/"迷える悪魔の狂詩曲", /*disp_order*/8);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000008, /*title*/"『急がば舞い上がれ』ですね！", /*disp_order*/9);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000009, /*title*/"エルフたちのためのニギヤカ大冒険", /*disp_order*/10);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000010, /*title*/"前途多難の冒険レクチャー？", /*disp_order*/11);

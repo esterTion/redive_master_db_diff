@@ -1,3 +1,3 @@
-a/resourcedefine_bgmusedposition.unity3d,be42805fc06969f1767a230ca7e6cb3a,tutorial2,7383,
-a/resourcedefine_bundlerelation.unity3d,dabce1bca58aab0ff4ff72eb629f64d6,tutorial0,29358,
+a/resourcedefine_bgmusedposition.unity3d,0c673443d89b68df1b2dee9114f10317,tutorial2,7486,
+a/resourcedefine_bundlerelation.unity3d,23ccb741b415ef651242112b34e7ce9f,tutorial0,29570,
 a/resourcedefine_tutorialgachaunit.unity3d,2a71656589625d5a03f613c3b0e4f32a,tutorial1,1846,

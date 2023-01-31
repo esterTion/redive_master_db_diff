@@ -617,6 +617,12 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1010903, /*event_id*/10109, /*ty
 INSERT INTO `hatsune_description` VALUES (/*id*/1010904, /*event_id*/10109, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1010905, /*event_id*/10109, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1010906, /*event_id*/10109, /*type*/3, /*description*/"エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1011001, /*event_id*/10110, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1011002, /*event_id*/10110, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1011003, /*event_id*/10110, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1011004, /*event_id*/10110, /*type*/1, /*description*/"討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1011005, /*event_id*/10110, /*type*/3, /*description*/"スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1011006, /*event_id*/10110, /*type*/3, /*description*/"エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210105, /*event_id*/10021, /*type*/1, /*description*/"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210106, /*event_id*/10021, /*type*/1, /*description*/"イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210107, /*event_id*/10021, /*type*/1, /*description*/"強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。");
