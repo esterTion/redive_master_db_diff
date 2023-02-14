@@ -8,3 +8,4 @@ INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10005, /*name*/"3rd A
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10006, /*name*/"3.5 Year Anniversary スペシャルログインボーナス", /*start_time*/"2021/8/15 5:00:00", /*end_time*/"2021/9/1 4:59:59");
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10007, /*name*/"4th Anniversary スペシャルログインボーナス", /*start_time*/"2022/2/15 5:00:00", /*end_time*/"2022/3/1 4:59:59");
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10008, /*name*/"4.5 Year Anniversary スペシャルログインボーナス", /*start_time*/"2022/8/15 5:00:00", /*end_time*/"2022/9/1 4:59:59");
+INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10009, /*name*/"5th Anniversary スペシャルログインボーナス", /*start_time*/"2023/2/15 5:00:00", /*end_time*/"2023/3/1 4:59:59");

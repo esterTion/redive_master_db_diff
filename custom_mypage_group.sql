@@ -14,3 +14,4 @@ INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20004, /*group_name*/"プ�
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20005, /*group_name*/"プリンセスコネクト！Re:Dive 4.5周年記念");
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/30001, /*group_name*/"ミニゲーム・ミニコンテンツ");
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40001, /*group_name*/"みんなのカレンダー");
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40002, /*group_name*/"ローソンコラボ記念");

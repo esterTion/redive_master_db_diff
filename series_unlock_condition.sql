@@ -5,4 +5,5 @@ INSERT INTO `series_unlock_condition` VALUES (/*sequel_event_id*/10063, /*condit
 INSERT INTO `series_unlock_condition` VALUES (/*sequel_event_id*/10085, /*condition_story_id_1*/0, /*condition_story_id_2*/0, /*condition_event_id*/10084, /*condition_quest_id*/10084115, /*condition_boss_id*/1008401);
 INSERT INTO `series_unlock_condition` VALUES (/*sequel_event_id*/10087, /*condition_story_id_1*/0, /*condition_story_id_2*/0, /*condition_event_id*/10086, /*condition_quest_id*/10086115, /*condition_boss_id*/1008601);
 INSERT INTO `series_unlock_condition` VALUES (/*sequel_event_id*/10111, /*condition_story_id_1*/0, /*condition_story_id_2*/0, /*condition_event_id*/10110, /*condition_quest_id*/10110115, /*condition_boss_id*/1011001);
+INSERT INTO `series_unlock_condition` VALUES (/*sequel_event_id*/10113, /*condition_story_id_1*/0, /*condition_story_id_2*/0, /*condition_event_id*/10112, /*condition_quest_id*/10112115, /*condition_boss_id*/1011201);
 INSERT INTO `series_unlock_condition` VALUES (/*sequel_event_id*/20034, /*condition_story_id_1*/0, /*condition_story_id_2*/0, /*condition_event_id*/20033, /*condition_quest_id*/20033115, /*condition_boss_id*/2003301);
