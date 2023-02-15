@@ -1,1 +1,2 @@
 CREATE TABLE 'tdf_schedule' ('schedule_id' INTEGER NOT NULL, 'count_start_time' TEXT NOT NULL, 'recovery_disable_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'ex_quest_id' INTEGER NOT NULL, PRIMARY KEY('schedule_id'));
+INSERT INTO `tdf_schedule` VALUES (/*schedule_id*/1001, /*count_start_time*/"2023/02/19 20:59:59", /*recovery_disable_time*/"2023/02/20 05:00:00", /*start_time*/"2023/02/15 15:00:00", /*end_time*/"2023/02/20 20:59:59", /*ex_quest_id*/74001999);
