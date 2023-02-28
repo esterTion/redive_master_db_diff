@@ -43,3 +43,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/41, /*ailment_action*/49, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/42, /*ailment_action*/49, /*ailment_detail_1*/10, /*ailment_name*/"バリア消去");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/43, /*ailment_action*/9, /*ailment_detail_1*/9, /*ailment_name*/"黒炎");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/44, /*ailment_action*/99, /*ailment_detail_1*/2, /*ailment_name*/"ヘイストフィールド");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/45, /*ailment_action*/99, /*ailment_detail_1*/1, /*ailment_name*/"スロウフィールド");

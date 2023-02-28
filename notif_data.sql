@@ -1739,4 +1739,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/125001, /*notif_type*/5, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/125001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが全部いっぱいになったぞ！コイツで新しい悪さでも考えてみるか！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/125001, /*notif_type*/7, /*comment*/"アドベンチャーが終わったぞ！はやくお宝を見に来いよ！オマエが喜ぶものばかりだぞ！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/125001, /*notif_type*/8, /*comment*/"アドベンチャーで設定してた繰り返し出発が終わったぞ！めちゃくちゃ大変だったけど、お宝には期待してくれ！");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/1, /*comment*/"騎士さんのスタミナも全回復したみたいですしー、さっそくわたしとデートしてくださーい♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいです★スキップでさくっと終わらせるのって快感…っ♪ですよねー★");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいですよー。誰も知らない場所まで、お出かけしちゃいますか？…くすっ★");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになりました★これ使ったらわたし、もーっと育っちゃいそう♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/5, /*comment*/"騎ー士さーん、ギルドハウスのマナがいっぱいですよー？もうドバドバのパツパツーって感じですっ★");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムが、いっぱいになっちゃってますよー？早く来ないと…ぜーんぶ壊しちゃうかも♪");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/7, /*comment*/"アドベンチャー完了しましたー★お宝いーっぱいゲットしたので…騎士さんだけに、見せちゃいますね★");
+INSERT INTO `notif_data` VALUES (/*unit_id*/118201, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わりましたよー★連続テレポーテーションで、たくさん集めちゃいました★");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');

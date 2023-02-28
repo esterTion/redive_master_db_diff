@@ -367,3 +367,4 @@ INSERT INTO `room_setup` VALUES (/*room_item_id*/2828, /*grid_height*/4, /*grid_
 INSERT INTO `room_setup` VALUES (/*room_item_id*/2829, /*grid_height*/1, /*grid_width*/2, /*unit_id*/0);
 INSERT INTO `room_setup` VALUES (/*room_item_id*/2830, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
 INSERT INTO `room_setup` VALUES (/*room_item_id*/2832, /*grid_height*/1, /*grid_width*/1, /*unit_id*/0);
+INSERT INTO `room_setup` VALUES (/*room_item_id*/2833, /*grid_height*/2, /*grid_width*/2, /*unit_id*/0);

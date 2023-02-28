@@ -10,3 +10,5 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000007, /*title*/"迷え
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000008, /*title*/"『急がば舞い上がれ』ですね！", /*disp_order*/9);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000009, /*title*/"エルフたちのためのニギヤカ大冒険", /*disp_order*/10);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000010, /*title*/"前途多難の冒険レクチャー？", /*disp_order*/11);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000011, /*title*/"ナイツ・オン・ザ・シー", /*disp_order*/12);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000012, /*title*/"冒険は山あり「谷」あり", /*disp_order*/13);

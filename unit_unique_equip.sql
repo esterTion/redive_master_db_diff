@@ -59,6 +59,7 @@ INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106301, /*equip_slot*/1, /*eq
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106401, /*equip_slot*/1, /*equip_id*/130641);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106501, /*equip_slot*/1, /*equip_id*/130651);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106601, /*equip_slot*/1, /*equip_id*/130661);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/106801, /*equip_slot*/1, /*equip_id*/130681);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/107001, /*equip_slot*/1, /*equip_id*/130701);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/107101, /*equip_slot*/1, /*equip_id*/130711);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/107501, /*equip_slot*/1, /*equip_id*/130751);
