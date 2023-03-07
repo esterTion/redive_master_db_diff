@@ -141,3 +141,4 @@ INSERT INTO `quest_area_data` VALUES (/*area_id*/18001, /*area_name*/"聖跡調�
 INSERT INTO `quest_area_data` VALUES (/*area_id*/19001, /*area_name*/"神殿調査クエスト", /*area_display_name*/"神殿調査クエスト", /*map_type*/0, /*sheet_id*/"", /*que_id*/"", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2030/12/17 14:59:00");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/21001, /*area_name*/"マナクエスト", /*area_display_name*/"マナクエスト", /*map_type*/0, /*sheet_id*/"", /*que_id*/"", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/21002, /*area_name*/"経験値クエスト", /*area_display_name*/"経験値クエスト", /*map_type*/0, /*sheet_id*/"", /*que_id*/"", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2030/12/17 14:59:59");
+CREATE INDEX 'quest_area_data_0_map_type' on 'quest_area_data'('map_type');

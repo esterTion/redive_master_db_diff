@@ -6310,4 +6310,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7079, /*unit_id*/125101, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7080, /*unit_id*/125101, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"猫に暖かいものは\nまるまれと言ってる\nようなもんにゃ…♪\nまるまる…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7082, /*unit_id*/125101, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"にゃは～うまいにゃ♪\nカフェの新メニューに\n採用しちゃおう\nかにゃ～♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7083, /*unit_id*/125101, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"にゃるほど…\n調べれば調べるほど\nコーヒーは\n奥が深いのにゃ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7085, /*unit_id*/107101, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ワタシの手料理は\n坊やの口に合うらしい\n胃袋は討ち取ったぞ♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7086, /*unit_id*/107101, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"胸に再度触れると\n誓約は無効になるのか\n…だと？　鋭い質問だ\n安心しろ。ならん☆", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

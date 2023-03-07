@@ -7,3 +7,4 @@ INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31005, /*skip_motion_id*/3017
 INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31006, /*skip_motion_id*/310100, /*skip_bg_id*/102174, /*skip_position_x*/0, /*skip_position_y*/-40, /*skip_scale_x*/0.7, /*skip_scale_y*/0.7);
 INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31007, /*skip_motion_id*/399800, /*skip_bg_id*/102751, /*skip_position_x*/-80, /*skip_position_y*/-60, /*skip_scale_x*/0.3, /*skip_scale_y*/0.3);
 INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31008, /*skip_motion_id*/314901, /*skip_bg_id*/103001, /*skip_position_x*/-20, /*skip_position_y*/20, /*skip_scale_x*/0.9, /*skip_scale_y*/0.9);
+INSERT INTO `dungeon_skip_data` VALUES (/*area_id*/31009, /*skip_motion_id*/318405, /*skip_bg_id*/103232, /*skip_position_x*/30, /*skip_position_y*/-110, /*skip_scale_x*/0.7, /*skip_scale_y*/0.7);

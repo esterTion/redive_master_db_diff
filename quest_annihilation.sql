@@ -2,6 +2,7 @@ CREATE TABLE 'quest_annihilation' ('system_id' INTEGER NOT NULL, 'quest_id' INTE
 INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/31006005, /*effect_type*/501, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
 INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/31007005, /*effect_type*/501, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
 INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/31008005, /*effect_type*/501, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
+INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/31009005, /*effect_type*/501, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
 INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/320010106, /*effect_type*/502, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
 INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/320010107, /*effect_type*/502, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
 INSERT INTO `quest_annihilation` VALUES (/*system_id*/104, /*quest_id*/320010108, /*effect_type*/502, /*quest_effect_position*/0, /*se_cue_name*/"se_btl_tower_timeup");
