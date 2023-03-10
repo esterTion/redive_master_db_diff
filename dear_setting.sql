@@ -1,6 +1,5 @@
 CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT NULL, 'tutorial_quest_id' INTEGER NOT NULL, 'tutorial_chara_index' INTEGER NOT NULL, 'tutorial_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id'));
 INSERT INTO `dear_setting` VALUES (/*event_id*/10053, /*system_name*/"信頼度", /*tutorial_quest_id*/10053102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6017101);
-INSERT INTO `dear_setting` VALUES (/*event_id*/10088, /*system_name*/"信頼度", /*tutorial_quest_id*/10088106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6088201);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10090, /*system_name*/"信頼度", /*tutorial_quest_id*/10090104, /*tutorial_chara_index*/1, /*tutorial_story_id*/6090101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10094, /*system_name*/"信頼度", /*tutorial_quest_id*/10094102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6094101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10095, /*system_name*/"信頼度", /*tutorial_quest_id*/10095103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6068101);
@@ -10,6 +9,7 @@ INSERT INTO `dear_setting` VALUES (/*event_id*/10103, /*system_name*/"信頼度"
 INSERT INTO `dear_setting` VALUES (/*event_id*/10104, /*system_name*/"信頼度", /*tutorial_quest_id*/10104114, /*tutorial_chara_index*/1, /*tutorial_story_id*/6104101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10105, /*system_name*/"信頼度", /*tutorial_quest_id*/10105114, /*tutorial_chara_index*/1, /*tutorial_story_id*/6078101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10114, /*system_name*/"信頼度", /*tutorial_quest_id*/10114107, /*tutorial_chara_index*/1, /*tutorial_story_id*/6114101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10115, /*system_name*/"信頼度", /*tutorial_quest_id*/10115106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6088201);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20015, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20017, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20018, /*system_name*/"信頼度", /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
