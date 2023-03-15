@@ -237,3 +237,5 @@ INSERT INTO `odds_name_data` VALUES (/*id*/1011201, /*odds_file*/1011220101, /*n
 INSERT INTO `odds_name_data` VALUES (/*id*/1011202, /*odds_file*/1011220102, /*name*/"キャルのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/1011401, /*odds_file*/1011420101, /*name*/"モニカのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/1011402, /*odds_file*/1011420102, /*name*/"タマキのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/1011501, /*odds_file*/1011520101, /*name*/"マヒル（レンジャー）のメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/1011502, /*odds_file*/1011520102, /*name*/"リンのメモリーピース", /*icon_type*/99002, /*description*/"");
