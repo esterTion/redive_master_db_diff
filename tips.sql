@@ -103,6 +103,7 @@ INSERT INTO `tips` VALUES (/*id*/4118201, /*value*/118201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4118501, /*value*/118501, /*tips_index*/1, /*title*/"素敵な仲間");
 INSERT INTO `tips` VALUES (/*id*/4119001, /*value*/119001, /*tips_index*/1, /*title*/"闇の授業");
 INSERT INTO `tips` VALUES (/*id*/4119101, /*value*/119101, /*tips_index*/1, /*title*/"高まる");
+INSERT INTO `tips` VALUES (/*id*/4120001, /*value*/120001, /*tips_index*/1, /*title*/"平和を守るお姉ちゃん");
 INSERT INTO `tips` VALUES (/*id*/4121301, /*value*/121301, /*tips_index*/1, /*title*/"開演直前");
 INSERT INTO `tips` VALUES (/*id*/4121401, /*value*/121401, /*tips_index*/1, /*title*/"セクシーアピール");
 INSERT INTO `tips` VALUES (/*id*/4121501, /*value*/121501, /*tips_index*/1, /*title*/"ライバル出現？");
