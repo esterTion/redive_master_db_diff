@@ -411,3 +411,4 @@ INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/4061, /*bg_id
 INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/4071, /*bg_id*/14, /*type*/1, /*start_offset_x*/-459, /*end_offset_x*/-384);
 INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/4081, /*bg_id*/14, /*type*/1, /*start_offset_x*/-384, /*end_offset_x*/-308);
 INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/4091, /*bg_id*/14, /*type*/1, /*start_offset_x*/-308, /*end_offset_x*/-230);
+INSERT INTO `wac_mural_bg_data` VALUES (/*wac_id*/2816, /*date_id*/4092, /*bg_id*/1, /*type*/1, /*start_offset_x*/-200, /*end_offset_x*/-200);

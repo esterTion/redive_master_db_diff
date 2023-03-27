@@ -169,3 +169,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DSB", /*bg_id*/0, /*event_id
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DSB_DRAMA", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DSB_DIARY", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"DIMENSION_FAULT_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_FBS_DETAIL", /*bg_id*/530030, /*event_id*/0);
