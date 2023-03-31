@@ -113,6 +113,8 @@ INSERT INTO `gift_message` VALUES (/*id*/9516, /*discription*/"「復刻イベ�
 INSERT INTO `gift_message` VALUES (/*id*/9517, /*discription*/"「みんなの稽古場」で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9518, /*discription*/"EX装備分解で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9519, /*discription*/"EX装備強化で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9520, /*discription*/"所持上限を超えて獲得したイベントログインボーナスの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9521, /*discription*/"所持上限を超えて獲得した復刻イベントログインボーナスの報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"ミニゲームで獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「バトル オブ ランドソル」で獲得したランキング報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「バトル オブ ランドソル」で獲得したアタック報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
