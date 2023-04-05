@@ -6378,4 +6378,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7156, /*unit_id*/125301, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7157, /*unit_id*/125301, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"暖をとるのは\n野営の時などに\nとても大事なことで\nございますね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7159, /*unit_id*/125301, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"食べられる時に食べて\nおくのも、大自然では\n重要でございます", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7160, /*unit_id*/125301, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"より知識を蓄え\n自然の力を活用できる\nようにいたしましょう", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7162, /*unit_id*/100901, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今回の「冥風戦記」も\nなかなかよく書けたぞ\nふふっ、シグルドも\n喜んでくれるかな？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7163, /*unit_id*/100901, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"貴様のためならば\n我が真なる魔力\nいつでも\n解き放とうぞ！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
