@@ -27,3 +27,4 @@ INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1227101,
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1230101, /*base_skill_id*/1230001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1250101, /*base_skill_id*/1250001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1250102, /*base_skill_id*/1250001);
+INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1258101, /*base_skill_id*/1258001);
