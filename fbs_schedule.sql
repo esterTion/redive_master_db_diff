@@ -6,3 +6,6 @@ INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/4, /*story_id*/4010004, /*start_tim
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/5, /*story_id*/4010005, /*start_time*/"2023/4/10 5:00:00", /*end_time*/"2023/4/11 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/6, /*story_id*/4010006, /*start_time*/"2023/4/17 5:00:00", /*end_time*/"2023/4/18 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/7, /*story_id*/4010007, /*start_time*/"2023/4/29 5:00:00", /*end_time*/"2023/4/30 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/8, /*story_id*/4010008, /*start_time*/"2023/5/5 5:00:00", /*end_time*/"2023/5/6 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/9, /*story_id*/4010009, /*start_time*/"2023/5/10 5:00:00", /*end_time*/"2023/5/11 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/10, /*story_id*/4010010, /*start_time*/"2023/5/11 5:00:00", /*end_time*/"2023/5/12 4:59:59");

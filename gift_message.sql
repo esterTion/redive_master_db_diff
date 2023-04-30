@@ -96,6 +96,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9427, /*discription*/"アイテム装�
 INSERT INTO `gift_message` VALUES (/*id*/9428, /*discription*/"アイテム装備パックⅧ（4周年）を購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9429, /*discription*/"アイテム装備パックⅨ（4周年）を購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9430, /*discription*/"アイテム装備パックⅩ（4周年）を購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9431, /*discription*/"コラボパックを購入して獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9501, /*discription*/"「イベントログインボーナス」{1}日目で獲得したアイテムです。", /*type_1*/13, /*type_2*/2, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9502, /*discription*/"イベントクエスト初回クリアで獲得したアイテムです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9503, /*discription*/"イベントクエスト{1}クリアで獲得したアイテムです。", /*type_1*/13, /*type_2*/14, /*type_3*/0, /*type_4*/0);

@@ -206,6 +206,8 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125131, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125231, /*unit_name*/"モニカ・ヴァイスヴィント", /*bg_id*/510210, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125331, /*unit_name*/"棗 こころ", /*bg_id*/510140, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125431, /*unit_name*/"柏崎 栞", /*bg_id*/510100, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125531, /*unit_name*/"ジータ", /*bg_id*/510220, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125731, /*unit_name*/"観崎 佳凛", /*bg_id*/510300, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/125831, /*unit_name*/"徳川 莉々", /*bg_id*/510090, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/180131, /*unit_name*/"春咲 ひより", /*bg_id*/510121, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/180231, /*unit_name*/"草野 優衣", /*bg_id*/510350, /*face_type*/2);

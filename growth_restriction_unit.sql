@@ -16,4 +16,5 @@ INSERT INTO `growth_restriction_unit` VALUES (/*id*/14, /*growth_id*/16, /*unit_
 INSERT INTO `growth_restriction_unit` VALUES (/*id*/15, /*growth_id*/17, /*unit_id*/124101);
 INSERT INTO `growth_restriction_unit` VALUES (/*id*/16, /*growth_id*/20, /*unit_id*/124701);
 INSERT INTO `growth_restriction_unit` VALUES (/*id*/17, /*growth_id*/21, /*unit_id*/124901);
+INSERT INTO `growth_restriction_unit` VALUES (/*id*/18, /*growth_id*/22, /*unit_id*/125701);
 CREATE INDEX 'growth_restriction_unit_0_growth_id' on 'growth_restriction_unit'('growth_id');

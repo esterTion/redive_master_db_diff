@@ -3,4 +3,5 @@ INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100941, /*group_id*/1, /*frame_n
 INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100961, /*group_id*/2, /*frame_name*/"トゥインクルサマーゲーム　夏海にきらめく三つの想い", /*description*/"ストーリーイベント「トゥインクルサマーゲーム　夏海にきらめく三つの想い」の\nミッション「海将タツノココマンダーを1体倒そう（HARD限定）」を達成すると確認できます。", /*start_time*/"2022/06/30 12:00:00");
 INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100981, /*group_id*/3, /*frame_name*/"リトル・サマー・メモリーズ渚でみつけた小さな幸せ", /*description*/"ストーリーイベント「リトル・サマー・メモリーズ　渚でみつけた小さな幸せ」の\nミッション「ムーンレイゲートを1体倒そう（HARD限定）」を達成すると確認できます。", /*start_time*/"2022/07/31 12:00:00");
 INSERT INTO `mypage_frame` VALUES (/*frame_id*/2101001, /*group_id*/4, /*frame_name*/"マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹", /*description*/"ストーリーイベント「マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹」の\nミッション「哀執のバロメッツを1体倒そう（HARD限定）」を達成すると確認できます。", /*start_time*/"2022/08/31 12:00:00");
+INSERT INTO `mypage_frame` VALUES (/*frame_id*/2101181, /*group_id*/5, /*frame_name*/"浮島と飛空艇フレーム", /*description*/"ストーリーイベント「コネクト・ウィズ・ブルー　少女が空に至るまで」の\nミニコンテンツ「ランドソル一期一会」の「人気者は遅れてやってくる」を閲覧すると確認できます。", /*start_time*/"2023/04/30 12:00:00");
 CREATE INDEX 'mypage_frame_0_group_id' on 'mypage_frame'('group_id');
