@@ -6468,4 +6468,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7258, /*unit_id*/125701, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7259, /*unit_id*/125701, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この火力…\n錬金術の調合に\n使えそうですね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7261, /*unit_id*/125701, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"冒険の際は食べられる\n時に食べておく！\n…とペコリーヌさんも\nおっしゃってましたね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7262, /*unit_id*/125701, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふむふむ…なるほど\nこんな調合も\nあるのですね…\n奥が深いです", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7264, /*unit_id*/106101, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"アイツどこ行った…？\n戦うならアタシも\n連れてけよなー！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7265, /*unit_id*/106101, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今日も悪いヤツ退治…\nの前に腹ごしらえだ！\nなんか食べに行くぞ！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
