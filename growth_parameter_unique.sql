@@ -1,2 +1,3 @@
 CREATE TABLE 'growth_parameter_unique' ('growth_id' INTEGER NOT NULL, 'unique_equip_strength_point_1' INTEGER NOT NULL, 'unique_equip_strength_point_2' INTEGER NOT NULL, 'unique_equip_rank_1' INTEGER NOT NULL, 'unique_equip_rank_2' INTEGER NOT NULL, PRIMARY KEY('growth_id'));
 INSERT INTO `growth_parameter_unique` VALUES (/*growth_id*/10001, /*unique_equip_strength_point_1*/39990, /*unique_equip_strength_point_2*/-1, /*unique_equip_rank_1*/17, /*unique_equip_rank_2*/0);
+INSERT INTO `growth_parameter_unique` VALUES (/*growth_id*/10002, /*unique_equip_strength_point_1*/47490, /*unique_equip_strength_point_2*/-1, /*unique_equip_rank_1*/20, /*unique_equip_rank_2*/0);

@@ -99,7 +99,11 @@ INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/117, /*area_id*/10117, /*cond
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/121, /*area_id*/20039, /*condition_type*/3, /*condition_id*/5070004, /*target_type*/2, /*bg_after_change_id*/501353);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/122, /*area_id*/20039, /*condition_type*/3, /*condition_id*/5070005, /*target_type*/2, /*bg_after_change_id*/500016);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/123, /*area_id*/10116, /*condition_type*/3, /*condition_id*/5116004, /*target_type*/2, /*bg_after_change_id*/500837);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/124, /*area_id*/10119, /*condition_type*/3, /*condition_id*/5092001, /*target_type*/2, /*bg_after_change_id*/501031);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/125, /*area_id*/10119, /*condition_type*/3, /*condition_id*/5092004, /*target_type*/2, /*bg_after_change_id*/501551);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/126, /*area_id*/10118, /*condition_type*/3, /*condition_id*/5118002, /*target_type*/2, /*bg_after_change_id*/500133);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/127, /*area_id*/10118, /*condition_type*/3, /*condition_id*/5118003, /*target_type*/2, /*bg_after_change_id*/500810);
 INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/128, /*area_id*/10118, /*condition_type*/3, /*condition_id*/5118007, /*target_type*/2, /*bg_after_change_id*/500133);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/129, /*area_id*/20040, /*condition_type*/3, /*condition_id*/5072004, /*target_type*/2, /*bg_after_change_id*/501364);
+INSERT INTO `hatsune_bg_change_data` VALUES (/*id*/130, /*area_id*/20040, /*condition_type*/3, /*condition_id*/5072006, /*target_type*/2, /*bg_after_change_id*/501365);
 CREATE INDEX 'hatsune_bg_change_data_0_target_type_1_area_id' on 'hatsune_bg_change_data'('target_type','area_id');
