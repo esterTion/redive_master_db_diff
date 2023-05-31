@@ -14,3 +14,4 @@ INSERT INTO `spskill_label_data` VALUES (/*unit_id*/122701, /*normal_label_text*
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/123001, /*normal_label_text*/"通常時", /*sp_label_text*/"特殊スキル");
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/125001, /*normal_label_text*/"通常時", /*sp_label_text*/"共闘中");
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/125801, /*normal_label_text*/"通常時", /*sp_label_text*/"特殊スキル");
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126201, /*normal_label_text*/"通常時", /*sp_label_text*/"特殊スキル");

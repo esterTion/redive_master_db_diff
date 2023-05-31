@@ -26,4 +26,5 @@ INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1230001, /*sp_skill_id*/
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1250002, /*sp_skill_id*/1250101, /*base_skill_id*/1250001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1250003, /*sp_skill_id*/1250102, /*base_skill_id*/1250001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1258001, /*sp_skill_id*/1258101, /*base_skill_id*/1258001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1262001, /*sp_skill_id*/1262101, /*base_skill_id*/1262001, /*skill_category*/2);
 CREATE INDEX 'define_spskill_0_sp_skill_id' on 'define_spskill'('sp_skill_id');

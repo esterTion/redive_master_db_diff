@@ -9,3 +9,7 @@ INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/7, /*pos_group_id*/4
 INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/8, /*pos_group_id*/4, /*pos_x*/105, /*pos_y*/-415, /*all_pos_flag*/1);
 INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/9, /*pos_group_id*/5, /*pos_x*/135, /*pos_y*/-160, /*all_pos_flag*/1);
 INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/10, /*pos_group_id*/6, /*pos_x*/345, /*pos_y*/-40, /*all_pos_flag*/1);
+INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/11, /*pos_group_id*/7, /*pos_x*/-230, /*pos_y*/90, /*all_pos_flag*/1);
+INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/12, /*pos_group_id*/8, /*pos_x*/230, /*pos_y*/-420, /*all_pos_flag*/1);
+INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/13, /*pos_group_id*/9, /*pos_x*/30, /*pos_y*/250, /*all_pos_flag*/1);
+INSERT INTO `travel_top_event_pos_detail` VALUES (/*pos_id*/14, /*pos_group_id*/10, /*pos_x*/280, /*pos_y*/-245, /*all_pos_flag*/1);
