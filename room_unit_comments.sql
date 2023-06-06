@@ -6514,4 +6514,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7310, /*unit_id*/126201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7311, /*unit_id*/126201, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"よいぬくもりじゃ…\n忌々しい太陽とは\n大違いじゃの", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7313, /*unit_id*/126201, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"味付けの参考に\nあと、もう一つだけ…\n止まらんのじゃ…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7314, /*unit_id*/126201, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"吸血鬼の弱点について\n記されておるのか…\nふむ、眠気が\nさめてしもうたぞ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7316, /*unit_id*/100801, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"このままボクが美しく\nなり続けても、彼なら\nきっと隣にいてくれる\nはずだよね！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7317, /*unit_id*/100801, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"もっとそばに来なよ\nボクの隣は\nキミのための\n特等席なんだから", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
