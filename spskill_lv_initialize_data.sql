@@ -21,8 +21,9 @@ INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1185101,
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1208101, /*base_skill_id*/1208001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1208111, /*base_skill_id*/1208001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1220101, /*base_skill_id*/1220001);
-INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1223101, /*base_skill_id*/1220001);
-INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1223102, /*base_skill_id*/1220001);
+INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1223101, /*base_skill_id*/1223001);
+INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1223102, /*base_skill_id*/1223001);
+INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1223111, /*base_skill_id*/1223001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1227101, /*base_skill_id*/1227001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1230101, /*base_skill_id*/1230001);
 INSERT INTO `spskill_lv_initialize_data` VALUES (/*initialize_skill_id*/1250101, /*base_skill_id*/1250001);
