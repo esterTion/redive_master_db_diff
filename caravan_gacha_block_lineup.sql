@@ -1,0 +1,1 @@
+CREATE TABLE 'caravan_gacha_block_lineup' ('group_id' INTEGER NOT NULL, 'normal_gacha_odds' INTEGER NOT NULL, 'normal_gacha_cost' INTEGER NOT NULL, 'rare_gacha_odds' INTEGER NOT NULL, 'rare_gacha_cost' INTEGER NOT NULL, 'premium_gacha_odds' INTEGER NOT NULL, 'premium_gacha_cost' INTEGER NOT NULL, PRIMARY KEY('group_id'));

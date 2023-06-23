@@ -66,4 +66,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5114, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5116, /*story_type*/5, /*value*/10116, /*title*/"Dears　\nおかえりとただいまの約束", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/03/23 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5118, /*story_type*/5, /*value*/10118, /*title*/"コネクト・ウィズ・ブルー　\n少女が空に至るまで", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/04/24 19:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5120, /*story_type*/5, /*value*/10120, /*title*/"ヴァンパイアフォークロア　\n夜と美の饗宴", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/05/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5122, /*story_type*/5, /*value*/10122, /*title*/"オーマの水からっぽ大作戦　\n秘密主義者と禁断の海", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/06/23 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
