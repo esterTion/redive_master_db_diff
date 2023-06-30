@@ -1,2 +1,4 @@
 CREATE TABLE 'wts_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+INSERT INTO `wts_navi_comment` VALUES (/*comment_id*/58001, /*where_type*/58, /*character_id*/126601, /*face_type*/1, /*voice_id*/101, /*pos_x*/-360.0, /*pos_y*/0.0, /*change_face_time*/8.63, /*change_face_type*/0, /*original_event_id*/10122);
+INSERT INTO `wts_navi_comment` VALUES (/*comment_id*/58002, /*where_type*/58, /*character_id*/126601, /*face_type*/1, /*voice_id*/102, /*pos_x*/-360.0, /*pos_y*/0.0, /*change_face_time*/4.37, /*change_face_type*/0, /*original_event_id*/10122);
 CREATE INDEX 'wts_navi_comment_0_where_type' on 'wts_navi_comment'('where_type');

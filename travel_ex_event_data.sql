@@ -16,3 +16,5 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000013, /*title*/"五人
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000014, /*title*/"船頭酔っぱらいて船滝を下る", /*disp_order*/15);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000015, /*title*/"天翔けるドラゴンギャング", /*disp_order*/16);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000016, /*title*/"カルミナ☆ネイチャーライブ！", /*disp_order*/17);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000017, /*title*/"進む旅路に積もる話", /*disp_order*/18);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000018, /*title*/"シング・ア・ララバイ", /*disp_order*/19);

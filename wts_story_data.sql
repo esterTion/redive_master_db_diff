@@ -1,2 +1,9 @@
 CREATE TABLE 'wts_story_data' ('sub_story_id' INTEGER NOT NULL, 'repeat_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122061, /*repeat_story_id*/5122061, /*original_event_id*/10122, /*title*/"アオイの秘密", /*condition_quest_id*/10122107, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122062, /*repeat_story_id*/5122062, /*original_event_id*/10122, /*title*/"ミヤコの秘密", /*condition_quest_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122063, /*repeat_story_id*/5122063, /*original_event_id*/10122, /*title*/"イオの秘密", /*condition_quest_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122064, /*repeat_story_id*/5122064, /*original_event_id*/10122, /*title*/"ミフユの秘密", /*condition_quest_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122065, /*repeat_story_id*/5122065, /*original_event_id*/10122, /*title*/"マヒルの秘密", /*condition_quest_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122066, /*repeat_story_id*/5122066, /*original_event_id*/10122, /*title*/"カズマサの秘密", /*condition_quest_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
+INSERT INTO `wts_story_data` VALUES (/*sub_story_id*/5122067, /*repeat_story_id*/5122067, /*original_event_id*/10122, /*title*/"エリコの秘密", /*condition_quest_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/50);
 CREATE INDEX 'wts_story_data_0_original_event_id' on 'wts_story_data'('original_event_id');
