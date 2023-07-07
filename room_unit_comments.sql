@@ -6608,4 +6608,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7417, /*unit_id*/126601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7418, /*unit_id*/126601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"夏を舞台にした\n小説は数多くあります\n彼が好きそうな本を\n何冊か見繕いましょう", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7420, /*unit_id*/126601, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"見た目も手触りも\n完璧に覚えました\nいつでも模倣できます", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7421, /*unit_id*/126601, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふむ…夏らしい\nクッションですね\nナイトプールに\n映えそうです", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7422, /*unit_id*/105401, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"レイ様も格好良いけど\n騎士さんもなかなか…\nって、今の聞こえて\nませんよねっ？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7423, /*unit_id*/105401, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"騎士さんはシンプルな\n服が似合いそうです！\n今度、一緒に\n見に行きましょう♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
