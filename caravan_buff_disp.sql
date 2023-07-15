@@ -13,4 +13,5 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/11, /*type*/2, /*effect_id*/6, /*c
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/12, /*type*/2, /*effect_id*/7, /*category*/3, /*icon_id*/4, /*description*/"【イベント】マイルショップの全商品が20%以上割引される", /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/13, /*type*/1, /*effect_id*/52009, /*category*/1, /*icon_id*/1, /*description*/"【料理】ダイスの目が1回目は必ず「8」に、2回目は必ず「1」になる", /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/14, /*type*/1, /*effect_id*/52010, /*category*/2, /*icon_id*/6, /*description*/"【料理】「マイルマス」「トレ\nジャーマス」「ショップマス」のRANKが1つ上がる", /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/15, /*type*/1, /*effect_id*/52011, /*category*/1, /*icon_id*/1, /*description*/"【料理】ダイスの目が1回目は必ず「2」に、2回目は必ず「7」になる", /*count_from*/0, /*count_to*/0);
 CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id');

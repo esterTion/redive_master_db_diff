@@ -29,3 +29,8 @@ INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32006, /*floo
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32006, /*floor_num*/8, /*enemy_name*/"ライライ");
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32006, /*floor_num*/9, /*enemy_name*/"オークチーフ");
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32006, /*floor_num*/10, /*enemy_name*/"ラースドラゴン");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/6, /*enemy_name*/"エレクトロ・ギガス");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/7, /*enemy_name*/"クリスタルゴーレム");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/8, /*enemy_name*/"ランドスロース");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/9, /*enemy_name*/"ソードコブラ");
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/10, /*enemy_name*/"アルティマガーディアン");
