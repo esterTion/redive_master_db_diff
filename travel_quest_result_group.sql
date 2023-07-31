@@ -31,4 +31,6 @@ INSERT INTO `travel_quest_result_group` VALUES (/*id*/29, /*situation_group_id*/
 INSERT INTO `travel_quest_result_group` VALUES (/*id*/30, /*situation_group_id*/10, /*situation_id*/101);
 INSERT INTO `travel_quest_result_group` VALUES (/*id*/31, /*situation_group_id*/10, /*situation_id*/103);
 INSERT INTO `travel_quest_result_group` VALUES (/*id*/32, /*situation_group_id*/10, /*situation_id*/105);
+INSERT INTO `travel_quest_result_group` VALUES (/*id*/33, /*situation_group_id*/11, /*situation_id*/107);
+INSERT INTO `travel_quest_result_group` VALUES (/*id*/34, /*situation_group_id*/11, /*situation_id*/108);
 CREATE INDEX 'travel_quest_result_group_0_situation_group_id' on 'travel_quest_result_group'('situation_group_id');

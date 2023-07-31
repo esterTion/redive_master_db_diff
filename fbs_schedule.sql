@@ -23,3 +23,12 @@ INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/21, /*story_id*/4010021, /*start_ti
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/22, /*story_id*/4010022, /*start_time*/"2023/7/25 5:00:00", /*end_time*/"2023/7/26 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/23, /*story_id*/4010023, /*start_time*/"2023/7/28 5:00:00", /*end_time*/"2023/7/29 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/24, /*story_id*/4010024, /*start_time*/"2023/7/30 5:00:00", /*end_time*/"2023/7/31 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/25, /*story_id*/4010025, /*start_time*/"2023/8/7 5:00:00", /*end_time*/"2023/8/8 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/26, /*story_id*/4010026, /*start_time*/"2023/8/9 5:00:00", /*end_time*/"2023/8/10 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/27, /*story_id*/4010027, /*start_time*/"2023/8/10 5:00:00", /*end_time*/"2023/8/11 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/28, /*story_id*/4010028, /*start_time*/"2023/8/11 5:00:00", /*end_time*/"2023/8/12 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/29, /*story_id*/4010029, /*start_time*/"2023/8/14 5:00:00", /*end_time*/"2023/8/15 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/30, /*story_id*/4010030, /*start_time*/"2023/8/21 5:00:00", /*end_time*/"2023/8/22 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/31, /*story_id*/4010031, /*start_time*/"2023/8/25 5:00:00", /*end_time*/"2023/8/26 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/32, /*story_id*/4010032, /*start_time*/"2023/8/27 5:00:00", /*end_time*/"2023/8/28 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/33, /*story_id*/4010033, /*start_time*/"2023/8/31 5:00:00", /*end_time*/"2023/9/1 4:59:59");

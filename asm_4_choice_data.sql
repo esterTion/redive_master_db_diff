@@ -1,0 +1,1 @@
+CREATE TABLE 'asm_4_choice_data' ('asm_id' INTEGER NOT NULL, 'choice_1' TEXT NOT NULL, 'image_id_1' INTEGER NOT NULL, 'choice_2' TEXT NOT NULL, 'image_id_2' INTEGER NOT NULL, 'choice_3' TEXT NOT NULL, 'image_id_3' INTEGER NOT NULL, 'choice_4' TEXT NOT NULL, 'image_id_4' INTEGER NOT NULL, 'correct_answer' INTEGER NOT NULL, PRIMARY KEY('asm_id'));

@@ -1,0 +1,2 @@
+CREATE TABLE 'asm_reaction_data' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'reaction_type' INTEGER NOT NULL, 'condition_param_1' INTEGER NOT NULL, 'condition_param_2' INTEGER NOT NULL, 'condition_param_3' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'face_change_time' REAL NOT NULL, 'change_face_id' INTEGER NOT NULL, 'face_change_effect_id' INTEGER NOT NULL, 'cue_name' TEXT NOT NULL, 'message' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'asm_reaction_data_0_unit_id_1_reaction_type' on 'asm_reaction_data'('unit_id','reaction_type');
