@@ -3613,6 +3613,7 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13035003, /*area_id*/13035, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13063001, /*area_id*/13063, /*quest_name*/"アパレーユ街道・西側 63-1", /*wave_group_id_1*/103630101, /*bg_skip_id*/103193);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13063002, /*area_id*/13063, /*quest_name*/"アパレーユ街道・西側 63-2", /*wave_group_id_1*/103630201, /*bg_skip_id*/103193);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13063003, /*area_id*/13063, /*quest_name*/"アパレーユ街道・西側 63-3", /*wave_group_id_1*/103630301, /*bg_skip_id*/103193);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13064001, /*area_id*/13063, /*quest_name*/"アパレーユ街道・東側 64-1", /*wave_group_id_1*/103640101, /*bg_skip_id*/103193);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001003, /*area_id*/18001, /*quest_name*/"聖跡調査クエストLv3", /*wave_group_id_1*/108010308, /*bg_skip_id*/101341);
