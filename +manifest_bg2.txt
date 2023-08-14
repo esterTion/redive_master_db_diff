@@ -5023,6 +5023,7 @@ a/bg_profilecard_titlelogo_1005.unity3d,6f5f3401609bd18390e00001efcc777a,tutoria
 a/bg_profilecard_titlelogo_1006.unity3d,a4fdf495e442a9817622b1618d74bb42,tutorial1,19044,
 a/bg_profilecard_titlelogo_1007.unity3d,7d488ede4790e19cb139a5f34f521ee9,tutorial1,21193,
 a/bg_profilecard_titlelogo_1008.unity3d,4cdde4282d25685ceaaedab4b9e833b3,tutorial1,19367,
+a/bg_profilecard_titlelogo_1009.unity3d,6a5c6d3f560f2187b72ba59000528648,tutorial1,21169,
 a/bg_skip_bg_material.unity3d,587b53b178509f66900bbd368d63eb6c,tutorial1,2346,
 a/bg_still_unit_100131.unity3d,00c37b70563f9d271512c3222497701f,tutorial1,1331739,
 a/bg_still_unit_100161.unity3d,038a6eefb666cb2f6c8b3d2967cb9592,tutorial1,1030741,
