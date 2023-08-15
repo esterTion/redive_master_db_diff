@@ -1883,4 +1883,12 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/127001, /*notif_type*/5, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/127001, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがすべていっぱいです。海で何もかも大解放するため、まずはお片付けですね…！");
 INSERT INTO `notif_data` VALUES (/*unit_id*/127001, /*notif_type*/7, /*comment*/"ア、アドベンチャーが終わりました…なんか、いいものも拾えましたので、見に来てもらえませんか…？");
 INSERT INTO `notif_data` VALUES (/*unit_id*/127001, /*notif_type*/8, /*comment*/"ア、アドベンチャーで設定していた繰り返し出発が終わりました…クウカにお宝の価値はわからないので確認を…");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/1, /*comment*/"スタミナが全回復しましたね。よければ海辺の散歩でもいかがですか？");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/2, /*comment*/"ギルドハウスのスキップチケットがいっぱいです。これを使えば百物語を最後まで楽しめそうですね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/3, /*comment*/"ギルドハウスのスタミナがいっぱいです。これでしっかりと夏バテ対策してくださいね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/4, /*comment*/"ギルドハウスのEXPポーションがいっぱいになりました。よく冷えていて飲み頃です");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/5, /*comment*/"ギルドハウスのマナがいっぱいですね。これだけあればリゾートを思い切り満喫できそうですね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/6, /*comment*/"ギルドハウスで受け取れるアイテムがいっぱいになりました。危険な呪物が混ざってないか調べますね");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/7, /*comment*/"アドベンチャーが終わりました。彷徨える魂たちが、宝物まで導いてくれましたよ…確認をお願いします");
+INSERT INTO `notif_data` VALUES (/*unit_id*/127101, /*notif_type*/8, /*comment*/"アドベンチャーの繰り返し出発が終わりました。占いどおり、宝物が手に入りましたので…確認をお願いしますね");
 CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id');
