@@ -258,7 +258,7 @@ a/animation_towerunlockexanimation.unity3d,f097be57d70fce40b7adc0cf0354c18b,tuto
 a/animation_treasurechest.unity3d,52e441ec63d2618f16f38c663ddb026a,tutorial1,24304,
 a/animation_twinklesixstar.unity3d,adb51ce4dfed46ab5f7299fa0e94e0e8,tutorial1,14248,
 a/animation_twinklesixstaradditive.unity3d,74050486be1ad36e911ec1991b706663,tutorial1,10788,
-a/animation_uniqueequipment01.unity3d,e115168bb35ff1a45c8038fe269f5074,tutorial1,10298,
+a/animation_uniqueequipment01.unity3d,8cb64b26dd90fc381f094192381b8977,tutorial1,10472,
 a/animation_unitdetail.unity3d,e7705d5b3cf762753e349b12d6d5bd1a,tutorial1,10507,
 a/animation_unitgrowsphereuse.unity3d,5eb97c627ead83f4f5c6c0b6fcea1cc9,tutorial1,13484,
 a/animation_unitlvup.unity3d,487cff50c9c567303080aa6434835e42,tutorial1,9749,
