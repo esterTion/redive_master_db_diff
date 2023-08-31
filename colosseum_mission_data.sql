@@ -1,0 +1,2 @@
+CREATE TABLE 'colosseum_mission_data' ('schedule_id' INTEGER NOT NULL, 'mission_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, PRIMARY KEY('mission_id'));
+CREATE INDEX 'colosseum_mission_data_0_schedule_id_1_difficulty' on 'colosseum_mission_data'('schedule_id','difficulty');

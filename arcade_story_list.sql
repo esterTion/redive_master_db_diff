@@ -17,5 +17,13 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080700, /*arcade_id*/1008, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080701, /*arcade_id*/1008, /*sub_title*/"プリンは続くよどこまでも");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096700, /*arcade_id*/1010, /*sub_title*/"バカンスは終わらない");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096701, /*arcade_id*/1010, /*sub_title*/"競い、分かり合う絆");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126700, /*arcade_id*/1012, /*sub_title*/"教えてキャル先生");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126701, /*arcade_id*/1012, /*sub_title*/"甘酸っぱいのは誰のせい？");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126702, /*arcade_id*/1012, /*sub_title*/"勉強なんて大嫌い…？");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126703, /*arcade_id*/1012, /*sub_title*/"鉛筆100本分の青春");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126710, /*arcade_id*/1012, /*sub_title*/"ベンキョーできる系女子！");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126711, /*arcade_id*/1012, /*sub_title*/"効果エグすぎてワロ");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126712, /*arcade_id*/1012, /*sub_title*/"好きこそものの上手なれ？");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126713, /*arcade_id*/1012, /*sub_title*/"解けない不思議");
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/9004201, /*arcade_id*/1009, /*sub_title*/"正解目指して一致団結！");
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

@@ -3,5 +3,9 @@ INSERT INTO `arcade_description` VALUES (/*id*/1, /*arcade_id*/1009, /*type*/1, 
 INSERT INTO `arcade_description` VALUES (/*id*/2, /*arcade_id*/1009, /*type*/1, /*image_id*/100902, /*description*/"楽しみ方に合わせた、２つのプレイモードがございます。\nご自身の実力に挑戦されたい場合はＣＰＵと遊ぶソロモードを、\nお仲間と協力して遊ばれる場合はマルチモードを選んでくださいまし。");
 INSERT INTO `arcade_description` VALUES (/*id*/3, /*arcade_id*/1009, /*type*/1, /*image_id*/100903, /*description*/"ランダムで、ヒントが明かされることがございます。\nさらにヒントが欲しい場合は、「ヒントボタン」を使いましょう。\n回数には限りがあるようですので、無駄遣いは『めっ』でございます。");
 INSERT INTO `arcade_description` VALUES (/*id*/4, /*arcade_id*/1009, /*type*/1, /*image_id*/100904, /*description*/"出題されたクイズは、「アーカイブ」機能で振り返ることができます。\nアーカイブを埋めていくと、限定称号などの報酬がいただけますので、\nしっかり復習をしながら、どんどんクイズをプレイいたしましょう。");
+INSERT INTO `arcade_description` VALUES (/*id*/5, /*arcade_id*/1012, /*type*/1, /*image_id*/100905, /*description*/"あたしに勉強を教えてほしい？　……しょうがないわね、クイズ形式で\n楽しく学力アップを目指すわよ！　あたしかスズナを選んで勉強会を\n始めなさい。スズナと挑むなら、あんたがちゃんと教えてあげるのよ？");
+INSERT INTO `arcade_description` VALUES (/*id*/6, /*arcade_id*/1012, /*type*/1, /*image_id*/100906, /*description*/"問題は３つの出題形式からランダムで選ばれるわ。\n「四択問題」と「一問多答」では回数限定でヒントが使えるわよ！\nどのタイミングでヒントを使うかが成績を伸ばすカギになりそうね。");
+INSERT INTO `arcade_description` VALUES (/*id*/7, /*arcade_id*/1012, /*type*/1, /*image_id*/100907, /*description*/"一度出題された問題は「アーカイブ」に記録されるらしいわ！　復習も\nこれでバッチリできるわね。アーカイブの中身を埋めると称号がもらえる\nみたいだから、張り切ってコンプリートを目指すわよ！");
+INSERT INTO `arcade_description` VALUES (/*id*/8, /*arcade_id*/1012, /*type*/2, /*image_id*/100908, /*description*/"条件を満たすと解放される「やり込みモード」では、制限時間内にどれだ\nけたくさんの問題に正解できるか挑戦することができるわ！\n成長したあんたの実力を見せるチャンスね！頑張りなさい！");
 CREATE INDEX 'arcade_description_0_arcade_id' on 'arcade_description'('arcade_id');
 CREATE INDEX 'arcade_description_0_arcade_id_1_type' on 'arcade_description'('arcade_id','type');

@@ -4,6 +4,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"TITLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HOME", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"UNIT_TOP", /*bg_id*/530010, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"UNIT_DETAIL", /*bg_id*/530010, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"ARENA_TOP", /*bg_id*/500380, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"NORMAL_ARENA_TOP", /*bg_id*/500380, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"NORMAL_ARENA_RANKING", /*bg_id*/500380, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"GRAND_ARENA_TOP", /*bg_id*/500381, /*event_id*/0);

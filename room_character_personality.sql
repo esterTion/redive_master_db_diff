@@ -230,6 +230,7 @@ INSERT INTO `room_character_personality` VALUES (/*character_id*/1258, /*persona
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1262, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1263, /*personality_id*/5);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1264, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1265, /*personality_id*/5);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1266, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1267, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1268, /*personality_id*/4);

@@ -31,7 +31,7 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/29, /*ailment_action*/70, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/30, /*ailment_action*/8, /*ailment_detail_1*/11, /*ailment_name*/"時間停止");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/31, /*ailment_action*/76, /*ailment_detail_1*/-1, /*ailment_name*/"ＨＰ回復量減少");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/32, /*ailment_action*/78, /*ailment_detail_1*/-1, /*ailment_name*/"弱体被ダメージ上昇");
-INSERT INTO `ailment_data` VALUES (/*ailment_id*/33, /*ailment_action*/79, /*ailment_detail_1*/-1, /*ailment_name*/"行動時毒ダメージ");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/33, /*ailment_action*/79, /*ailment_detail_1*/1, /*ailment_name*/"行動時毒ダメージ");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/34, /*ailment_action*/8, /*ailment_detail_1*/14, /*ailment_name*/"スタン（別枠）");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/35, /*ailment_action*/9, /*ailment_detail_1*/7, /*ailment_name*/"毒（別枠）");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/36, /*ailment_action*/9, /*ailment_detail_1*/8, /*ailment_name*/"呪い（別枠）");
@@ -46,3 +46,4 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/44, /*ailment_action*/99, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/45, /*ailment_action*/99, /*ailment_detail_1*/1, /*ailment_name*/"スロウフィールド");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/46, /*ailment_action*/49, /*ailment_detail_1*/20, /*ailment_name*/"バフ消去（指定）");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/47, /*ailment_action*/101, /*ailment_detail_1*/5, /*ailment_name*/"殴り刻印（攻撃ヒット）");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/48, /*ailment_action*/79, /*ailment_detail_1*/10, /*ailment_name*/"行動時界雷ダメージ");
