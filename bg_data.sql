@@ -176,3 +176,6 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_BMY", /*bg_id*/501992, /*eve
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_WTS", /*bg_id*/502015, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CARAVAN_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CARAVAN_SHOP", /*bg_id*/500370, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"COLOSSEUM_TOP", /*bg_id*/531300, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"COLOSSEUM_SELECT_PARTY", /*bg_id*/531400, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"COLOSSEUM_BATTLE_RESULT", /*bg_id*/0, /*event_id*/0);

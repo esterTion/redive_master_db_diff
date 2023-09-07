@@ -6752,4 +6752,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7578, /*unit_id*/127201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7579, /*unit_id*/127201, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"うう、ちょっと冷えて\n来たわね…\nスカートの下に\nジャージ穿こうかしら", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7581, /*unit_id*/127201, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"もぐっ…もぐっ…\n食べとかないと教室で\nお腹なっちゃうわ～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7582, /*unit_id*/127201, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"図書室で借りた本\n明日返却日なのよね…\n今日中に読むわよ！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7584, /*unit_id*/104301, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"あいつに背中を\n預けるのもいい気分だ\nいつかは、全部…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7585, /*unit_id*/104301, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"な、なんだよ？\nじっと見るんじゃねぇ\n尻尾が揺れちまうだろ", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

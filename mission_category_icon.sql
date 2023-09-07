@@ -36,3 +36,4 @@ INSERT INTO `mission_category_icon` VALUES (/*id*/601, /*icon_name*/"green", /*c
 INSERT INTO `mission_category_icon` VALUES (/*id*/602, /*icon_name*/"green", /*color*/"#339910");
 INSERT INTO `mission_category_icon` VALUES (/*id*/603, /*icon_name*/"green", /*color*/"#339910");
 INSERT INTO `mission_category_icon` VALUES (/*id*/1000, /*icon_name*/"darkgreen", /*color*/"#0F8B5E");
+INSERT INTO `mission_category_icon` VALUES (/*id*/1001, /*icon_name*/"orange", /*color*/"#E5681E");

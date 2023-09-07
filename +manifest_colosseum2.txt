@@ -1,0 +1,7 @@
+a/colosseum_colosseum_logo.unity3d,d8ce678dae432892a04200ce20b93c58,common,25076,
+a/colosseum_colosseum_reward_icon_25001.unity3d,d6705c3e0ba0e6ec20edd4479f69a655,common,2480,
+a/colosseum_colosseum_reward_icon_41000.unity3d,b6f938d4a0631db2aa84dd8ddcd70318,common,2500,
+a/colosseum_colosseum_reward_icon_90008.unity3d,539571f6eeaa41964c35ce4f2940d337,common,2428,
+a/colosseum_colosseum_reward_icon_91002.unity3d,2c9459f5f5fd701c2f1aa906a9cb4dcc,common,2571,
+a/colosseum_colosseum_reward_icon_94002.unity3d,075e066b4ebafbf85fea138124b07b51,common,2564,
+a/colosseum_colosseumscoreeffect.unity3d,54f258484e82c4f6c6fb28165b57a98b,common,107810,

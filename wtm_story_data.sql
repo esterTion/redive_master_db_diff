@@ -1,0 +1,2 @@
+CREATE TABLE 'wtm_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'wtm_story_type' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_sub_story_id_1' INTEGER NOT NULL, 'condition_sub_story_id_2' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'emblem_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE INDEX 'wtm_story_data_0_original_event_id' on 'wtm_story_data'('original_event_id');
