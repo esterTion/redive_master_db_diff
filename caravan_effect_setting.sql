@@ -25,5 +25,6 @@ INSERT INTO `caravan_effect_setting` VALUES (/*id*/7000, /*scene_type*/7, /*effe
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/7001, /*scene_type*/7, /*effect_type*/0, /*rank*/1, /*value*/90002);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/7002, /*scene_type*/7, /*effect_type*/0, /*rank*/2, /*value*/90003);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/100001, /*scene_type*/100, /*effect_type*/1, /*rank*/0, /*value*/1);
+INSERT INTO `caravan_effect_setting` VALUES (/*id*/100002, /*scene_type*/100, /*effect_type*/2, /*rank*/0, /*value*/1);
 CREATE INDEX 'caravan_effect_setting_0_scene_type' on 'caravan_effect_setting'('scene_type');
 CREATE INDEX 'caravan_effect_setting_0_scene_type_1_effect_type' on 'caravan_effect_setting'('scene_type','effect_type');

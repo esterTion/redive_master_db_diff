@@ -21,5 +21,6 @@ INSERT INTO `event_reminder_condition` VALUES (/*id*/1010001, /*reminder_id*/101
 INSERT INTO `event_reminder_condition` VALUES (/*id*/1010201, /*reminder_id*/1010201, /*condition_type*/3, /*condition_id*/5100601);
 INSERT INTO `event_reminder_condition` VALUES (/*id*/1010901, /*reminder_id*/1010901, /*condition_type*/6, /*condition_id*/0);
 INSERT INTO `event_reminder_condition` VALUES (/*id*/1011901, /*reminder_id*/1011901, /*condition_type*/3, /*condition_id*/5092601);
+INSERT INTO `event_reminder_condition` VALUES (/*id*/1012701, /*reminder_id*/1012701, /*condition_type*/3, /*condition_id*/5100601);
 INSERT INTO `event_reminder_condition` VALUES (/*id*/2003201, /*reminder_id*/2003201, /*condition_type*/1, /*condition_id*/5056601);
 CREATE INDEX 'event_reminder_condition_0_reminder_id' on 'event_reminder_condition'('reminder_id');
