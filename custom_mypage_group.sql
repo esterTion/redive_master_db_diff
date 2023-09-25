@@ -16,3 +16,4 @@ INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20006, /*group_name*/"プ�
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/30001, /*group_name*/"ミニゲーム・ミニコンテンツ");
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40001, /*group_name*/"みんなのカレンダー");
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40002, /*group_name*/"ローソンコラボ記念");
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40003, /*group_name*/"TANITAコラボ記念");

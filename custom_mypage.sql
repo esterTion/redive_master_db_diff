@@ -227,4 +227,5 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000225, /*group_id*/20006, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000226, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"そしてまた、春の訪れ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000227, /*group_id*/30001, /*still_group_id*/0, /*still_name*/"太鼓の匠のポスター", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000228, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"思い出の軌跡", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/2);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000229, /*group_id*/40003, /*still_group_id*/0, /*still_name*/"TANITAコラボ記念カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');
