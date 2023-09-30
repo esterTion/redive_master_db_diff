@@ -21,3 +21,4 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000018, /*title*/"シン
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000019, /*title*/"デスクよりハードなワーク", /*disp_order*/20);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000020, /*title*/"ガイドたちのフォトグラフ", /*disp_order*/21);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000021, /*title*/"あたらしいおともだち", /*disp_order*/22);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000022, /*title*/"勝利を信じて！", /*disp_order*/23);

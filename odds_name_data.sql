@@ -265,3 +265,6 @@ INSERT INTO `odds_name_data` VALUES (/*id*/1012601, /*odds_file*/1012620101, /*n
 INSERT INTO `odds_name_data` VALUES (/*id*/1012602, /*odds_file*/1012620102, /*name*/"キャルのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/1012701, /*odds_file*/1012720101, /*name*/"マホのメモリーピース", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/1012702, /*odds_file*/1012720102, /*name*/"アヤネのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/1012801, /*odds_file*/1012820101, /*name*/"ルカのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/1012802, /*odds_file*/1012820102, /*name*/"チカのメモリーピース", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/1012803, /*odds_file*/"box_rank_13-21", /*name*/"ランダム装備BOX", /*icon_type*/99002, /*description*/"ランダムな装備が獲得できる。");
