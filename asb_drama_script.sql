@@ -1,0 +1,2 @@
+CREATE TABLE 'asb_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE INDEX 'asb_drama_script_0_drama_id' on 'asb_drama_script'('drama_id');

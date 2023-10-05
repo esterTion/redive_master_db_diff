@@ -1,0 +1,3 @@
+CREATE TABLE 'asb_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'contents_type' INTEGER NOT NULL, 'page_num' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'condition_sub_story_id' INTEGER NOT NULL, 'read_condition_time' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'emblem_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE INDEX 'asb_story_data_0_original_event_id' on 'asb_story_data'('original_event_id');
+CREATE INDEX 'asb_story_data_0_condition_sub_story_id' on 'asb_story_data'('condition_sub_story_id');

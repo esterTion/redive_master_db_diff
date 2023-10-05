@@ -63,7 +63,7 @@ a/event_adv_bg_speech_event_20041.unity3d,041ddbe9deb355cf42f9d3a9d065d4ed,commo
 a/event_adv_bg_speech_event_20042.unity3d,4e04b85280f8708bd090515a57c74d0a,common,3062,
 a/event_adv_bg_speech_event_20043.unity3d,50a21c2cfd8e92aa26b35c3c62801fbb,common,3102,
 a/event_adv_bg_speech_event_20044.unity3d,556c03390dca4a70e06297f952f2473c,common,3326,
-a/event_amnesia.unity3d,82e2c5c81704d581c9f48ad10cec64a3,common,517881,
+a/event_amnesia.unity3d,6ad1e224873129451d39fa70b12289ce,common,522357,
 a/event_apa_banner_end.unity3d,9c83e05a0a3d8ed19e7d19730eef3ee5,common,23969,
 a/event_apa_banner_open.unity3d,a3420c233cf2fdf0b6ff583ad253af64,common,23884,
 a/event_apa_dialog_image_end.unity3d,7b80910da01b586120ff2ffbd2bc970e,common,424503,
