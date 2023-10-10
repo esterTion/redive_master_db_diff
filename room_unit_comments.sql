@@ -6798,4 +6798,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7630, /*unit_id*/127501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7631, /*unit_id*/127501, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"砂漠地方も夜は冷える\nのよね。温かいものが\nあると安心するわ…♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7633, /*unit_id*/127501, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"食べ慣れた味って\nどうしてほっと\nするのかしら…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7634, /*unit_id*/127501, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"今後の取引相手に\nなるかもしれないし\n向こうの文化も\n勉強しておかないと…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7636, /*unit_id*/101401, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"犯人はこの中にいる！\n探偵として一度は\n言ってみたいセリフさ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7637, /*unit_id*/101401, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"助手くんの情報を\n仕入れておかないと…\n理想の私を、ずっと\n見ていてほしいからね", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
