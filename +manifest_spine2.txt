@@ -2304,7 +2304,7 @@ a/spine_dungeonunitsilhouette.unity3d,8d78b9be709ff21bd73119615e97b980,tutorial2
 a/spine_emotion.unity3d,6151bf9231a65eb15fa76ec0569dd7eb,tutorial0,93202,
 a/spine_event.cysp.unity3d,330e402fac278c752e3a5e59c9100a78,tutorial2,23543,
 a/spine_event_story_10008.cysp.unity3d,be55ef0c2d8c65df752823af28e0c3fa,tutorial2,63626,
-a/spine_event_story_10012.cysp.unity3d,49fc5573c315f8c093d47991aafc71bd,tutorial2,11331,
+a/spine_event_story_10012.cysp.unity3d,c317ed6e1e9590e15e2b88b12df6fc26,tutorial2,11556,
 a/spine_event_story_10017.cysp.unity3d,153e95391c69325e224e33091d85aeaa,tutorial2,91336,
 a/spine_event_story_10028.cysp.unity3d,a8150f8bd87632db7d686bfb21e66ccf,tutorial2,63388,
 a/spine_event_story_10037.cysp.unity3d,15c1cf77f8ad15374f83a8e6fa87b8d9,tutorial2,11318,
