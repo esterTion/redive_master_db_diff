@@ -21,4 +21,5 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/19, /*type*/1, /*effect_id*/52005,
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/20, /*type*/1, /*effect_id*/52014, /*category*/1, /*icon_id*/1, /*description*/"【料理】次回移動時に1マス分多く進める。", /*count_from*/2, /*count_to*/2);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/21, /*type*/1, /*effect_id*/52015, /*category*/1, /*icon_id*/1, /*description*/"【料理】ダイスが2個に増える", /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/22, /*type*/1, /*effect_id*/52015, /*category*/1, /*icon_id*/1, /*description*/"【料理】次回移動時に1マス分多く進める。", /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/23, /*type*/1, /*effect_id*/52016, /*category*/1, /*icon_id*/1, /*description*/"【料理】ダイスの目が必ず「6」になる", /*count_from*/0, /*count_to*/0);
 CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id');

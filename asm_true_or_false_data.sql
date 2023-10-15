@@ -357,7 +357,7 @@ INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320009, /*correct_answer
 INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320010, /*correct_answer*/1);
 INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320011, /*correct_answer*/0);
 INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320012, /*correct_answer*/1);
-INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320014, /*correct_answer*/0);
+INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320014, /*correct_answer*/1);
 INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320017, /*correct_answer*/0);
 INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320019, /*correct_answer*/0);
 INSERT INTO `asm_true_or_false_data` VALUES (/*asm_id*/1320020, /*correct_answer*/1);

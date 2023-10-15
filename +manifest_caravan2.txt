@@ -15,6 +15,7 @@ a/caravan_caravan_dish_052012.unity3d,632ee7efb11f4fbef9fc4fa5ae068950,common,60
 a/caravan_caravan_dish_052013.unity3d,c98ce262d516c155eca75a59d277a222,common,65500,
 a/caravan_caravan_dish_052014.unity3d,f626d7824ab58afc601003fc664c4168,common,64114,
 a/caravan_caravan_dish_052015.unity3d,60a582f0bef13956722ed753d06de01f,common,63876,
+a/caravan_caravan_dish_052016.unity3d,0e5f9e2ac3f3c6cfee5e1f551078719d,common,70028,
 a/caravan_caravan_gacha_thumb_0.unity3d,50a4c53e18aef0e651c435e40638ac57,common,59283,
 a/caravan_caravan_gacha_thumb_1.unity3d,e45efc947f8877001ad5a27c1a6e6fb1,common,58880,
 a/caravan_caravan_gacha_thumb_2.unity3d,cfc0e195fc47e44c8c24ad0cef2c9d29,common,59693,
