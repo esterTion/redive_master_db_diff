@@ -36,5 +36,10 @@ INSERT INTO `gacha_pickup` VALUES (/*id*/7, /*priority*/1, /*reward_type*/1, /*r
 INSERT INTO `gacha_pickup` VALUES (/*id*/7, /*priority*/2, /*reward_type*/1, /*reward_id*/117001, /*name*/"エリコ（サマー）");
 INSERT INTO `gacha_pickup` VALUES (/*id*/7, /*priority*/3, /*reward_type*/1, /*reward_id*/113101, /*name*/"ルカ（サマー）");
 INSERT INTO `gacha_pickup` VALUES (/*id*/7, /*priority*/4, /*reward_type*/1, /*reward_id*/113401, /*name*/"ハツネ（サマー）");
+INSERT INTO `gacha_pickup` VALUES (/*id*/8, /*priority*/1, /*reward_type*/1, /*reward_id*/108101, /*name*/"シノブ（ハロウィン）");
+INSERT INTO `gacha_pickup` VALUES (/*id*/8, /*priority*/2, /*reward_type*/1, /*reward_id*/108301, /*name*/"ミサキ（ハロウィン）");
+INSERT INTO `gacha_pickup` VALUES (/*id*/8, /*priority*/3, /*reward_type*/1, /*reward_id*/111101, /*name*/"キョウカ（ハロウィン）");
+INSERT INTO `gacha_pickup` VALUES (/*id*/8, /*priority*/4, /*reward_type*/1, /*reward_id*/113901, /*name*/"ツムギ（ハロウィン）");
+INSERT INTO `gacha_pickup` VALUES (/*id*/8, /*priority*/5, /*reward_type*/1, /*reward_id*/117701, /*name*/"カオリ（ハロウィン）");
 CREATE INDEX 'gacha_pickup_0_id' on 'gacha_pickup'('id');
 CREATE INDEX 'gacha_pickup_0_id_1_reward_id' on 'gacha_pickup'('id','reward_id');

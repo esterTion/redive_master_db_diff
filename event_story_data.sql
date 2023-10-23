@@ -70,4 +70,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5122, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5124, /*story_type*/5, /*value*/10124, /*title*/"戦慄幽奇海岸　\n～サマーリゾートスリラーズ～", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/07/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5126, /*story_type*/5, /*value*/10126, /*title*/"ウィザーディング・アオハル・デイズ　魔法学園と奇跡の鐘", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/08/25 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5128, /*story_type*/5, /*value*/10128, /*title*/"ロマンシング・サラサリア　\n～砂漠の花嫁と不思議のランプ～", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/09/26 15:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5130, /*story_type*/5, /*value*/10130, /*title*/"クリミナル ルーキー　\n天使たちのパラドクス", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2023/10/23 15:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
