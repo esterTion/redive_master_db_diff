@@ -9,3 +9,8 @@ INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1011202, /*limit_char
 INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1011203, /*limit_chara_type_1*/58);
 INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1011204, /*limit_chara_type_1*/58);
 INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1011205, /*limit_chara_type_1*/58);
+INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1013001, /*limit_chara_type_1*/182);
+INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1013002, /*limit_chara_type_1*/182);
+INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1013003, /*limit_chara_type_1*/182);
+INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1013004, /*limit_chara_type_1*/182);
+INSERT INTO `hatsune_limit_chara` VALUES (/*event_boss_id*/1013005, /*limit_chara_type_1*/182);

@@ -127,5 +127,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10126, /*event_id*/10126, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10127, /*event_id*/10127, /*gacha_name*/"マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹", /*item_type*/2, /*item_id*/61262, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10128, /*event_id*/10128, /*gacha_name*/"ロマンシング・サラサリア　～砂漠の花嫁と不思議のランプ～", /*item_type*/2, /*item_id*/61272, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10129, /*event_id*/10129, /*gacha_name*/"ファボ！ラブ！大集合！　至高の祭典と少女の秘めた推し事", /*item_type*/2, /*item_id*/61282, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10130, /*event_id*/10130, /*gacha_name*/"クリミナル ルーキー　天使たちのパラドクス", /*item_type*/2, /*item_id*/61292, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"ヴァンパイアハンターwithイリヤ討伐証交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

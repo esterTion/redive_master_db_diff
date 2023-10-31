@@ -218,6 +218,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/125501, /*unit_name*/"ジータ
 INSERT INTO `unit_background` VALUES (/*unit_id*/125601, /*unit_name*/"ビカラ", /*bg_id*/500033, /*bg_name*/"ランドソル_繁華街_祭_昼", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/125701, /*unit_name*/"カリン（アルケミスト）", /*bg_id*/500371, /*bg_name*/"ランドソル_お役所", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/125801, /*unit_name*/"リリ（フォールン）", /*bg_id*/501670, /*bg_name*/"ジオ・テオゴニア_街道_昼", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/126001, /*unit_name*/"クリア（フォールン）", /*bg_id*/501670, /*bg_name*/"ジオ・テオゴニア_街道_昼", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126201, /*unit_name*/"イリヤ（儀装束）", /*bg_id*/501372, /*bg_name*/"滝壺_夜", /*position*/0.0, /*face_type*/20);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126301, /*unit_name*/"ユキ（儀装束）", /*bg_id*/500040, /*bg_name*/"ランドソル ギルドハウス", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126401, /*unit_name*/"クローチェ", /*bg_id*/501660, /*bg_name*/"ジオ・テオゴニア_平原_昼", /*position*/0.0, /*face_type*/4);

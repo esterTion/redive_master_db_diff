@@ -127,6 +127,7 @@ INSERT INTO `tips` VALUES (/*id*/4125501, /*value*/125501, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4125601, /*value*/125601, /*tips_index*/1, /*title*/"理想のあたし");
 INSERT INTO `tips` VALUES (/*id*/4125701, /*value*/125701, /*tips_index*/1, /*title*/"不思議なカバン");
 INSERT INTO `tips` VALUES (/*id*/4125801, /*value*/125801, /*tips_index*/1, /*title*/"さすが兄様です");
+INSERT INTO `tips` VALUES (/*id*/4126001, /*value*/126001, /*tips_index*/1, /*title*/"口ほどに物を言う");
 INSERT INTO `tips` VALUES (/*id*/4126201, /*value*/126201, /*tips_index*/1, /*title*/"月下に詠う");
 INSERT INTO `tips` VALUES (/*id*/4126301, /*value*/126301, /*tips_index*/1, /*title*/"美を統べる者");
 INSERT INTO `tips` VALUES (/*id*/4126401, /*value*/126401, /*tips_index*/1, /*title*/"エンプティ");
