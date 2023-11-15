@@ -130,3 +130,4 @@ INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/319304, /*voice_id*/319300);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/319305, /*voice_id*/319300);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/319306, /*voice_id*/319300);
 INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/319700, /*voice_id*/319700);
+INSERT INTO `enemy_enable_voice` VALUES (/*unit_id*/319800, /*voice_id*/319800);
