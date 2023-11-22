@@ -147,4 +147,8 @@ INSERT INTO `clan_battle_training_data` VALUES (/*id*/145, /*training_id*/1069, 
 INSERT INTO `clan_battle_training_data` VALUES (/*id*/146, /*training_id*/1069, /*mode*/0, /*phase*/2, /*map_data_id*/325);
 INSERT INTO `clan_battle_training_data` VALUES (/*id*/147, /*training_id*/1069, /*mode*/0, /*phase*/3, /*map_data_id*/326);
 INSERT INTO `clan_battle_training_data` VALUES (/*id*/148, /*training_id*/1069, /*mode*/0, /*phase*/4, /*map_data_id*/327);
+INSERT INTO `clan_battle_training_data` VALUES (/*id*/149, /*training_id*/1070, /*mode*/0, /*phase*/1, /*map_data_id*/328);
+INSERT INTO `clan_battle_training_data` VALUES (/*id*/150, /*training_id*/1070, /*mode*/0, /*phase*/2, /*map_data_id*/330);
+INSERT INTO `clan_battle_training_data` VALUES (/*id*/151, /*training_id*/1070, /*mode*/0, /*phase*/3, /*map_data_id*/331);
+INSERT INTO `clan_battle_training_data` VALUES (/*id*/152, /*training_id*/1070, /*mode*/0, /*phase*/4, /*map_data_id*/332);
 CREATE INDEX 'clan_battle_training_data_0_training_id' on 'clan_battle_training_data'('training_id');
