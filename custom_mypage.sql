@@ -228,6 +228,7 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000226, /*group_id*/40001, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000227, /*group_id*/30001, /*still_group_id*/0, /*still_name*/"太鼓の匠のポスター", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000228, /*group_id*/40001, /*still_group_id*/0, /*still_name*/"思い出の軌跡", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/2);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000229, /*group_id*/40003, /*still_group_id*/0, /*still_name*/"TANITAコラボ記念カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000230, /*group_id*/30001, /*still_group_id*/0, /*still_name*/"アドベントカレンダー カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000231, /*group_id*/10009, /*still_group_id*/0, /*still_name*/"サウンドトラックVol.6 購入特典カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000232, /*group_id*/10009, /*still_group_id*/0, /*still_name*/"キャラクターソングアルバムVol.5 購入特典カスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');

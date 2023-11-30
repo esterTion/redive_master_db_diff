@@ -5,6 +5,9 @@ INSERT INTO `caravan_effect_setting` VALUES (/*id*/1003, /*scene_type*/1, /*effe
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/2001, /*scene_type*/2, /*effect_type*/0, /*rank*/0, /*value*/1);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/2002, /*scene_type*/2, /*effect_type*/0, /*rank*/0, /*value*/2);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/2003, /*scene_type*/2, /*effect_type*/0, /*rank*/0, /*value*/3);
+INSERT INTO `caravan_effect_setting` VALUES (/*id*/2101, /*scene_type*/2, /*effect_type*/1, /*rank*/0, /*value*/1);
+INSERT INTO `caravan_effect_setting` VALUES (/*id*/2102, /*scene_type*/2, /*effect_type*/1, /*rank*/0, /*value*/2);
+INSERT INTO `caravan_effect_setting` VALUES (/*id*/2103, /*scene_type*/2, /*effect_type*/1, /*rank*/0, /*value*/3);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/3001, /*scene_type*/3, /*effect_type*/0, /*rank*/0, /*value*/1);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/3002, /*scene_type*/3, /*effect_type*/0, /*rank*/0, /*value*/2);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/3003, /*scene_type*/3, /*effect_type*/0, /*rank*/0, /*value*/3);
@@ -16,6 +19,7 @@ INSERT INTO `caravan_effect_setting` VALUES (/*id*/5010, /*scene_type*/5, /*effe
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/5020, /*scene_type*/5, /*effect_type*/2, /*rank*/1, /*value*/10201);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/5021, /*scene_type*/5, /*effect_type*/2, /*rank*/2, /*value*/10202);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/5030, /*scene_type*/5, /*effect_type*/3, /*rank*/0, /*value*/10301);
+INSERT INTO `caravan_effect_setting` VALUES (/*id*/5031, /*scene_type*/5, /*effect_type*/3, /*rank*/1, /*value*/10301);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/5040, /*scene_type*/5, /*effect_type*/4, /*rank*/0, /*value*/10302);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/5050, /*scene_type*/5, /*effect_type*/5, /*rank*/0, /*value*/10303);
 INSERT INTO `caravan_effect_setting` VALUES (/*id*/5060, /*scene_type*/5, /*effect_type*/6, /*rank*/0, /*value*/10304);

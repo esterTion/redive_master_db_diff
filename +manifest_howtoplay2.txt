@@ -173,3 +173,5 @@ a/howtoplay_tutorialimage_wac_01.unity3d,5be5a4430e870bf1dab977b5f2fbbc3e,tutori
 a/howtoplay_tutorialimage_wac_02.unity3d,7abafffe607e95bd252562ae29b275a4,tutorial2,186577,
 a/howtoplay_tutorialimage_won_01.unity3d,d5e8b882e7c119dd7cf0dfe8b4a87b76,tutorial2,195267,
 a/howtoplay_tutorialimage_wts_01.unity3d,99846f2dc5b2786387b03061d65db632,tutorial2,213046,
+a/howtoplay_tutorialimage_xac_01.unity3d,6fcc18c9e62709ad121b40b4e32d8117,tutorial2,215507,
+a/howtoplay_tutorialimage_xac_02.unity3d,5ad030c55c1dddc0c71264bd04520ef2,tutorial2,127915,

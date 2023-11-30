@@ -502,5 +502,13 @@ INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/516, /*mission_reward_
 INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/517, /*mission_reward_id*/99001275, /*reward_type*/15, /*reward_id*/11001275, /*reward_num*/1, /*icon_type*/1003);
 INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/518, /*mission_reward_id*/99001275, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
 INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/519, /*mission_reward_id*/99001276, /*reward_type*/15, /*reward_id*/11001276, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/520, /*mission_reward_id*/99001277, /*reward_type*/15, /*reward_id*/11001277, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/521, /*mission_reward_id*/99001277, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/522, /*mission_reward_id*/99001278, /*reward_type*/15, /*reward_id*/11001278, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/523, /*mission_reward_id*/99001278, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/524, /*mission_reward_id*/99001279, /*reward_type*/15, /*reward_id*/11001279, /*reward_num*/1, /*icon_type*/1002);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/525, /*mission_reward_id*/99001279, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/526, /*mission_reward_id*/99001280, /*reward_type*/15, /*reward_id*/11001280, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO `hatsune_emblem_mission_reward` VALUES (/*id*/527, /*mission_reward_id*/99001280, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30, /*icon_type*/0);
 CREATE INDEX 'hatsune_emblem_mission_reward_0_mission_reward_id' on 'hatsune_emblem_mission_reward'('mission_reward_id');
 CREATE INDEX 'hatsune_emblem_mission_reward_0_reward_id' on 'hatsune_emblem_mission_reward'('reward_id');

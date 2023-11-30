@@ -1,0 +1,2 @@
+CREATE TABLE 'caravan_rival_bonus' ('id' INTEGER NOT NULL, 'season_id' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'bonus_label' INTEGER NOT NULL, 'distance_from' INTEGER NOT NULL, 'distance_to' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'label_text' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'caravan_rival_bonus_0_season_id' on 'caravan_rival_bonus'('season_id');

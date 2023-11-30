@@ -1,0 +1,1 @@
+CREATE TABLE 'caravan_buddy' ('buddy_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'effect_description1' TEXT NOT NULL, 'effect_description2' TEXT NOT NULL, 'effect_type' INTEGER NOT NULL, 'effect_value_1' INTEGER NOT NULL, 'effect_value_2' INTEGER NOT NULL, 'effect_turn' INTEGER NOT NULL, PRIMARY KEY('buddy_id'));
