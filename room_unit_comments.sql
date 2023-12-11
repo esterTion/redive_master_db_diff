@@ -6892,4 +6892,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/7737, /*unit_id*/127901, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/7738, /*unit_id*/127901, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"物語に出てくる\nサンタさんみたいに\nわたしも幸せを\n運びたいです…☆", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7740, /*unit_id*/127901, /*trigger*/3, /*voice_id*/14, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"わっ！\nこ…これは素敵な\nサプライズプレゼント\nですね…☆", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/7741, /*unit_id*/127901, /*trigger*/3, /*voice_id*/15, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"これを着ればわたしも\n立派なサンタさんに\nなれますかね…？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7742, /*unit_id*/106601, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"ここが今のあたしの\n居場所ってやつです\nふふっ、なかなか\n悪くねー気分ですよ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/7743, /*unit_id*/106601, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"これからはボス代行\nとしてブイブイ\nいわせてやるです\nついてくるですよ！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

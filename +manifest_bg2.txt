@@ -5249,6 +5249,7 @@ a/bg_still_unit_106431.unity3d,97e075ed0ade1822c1dda2df8629d931,tutorial1,108681
 a/bg_still_unit_106461.unity3d,207b39fb49c2079d34a21b85e159a3a2,tutorial1,1084234,
 a/bg_still_unit_106531.unity3d,883ded9fc0a10e6fe3800e7ac4544aee,tutorial1,1065992,
 a/bg_still_unit_106631.unity3d,715b5c3ce9658f8e37e226dee9da52dd,tutorial1,1073844,
+a/bg_still_unit_106661.unity3d,74b494197929cbc3a86fd34341b25d2d,tutorial1,1080630,
 a/bg_still_unit_106731.unity3d,c1722162b3d77f6cd285a55740051272,tutorial1,1102673,
 a/bg_still_unit_106831.unity3d,07c8a64e55f06d8e5c8f90bc28fbd3fd,tutorial1,1103067,
 a/bg_still_unit_106931.unity3d,888188d6e8f243f5e060f42ef227bb41,tutorial1,1061295,
