@@ -1,1 +1,2 @@
 CREATE TABLE 'caravan_rival' ('rival_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'dice_odds' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'unit_id_3' INTEGER NOT NULL, 'bgm_sheet_id' TEXT NOT NULL, 'bgm_que_id' TEXT NOT NULL, PRIMARY KEY('rival_id'));
+INSERT INTO `caravan_rival` VALUES (/*rival_id*/10001, /*name*/"バンディシャーク号", /*dice_odds*/400001, /*unit_id_1*/130001, /*unit_id_2*/130101, /*unit_id_3*/130201, /*bgm_sheet_id*/"bgm_MC104", /*bgm_que_id*/"bgm_MC104");

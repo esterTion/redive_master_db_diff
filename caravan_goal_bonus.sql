@@ -25,4 +25,17 @@ INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11102, /*season_id*/2, /*early_le
 INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11201, /*season_id*/2, /*early_level*/2, /*bonus_label*/1, /*early_from*/1, /*early_to*/1, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/2);
 INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11202, /*season_id*/2, /*early_level*/2, /*bonus_label*/1, /*early_from*/1, /*early_to*/1, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/1);
 INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11301, /*season_id*/2, /*early_level*/1, /*bonus_label*/1, /*early_from*/0, /*early_to*/0, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/2);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11401, /*season_id*/3, /*early_level*/7, /*bonus_label*/5, /*early_from*/6, /*early_to*/-1, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/8);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11402, /*season_id*/3, /*early_level*/7, /*bonus_label*/5, /*early_from*/6, /*early_to*/-1, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/4);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11501, /*season_id*/3, /*early_level*/6, /*bonus_label*/4, /*early_from*/5, /*early_to*/5, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/6);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11502, /*season_id*/3, /*early_level*/6, /*bonus_label*/4, /*early_from*/5, /*early_to*/5, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/5);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11601, /*season_id*/3, /*early_level*/5, /*bonus_label*/3, /*early_from*/4, /*early_to*/4, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/5);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11602, /*season_id*/3, /*early_level*/5, /*bonus_label*/3, /*early_from*/4, /*early_to*/4, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/5);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11701, /*season_id*/3, /*early_level*/4, /*bonus_label*/3, /*early_from*/3, /*early_to*/3, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/4);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11702, /*season_id*/3, /*early_level*/4, /*bonus_label*/3, /*early_from*/3, /*early_to*/3, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/3);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11801, /*season_id*/3, /*early_level*/3, /*bonus_label*/2, /*early_from*/2, /*early_to*/2, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/3);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11802, /*season_id*/3, /*early_level*/3, /*bonus_label*/2, /*early_from*/2, /*early_to*/2, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/2);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11901, /*season_id*/3, /*early_level*/2, /*bonus_label*/1, /*early_from*/1, /*early_to*/1, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/2);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/11902, /*season_id*/3, /*early_level*/2, /*bonus_label*/1, /*early_from*/1, /*early_to*/1, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/1);
+INSERT INTO `caravan_goal_bonus` VALUES (/*id*/12001, /*season_id*/3, /*early_level*/1, /*bonus_label*/1, /*early_from*/0, /*early_to*/0, /*reward_type*/22, /*reward_id*/53002, /*reward_count*/2);
 CREATE INDEX 'caravan_goal_bonus_0_season_id' on 'caravan_goal_bonus'('season_id');

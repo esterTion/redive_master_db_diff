@@ -26,8 +26,14 @@ INSERT INTO `caravan_sound_setting` VALUES (/*id*/43101, /*scene_type*/4, /*effe
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/43102, /*scene_type*/4, /*effect_type*/3, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_106001_dish_002");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/45101, /*scene_type*/4, /*effect_type*/100, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_onigiri_dish_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/61101, /*scene_type*/6, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105801_goal_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/61201, /*scene_type*/61, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105801_win_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/61301, /*scene_type*/62, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105801_lose_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/62101, /*scene_type*/6, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105901_goal_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/62201, /*scene_type*/61, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105901_win_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/62301, /*scene_type*/62, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105901_lose_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/63101, /*scene_type*/6, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_106001_goal_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/63201, /*scene_type*/61, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_106001_win_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/63301, /*scene_type*/62, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_106001_lose_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/64101, /*scene_type*/6, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_118501_goal_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/71101, /*scene_type*/7, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105801_appraise_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/72101, /*scene_type*/7, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105901_appraise_001");
@@ -35,5 +41,11 @@ INSERT INTO `caravan_sound_setting` VALUES (/*id*/73101, /*scene_type*/7, /*effe
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/81101, /*scene_type*/8, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105801_result_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/82101, /*scene_type*/8, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_105901_result_001");
 INSERT INTO `caravan_sound_setting` VALUES (/*id*/83101, /*scene_type*/8, /*effect_type*/0, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_106001_result_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/211101, /*scene_type*/2, /*effect_type*/11, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_319700_dice_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/211102, /*scene_type*/2, /*effect_type*/11, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_319700_dice_002");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/212101, /*scene_type*/2, /*effect_type*/12, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_319800_dice_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/212102, /*scene_type*/2, /*effect_type*/12, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_319800_dice_002");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/213101, /*scene_type*/2, /*effect_type*/13, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_319900_dice_001");
+INSERT INTO `caravan_sound_setting` VALUES (/*id*/213102, /*scene_type*/2, /*effect_type*/13, /*sound_type*/1, /*sheet_id*/"vo_caravan", /*que_id*/"vo_caravan_319900_dice_002");
 CREATE INDEX 'caravan_sound_setting_0_scene_type' on 'caravan_sound_setting'('scene_type');
 CREATE INDEX 'caravan_sound_setting_0_scene_type_1_effect_type' on 'caravan_sound_setting'('scene_type','effect_type');

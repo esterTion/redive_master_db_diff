@@ -2197,6 +2197,14 @@ INSERT INTO `album_production_list` VALUES (/*id*/12790105, /*unit_id*/127901, /
 INSERT INTO `album_production_list` VALUES (/*id*/12790106, /*unit_id*/127901, /*type*/105, /*title*/"絆ランク演出5", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/12790107, /*unit_id*/127901, /*type*/106, /*title*/"絆ランク演出6", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/12790108, /*unit_id*/127901, /*type*/107, /*title*/"絆ランク演出7", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800101, /*unit_id*/128001, /*type*/201, /*title*/"解放演出1", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800102, /*unit_id*/128001, /*type*/101, /*title*/"絆ランク演出1", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800103, /*unit_id*/128001, /*type*/102, /*title*/"絆ランク演出2", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800104, /*unit_id*/128001, /*type*/103, /*title*/"絆ランク演出3", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800105, /*unit_id*/128001, /*type*/104, /*title*/"絆ランク演出4", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800106, /*unit_id*/128001, /*type*/105, /*title*/"絆ランク演出5", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800107, /*unit_id*/128001, /*type*/106, /*title*/"絆ランク演出6", /*description*/"");
+INSERT INTO `album_production_list` VALUES (/*id*/12800108, /*unit_id*/128001, /*type*/107, /*title*/"絆ランク演出7", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/18010101, /*unit_id*/180101, /*type*/201, /*title*/"解放演出1", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/18010102, /*unit_id*/180101, /*type*/101, /*title*/"絆ランク演出1", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/18010103, /*unit_id*/180101, /*type*/102, /*title*/"絆ランク演出2", /*description*/"");

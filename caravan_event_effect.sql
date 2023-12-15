@@ -6,3 +6,6 @@ INSERT INTO `caravan_event_effect` VALUES (/*event_id*/4, /*description*/"ター
 INSERT INTO `caravan_event_effect` VALUES (/*event_id*/5, /*description*/"マイル+100%", /*effect_type*/4, /*effect_value*/100, /*effect_turn*/0, /*effect_times*/1, /*category*/2);
 INSERT INTO `caravan_event_effect` VALUES (/*event_id*/6, /*description*/"ミニゲームマイル+100%", /*effect_type*/5, /*effect_value*/100, /*effect_turn*/0, /*effect_times*/1, /*category*/2);
 INSERT INTO `caravan_event_effect` VALUES (/*event_id*/7, /*description*/"ショップ割引イベント", /*effect_type*/6, /*effect_value*/300, /*effect_turn*/0, /*effect_times*/1, /*category*/3);
+INSERT INTO `caravan_event_effect` VALUES (/*event_id*/98001, /*description*/"ターン数カウントスキップ1", /*effect_type*/3, /*effect_value*/0, /*effect_turn*/2, /*effect_times*/0, /*category*/3);
+INSERT INTO `caravan_event_effect` VALUES (/*event_id*/98011, /*description*/"ターン数カウントスキップ1", /*effect_type*/3, /*effect_value*/0, /*effect_turn*/1, /*effect_times*/0, /*category*/3);
+INSERT INTO `caravan_event_effect` VALUES (/*event_id*/98012, /*description*/"ターン数カウントスキップ2", /*effect_type*/3, /*effect_value*/0, /*effect_turn*/2, /*effect_times*/0, /*category*/3);
