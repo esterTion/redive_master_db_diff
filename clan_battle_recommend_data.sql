@@ -5,7 +5,7 @@ INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/3, /*recommend_grou
 INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/4, /*recommend_group*/2, /*level_from*/101, /*level_to*/120, /*atack_party_count*/2, /*magic_party_count*/2);
 INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/5, /*recommend_group*/2, /*level_from*/121, /*level_to*/140, /*atack_party_count*/2, /*magic_party_count*/2);
 INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/6, /*recommend_group*/2, /*level_from*/141, /*level_to*/160, /*atack_party_count*/2, /*magic_party_count*/2);
-INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/7, /*recommend_group*/3, /*level_from*/250, /*level_to*/269, /*atack_party_count*/2, /*magic_party_count*/2);
-INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/8, /*recommend_group*/3, /*level_from*/270, /*level_to*/279, /*atack_party_count*/2, /*magic_party_count*/2);
-INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/9, /*recommend_group*/3, /*level_from*/280, /*level_to*/289, /*atack_party_count*/2, /*magic_party_count*/2);
+INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/7, /*recommend_group*/3, /*level_from*/253, /*level_to*/272, /*atack_party_count*/2, /*magic_party_count*/2);
+INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/8, /*recommend_group*/3, /*level_from*/273, /*level_to*/282, /*atack_party_count*/2, /*magic_party_count*/2);
+INSERT INTO `clan_battle_recommend_data` VALUES (/*level_id*/9, /*recommend_group*/3, /*level_from*/283, /*level_to*/292, /*atack_party_count*/2, /*magic_party_count*/2);
 CREATE INDEX 'clan_battle_recommend_data_0_recommend_group' on 'clan_battle_recommend_data'('recommend_group');

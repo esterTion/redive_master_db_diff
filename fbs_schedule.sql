@@ -56,4 +56,5 @@ INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/54, /*story_id*/4010054, /*start_ti
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/55, /*story_id*/4010055, /*start_time*/"2023/12/12 5:00:00", /*end_time*/"2023/12/13 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/56, /*story_id*/4010056, /*start_time*/"2023/12/14 5:00:00", /*end_time*/"2023/12/15 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/57, /*story_id*/4010057, /*start_time*/"2023/12/22 5:00:00", /*end_time*/"2023/12/23 4:59:59");
+INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/58, /*story_id*/4010058, /*start_time*/"2023/12/24 5:00:00", /*end_time*/"2023/12/25 4:59:59");
 INSERT INTO `fbs_schedule` VALUES (/*fbs_id*/59, /*story_id*/4010059, /*start_time*/"2023/12/28 5:00:00", /*end_time*/"2023/12/29 4:59:59");

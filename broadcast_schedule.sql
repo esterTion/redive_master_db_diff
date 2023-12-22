@@ -6,3 +6,4 @@ INSERT INTO `broadcast_schedule` VALUES (/*broadcast_id*/2023021119, /*url*/"htt
 INSERT INTO `broadcast_schedule` VALUES (/*broadcast_id*/2023021210, /*url*/"https://youtu.be/b-vc4MCBzdc", /*teaser_time*/"2023/2/12 10:00", /*start_time*/"2023/2/12 10:00", /*end_time*/"2023/2/12 22:00");
 INSERT INTO `broadcast_schedule` VALUES (/*broadcast_id*/2023081220, /*url*/"https://youtube.com/live/HIxUyDMGPto", /*teaser_time*/"2023/8/12 20:00", /*start_time*/"2023/8/12 20:00", /*end_time*/"2023/8/12 22:10");
 INSERT INTO `broadcast_schedule` VALUES (/*broadcast_id*/2023102221, /*url*/"https://youtube.com/live/pVOkcT4KsI0", /*teaser_time*/"2023/10/22 20:00", /*start_time*/"2023/10/22 20:00", /*end_time*/"2023/10/22 22:10");
+INSERT INTO `broadcast_schedule` VALUES (/*broadcast_id*/2023122618, /*url*/"https://www.youtube.com/@priconne_redive", /*teaser_time*/"2023/12/26 18:00", /*start_time*/"2023/12/26 18:00", /*end_time*/"2023/12/26 22:00");

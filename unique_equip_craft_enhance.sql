@@ -9,4 +9,7 @@ INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130802, /*consu
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130812, /*consume_group_id*/6);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130822, /*consume_group_id*/7);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130832, /*consume_group_id*/8);
+INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130842, /*consume_group_id*/11);
+INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130852, /*consume_group_id*/12);
+INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130862, /*consume_group_id*/13);
 CREATE INDEX 'unique_equip_craft_enhance_0_consume_group_id' on 'unique_equip_craft_enhance'('consume_group_id');
