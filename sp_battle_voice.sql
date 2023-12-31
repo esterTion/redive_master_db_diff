@@ -53,4 +53,17 @@ INSERT INTO `sp_battle_voice` VALUES (/*id*/51, /*unit_id*/181001, /*voice_type*
 INSERT INTO `sp_battle_voice` VALUES (/*id*/52, /*unit_id*/181001, /*voice_type*/1015, /*value*/2);
 INSERT INTO `sp_battle_voice` VALUES (/*id*/53, /*unit_id*/181001, /*voice_type*/1016, /*value*/2);
 INSERT INTO `sp_battle_voice` VALUES (/*id*/54, /*unit_id*/181001, /*voice_type*/1017, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/55, /*unit_id*/181101, /*voice_type*/1001, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/56, /*unit_id*/181101, /*voice_type*/1002, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/57, /*unit_id*/181101, /*voice_type*/1003, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/58, /*unit_id*/181101, /*voice_type*/1004, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/59, /*unit_id*/181101, /*voice_type*/1005, /*value*/4);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/60, /*unit_id*/181101, /*voice_type*/1009, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/61, /*unit_id*/181101, /*voice_type*/1010, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/62, /*unit_id*/181101, /*voice_type*/1012, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/63, /*unit_id*/181101, /*voice_type*/1013, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/64, /*unit_id*/181101, /*voice_type*/1014, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/65, /*unit_id*/181101, /*voice_type*/1015, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/66, /*unit_id*/181101, /*voice_type*/1016, /*value*/2);
+INSERT INTO `sp_battle_voice` VALUES (/*id*/67, /*unit_id*/181101, /*voice_type*/1017, /*value*/2);
 CREATE INDEX 'sp_battle_voice_0_unit_id' on 'sp_battle_voice'('unit_id');

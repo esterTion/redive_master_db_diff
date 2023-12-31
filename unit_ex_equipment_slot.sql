@@ -237,6 +237,7 @@ INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/127501, /*slot_category_
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/127601, /*slot_category_1*/108, /*slot_category_2*/201, /*slot_category_3*/302);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/127901, /*slot_category_1*/108, /*slot_category_2*/203, /*slot_category_3*/302);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/128001, /*slot_category_1*/103, /*slot_category_2*/201, /*slot_category_3*/301);
+INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/128301, /*slot_category_1*/105, /*slot_category_2*/202, /*slot_category_3*/303);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/180101, /*slot_category_1*/107, /*slot_category_2*/201, /*slot_category_3*/301);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/180201, /*slot_category_1*/109, /*slot_category_2*/204, /*slot_category_3*/304);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/180301, /*slot_category_1*/101, /*slot_category_2*/202, /*slot_category_3*/301);
@@ -247,3 +248,4 @@ INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/180701, /*slot_category_
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/180801, /*slot_category_1*/102, /*slot_category_2*/201, /*slot_category_3*/303);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/180901, /*slot_category_1*/102, /*slot_category_2*/202, /*slot_category_3*/301);
 INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/181001, /*slot_category_1*/109, /*slot_category_2*/204, /*slot_category_3*/305);
+INSERT INTO `unit_ex_equipment_slot` VALUES (/*unit_id*/181101, /*slot_category_1*/102, /*slot_category_2*/202, /*slot_category_3*/301);

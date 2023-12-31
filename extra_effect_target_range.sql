@@ -6,4 +6,9 @@ INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/4, /*set_id*/610132
 INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/5, /*set_id*/61013201, /*group_id*/6101325);
 INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/6, /*set_id*/61013201, /*group_id*/6101326);
 INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/7, /*set_id*/61013201, /*group_id*/6101327);
+INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/8, /*set_id*/61013401, /*group_id*/6101341);
+INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/9, /*set_id*/61013401, /*group_id*/6101342);
+INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/10, /*set_id*/61013401, /*group_id*/6101343);
+INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/11, /*set_id*/61013401, /*group_id*/6101344);
+INSERT INTO `extra_effect_target_range` VALUES (/*target_id*/12, /*set_id*/61013401, /*group_id*/6101345);
 CREATE INDEX 'extra_effect_target_range_0_set_id' on 'extra_effect_target_range'('set_id');

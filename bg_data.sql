@@ -184,3 +184,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"COLOSSEUM_TOP", /*bg_id*/531300, /*e
 INSERT INTO `bg_data` VALUES (/*view_name*/"COLOSSEUM_SELECT_PARTY", /*bg_id*/531400, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"COLOSSEUM_BATTLE_RESULT", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_ASB", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYD", /*bg_id*/0, /*event_id*/0);
