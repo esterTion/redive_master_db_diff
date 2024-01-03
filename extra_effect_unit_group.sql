@@ -16,6 +16,7 @@ INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/14, /*group_id*/61013
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/15, /*group_id*/6101342, /*unit_id*/112201);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/16, /*group_id*/6101342, /*unit_id*/115701);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/17, /*group_id*/6101342, /*unit_id*/113401);
+INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/18, /*group_id*/6101342, /*unit_id*/128401);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/19, /*group_id*/6101343, /*unit_id*/106601);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/20, /*group_id*/6101343, /*unit_id*/116501);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/21, /*group_id*/6101343, /*unit_id*/121601);
@@ -25,5 +26,6 @@ INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/24, /*group_id*/61013
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/25, /*group_id*/6101344, /*unit_id*/112201);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/26, /*group_id*/6101344, /*unit_id*/115701);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/27, /*group_id*/6101344, /*unit_id*/113401);
+INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/28, /*group_id*/6101344, /*unit_id*/128401);
 INSERT INTO `extra_effect_unit_group` VALUES (/*target_id*/29, /*group_id*/6101345, /*unit_id*/180701);
 CREATE INDEX 'extra_effect_unit_group_0_group_id' on 'extra_effect_unit_group'('group_id');

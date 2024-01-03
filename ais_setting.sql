@@ -1,0 +1,1 @@
+CREATE TABLE 'ais_setting' ('id' INTEGER NOT NULL, 'first_op_sub_story_id' INTEGER NOT NULL, 'first_op_release_condition_story_id' INTEGER NOT NULL, 'later_op_sub_story_id' INTEGER NOT NULL, 'later_op_release_condition_quest_id' INTEGER NOT NULL, 'later_op_release_condition_boss_id' INTEGER NOT NULL, 'last_sub_story_id' INTEGER NOT NULL, PRIMARY KEY('id'));

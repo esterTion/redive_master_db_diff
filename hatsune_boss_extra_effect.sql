@@ -35,6 +35,8 @@ INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/35, /*boss_id*/1013406, /*
 INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/36, /*boss_id*/1013406, /*unit_id*/115701, /*icon_id*/3010, /*detail*/"バトル開始後90秒間ＴＰ上昇特大アッ\nプ", /*start_time*/"2023/12/31 12:00:00");
 INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/37, /*boss_id*/1013406, /*unit_id*/113401, /*icon_id*/3003, /*detail*/"バトル開始後90秒間魔法攻撃力絶大\nアップ", /*start_time*/"2023/12/31 12:00:00");
 INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/38, /*boss_id*/1013406, /*unit_id*/113401, /*icon_id*/3010, /*detail*/"バトル開始後90秒間ＴＰ上昇特大アッ\nプ", /*start_time*/"2023/12/31 12:00:00");
+INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/39, /*boss_id*/1013406, /*unit_id*/128401, /*icon_id*/3003, /*detail*/"バトル開始後90秒間魔法攻撃力絶大\nアップ", /*start_time*/"2024/01/03 19:00:00");
+INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/40, /*boss_id*/1013406, /*unit_id*/128401, /*icon_id*/3010, /*detail*/"バトル開始後90秒間ＴＰ上昇特大アッ\nプ", /*start_time*/"2024/01/03 19:00:00");
 INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/41, /*boss_id*/1013406, /*unit_id*/180701, /*icon_id*/3001, /*detail*/"バトル開始後90秒間物理攻撃力絶大\nアップ", /*start_time*/"2023/12/31 12:00:00");
 INSERT INTO `hatsune_boss_extra_effect` VALUES (/*id*/42, /*boss_id*/1013406, /*unit_id*/180701, /*icon_id*/3010, /*detail*/"バトル開始後90秒間ＴＰ上昇大アップ", /*start_time*/"2023/12/31 12:00:00");
 CREATE INDEX 'hatsune_boss_extra_effect_0_boss_id' on 'hatsune_boss_extra_effect'('boss_id');
