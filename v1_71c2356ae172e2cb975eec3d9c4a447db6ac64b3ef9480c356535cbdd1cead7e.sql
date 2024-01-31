@@ -25,3 +25,4 @@ INSERT INTO `v1_71c2356ae172e2cb975eec3d9c4a447db6ac64b3ef9480c356535cbdd1cead7e
 INSERT INTO `v1_71c2356ae172e2cb975eec3d9c4a447db6ac64b3ef9480c356535cbdd1cead7e` VALUES (25, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
 INSERT INTO `v1_71c2356ae172e2cb975eec3d9c4a447db6ac64b3ef9480c356535cbdd1cead7e` VALUES (26, 1, 0, 0, 280, 280, 29, -1, -1, -1, -1, -1, -1, 0);
 INSERT INTO `v1_71c2356ae172e2cb975eec3d9c4a447db6ac64b3ef9480c356535cbdd1cead7e` VALUES (27, 1, 1, 0, 280, 280, 29, -1, -1, -1, -1, -1, -1, 0);
+INSERT INTO `v1_71c2356ae172e2cb975eec3d9c4a447db6ac64b3ef9480c356535cbdd1cead7e` VALUES (28, 1, 1, 0, 280, 280, 29, -1, -1, -1, -1, -1, -1, 0);
