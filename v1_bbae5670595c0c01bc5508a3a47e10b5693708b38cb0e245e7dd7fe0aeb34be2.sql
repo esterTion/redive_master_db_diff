@@ -2011,4 +2011,12 @@ INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128901, 6, "騎士クン、ギルドハウスのアイテムがいっぱいだよ。どれも大切に使っていこうね。えっと…わたしと一緒にっ");
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128901, 7, "アドベンチャーが完了したよ。忘れずに報酬を確認してね、騎士クン♪");
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128901, 8, "アドベンチャーで設定してた繰り返し出発が終わったよ。いろんなものが手に入ったから、しっかり確認してね♪");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 1, "スタミナが全回復したよ。これで新しい世界へ出かけよう！えへへっ、ワクワクするなぁ～♪");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 2, "ギルドハウスのスキップチケットがいっぱいみたい。これで、知ってる場所はパパっと進んじゃおっか！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 3, "ギルドハウスのスタミナがいっぱいだって！　これでいっぱい修行できちゃうね、騎士くん♪");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 4, "ギルドハウスのEXPポーションがいっぱいだよ。これでもっと強くなれる…燃えてきたーっ！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 5, "ギルドハウスのマナがいっぱいになったよ。これだけあるし、ＢＢＱでもしちゃう？…もちろん修行のため！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 6, "わわっ、ギルドハウスで受け取れるアイテムがいっぱいだぁ！冒険の前にお片付けしなきゃだね！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 7, "アドベンチャーが完了したよ！お宝も持って帰ってきたから、はやく見に来てよー♪");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (128701, 8, "アドベンチャーで設定してた繰り返し出発が終わったよ！お宝の確認が楽しみだね♪");
 CREATE INDEX 'v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2_0_unit_id' on 'v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2'('f33838f377fd218fcfc52950356e6c56a4709d6846c3e513a9f7d0779e8fbaee');

@@ -15,6 +15,7 @@ INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (2014, "{0}月クランバトル{2}周到達報酬です。", 10, 11, 19, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (2015, "「{0}」の追加報酬分です。", 20, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (2016, "{0}のお返しでもらったアイテムです。", 1, 0, 0, 0);
+INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (2017, "Lv/RANK シンクロ機能実装に伴う配布です。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (3001, "ギルドハウス2階解放時に獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (3002, "ギルドハウス3階解放時に獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9101, "運営からのお詫びの品です。", 0, 0, 0, 0);
@@ -99,6 +100,7 @@ INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9430, "アイテム装備パックⅩ（4周年）を購入して獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9431, "コラボパックを購入して獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9432, "スフィアパックを購入して獲得したアイテムです。", 0, 0, 0, 0);
+INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9433, "プリンセスナイト強化パックを購入して獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9501, "「イベントログインボーナス」{1}日目で獲得したアイテムです。", 13, 2, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9502, "イベントクエスト初回クリアで獲得したアイテムです。", 13, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9503, "イベントクエスト{1}クリアで獲得したアイテムです。", 13, 14, 0, 0);
@@ -120,6 +122,7 @@ INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9519, "EX装備強化で獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9520, "所持上限を超えて獲得したイベントログインボーナスの報酬です。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9521, "所持上限を超えて獲得した復刻イベントログインボーナスの報酬です。", 0, 0, 0, 0);
+INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9522, "所持上限を超えて獲得したプリンセスナイト強化の報酬です。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9600, "ミニゲームで獲得したアイテムです。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9700, "「バトル オブ ランドソル」で獲得したランキング報酬です。", 0, 0, 0, 0);
 INSERT INTO `v1_283ad36503f42ae7b19b9679d1a4ff16d944a0e145cf1bb58f4084c629f4bc79` VALUES (9701, "「バトル オブ ランドソル」で獲得したアタック報酬です。", 0, 0, 0, 0);

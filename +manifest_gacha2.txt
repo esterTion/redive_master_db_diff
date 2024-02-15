@@ -3,3 +3,7 @@ a/gacha_gacha_ttl_pickup_0.unity3d,8829f32481369b193ff060c7cbec5629,common,20313
 a/gacha_gacha_ttl_prize_0.unity3d,d3defa5d91deccc9ee4920d6f99a8750,common,20493,
 a/gacha_gacha_ttl_prize_1.unity3d,ecd5d4cb10b40050bcf376732f142c13,common,71572,
 a/gacha_gacha_ttl_starlegend_0.unity3d,f701c7526d3fa327b8296b3389cbaeb8,common,17592,
+a/gacha_gacha_ttl_starlegend_1.unity3d,5c6371ea81e5f89ff889a85948d9eb41,common,80224,
+a/gacha_gacha_ttl_starlegend_2.unity3d,d53477a4bb00e53a99d92e9d9f5a0622,common,81370,
+a/gacha_gacha_ttl_starlegend_3.unity3d,65ceef9abea6a4d422dd92addb8146e8,common,81384,
+a/gacha_gacha_ttl_starlegend_4.unity3d,743f0c9cd235db74290ea8d5281386de,common,80677,
