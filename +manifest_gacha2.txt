@@ -7,3 +7,4 @@ a/gacha_gacha_ttl_starlegend_1.unity3d,5c6371ea81e5f89ff889a85948d9eb41,common,8
 a/gacha_gacha_ttl_starlegend_2.unity3d,d53477a4bb00e53a99d92e9d9f5a0622,common,81370,
 a/gacha_gacha_ttl_starlegend_3.unity3d,65ceef9abea6a4d422dd92addb8146e8,common,81384,
 a/gacha_gacha_ttl_starlegend_4.unity3d,743f0c9cd235db74290ea8d5281386de,common,80677,
+a/gacha_gacha_ttl_starlegend_5.unity3d,f970b7ddacc1ff28ca7512a6e2634cbd,common,80409,
