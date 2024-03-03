@@ -2027,4 +2027,12 @@ INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129001, 6, "騎士クン、ギルドハウスで受け取れるアイテムが…いっぱいになっちゃった。だから…ええと…早く、来てね");
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129001, 7, "アドベンチャーが完了したよ。騎士クンが必要としているもの、手に入ったと思う。…見にきてほしいな");
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129001, 8, "アドベンチャーの繰り返しが終わったよ。騎士クンが迎えにきてくれるから…繰り返すのも嫌じゃない、かな");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 1, "スタミナが全回復したぞ。ぼくと真冬のサマーへ繰り出そうじゃあないか。水着の用意だ、セクシー同志！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 2, "やあ後輩、ギルドハウスで受け取れるスキップチケットが限界量に達しているぞ。冬といえばスキップ！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 3, "後輩、大変だ。ギルドハウスのスタミナが限界量に達している。早く取りに来たまえ、冬の渚が待っているぞ");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 4, "後輩、大変だ。ギルドハウスのEXPポーションが限界量に達している。ポーションは三度の飯より大事だぞ");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 5, "ぽーん！ドクター・ユニに代わって警告！ギルドハウスのマナがいっぱいです！回収して石を育てましょう！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 6, "ほわあぁぁ～！ギルドハウスで全アイテムあふれかえっとる！何これ勿体なぁ～！早く取りに来て！");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 7, "アドベンチャーが完了したぞ。疾く報酬を受け取るがいい。我々ユニちゃんズの活動資金も随時募集中だ");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 8, "アドベンチャーで設定していた繰り返し出発が完了した。報酬を確認したまえ。そしてその後は…分かるな？");
 CREATE INDEX 'v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2_0_unit_id' on 'v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2'('f33838f377fd218fcfc52950356e6c56a4709d6846c3e513a9f7d0779e8fbaee');
