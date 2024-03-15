@@ -31,6 +31,7 @@ INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (30, 1, 52020, 1, 1, "【料理】次回移動時に1マス分多く進める", 2, 2);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (31, 1, 52021, 1, 10, "【料理】移動時にトレジャーマスをスキップできる", 0, 0);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (32, 1, 52022, 1, 1, "【料理】ダイスの「5と6」の\n目が出る確率が3倍になる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (33, 1, 52023, 1, 1, "【料理】ダイスの目が1回目は必ず「6」に、2回目は必ず「3」になる", 0, 0);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (1001, 3, 1, 1, 99, "最大ｎマイルを入手する", 0, 0);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (1002, 3, 2, 1, 99, "ダイスを1回振りなおせる", 0, 0);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (1003, 3, 3, 1, 99, "ダイスを1回振りなおせる_有効ターン2", 0, 0);
@@ -42,4 +43,12 @@ INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11006, 3, 1006, 1, 104301, "【仲間】出目が4のダイスを同時に振ってどちらか選択できる", 0, 0);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11007, 3, 1007, 1, 102701, "【仲間】出目が3のダイスを同時に振ってどちらか選択できる", 0, 0);
 INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11008, 3, 1008, 1, 100901, "【仲間】出目の合計が7以上になるまでダイスを追加で振れる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11009, 3, 1009, 1, 105101, "【仲間】最大50％割引確定の\nショップを開く\n（1品100％割引あり）", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11010, 3, 1010, 1, 101801, "【仲間】最大1000マイルを入手する", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11011, 3, 1011, 1, 129701, "【仲間】ダイスの表と裏どちらを適用するか選択できる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11012, 3, 1012, 1, 101601, "【仲間】ダイスの目を1回振りなおせる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11013, 3, 1013, 1, 105601, "【仲間】ダイスの目を2回振りなおせる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11014, 3, 1014, 1, 102001, "【仲間】出目が3のダイスを同時に振ってどちらか選択できる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11015, 3, 1015, 1, 129601, "【仲間】出目の合計が7以上になるまでダイスを追加で振れる", 0, 0);
+INSERT INTO `v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43` VALUES (11016, 3, 1016, 1, 100401, "【仲間】出たダイスの目が奇数だった場合、ライバルを1ターン休みにできる", 0, 0);
 CREATE INDEX 'v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43_0_type_1_effect_id' on 'v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43'('89942cecc88a9695656fae5d21b9e06ec198d092588707061e7d16d9b81d7c43','cb356c85ddd8355ead28973bd2b66935513ef0893301960320e85d757076ad19');
