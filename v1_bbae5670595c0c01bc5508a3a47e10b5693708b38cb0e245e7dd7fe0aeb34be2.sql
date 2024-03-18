@@ -2035,4 +2035,12 @@ INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 6, "ほわあぁぁ～！ギルドハウスで全アイテムあふれかえっとる！何これ勿体なぁ～！早く取りに来て！");
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 7, "アドベンチャーが完了したぞ。疾く報酬を受け取るがいい。我々ユニちゃんズの活動資金も随時募集中だ");
 INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129301, 8, "アドベンチャーで設定していた繰り返し出発が完了した。報酬を確認したまえ。そしてその後は…分かるな？");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 1, "どーでもいんだけどさ。あんたが他の女ンとこ渡り歩いてるうちにスタミナ全回復してるよ。良かったね");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 2, "ウケる。ギルドハウスのスキチケ溢れ返ってるわ。こんだけありゃ特別講座も特別自習もスキップ出来るくね？");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 3, "ギルドハウスのスタミナ溜まり過ぎ問題。どーすんのコレ。まあクエスト行くならべつに付き合ってもいいけど");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 4, "あーも、ギルドハウスのEXPポーション溢れ返ってンじゃん…ほら、おばちゃん一緒に飲んであげるから");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 5, "ちょーちょー、ギルドハウスのマナいっぱいだってば。ソッコー回収してメリゾでマナ散らかすぞー？");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 6, "やばい。ギルドハウスで受け取れるアイテム、何もかんもMAXいってる。コレ緊急事態だわ、カリンさん来ちゃうわ");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 7, "ぷー…アドベンチャー終わりでーす。お宝あるみたいだからコレもらっとくわ。なんか文句ある？");
+INSERT INTO `v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2` VALUES (129401, 8, "なんかアドベンチャーで設定してた繰り返し出発が終わったってさ。報酬あるみたいだし確認しときー");
 CREATE INDEX 'v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2_0_unit_id' on 'v1_bbae5670595c0c01bc5508a3a47e10b5693708b38cb0e245e7dd7fe0aeb34be2'('f33838f377fd218fcfc52950356e6c56a4709d6846c3e513a9f7d0779e8fbaee');
