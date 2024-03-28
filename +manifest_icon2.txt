@@ -11167,6 +11167,7 @@ a/icon_thumb_story_4010076.unity3d,63b2136ddc713d4edea32ae5b54d5b67,tutorial1,16
 a/icon_thumb_story_4010077.unity3d,d4a9a35ad7cfb1d118acffc15185d4ae,tutorial1,15995,
 a/icon_thumb_story_4010078.unity3d,1f9cf47261c251c8b4451531cd956b35,tutorial1,16554,
 a/icon_thumb_story_4010079.unity3d,23adf8300a1d70bb8014a001fbc286cb,tutorial1,16608,
+a/icon_thumb_story_4010080.unity3d,e495266e227b52c32d7d1524b485020b,tutorial1,17027,
 a/icon_thumb_story_4011001.unity3d,588ce5a6e8abeacaf3d546c82251f993,tutorial1,16983,
 a/icon_thumb_story_5001000.unity3d,06c40f643c9bc16e8f209510ff6fc838,tutorial1,16594,
 a/icon_thumb_story_5001001.unity3d,134b49a624e1b3fdc997fb917539b196,tutorial1,16730,
