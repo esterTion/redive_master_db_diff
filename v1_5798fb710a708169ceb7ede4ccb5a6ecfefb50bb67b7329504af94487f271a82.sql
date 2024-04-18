@@ -44,4 +44,4 @@ INSERT INTO `v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82
 INSERT INTO `v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82` VALUES (1002501, 10025, 3, "ぐも！（かやピィニハ マケナイ！）", "vo_minigame_1004", "vo_minigame_1004_top_3_068", 2);
 INSERT INTO `v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82` VALUES (1002502, 10025, 2, "お？なんだ？腹でも減ってるのか？", "vo_minigame_1004", "vo_minigame_1004_top_3_069", 1);
 INSERT INTO `v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82` VALUES (1002503, 10025, 1, "……全然話が通じてないです", "vo_minigame_1004", "vo_minigame_1004_top_3_070", 2);
-CREATE INDEX 'v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82_0_talk_id' on 'v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82'('ce8421c36fe6adfe67318e8bf361583566e1f8c3ef00bacb34b88b5af69cd4ee');
+CREATE INDEX 'v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82_0_ce8421c36fe6adfe67318e8bf361583566e1f8c3ef00bacb34b88b5af69cd4ee' on 'v1_5798fb710a708169ceb7ede4ccb5a6ecfefb50bb67b7329504af94487f271a82'('ce8421c36fe6adfe67318e8bf361583566e1f8c3ef00bacb34b88b5af69cd4ee');

@@ -1,1 +1,1 @@
-a/talentquest_talentquesticoneffect.unity3d,54a86b5200b80d4e7002f44afdb1fbbb,common,354404,
+a/talentquest_talentquesticoneffect.unity3d,582e5396ac1517ac0597d412d904db10,283fdb0ed9eda094,common,105777,

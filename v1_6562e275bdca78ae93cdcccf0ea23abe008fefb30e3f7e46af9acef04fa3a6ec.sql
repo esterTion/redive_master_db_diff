@@ -138,4 +138,4 @@ INSERT INTO `v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec
 INSERT INTO `v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec` VALUES (20047001, 20047, 1, 20047102, 1, 0);
 INSERT INTO `v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec` VALUES (20047002, 20047, 1, 20047108, 2, 0);
 INSERT INTO `v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec` VALUES (20047003, 20047, 1, 20047115, 3, 0);
-CREATE INDEX 'v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec_0_target_event_id' on 'v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec'('3449839caee3516292e02447e06d6b8cf3cea3059cb08f297af490ddefbb84db');
+CREATE INDEX 'v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec_0_3449839caee3516292e02447e06d6b8cf3cea3059cb08f297af490ddefbb84db' on 'v1_6562e275bdca78ae93cdcccf0ea23abe008fefb30e3f7e46af9acef04fa3a6ec'('3449839caee3516292e02447e06d6b8cf3cea3059cb08f297af490ddefbb84db');
