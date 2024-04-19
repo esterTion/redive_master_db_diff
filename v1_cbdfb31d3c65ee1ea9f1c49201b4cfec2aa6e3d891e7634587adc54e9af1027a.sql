@@ -314,13 +314,13 @@ INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (313, "アドベンチャー", 20.0, "", "2023-11-15 15:00:00", "", -1, 1000, 313, "あどべんちゃー", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (314, "クライ・ベイビー・クリスマス　誰が為の幸福なる日", 20.0, "", "2023-12-15 15:00:00", "", -1, 1000, 314, "くらいべいびーくりすますたがためのこうふくなるひ", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (315, "バジリスク・アロス", 20.0, "", "2023-12-15 15:00:00", "", -1, 1000, 315, "ばじりすくあろす", "", "", "");
-INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (316, "Christmas Blessing", 20.0, "", "2023-12-15 15:00:00", "", -1, 1500, 316, "くりすますぶれっしんぐ", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (316, "Christmas Blessing", 20.0, "", "2023-12-15 15:00:00", "", -1, 1500, 316, "くりすますぶれっしんぐ", "https://music.apple.com/jp/album/princess-connect-re-dive-priconne-character-song-38-ep/1737858842?app=itunes", "", "A2004367403/");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (317, "アドベントカレンダー", 20.0, "", "2023-12-15 15:00:00", "", -1, 1000, 317, "あどべんとかれんだー", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (318, "業火燃え盛りし密林", 20.0, "", "2023-12-15 15:00:00", "", -1, 1000, 318, "ごうかもえさかりしみつりん", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (319, "ジオ・ゲヘナの戦い", 20.0, "", "2023-12-15 15:00:00", "", -1, 1000, 319, "じおげへなのたたかい", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (320, "迎春ドリーマーズ！　新年、あけましてお隕石（メテオ）！？", 20.0, "", "2024-01-15 15:00:00", "", -1, 1000, 320, "げいしゅんどりーまーずしんねんあけましておめてお", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (321, "メテオ・イン・ドリーム", 20.0, "", "2024-01-15 15:00:00", "", -1, 1000, 321, "めておいんどりーむ", "", "", "");
-INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (322, "ミライノユメ", 20.0, "", "2024-01-15 15:00:00", "", -1, 1500, 322, "みらいのゆめ", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (322, "ミライノユメ", 20.0, "", "2024-01-15 15:00:00", "", -1, 1500, 322, "みらいのゆめ", "https://music.apple.com/jp/album/princess-connect-re-dive-priconne-character-song-38-ep/1737858842?app=itunes", "", "A2004367403/");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (323, "初夢チャレンジ", 20.0, "", "2024-01-15 15:00:00", "", -1, 1000, 323, "はつゆめちゃれんじ", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (324, "灼けつく世界の強敵", 20.0, "", "2024-01-15 15:00:00", "", -1, 1000, 324, "やけつくせかいのきょうてき", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (325, "天才発明家の三女　フブキ", 20.0, "", "2024-01-15 15:00:00", "", -1, 1000, 325, "てんさいはつめいかのさんじょふぶき", "", "", "");
@@ -348,3 +348,10 @@ INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (347, "翠嵐の深域", 20.0, "", "2024-03-15 15:00:00", "", -1, 1000, 347, "すいらんのしんいき", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (348, "珀天の深域", 20.0, "", "2024-03-15 15:00:00", "", -1, 1000, 348, "はくてんのしんいき", "", "", "");
 INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (349, "紫冥の深域", 20.0, "", "2024-03-15 15:00:00", "", -1, 1000, 349, "しめいのしんいき", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (350, "クーリィ・フューリィ・ブートキャンプ　鬼教官と鞭と…飴？", 20.0, "", "2024-04-15 15:00:00", "", -1, 1000, 350, "くーりぃふゅーりぃぶーときゃんぷおにきょうかんとむちとあめ", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (351, "剛雷獣・ライガホーン", 20.0, "", "2024-04-15 15:00:00", "", -1, 1000, 351, "ごうらいじゅうらいがほーん", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (352, "Into The Trust", 20.0, "", "2024-04-15 15:00:00", "", -1, 1500, 352, "いんとぅざとらすと", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (353, "エリコとマコトの行軍（マーチ）A-Go-Go！", 20.0, "", "2024-04-15 15:00:00", "", -1, 1000, 353, "えりことまことのまーちあごーごー", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (354, "新兵らよ、我に続け", 20.0, "", "2024-04-15 15:00:00", "", -1, 1000, 354, "しんぺいらよわれにつづけ", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (355, "決闘の舞台へ", 20.0, "", "2024-04-15 15:00:00", "", -1, 1000, 355, "けっとうのぶたいへ", "", "", "");
+INSERT INTO `v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a` VALUES (356, "バトルスタジアム、開幕！", 20.0, "", "2024-04-15 15:00:00", "", -1, 1000, 356, "ばとるすたじあむかいまく", "", "", "");

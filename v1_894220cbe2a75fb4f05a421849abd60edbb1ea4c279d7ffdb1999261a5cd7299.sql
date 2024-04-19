@@ -246,6 +246,7 @@ INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299
 INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (129301, "ユニ（ウィンター）", 502220, "メルクリゾート_プールエリア_昼", 0.0, 2);
 INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (129401, "クロエ（ウィンター）", 502220, "メルクリゾート_プールエリア_昼", 0.0, 2);
 INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (129801, "マコト（コマンダー）", 501680, "平原_昼", 0.0, 2);
+INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (129901, "エリコ（コマンダー）", 500030, "ランドソル 繁華街", 0.0, 4);
 INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (180101, "ヒヨリ（プリンセス）", 500130, "エステレラ街道", 0.0, 2);
 INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (180201, "ユイ（プリンセス）", 500130, "エステレラ街道", 0.0, 4);
 INSERT INTO `v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299` VALUES (180301, "レイ（プリンセス）", 500130, "エステレラ街道", 0.0, 3);
