@@ -248,6 +248,7 @@ INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda
 INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (129601, "アネモネ", 1, 0, 1, 2, 31296, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (129801, "マコト（コマンダー）", 1, 0, 1, 2, 31298, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (129901, "エリコ（コマンダー）", 1, 0, 1, 2, 31299, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (130701, "キョウカ（スプリング）", 1, 0, 1, 2, 31307, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (180101, "ヒヨリ（プリンセス）", 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (180201, "ユイ（プリンセス）", 1, 0, 1, 2, 31802, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 INSERT INTO `v1_ca6ee1e5d6eee414089dfa555055ec9a4a70b19a652be05b061fb2aa697cbdda` VALUES (180301, "レイ（プリンセス）", 1, 0, 1, 2, 31803, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

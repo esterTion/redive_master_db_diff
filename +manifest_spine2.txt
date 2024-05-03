@@ -392,7 +392,7 @@ a/spine_129601_posing.cysp.unity3d,33efca7d5cdb9ddee2b94c26134eb883,18dd3d61a2fa
 a/spine_129601_smile.cysp.unity3d,2979ab60a909c55ad3136b6d16b9705a,b26041b0d51e077f,tutorial2,6104,
 a/spine_129801_battle.cysp.unity3d,439b058ed77dd3aff3b56d61e60416a0,ace530199ce71bdd,tutorial2,33151,
 a/spine_129901_battle.cysp.unity3d,3a58a6e11552d5133953e4c5ee31739b,24fd8223b90b5347,tutorial2,43318,
-a/spine_130701_battle.cysp.unity3d,ac875b29da5fd72320de55588a69287b,f5efdb2b2356dd12,tutorial2,33546,
+a/spine_130701_battle.cysp.unity3d,fd68f9b470fbad129b20d979bde8bf34,6000ee3e91329e66,tutorial2,33547,
 a/spine_130801_battle.cysp.unity3d,205a5e14bdcf0ad89c97c6d043711b8f,02556ceb2e8d9ae2,tutorial2,13286,
 a/spine_170101_battle.cysp.unity3d,ddd18562e4bed39d1f8c2e559917f6b7,a813c06b581cf14b,tutorial2,62050,
 a/spine_180101_battle.cysp.unity3d,038280093003707c82533e5e4f3a9934,857e8ce3141ddc95,tutorial2,30235,
