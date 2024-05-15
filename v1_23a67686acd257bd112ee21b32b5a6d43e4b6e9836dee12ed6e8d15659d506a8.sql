@@ -2075,4 +2075,12 @@ INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8
 INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130701, 6, "ギルドハウスで受け取れるアイテムが、すべていっぱいですよ。お花の手入れに役立つ道具はありますか？");
 INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130701, 7, "アドベンチャーが終わりましたよ。宝物も拾ってきたので、ちゃんと確認してくださいね？");
 INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130701, 8, "アドベンチャーで設定した繰り返し出発が終わりました。あなたと離れてたって、宝物は集められましたから！");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 1, "スタミナが全回復していますよ！きれいなお花を見に出かけませんか？");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 2, "ギルドハウスのスキップチケットがいっぱいになっちゃいました。ひらひらしてて花びらみたいですね♪");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 3, "ギルドハウスのスタミナがいっぱいです～！いい天気ですし、みんなでお出かけしませんか？");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 4, "ギルドハウスのEXPポーションがあふれちゃいそうです～！こぼしちゃう前に回収しちゃいましょう！");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 5, "ギルドハウスのマナがいっぱいです！…マナって、お花にあげたらよく育ったりするんでしょうか？");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 6, "ギルドハウスで受け取れるアイテムが全部いっぱいです！しっかり使って、お花のようにぐんぐん成長しましょう！");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 7, "アドベンチャーが終わりましたよ～。帰り道、お宝につまずいて転んじゃいましたけど…");
+INSERT INTO `v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8` VALUES (130801, 8, "アドベンチャーの繰り返し出発が終わりました～。みなさんと頑張ってきましたから、報酬を確認してくださいね？");
 CREATE INDEX 'v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8_0_ed01b3a7b259eff3adb0476612aac3bb15d6449ef679ea6bca4ccbb6b3aae35f' on 'v1_23a67686acd257bd112ee21b32b5a6d43e4b6e9836dee12ed6e8d15659d506a8'('ed01b3a7b259eff3adb0476612aac3bb15d6449ef679ea6bca4ccbb6b3aae35f');
