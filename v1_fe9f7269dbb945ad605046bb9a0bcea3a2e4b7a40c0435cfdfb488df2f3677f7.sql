@@ -1,0 +1,11 @@
+CREATE TABLE 'v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7' ('2d7750deda753d1c0e3f5acce222f17c06dae415bae7b5fb3ddcce05a9e58087' INTEGER NOT NULL, '670405c272632b21327c1b635d18d5c3c651a9f3f9a7524e47fdc776d48e7189' INTEGER NOT NULL, 'ec23c58754bcc58e416dc57aed22a69b06725a98e5ad7294a38e377c21af95e9' TEXT NOT NULL, '56abd9965081cbcdce2bfb216c92f696e64433697428f7ea6bfcc7a487c8ff08' TEXT NOT NULL, 'ba8d0ff42bb0ae6a2b69e7717a3175e0d40963b98b3d946b21ddfea78edc631e' INTEGER NOT NULL, 'ec3e786939fa3f37a75c6be81e75f55994ba675b72677627dddb77084912ecb4' INTEGER NOT NULL, PRIMARY KEY('2d7750deda753d1c0e3f5acce222f17c06dae415bae7b5fb3ddcce05a9e58087'));
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (101, 1, "特別講座プレゼンレポート", "ちぇるるんインパクト", 12, 13);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (102, 1, "特別講座プレゼンレポート", "クロエご明察", 13, 14);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (103, 1, "特別講座プレゼンレポート", "吹き散らせ先輩風", 14, 22);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (201, 2, "メルクリウス財団活動日誌", "アキノのリーダーシップ", 22, 23);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (202, 2, "メルクリウス財団活動日誌", "燃えろたい焼き魂", 23, 24);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (203, 2, "メルクリウス財団活動日誌", "麦しゅわに不可能なし", 24, 25);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (204, 2, "メルクリウス財団活動日誌", "ミフユの説教１日コース", 25, 32);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (301, 3, "ユニのメモ帳", "発泡と生菓子の哲学", 32, 33);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (302, 3, "ユニのメモ帳", "虎穴に潜らずんば", 33, 34);
+INSERT INTO `v1_fe9f7269dbb945ad605046bb9a0bcea3a2e4b7a40c0435cfdfb488df2f3677f7` VALUES (303, 3, "ユニのメモ帳", "動作試験と破滅の誘惑", 34, 0);
