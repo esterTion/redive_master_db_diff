@@ -718,6 +718,7 @@ a/room_spineunit_105531.unity3d,532b7114f8188ae2281ddce7e759430b,fb523840351eff2
 a/room_spineunit_105561.unity3d,093d1085af7e51b26844ddd8916921ca,2ef3a496e5d2cb09,common,50003,
 a/room_spineunit_105611.unity3d,67bb61a4a211edde5b0307c1cb87c475,4efbb49520ec9878,common,47089,
 a/room_spineunit_105631.unity3d,e3d26cbab3303bc6d641a617f1c534c7,bf42c3ec243a1285,common,47723,
+a/room_spineunit_105661.unity3d,8754e131582748eb184ac7faa9bd8435,c6e0e8295cdf5f1c,common,50846,
 a/room_spineunit_105711.unity3d,6cc27eea044c63bf11e05aff919bb924,5a284a49f52f37c6,common,40251,
 a/room_spineunit_105731.unity3d,38d9245958f3f93fe8cf718e59a4d976,9940d8f160f23084,common,40260,
 a/room_spineunit_105811.unity3d,dca5531c56ca7f917fde2c91c007e67f,c5920c51f9998116,common,48179,
