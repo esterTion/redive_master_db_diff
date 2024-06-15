@@ -2091,4 +2091,12 @@ INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131001, 6, "ギルドハウスで受け取れるアイテムがぎょうさんありますえ。パークにお客さんが来はる前に片しときまひょ");
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131001, 7, "アドベンチャー、終わりました～♪報酬もちゃんとあるから、はよう見に来てな～？");
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131001, 8, "アドベンチャーで設定しとった繰り返し出発、終わったわ～。王子はん、忘れんと報酬を見に来てや～♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 1, "ヒーローさん！スタミナが全回復したみたいですますっ！これで一緒にパレードしちゃいましょう♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 2, "ギルドハウスのスキップチケットがいっぱいですます♪楽なところはルンルンスキップしちゃいましょう～♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 3, "ギルドハウスのスタミナがいっぱいですっ♪元気いっぱい胸いっぱいで、遊園地を遊び尽くしてくださいね♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 4, "ギルドハウスのEXPポーションがいっぱいです！成長して立派な支配人に…って調子に乗りましたぁ～！");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 5, "ギルドハウスのマナがいっぱいですます！これでフードコートの全メニュー制覇も夢じゃありませんね～っ♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 6, "ギルドハウスのアイテムがいっぱいですますっ！宝石は駄目でも、こちらは受け取ってくださいませ～っ！");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 7, "アドベンチャーが完了しましたよ♪宝石みたいにキラキラな宝物、手に入ってるといいですね～♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (130901, 8, "アドベンチャーの繰り返し出発が完了しました！楽しい冒険とアトラクションは、何周だって飽きませんね♪");
 CREATE INDEX 'v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97_0_a89e762460ba93093aacbbd1b9befea0f32b5dd6d58a418ae567d5f273b91184' on 'v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97'('a89e762460ba93093aacbbd1b9befea0f32b5dd6d58a418ae567d5f273b91184');

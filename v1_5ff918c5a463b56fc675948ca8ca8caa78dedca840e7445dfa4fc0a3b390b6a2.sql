@@ -1050,6 +1050,9 @@ INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2
 INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (130801, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (130801, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (130801, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (130901, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (130901, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (130901, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (131001, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (131001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO `v1_5ff918c5a463b56fc675948ca8ca8caa78dedca840e7445dfa4fc0a3b390b6a2` VALUES (131001, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
