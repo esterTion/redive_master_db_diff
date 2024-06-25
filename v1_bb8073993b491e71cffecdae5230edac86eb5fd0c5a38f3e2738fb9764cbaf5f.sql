@@ -79,4 +79,5 @@ INSERT INTO `v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f
 INSERT INTO `v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f` VALUES (5142, 5, 10142, "クーリィ・フューリィ・ブートキャンプ　鬼教官と鞭と…飴？", 0, 1, "2024/03/25 17:00:00", "2030/04/24 14:59:59");
 INSERT INTO `v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f` VALUES (5144, 5, 10144, "花咲く季節のサンセリテ", 0, 1, "2024/04/27 21:00:00", "2030/04/24 14:59:59");
 INSERT INTO `v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f` VALUES (5146, 5, 10146, "グランドリーム・オンパレード　\n宝石兎と秘密の仲間たち", 0, 1, "2024/05/23 15:00:00", "2030/04/24 14:59:59");
+INSERT INTO `v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f` VALUES (5148, 5, 10148, "あつまれイイコトクラブ！　\nミソラの愉快な夏休み", 0, 1, "2024/06/25 15:00:00", "2030/04/24 14:59:59");
 CREATE INDEX 'v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f_0_1883d25b40a4a63268b9d0bd8a7666a8f15fd071b8a3b1aac109ada6e6b60952' on 'v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f'('1883d25b40a4a63268b9d0bd8a7666a8f15fd071b8a3b1aac109ada6e6b60952');
