@@ -1,4 +1,4 @@
-a/atlasngui_atlasabnormalstate.unity3d,cee68d19fbf440205b7a70876386900e,4f964eb25eedda4c,tutorial0,221374,
+a/atlasngui_atlasabnormalstate.unity3d,238de9247b2abc0f49ce525160b49c62,9c36cbefa8d980e8,tutorial0,220909,
 a/atlasngui_atlasabyss.unity3d,7664eb2049c4fe187a86c3fb509d930b,950d928dcc2169d3,common,5230,
 a/atlasngui_atlasabyssbanner.unity3d,a999b556f4c9470fec4c46ec8f1c4dc9,7655ee8cefacb774,common,9458,
 a/atlasngui_atlasabyssbossskip.unity3d,c0d8bf78d14a01639bba05aaeccf37b0,29f0c28da58cce8a,common,6620,
@@ -172,6 +172,7 @@ a/atlasngui_atlaseventtmeobject202.unity3d,bb0c056515e3ecdb266d553895261a58,7942
 a/atlasngui_atlaseventtmeobject203.unity3d,e37e413b66fa64a538aab5fe6976d27c,93f6056f5b7fb7c1,common,93862,
 a/atlasngui_atlaseventtmeobject204.unity3d,5fc2f2366153b5e91f33ac8cd31de2f5,ab98e2bf91e3be87,common,92382,
 a/atlasngui_atlaseventtmeobject301.unity3d,913f466f49d5b24789575dc0d8fdf93e,5f755b591c3ae035,common,32746,
+a/atlasngui_atlaseventtpr.unity3d,ecacde32f6060d1f5b8153e90e4730fa,750d2427028b80d1,common,206953,
 a/atlasngui_atlaseventwon.unity3d,247d2cc59306d9f4316170ab94df7cbd,97f2ec4549020d21,common,277060,
 a/atlasngui_atlaseventwtm.unity3d,0bfbca5927f412decc5ed3a72261a874,7bcf5ac1c13aa5ec,common,25667,
 a/atlasngui_atlaseventwts.unity3d,d631e70eda62e86c7f467d11d9ae8cd7,9c12b3c88aa7be70,common,16051,
