@@ -2115,4 +2115,12 @@ INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131101, 6, "ギルドハウスのアイテムが、ぜーんぶもらえるってー♪　ゲットするしかないっしょ？　いこいこー♪");
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131101, 7, "ほーい・アドベンチャーかんりょーっと～。報酬めっちゃあってやばみだわ～。はよ取り来て～");
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131101, 8, "アドベンチャーのくりかえし出発ってヤツー？おわったわ～。あたし休んでっから～すきに報酬もってって～");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 1, "スタミナが全回復しましたよ、騎士さん。これで一緒にたくさんイイコトできますね。ふふっ★");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 2, "ギルドハウスのスキップチケットがいっぱいです★　面倒なことはパパ～っと片付けて、海に行きましょう♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 3, "ギルドハウスのスタミナがいっぱいみたいですしー、息抜きがてらちょっと一緒にぷちデートしましょうよー♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 4, "ギルドハウスのEXPポーションがいっぱいです★　飲んじゃいますか？　それとも、塗ってくれますかー？");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 5, "騎士さん、ギルドハウスのマナがいっぱいですよー。こういうのはパーっと使って、遊んじゃうのが一番です★");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 6, "ギルドハウスで受け取れるアイテムがいっぱいになっちゃいました。これ、ぜーんぶ壊したら…とっても楽しそう…★");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 7, "アドベンチャー完了しましたー★お宝いーっぱいゲットしたので…騎士さんだけに、見せちゃいますね★");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131201, 8, "アドベンチャーの繰り返し出発が終わりましたよー★連続テレポーテーションで、たくさん集めちゃいました★");
 CREATE INDEX 'v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97_0_a89e762460ba93093aacbbd1b9befea0f32b5dd6d58a418ae567d5f273b91184' on 'v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97'('a89e762460ba93093aacbbd1b9befea0f32b5dd6d58a418ae567d5f273b91184');
