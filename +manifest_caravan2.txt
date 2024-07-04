@@ -278,6 +278,7 @@ a/caravan_dishuseeffect02.unity3d,08b7aff7e7864cec1b41a7398f4cf840,72bfa7d260f67
 a/caravan_dishuseeffect03.unity3d,327b2709613ae90ec79c5465a2824297,aa71d784ec8d02f7,common,42193,
 a/caravan_distanceballoon.unity3d,8a4c4c0815ba8614ef69f2ebcf20f751,8bae9716587ebd7a,common,14156,
 a/caravan_earlyarrival.unity3d,81bdca8eb5c7bfef30958256e7e9ad9c,ee2599b08dc35212,common,26728,
+a/caravan_earlyarrivalrival_010001.unity3d,a483b2963ad5d2909c8132ba33a5676d,b6aff63aade0d007,common,22184,
 a/caravan_gacha.unity3d,9c5afff919c430ed6ab75b44f0b392ef,1b61e389b0417cc8,common,38086,
 a/caravan_mapobject_000001.unity3d,c40198f4769b2f371413ae7a51109ea6,7dcf46a48b6abc82,common,36038,
 a/caravan_mapobject_000002.unity3d,e162edd2d82440ed93622a24ce70f24b,10226a136dc0f80d,common,33455,
