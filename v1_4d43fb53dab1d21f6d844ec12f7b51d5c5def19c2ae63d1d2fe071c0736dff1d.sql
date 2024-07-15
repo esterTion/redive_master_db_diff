@@ -30,6 +30,7 @@ INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d
 INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d` VALUES (20047, 29, "ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d` VALUES (20051, 30, "ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d` VALUES (20052, 31, "ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
+INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d` VALUES (20053, 32, "ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d` VALUES (2003201, 2003201, "VERY HARDでカズマサさまが援護してくれるようです。\n強力なスタン効果のユニオンバーストで、サポートしてくださいますよ。\nボスが身動きを取れなくなっている間に、一気に倒しましょう。");
 INSERT INTO `v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d` VALUES (2003901, 2003901, "主さまが宿題に励んでおられるようです。\n宿題が終わるまでモンスターの攻撃を耐え抜けば勝利となりますよ。\n宿題がどこまで進んでいるかは画面のゲージを確認しましょう。	");
 CREATE INDEX 'v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d_0_c8ba1a722617efd4caea52730e838f7fe5a2fa8e5c433b98e233a65e776bec6a' on 'v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d'('c8ba1a722617efd4caea52730e838f7fe5a2fa8e5c433b98e233a65e776bec6a');
