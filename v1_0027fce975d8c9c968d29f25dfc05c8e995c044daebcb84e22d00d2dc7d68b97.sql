@@ -2131,4 +2131,12 @@ INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131601, 6, "兄様、ギルドハウスのアイテムが全ていっぱいになっております。…夏が過ぎ去る前に、どうかお戻りを…");
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131601, 7, "アドベンチャーが完了しましたよ。ふふっ…皆様とたくさん冒険ができて、とても楽しかったです…♪");
 INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131601, 8, "アドベンチャーで設定していた繰り返し出発が完了しました。兄様に捧ぐ宝物をたくさん集めてまいりましたよ♪");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 1, "スタミナが全回復してるわよ。夏だし、海にでも行って気分転換したらどう？");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 2, "ギルドハウスのスキップチケットがいっぱいじゃないの。上手く使って海水浴を楽しみましょ");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 3, "ギルドハウスのスタミナがいっぱいだってば。聞こえてる？眠らせちゃうわよ？");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 4, "ギルドハウスのEXPポーションがいっぱいよ？誰に使えばいいか、あたしと考えてみる？");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 5, "ギルドハウスのマナがいっぱい。もう、あんたはあたしがいないとダメね～？");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 6, "ギルドハウスで受け取れるアイテムが、全部いっぱいなんだけど？アメスさまの託宣よ、しっかり聞くように");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 7, "はい、アドベンチャーが終わったわよ。結構あたしも頑張ったんだから、忘れずに報酬を確認しなさいよね？");
+INSERT INTO `v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97` VALUES (131701, 8, "アドベンチャーで設定してた、繰り返し出発が終わったわよ。報酬もたっぷり手に入ったわ♪…夢じゃないわよ？");
 CREATE INDEX 'v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97_0_a89e762460ba93093aacbbd1b9befea0f32b5dd6d58a418ae567d5f273b91184' on 'v1_0027fce975d8c9c968d29f25dfc05c8e995c044daebcb84e22d00d2dc7d68b97'('a89e762460ba93093aacbbd1b9befea0f32b5dd6d58a418ae567d5f273b91184');

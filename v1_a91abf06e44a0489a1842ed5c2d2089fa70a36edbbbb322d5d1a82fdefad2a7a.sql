@@ -44,3 +44,4 @@ INSERT INTO `v1_a91abf06e44a0489a1842ed5c2d2089fa70a36edbbbb322d5d1a82fdefad2a7a
 INSERT INTO `v1_a91abf06e44a0489a1842ed5c2d2089fa70a36edbbbb322d5d1a82fdefad2a7a` VALUES (80008, "5th Anniversary カウントダウンログインボーナス", 10, 16, "2023/01/31 5:00:00", "2023/02/16 4:59:59", 0, 0, 0, 1, 1);
 INSERT INTO `v1_a91abf06e44a0489a1842ed5c2d2089fa70a36edbbbb322d5d1a82fdefad2a7a` VALUES (80009, "5.5 Year Anniversary カウントダウンログインボーナス", 10, 15, "2023/08/01 5:00:00", "2023/08/16 4:59:59", 0, 0, 0, 1, 1);
 INSERT INTO `v1_a91abf06e44a0489a1842ed5c2d2089fa70a36edbbbb322d5d1a82fdefad2a7a` VALUES (80010, "6th Anniversary カウントダウンログインボーナス", 10, 16, "2024/01/31 5:00:00", "2024/02/16 4:59:59", 0, 0, 0, 1, 1);
+INSERT INTO `v1_a91abf06e44a0489a1842ed5c2d2089fa70a36edbbbb322d5d1a82fdefad2a7a` VALUES (80011, "6.5 Year Anniversary カウントダウンログインボーナス", 10, 15, "2024/08/01 5:00:00", "2024/08/16 4:59:59", 0, 0, 0, 1, 1);

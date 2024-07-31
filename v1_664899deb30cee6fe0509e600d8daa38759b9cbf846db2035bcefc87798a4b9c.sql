@@ -1545,7 +1545,7 @@ INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c
 INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2510060, 5, 1, 2, 0, "霊の存在を示すという、家の中で不自然に起こる物音を何という？", 2);
 INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2511001, 5, 1, 1, 0, "ミソラによってルーセント学院に隠された洗脳魔法装置はどこで発見された？", 2);
 INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2511002, 5, 1, 1, 0, "2023年8月現在、プリンセスコネクトRe:Diveは何周年？", 2);
-INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2511003, 5, 1, 1, 0, "クエストTOP画面で「バトルアリーナ」アイコンに描かれているキャラは次のうちどれ？", 2);
+INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2511003, 5, 1, 1, 0, "クエストTOP画面の「バトルアリーナ」アイコンには、キャラが描かれていたことがありました。そのキャラは次のうちどれ？", 2);
 INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2511004, 5, 1, 1, 0, "チエルの見た目をした人形で、実際に販売された人形の名前は？", 2);
 INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2511005, 5, 1, 1, 0, "カリザによって破壊された【リッチモンド商工会】の新ギルドハウスの名前は？", 2);
 INSERT INTO `v1_664899deb30cee6fe0509e600d8daa38759b9cbf846db2035bcefc87798a4b9c` VALUES (2520001, 5, 2, 2, 0, "閏年ではない平年の場合、一年の真ん中の日は何月何日？", 2);
