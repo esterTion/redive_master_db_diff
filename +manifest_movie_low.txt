@@ -2631,6 +2631,7 @@ m/view_gacha_special_1100008.usm,99d7a2f726a8029cdfffa9eddd9ce926,184591f2934f0c
 m/view_gacha_special_1100009.usm,4a079177e16dbcd711e637504bb210e8,7009f2fbea76605b,every,961664,
 m/view_gacha_special_1100010.usm,f66ad84573d8925decfba11eb8cf777a,1c2d5a635c7fb790,every,973376,
 m/view_gacha_special_1100011.usm,64134a0178404d366a50beff28680b1a,abfb5856791eb603,every,972128,
+m/view_gacha_special_1100013.usm,fb98cc94a96b56b53892518ca8037334,04a6ee5efa848f4b,every,971808,
 m/view_gacha_special_400003.usm,4a36072eeeadedaaeb06e3cbd2bcd67f,74dc4f8ffb7a66fa,every,4057024,
 m/view_gacha_special_400004.usm,3cf73874916ab452aca05110b55d9cd0,6de5ba555a55ae46,every,5054048,
 m/view_gacha_special_400005.usm,9b2e514db9082bd13b97ef22195d9c27,3e44f735fc971fa0,every,4154240,
