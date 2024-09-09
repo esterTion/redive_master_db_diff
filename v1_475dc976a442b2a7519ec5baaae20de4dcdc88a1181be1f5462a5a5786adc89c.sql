@@ -19,3 +19,12 @@ INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c
 INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("魔法クリティカルアップ", 18, "magic_critical_up", "バトル中、魔法クリティカルが大幅にアップする。");
 INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("ＴＰ上昇アップ", 19, "energy_recovery_rate_up", "バトル中、ＴＰ上昇が大幅にアップする。");
 INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("バトル開始時ＴＰ特大回復", 20, "energy_recovery", "バトル開始時、ＴＰが特大回復する。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("麻痺確定付与", 22, "paralysis_hit_absolute", "バトル中、「麻痺」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("凍結確定付与", 23, "frozen_hit_absolute", "バトル中、「凍結」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("束縛確定付与", 24, "bind_hit_absolute", "バトル中、「束縛」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("スタン確定付与", 25, "stun_hit_absolute", "バトル中、「スタン」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("毒/猛毒確定付与", 26, "poison_hit_absolute", "バトル中、「毒」「猛毒」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("火傷確定付与", 27, "burn_hit_absolute", "バトル中、「火傷」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("呪い/呪詛確定付与", 28, "curse_hit_absolute", "バトル中、「呪い」「呪詛」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("誘惑確定付与", 29, "temptation_hit_absolute", "バトル中、「誘惑」を必ず付与できる状態になる。");
+INSERT INTO `v1_475dc976a442b2a7519ec5baaae20de4dcdc88a1181be1f5462a5a5786adc89c` VALUES ("混乱確定付与", 30, "confusion_hit_absolute", "バトル中、「混乱」を必ず付与できる状態になる。");
