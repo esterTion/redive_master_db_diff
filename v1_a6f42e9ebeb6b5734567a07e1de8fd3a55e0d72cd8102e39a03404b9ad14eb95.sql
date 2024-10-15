@@ -1,6 +1,6 @@
-CREATE TABLE 'v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95' ('a534955de9f3d33a05b75aebe02f4dd45f9ee82070b6a98007e8fe5a5cf72476' INTEGER NOT NULL, 'aeb8301b5c71bcb640804d8f58b4f98aa31f75949b242864dbaf21413fb914cc' TEXT NOT NULL, PRIMARY KEY('a534955de9f3d33a05b75aebe02f4dd45f9ee82070b6a98007e8fe5a5cf72476'));
-INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES (1, 123456789);
-INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES (2, "ABCDEFGHIJKLMNOPQRSTUVWXYZ");
-INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES (3, "abcdefghijklmnopqrstuvwxyz");
-INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES (4, "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ");
-INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES (5, "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ");
+CREATE TABLE 'v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95' ('aeb8301b5c71bcb640804d8f58b4f98aa31f75949b242864dbaf21413fb914cc' TEXT NOT NULL, 'a534955de9f3d33a05b75aebe02f4dd45f9ee82070b6a98007e8fe5a5cf72476' INTEGER NOT NULL, PRIMARY KEY('a534955de9f3d33a05b75aebe02f4dd45f9ee82070b6a98007e8fe5a5cf72476'));
+INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES (123456789, 1);
+INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES ("ABCDEFGHIJKLMNOPQRSTUVWXYZ", 2);
+INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES ("abcdefghijklmnopqrstuvwxyz", 3);
+INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES ("あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ", 4);
+INSERT INTO `v1_a6f42e9ebeb6b5734567a07e1de8fd3a55e0d72cd8102e39a03404b9ad14eb95` VALUES ("アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ", 5);
