@@ -25,6 +25,7 @@ INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625
 INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 129401);
 INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 129601);
 INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 129701);
+INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 130001);
 INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 131201);
 INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 131801);
 INSERT INTO `v1_ba3e9e6522d3fa6cbdee1196c543bcc37051cdf4cfecd90f9cceefff62b00625` VALUES ("特殊スキル", "通常時", 132001);
