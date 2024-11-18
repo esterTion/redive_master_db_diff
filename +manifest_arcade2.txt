@@ -11,5 +11,6 @@ a/arcade_arcade_logo_1009.unity3d,a3e18f6f7df13634943876a1899d6c3d,e7b76adb22bc4
 a/arcade_arcade_logo_1010.unity3d,89dee64bdab1d013b8fcefa44c053dd6,14f43f90fa8b3621,common,68200,
 a/arcade_arcade_logo_1012.unity3d,010ef2d3ebe609e4d56163ec8fb5f0f4,f9bce3b30b10f2bc,common,68597,
 a/arcade_arcade_logo_1013.unity3d,f978a68bd8b063c7c73f27ae6b420cdd,350e21086dff191f,common,56570,
+a/arcade_arcade_logo_1014.unity3d,22017965810bfb30594b24733a37f518,8a0aee29227c2850,common,67066,
 a/arcade_bg_arcade_01.unity3d,04b859b5dde83a083c1a1ccd9e0187b3,3f020a5303e92bfa,common,6664,
 a/arcade_bg_arcade_02.unity3d,b4eacf0c64f6e7ac203350b8d11b83f6,3da58baa1146b7fb,common,57321,
