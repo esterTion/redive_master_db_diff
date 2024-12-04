@@ -1,0 +1,12 @@
+CREATE TABLE 'v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068' ('3e4d4f5de9c01eea4409aac0650bd35a9750294be6184ce028ca66a6b0bcdefa' INTEGER NOT NULL, 'e5a6247ed122d0a99b09ec6a4cd673fec8c1d002a36cfde6bbe160613a2459ed' INTEGER NOT NULL, '6aaca356c6f401e12b12b0d11dd9bb33981b96abec31276bd7268fa40bf57036' TEXT NOT NULL, 'e12417b03df9bca5448d41e3ae54bcdaf670603fabd017766c3c01e0656889e9' TEXT NOT NULL, PRIMARY KEY('3e4d4f5de9c01eea4409aac0650bd35a9750294be6184ce028ca66a6b0bcdefa'));
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (137, 2017, "界雷", "魔法攻撃のダメージが小アップし、物理攻撃を行うキャラが行動する度にそのキャラの最大ＨＰに応じて最大99999の割合ダメージを与える。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (146, 2017, "百花繚乱", "一定時間が経過するごとに、敵、味方全体のＴＰを中回復させる。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (147, 2017, "炎天烈日", "一定時間が経過するごとに、敵、味方全体に最大ＨＰに応じた最大20万の割合ダメージを与える。さらに、付与される継続ダメージが上昇する。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (148, 2017, "秋高馬肥", "一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力をアップさせる。この効果の効果量は敵、味方を合わせた数に応じて増加する。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (149, 2017, "寒気凛冽", "敵、味方全体の行動速度を小ダウンさせる。このスキルの効果は他の行動速度変化スキルと重複する。さらに一定時間が経過するごとに、初期値より行動速度が低い状態のキャラに凍結状態を付与する。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (162, 2017, "妨魔塵", "魔法攻撃のダメージが小ダウンする。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (164, 2017, "雷雲", "一定時間が経過するごとに、敵全体に最大ＨＰに応じた魔法割合ダメージを与える。さらに、キャラのＨＰが50％未満の場合、麻痺状態を付与する。この効果によるダメージでは、ＴＰが回復しない。この効果の状態異常はダメージを無効化しても付与される。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (169, 2017, "暴風", "一定時間が経過するごとに、敵全体をノックバックさせる。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (170, 2017, "豪雨", "一定時間が経過するごとに、敵全体の行動速度をバトル終了まで小ダウンさせる。さらに、物理攻撃力と魔法攻撃力をバトル終了まで小ダウンさせる。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (175, 2017, "絶氷", "物理攻撃クリティカル時のダメージが小アップする。");
+INSERT INTO `v1_bc7884dabd1b594fb6023b2764f584d7d1ed342fa2f3f6bcdaf62a2d65373068` VALUES (186, 2017, "雷雲", "一定時間が経過するごとに、敵全体に最大ＨＰに応じた魔法割合ダメージを与える。この効果によるダメージでは、ＴＰが回復しない。");
