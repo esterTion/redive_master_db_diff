@@ -6333,6 +6333,7 @@ a/icon_teaser_27012.unity3d,3399da5b5616684c1bc533a84ca855bd,f0bf59389d366931,tu
 a/icon_teaser_27013.unity3d,582f4a33c3b5ac3493c8570288b47728,98b5784a48fbc6ab,tutorial1,109861,
 a/icon_teaser_27014.unity3d,5e3ffca6ce96c4dcc4a69cecbdc052bd,d4e991ca16f392bc,tutorial1,107117,
 a/icon_teaser_27015.unity3d,b45608ca34b2ad5b5d5f1efc67882999,3b7d5c834b3edc90,tutorial1,108008,
+a/icon_teaser_27016.unity3d,9fd6d7203980713a53db1ef32b8f0f19,ee9e2611e884830b,tutorial1,106946,
 a/icon_thumb_abd_story.unity3d,d73e4184dd22dbd104f881bb381eef58,6408a04addebfa2c,tutorial1,16448,
 a/icon_thumb_abd_top.unity3d,a05c9005129ccd7bcaa2efeedfd9e882,4654bc84f332a5d0,tutorial1,16444,
 a/icon_thumb_ais_top.unity3d,3d65811101fb2152a94833810621e664,990676a0d4d19aba,tutorial1,14085,
