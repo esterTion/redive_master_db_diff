@@ -1,0 +1,6 @@
+CREATE TABLE 'v1_2e0165d05d6be3cf8b2e054552862aa9e579a70d5cea4e33eaaa30a47ef97651' ('df497b09b4148851eb2824c9bddc196a072383c5ecfc3dd7a5d6b39cf63daad1' TEXT NOT NULL, '974b881c5d789ca475bf05caee963ca2fef579c6d6e09cf104015c22c5c6749b' INTEGER NOT NULL, PRIMARY KEY('974b881c5d789ca475bf05caee963ca2fef579c6d6e09cf104015c22c5c6749b'));
+INSERT INTO `v1_2e0165d05d6be3cf8b2e054552862aa9e579a70d5cea4e33eaaa30a47ef97651` VALUES (123456789, 1);
+INSERT INTO `v1_2e0165d05d6be3cf8b2e054552862aa9e579a70d5cea4e33eaaa30a47ef97651` VALUES ("ABCDEFGHIJKLMNOPQRSTUVWXYZ", 2);
+INSERT INTO `v1_2e0165d05d6be3cf8b2e054552862aa9e579a70d5cea4e33eaaa30a47ef97651` VALUES ("abcdefghijklmnopqrstuvwxyz", 3);
+INSERT INTO `v1_2e0165d05d6be3cf8b2e054552862aa9e579a70d5cea4e33eaaa30a47ef97651` VALUES ("あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ", 4);
+INSERT INTO `v1_2e0165d05d6be3cf8b2e054552862aa9e579a70d5cea4e33eaaa30a47ef97651` VALUES ("アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ", 5);
