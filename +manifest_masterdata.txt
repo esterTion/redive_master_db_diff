@@ -1,1 +1,1 @@
-a/masterdata_master_0003.cdb,077a75f7fe38ac3c67c18dfefa064c11,8170cae3fe0f74f7,every,11675495,
+a/masterdata_master_0003.cdb,17c054daf9edd7169a452e6c5a8a01ea,6978b7b90a99fa1a,every,11702083,

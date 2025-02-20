@@ -1,6 +1,6 @@
 a/travel_travel.unity3d,1b312623e49279021fcebdc62b242778,1e02cb6f51b0e1d9,common,1501388,
 a/travel_traveldefineobject.unity3d,3a4629392921f94b00d7ada41e3b0896,c67a097c5bbc0e6f,common,2872,
-a/travel_travelexdrama.unity3d,c3944637b736c3bd5c1c81c67db8d7f2,e938f521342cf4aa,common,2077674,
+a/travel_travelexdrama.unity3d,d9defc564ae2fc4240219a5dc8ab4109,e14a9b85c8daced7,common,2077655,
 a/travel_travelrounddramaprefab_1.unity3d,1007b7321556e310bfcb1c7301f3c1d8,1cae2d4cc48b2308,common,420708,
 a/travel_travelrounddramaprefab_10.unity3d,1086835ec87fe78140d45cd20ef84828,dac4823993aca775,common,4121,
 a/travel_travelrounddramaprefab_100.unity3d,cb3db75b9c8626bda886c485b6226a59,c3938066d3bed923,common,12722,
