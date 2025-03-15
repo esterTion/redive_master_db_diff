@@ -2337,4 +2337,12 @@ INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32
 INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134301, "ギルドハウスで受け取れるアイテムが、全部いっぱいよ…。一緒に整理しましょう…？わたしも、がんばるわ…", 6);
 INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134301, "アドベンチャー、終わったわ…。報酬も、たくさんもらえたの…。全部あげるから…待ってるわ、ね？", 7);
 INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134301, "アドベンチャーで設定していた、繰り返し出発が終わったわ…。たくさんあって…あふれてしまいそう…", 8);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "スタミナが全回復したようですね。あなたと一緒に、新しい歌を紡ぎたいんです。お手伝い、してくれますか？", 1);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "スキップチケットがいっぱいになったようです。有効に使って、ランファさんの修業を手伝ってあげたいです！", 2);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "ギルドハウスのスタミナがいっぱいのようです。新たな精霊も準備万端ですよ♪　いつでも声をかけてください！", 3);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "ギルドハウスのEXPポーションが溜まりました。唱喚士としてまだまだ成長してみせます！", 4);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "ギルドハウスのマナがいっぱいになりました。精霊づくりと同じく、計画を立てて、上手く使っていきましょう", 5);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "ギルドハウスのアイテムが全ていっぱいになったようです。あなたと一緒に使いたい…なんて。わがままですか？", 6);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "アドベンチャーが完了しました。報酬も手に入りましたし、ツアーのようなものでしたね。確認をお願いします", 7);
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (134401, "アドベンチャーで設定していた繰り返し出発が終わりました。いろいろな場所を巡って、報酬も手に入りましたよ♪", 8);
 CREATE INDEX 'v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32_0_78ee95ccd5d51f36142f3859987c5424e5fbd44eb7ac77a8820b34aa1c7cbb2c' on 'v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32'('78ee95ccd5d51f36142f3859987c5424e5fbd44eb7ac77a8820b34aa1c7cbb2c');
