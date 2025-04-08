@@ -2353,4 +2353,12 @@ INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32
 INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (6, 134601, "ギルドハウスで受け取れるアイテムがいっぱいになってます。団長さん、いい感じの指令をお願いします！");
 INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (7, 134601, "ア、アドベンチャーが終わりました！知らない人だらけでしたけど、宝物も手に入ってよかったです♪");
 INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (8, 134601, "ア、アドベンチャーで設定してた繰り返し出発が終わりました！拾った宝物の確認をお願いします…");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (1, 134501, "スタミナが全回復しました！ナイトさん、一緒に冒険に出かけましょうっ！");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (2, 134501, "ギルドハウスのスキップチケットがいっぱいみたいです！これでみんなをお助けできますねっ♪");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (3, 134501, "ギルドハウスのスタミナがいっぱいになりました！元気いっぱい、もーっとがんばれちゃいますねっ♪");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (4, 134501, "ギルドハウスのEXPポーションがいっぱいですよ！わたしもみんなみたいに、もっと成長したいですっ！");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (5, 134501, "ギルドハウスのマナがいっぱいになりましたっ。家中溢れてますよっ、早く回収しちゃいましょうっ！");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (6, 134501, "ギルドハウスのアイテムが満タンですよっ。わたしも運ぶのをお手伝いしますねっ！びゅーんっ♪");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (7, 134501, "アドベンチャーが終わりました！とっても楽しかったですし、宝物も見つけたんですよっ。うれしいですっ！");
+INSERT INTO `v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32` VALUES (8, 134501, "アドベンチャーで設定してた繰り返し出発、完了ですっ！お土産がたくさんあるので、ぜひ見にきてくださいねっ！");
 CREATE INDEX 'v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32_0_78ee95ccd5d51f36142f3859987c5424e5fbd44eb7ac77a8820b34aa1c7cbb2c' on 'v1_44f4f829ef07cd6ea016614c0a48ca742f8eec172ad97c1c1d03b6c8af994b32'('78ee95ccd5d51f36142f3859987c5424e5fbd44eb7ac77a8820b34aa1c7cbb2c');
