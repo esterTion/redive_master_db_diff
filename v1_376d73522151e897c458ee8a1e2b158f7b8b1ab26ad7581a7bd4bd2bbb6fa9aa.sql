@@ -1,6 +1,0 @@
-CREATE TABLE 'v1_376d73522151e897c458ee8a1e2b158f7b8b1ab26ad7581a7bd4bd2bbb6fa9aa' ('7701dfb02f69aeb2b42b8254feb9ad5f2b396ab2d611774c8676ee34e446c03c' INTEGER NOT NULL, 'f1d4da8e5f3c7822ab4b54fd6185d924b9a22b6b336a4e292c82ded987a6443f' TEXT NOT NULL, PRIMARY KEY('7701dfb02f69aeb2b42b8254feb9ad5f2b396ab2d611774c8676ee34e446c03c'));
-INSERT INTO `v1_376d73522151e897c458ee8a1e2b158f7b8b1ab26ad7581a7bd4bd2bbb6fa9aa` VALUES (1, 123456789);
-INSERT INTO `v1_376d73522151e897c458ee8a1e2b158f7b8b1ab26ad7581a7bd4bd2bbb6fa9aa` VALUES (2, "ABCDEFGHIJKLMNOPQRSTUVWXYZ");
-INSERT INTO `v1_376d73522151e897c458ee8a1e2b158f7b8b1ab26ad7581a7bd4bd2bbb6fa9aa` VALUES (3, "abcdefghijklmnopqrstuvwxyz");
-INSERT INTO `v1_376d73522151e897c458ee8a1e2b158f7b8b1ab26ad7581a7bd4bd2bbb6fa9aa` VALUES (4, "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ");
-INSERT INTO `v1_376d73522151e897c458ee8a1e2b158f7b8b1ab26ad7581a7bd4bd2bbb6fa9aa` VALUES (5, "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ");
