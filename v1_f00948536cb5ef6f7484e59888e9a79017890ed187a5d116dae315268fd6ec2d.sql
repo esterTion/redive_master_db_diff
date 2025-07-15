@@ -11,10 +11,10 @@ INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 魔法クリティカル強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 10);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("挑戦開始時のアルファルピ増加", "[3C404E]挑戦開始時、アルファルピを[-][FFBB00,CE4F00]1000[-][3C404E]多く所持して出発できる[-]", 11);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 物理クリダメ強化", "[3C404E]全キャラの物理クリティカルダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 12);
-INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ バフ強化", "[3C404E]全キャラのバフ強化ステータスを[-][FFBB00,CE4F00]10[-][3C404E]アップ（※対象となる強化効果はロールマスタリーと共通）[-]", 13);
+INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ バフ強化", "[3C404E]全キャラのバフ強化ステータスが[-][FFBB00,CE4F00]10[-][3C404E]アップ（※対象となる強化効果はロールマスタリーと共通）[-]", 13);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 魔法クリダメ強化", "[3C404E]全キャラの魔法クリティカルダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 14);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 物理与ダメージ強化", "[3C404E]全キャラの物理与ダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 15);
-INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ デバフ強化", "[3C404E]全キャラのデバフ強化ステータスを[-][FFBB00,CE4F00]10[-][3C404E]アップ（※対象となる弱体化効果はロールマスタリーと共通）[-]", 16);
+INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ デバフ強化", "[3C404E]全キャラのデバフ強化ステータスが[-][FFBB00,CE4F00]10[-][3C404E]アップ（※対象となる弱体化効果はロールマスタリーと共通）[-]", 16);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 魔法与ダメージ強化", "[3C404E]全キャラの魔法与ダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 17);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ ＨＰ強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 18);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("属性ボーナス強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 19);
@@ -26,9 +26,9 @@ INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 物理防御力強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 25);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 回復強化", "[3C404E]全キャラの回復強化ステータスが[-][FFBB00,CE4F00]15[-][3C404E]アップ[-]", 26);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 魔法防御力強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 27);
-INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 物理クリダメ強化", "[3C404E]全キャラの物理クリティカルダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 28);
+INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 物理クリティカル強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 28);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 状態異常命中強化", "[3C404E]全キャラの状態異常命中ステータスが[-][FFBB00,CE4F00]30[-][3C404E]アップ[-]", 29);
-INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 魔法クリダメ強化", "[3C404E]全キャラの魔法クリティカルダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 30);
+INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 魔法クリティカル強化", "[3C404E]全キャラの{parameterName}が[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 30);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("挑戦開始時の迷宮遺物追加", "[3C404E]挑戦開始時、選択したギルドに応じた[-][FFBB00,CE4F00]迷宮遺物[-][3C404E]を追加獲得できる[-]", 31);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ 物理クリダメ強化", "[3C404E]全キャラの物理クリティカルダメージが[-][FFBB00,CE4F00]{enhanceValue}{percentage}[-][3C404E]アップ[-]", 32);
 INSERT INTO `v1_f00948536cb5ef6f7484e59888e9a79017890ed187a5d116dae315268fd6ec2d` VALUES ("全キャラ バフ強化", "[3C404E]全キャラのバフ強化ステータスが[-][FFBB00,CE4F00]15[-][3C404E]アップ（※対象となる強化効果はロールマスタリーと共通）[-]", 33);
