@@ -2433,4 +2433,12 @@ INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e
 INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (6, 135101, "ギルドハウスで受け取れるアイテムが全部いっぱいよ。夏休みの宿題みたいに、一気に片づけちゃいましょ！");
 INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (7, 135101, "アドベンチャーが終わったわ。無事に報酬を受け取れたこと、早くペコリーヌさんたちに報告しましょう");
 INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (8, 135101, "アドベンチャーで設定してた繰り返し出発が終わったわ。【美食殿】の名前で報酬も受け取ったから確認よろしくね");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (1, 135201, "すたみな、ぜんかいふく。お兄。あそぼ");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (2, 135201, "ギルドハウスの、すきっぷちけっと、いっぱい。ほっぷ・すきっぷ・じゃんぷ");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (3, 135201, "ギルドハウスの、すたみな、いっぱい。さかなつり。いこ");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (4, 135201, "ギルドハウスの、EXPぽーしょん、いっぱい。すいぶんほきゅー、だいじ");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (5, 135201, "ギルドハウスの、まな、いっぱい。たべほうだい、あそびほうだい");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (6, 135201, "ギルドハウスで、うけとれる。あいてむ、いっぱい。そろそろ、かえろっか");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (7, 135201, "あどべんちゃ、かんりょ。おたから、ざくざく。うけとり、はよ");
+INSERT INTO `v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e` VALUES (8, 135201, "あどべんちゃの、くりかえししゅっぱつ、かんりょ。おでむかえ、よろです");
 CREATE INDEX 'v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e_0_f0b0955c75957edbd6e7346b94914dfdbc4cfb049d6701806bc576334babf6ae' on 'v1_c5537a64d970327804e832d5b17056e7aef5e11b3956ec175a7bb816d19ecb9e'('f0b0955c75957edbd6e7346b94914dfdbc4cfb049d6701806bc576334babf6ae');
