@@ -1,6 +1,6 @@
 manifest/abyss2_assetmanifest,23b889ddd005b1822a9556687a0a0331,8d63d98834651aae,every,648,
 manifest/alces2_assetmanifest,97efda4287e1bd9278a50f203c2c7aba,7f5c30e4398005cb,every,5864,
-manifest/all2_assetmanifest,1664c7146c619ac531082869a2bacb98,46639a47cb25abe9,every,516478,
+manifest/all2_assetmanifest,f4e9aa43d4f6889e322cba08d6b902ba,5b96685e96cc8c98,every,516478,
 manifest/animation2_assetmanifest,e7149057551926e7ce6f540f5bf69b30,6fb71430a47110c5,every,32102,
 manifest/arcade2_assetmanifest,94c51e901e1cdbaf02909a8ffc305ceb,5a11f829383b9f0f,every,1560,
 manifest/atlasngui2_assetmanifest,1d77cae80dd5815eb2f219578071b87c,173fc9ad1e9bae54,every,54646,
