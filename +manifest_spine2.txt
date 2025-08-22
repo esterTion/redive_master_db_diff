@@ -1417,7 +1417,7 @@ a/spine_217807_battle.cysp.unity3d,8d3626050b657cf61b6f7cb0b8106158,4d3a197943bf
 a/spine_217807_chara_base.cysp.unity3d,f83a2dac8b69ab4c05279a2512b5b0a6,087e2b9362299b19,tutorial2,18926,
 a/spine_218001_battle.cysp.unity3d,9ab9c2bdb33b1eed1e3a18497c18ed61,723c659d72bd8935,tutorial2,39260,
 a/spine_218001_chara_base.cysp.unity3d,edb91c7db64b6c82123d6ef8a3e8dd3a,69ee022145886db3,tutorial2,4495,
-a/spine_21_common_battle.cysp.unity3d,d314b1482df09b6803221f368c3a7eaa,86c7e5473a45f5cf,tutorial2,45603,
+a/spine_21_common_battle.cysp.unity3d,5c60af1bacac5f37f65ca73608f0d29c,7c526973ee40e0d1,tutorial2,45612,
 a/spine_21_loading.cysp.unity3d,eaf3fbd9490eab99c5c04d98eac4e39e,47ede3a90d33c450,tutorial2,3475,
 a/spine_22_common_battle.cysp.unity3d,a2e5f20b259efbf584ea33a0735a975a,ffe3daa312030e90,tutorial2,50574,
 a/spine_22_loading.cysp.unity3d,934f8059213c78ec28c4c32face54434,79f25ff7883ede77,tutorial2,3419,
