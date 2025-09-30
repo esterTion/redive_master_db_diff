@@ -480,7 +480,7 @@ a/room_roomsetup_002103.unity3d,0533e561a8889688f66ce38e13bb8495,1eca58303bceab7
 a/room_roomsetup_002201.unity3d,c06579c191020da36b5e7a6ffc666f15,a9e6b4c487a919ab,common,3389,
 a/room_roomsetup_002202.unity3d,f293d72ad1cdc49475b218c24e502942,e3f3649c59c1a34e,common,3366,
 a/room_roomsetup_002203.unity3d,bfbb51e2fd9e336e7963abb3af7b27b3,c327b54eebdf2777,common,3289,
-a/room_roomsetup_002205.unity3d,b61ef550729b52476de2c9a4fc19d947,9c79bd3dd365abec,common,3622,
+a/room_roomsetup_002205.unity3d,37e1395083bac2e4ca94144958ad9732,b6bf6fe3c0a1086d,common,3627,
 a/room_roomsetup_002206.unity3d,96032c6726a5a3dcd6d8605e19382eb2,c6e14d93e1ca9dea,common,3296,
 a/room_roomsetup_002301.unity3d,e86ae46e1d5cd3709b6563252f981fac,3ddd468dd4819392,common,3377,
 a/room_roomsetup_002302.unity3d,90e2e31dc2986e1e547fe8cbb9db44b6,48c128c78b7fc044,common,3354,
