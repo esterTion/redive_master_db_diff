@@ -2569,4 +2569,12 @@ INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85
 INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (136501, "ギルドハウスで受け取れるアイテムがたくさんあるよ！大掃除、お姉ちゃんが手伝うから一緒に整理しようねっ", 6);
 INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (136501, "弟くん、アドベンチャーが終わったよ！お宝もあるけど、それよりまずはお姉ちゃんとの交流だよね♪", 7);
 INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (136501, "アドベンチャーで設定してた繰り返し出発が終わったけど、それはどうでもいいの！早く弟くんを抱きしめさせて！", 8);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "スタミナがバッチリ回復しましたね！願掛けの絵馬も仕上げて準備満タン！どこに行きましょうか、お兄ちゃん♪", 1);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "ギルドハウスのスキップチケットがいっぱいです！マスターからの任務もサクサク片付けちゃいましょうっ！", 2);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "ギルドハウスのスタミナが回復しましたよ！お正月遊びの用意もバンジーOKです！思う存分楽しみますよ♪", 3);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "ギルドハウスのEXPポーションがいっぱいです！オーマは一日にして成らず…日々努力ですね！", 4);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "ギルドハウスのマナがいっぱいです！先立つものは百貨店！初売りにレッツゴーです！", 5);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "ギルドハウスで受け取れるアイテムがいっぱい！もらったお年玉と合わせて…何をするか作戦会議です♪", 6);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "アドベンチャー、一件楽チャックです！お兄ちゃん、手に入れた報酬を確認してくださいね？", 7);
+INSERT INTO `v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85` VALUES (137901, "アドベンチャーで設定していた繰り返し出発が終わりました！妹も歩けば宝に当たりましたよ。報酬を見てください！", 8);
 CREATE INDEX 'v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85_0_2eb9a7a3eb1ae6f8f3eb05d1dee2561e250fe1b0d2b412d19e4b7e9d69ef5119' on 'v1_acd2230bda847e0a5d9093eb2d106daea7056ac241fb147b926b37f8f4763a85'('2eb9a7a3eb1ae6f8f3eb05d1dee2561e250fe1b0d2b412d19e4b7e9d69ef5119');
