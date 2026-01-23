@@ -8,6 +8,7 @@ INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8
 INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("プリンセスコネクト！Re:Dive Season2 3", 10007);
 INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("プリンセスコネクト！Re:Dive Season2 全巻購入特典", 10008);
 INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("CD購入特典", 10009);
+INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("Shadowverse EVOLVE 特典", 10010);
 INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("プリンセスコネクト！Re:Dive 3周年記念", 20001);
 INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("公式アートワークス Vol.3 発売記念アイテム", 20002);
 INSERT INTO `v1_4c18a08de3ef07e1b8863d4ce8b4639823cef2111c61ff4b0ea72a4f8cbd0ac8` VALUES ("プリンセスコネクト！Re:Dive 3.5周年記念", 20003);
