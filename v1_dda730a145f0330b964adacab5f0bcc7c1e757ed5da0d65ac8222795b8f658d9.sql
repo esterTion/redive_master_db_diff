@@ -1,0 +1,6 @@
+CREATE TABLE 'v1_dda730a145f0330b964adacab5f0bcc7c1e757ed5da0d65ac8222795b8f658d9' ('5d5104032800530c75506929898aad999bea1969e0297a5454383390ddb41b2a' TEXT NOT NULL, 'd87640363a20b4873ef0973a62b87f72e51e0b923242d329d6375ed631fd1569' INTEGER NOT NULL, 'dcbae5732b2bb4081aacbbc8cefc239776090b90c577df45eecaf9260e954de7' TEXT NOT NULL, '6b75a3a1997df04c27d7ee415fdbf77d3bc57ce02c200c43349e7fa6fc8d8505' TEXT NOT NULL, PRIMARY KEY('d87640363a20b4873ef0973a62b87f72e51e0b923242d329d6375ed631fd1569'));
+INSERT INTO `v1_dda730a145f0330b964adacab5f0bcc7c1e757ed5da0d65ac8222795b8f658d9` VALUES ("【加速】", 1, "ＴＰ回復や行動速度アップにより、キャラのスキルやユニオンバーストの発動数が増加する\n", "加速");
+INSERT INTO `v1_dda730a145f0330b964adacab5f0bcc7c1e757ed5da0d65ac8222795b8f658d9` VALUES ("【弱体】", 2, "敵に継続ダメージ系状態異常や弱体効果を付与し、敵を弱体化させる\n", "弱体");
+INSERT INTO `v1_dda730a145f0330b964adacab5f0bcc7c1e757ed5da0d65ac8222795b8f658d9` VALUES ("【会心】", 3, "クリティカルや通常攻撃強化により、攻撃性能を強化する\n", "会心");
+INSERT INTO `v1_dda730a145f0330b964adacab5f0bcc7c1e757ed5da0d65ac8222795b8f658d9` VALUES ("【強化】", 4, "攻撃力や防御力アップのバフ効果を用いて、キャラを強化する\n", "強化");
+INSERT INTO `v1_dda730a145f0330b964adacab5f0bcc7c1e757ed5da0d65ac8222795b8f658d9` VALUES ("【守備】", 5, "ＨＰアップやバリア展開により、耐久性能を強化する\n", "守備");
