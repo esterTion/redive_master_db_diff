@@ -1,2 +1,3 @@
 a/battlepass_common.unity3d,e2e63b2eefca0c5cb0a1d68670136adb,82552d6c46dc854e,common,172616,
 a/battlepass_season26031.unity3d,1ff06b7c0ce1a71c32593e2144de397e,6efb3e7884a3da65,common,34187,
+a/battlepass_season26041.unity3d,19bf395e85f3ddd4f3f457d19dcee3af,547e40b0100786a2,common,34223,
