@@ -6,4 +6,4 @@ a/dome_dome_reward_icon_91002.unity3d,cc900e64f9835a787822df59b757f823,92fe54258
 a/dome_dome_reward_icon_94002.unity3d,91a669f40d27aced9363446797b5c75a,414354337737217f,common,2390,
 a/dome_domedefinedata.unity3d,9527000c2656cd25cc8774ec2784ea79,5c59973812dd6bd7,common,2006,
 a/dome_domeresultlose.unity3d,5c74680457ad55eff29d6fa39e919860,4d590199dbc69c7a,common,10023,
-a/dome_domeresultwin.unity3d,bd04bf310eab2229660f1ca0b953e076,bcdc8b4eeba10d99,common,47496,
+a/dome_domeresultwin.unity3d,b090007f07e6b14e9c712d861a1540a0,1c625b31e40c5d35,common,47603,
