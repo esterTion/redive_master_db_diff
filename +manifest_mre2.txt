@@ -1,4 +1,5 @@
 a/mre_mrebossskip.unity3d,627524eb013aecce4abb8126b35592c5,7ade8d7387209574,every,75732,
 a/mre_mrebosssubjugation.unity3d,acd03567e9c20a4d1c8e69ed2d7a14d0,a4b337c7ce28caf7,every,101208,
 a/mre_mredata_30001.unity3d,8a0b6f40e35cf18cf854dbb0d4bd6fb8,f484e5b37058c5ca,every,1084874,
+a/mre_mredata_30002.unity3d,3563a6eea6fd62b17b860cafa2e0f9f2,7aa0096c2ec7f3bd,every,736780,
 a/mre_mretreasurechest.unity3d,da7661bb96f035b80c6f1b3f74ccb432,f445eb0a04badb99,every,215311,
