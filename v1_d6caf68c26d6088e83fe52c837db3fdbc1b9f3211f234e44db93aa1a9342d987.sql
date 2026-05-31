@@ -1,0 +1,17 @@
+CREATE TABLE 'v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987' ('5a0a996b784a1df51c6c7bfc46a7373b3c3d4226ec83cafb2468b47e9d65b18c' INTEGER NOT NULL, '51e5b8c623c27cc095712290e0f0110d5a970fb13c74ef9743c25ea6abc55994' INTEGER NOT NULL, 'a9f1d56811e267e06583fd8eb01f591ccd0ce369035052103d6bf0d6629fdb5b' TEXT NOT NULL, 'f45f78d9275e5db4fde4879f732685a598855ca81822c951dfb7336d4ebd0748' INTEGER NOT NULL, PRIMARY KEY('51e5b8c623c27cc095712290e0f0110d5a970fb13c74ef9743c25ea6abc55994','f45f78d9275e5db4fde4879f732685a598855ca81822c951dfb7336d4ebd0748'));
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10011, 1, "【加速】4以上：\nＴＰ上昇＋30\n重複可能の行動速度＋100％\n", 4);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10012, 1, "【加速】9以上：\nユニオンバースト発動時に【烈風】＋１（最大99）\n20秒ごとに物理/魔法与ダメアップフィールド展\n開（【烈風】数×１％）\n", 9);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10013, 1, "【加速】15以上：\n９秒ごとにＴＰ1000回復\n", 15);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10021, 2, "【弱体】4以上：\n敵全体に黒炎付与（毎秒１万ダメージ、毎回５％\nずつダメージ上昇）\n", 4);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10022, 2, "【弱体】9以上：\n敵への継続ダメージ＋2000％\n（最大30万ダメージ）\n", 9);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10023, 2, "【弱体】15以上：\n弱体効果数に応じて敵の被ダメアップ（対象の弱\n体効果数×20％、最大＋200％）\n", 15);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10031, 3, "【会心】4以上：\n物理/魔法クリダメ＋150％\n", 4);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10032, 3, "【会心】9以上：\n物理/魔法クリティカル＋2000\n物理/魔法クリダメ＋150％\n", 9);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10033, 3, "【会心】15以上：\nクリティカルヒット時【看破】＋１（最大99）\n20秒ごとにランダムな敵１体に固定ダメージ×５回\n（毎回５万＋対象の【看破】数×５万ダメージ）\n", 15);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10041, 4, "【強化】4以上：\nバトル開始20秒後、物理/魔法攻撃力アップフィー\nルド展開（現在値＋30％）\n敵へのダメージ減衰量緩和\n", 4);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10042, 4, "【強化】9以上：\nさらにバトル開始40秒後、物理/魔法攻撃力アッ\nプフィールド展開（現在値＋50％）\nさらに敵へのダメージ減衰量緩和\n", 9);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10043, 4, "【強化】15以上：\nさらにバトル開始60秒後、物理/魔法攻撃力アッ\nプフィールド展開（現在値＋70％）\nさらに敵へのダメージ減衰量緩和\n", 15);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10051, 5, "【守備】4以上：\n全ダメージ33％カット\n", 4);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10052, 5, "【守備】9以上：\n15秒ごとに前から敵1体に物理と魔法固定ダメー\nジ（味方全体の現在ＨＰ合計×400ダメージ）\n", 9);
+INSERT INTO `v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987` VALUES (10053, 5, "【守備】15以上：\n15秒ごとに物理/魔法与ダメアップフィールド展\n開（味方全体の現在ＨＰ合計×0．0004％、最大2\n00％）\n", 15);
+CREATE INDEX 'v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987_0_51e5b8c623c27cc095712290e0f0110d5a970fb13c74ef9743c25ea6abc55994' on 'v1_d6caf68c26d6088e83fe52c837db3fdbc1b9f3211f234e44db93aa1a9342d987'('51e5b8c623c27cc095712290e0f0110d5a970fb13c74ef9743c25ea6abc55994');
