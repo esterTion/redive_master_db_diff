@@ -1,4 +1,4 @@
-a/hunt_hunt.unity3d,08ed0f58fcde67b79cbfa1e25f881f57,e15fe9cf7ce30183,common,543377,
+a/hunt_hunt.unity3d,d7b1ef51f12b199af45f466064b86e14,535faa2544cf2100,common,308039,
 a/hunt_hunt_banner_0001.unity3d,35e0410f9c9d4a720fe4484ee016a60b,09d5e5f3fac4ccc5,common,20710,
 a/hunt_hunt_banner_0002.unity3d,2f0d0a28512ddef921fb941262d1027c,7bf036f67af22183,common,20779,
 a/hunt_hunt_banner_0003.unity3d,e71baea70d35f7fa3f51f3b260aae8bb,7b4d2885169d7ca7,common,20757,
