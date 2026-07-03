@@ -1,0 +1,17 @@
+CREATE TABLE 'v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603' ('84af7f3f7a940133f7b3ee5b9ca6fc76927e366f6eebe95d7e1913dbfd2d11b7' INTEGER NOT NULL, 'f93e0d51e90e7d5793fa0d6995054325b414ead2dff8c153ea645ed5c985beb3' TEXT NOT NULL, 'f819d9de5b0e51d03c7f65eee46bcd518f30d00d6b995445be2980d819c84532' INTEGER NOT NULL, 'cba2602894b7d187e9e63c68257e92bdcbd8e2bc5f88a04d8b1425c91ca878b3' INTEGER NOT NULL, PRIMARY KEY('84af7f3f7a940133f7b3ee5b9ca6fc76927e366f6eebe95d7e1913dbfd2d11b7','cba2602894b7d187e9e63c68257e92bdcbd8e2bc5f88a04d8b1425c91ca878b3'));
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (1, "【加速】4以上：\n重複可能の行動速度アップ（【加速】数×5％）\n", 10011, 4);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (1, "【加速】9以上：\nユニオンバースト発動時に【烈風】＋１（最大20）\nＴＰ上昇アップ（【烈風】数×2）\n", 10012, 9);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (1, "【加速】15以上：\n【烈風】20：【烈風】をすべて消費して\nＴＰ1000回復\nダメージブースト＋10％\n", 10013, 15);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (2, "【弱体】4以上：\n敵への継続ダメージアップ（【弱体】数×50％）\n", 10021, 4);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (2, "【弱体】9以上：\n敵にデバフを付与するたびに敵に【衰弱】＋１\n（最大66）\n敵の物理/魔法被ダメアップ（【衰弱】数×2％）\n", 10022, 9);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (2, "【弱体】15以上：\n敵の【衰弱】66：１秒ごとに最大ＨＰの5％の割合\nダメージ（最大100万）\n", 10023, 15);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (3, "【会心】4以上：\n物理/魔法クリダメアップ（【会心】数×5％）\n物理/魔法クリティカルアップ（【会心】数×200）\n", 10031, 4);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (3, "【会心】9以上：\nクリティカルするたびに敵に【看破】＋１（最大99）\n敵の物理/魔法被クリダメアップ（【看破】数×1％）\n", 10032, 9);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (3, "【会心】15以上：\n敵の【看破】99：攻撃時追加ダメージ＋30％\n", 10033, 15);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (4, "【強化】4以上：\nダメージブーストアップ（【強化】数×2％）\n", 10041, 4);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (4, "【強化】9以上：\n味方からバフを受けるたびに【高揚】＋１（最大99）\n物理/魔法攻撃力アップ（【高揚】数×1％）\n", 10042, 9);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (4, "【強化】15以上：\n【高揚】99：１秒ごとに物理/魔法攻撃力ダウンと\n物理/魔法防御力ダウン効果解除\n物理/魔法攻撃力アップ（現在値＋10％）\n", 10043, 15);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (5, "【守備】4以上：\n全ダメージカット（【守備】数×2％）\n", 10051, 4);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (5, "【守備】9以上：\n敵から攻撃かデバフを受けるたびに【闘志】＋１\n（最大15）\n与ダメアップ（【闘志】数×5％）\nＨＰ吸収アップ（【闘志】数×5）\n", 10052, 9);
+INSERT INTO `v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603` VALUES (5, "【守備】15以上：\n【闘志】15：【闘志】をすべて消費して\n与ダメ＋50％\nダメージブースト＋25％\n", 10053, 15);
+CREATE INDEX 'v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603_0_84af7f3f7a940133f7b3ee5b9ca6fc76927e366f6eebe95d7e1913dbfd2d11b7' on 'v1_f5ce8209638b698574526242bd9631c7fdf4e85dcef6cbfa07ab37f2a0aca603'('84af7f3f7a940133f7b3ee5b9ca6fc76927e366f6eebe95d7e1913dbfd2d11b7');
