@@ -1,6 +1,6 @@
-CREATE TABLE 'v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a' ('002aa724cabb56d604bae88726c69ce6eb22a54adaa85dfd779faa86eeb7ca11' INTEGER NOT NULL, 'f63f8f8e6c2b694dd3812e10356b212cf52973d74a6896c561bfc6f71a33d663' TEXT NOT NULL, 'ae7582edf1f73dc2b8e5aa3cfbf996bbf668627f38a91a6633329dde318f7ebb' TEXT NOT NULL, 'aa645cacb481fe3ebc1232f3daf0052458df4ffff7d794c1022144d97003c471' TEXT NOT NULL, PRIMARY KEY('002aa724cabb56d604bae88726c69ce6eb22a54adaa85dfd779faa86eeb7ca11'));
-INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES (1, "加速", "【加速】", "ＴＰ回復や行動速度アップにより、キャラのスキルやユニオンバーストの発動数が増加する\n");
-INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES (2, "弱体", "【弱体】", "敵に継続ダメージ系状態異常や弱体効果を付与し、敵を弱体化させる\n");
-INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES (3, "会心", "【会心】", "クリティカルや通常攻撃強化により、攻撃性能を強化する\n");
-INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES (4, "強化", "【強化】", "攻撃力や防御力アップのバフ効果を用いて、キャラを強化する\n");
-INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES (5, "守備", "【守備】", "ＨＰアップやバリア展開により、耐久性能を強化する\n");
+CREATE TABLE 'v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a' ('f63f8f8e6c2b694dd3812e10356b212cf52973d74a6896c561bfc6f71a33d663' TEXT NOT NULL, '002aa724cabb56d604bae88726c69ce6eb22a54adaa85dfd779faa86eeb7ca11' INTEGER NOT NULL, 'aa645cacb481fe3ebc1232f3daf0052458df4ffff7d794c1022144d97003c471' TEXT NOT NULL, 'ae7582edf1f73dc2b8e5aa3cfbf996bbf668627f38a91a6633329dde318f7ebb' TEXT NOT NULL, PRIMARY KEY('002aa724cabb56d604bae88726c69ce6eb22a54adaa85dfd779faa86eeb7ca11'));
+INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES ("加速", 1, "ＴＰ回復や行動速度アップにより、キャラのスキルやユニオンバーストの発動数が増加する\n", "【加速】");
+INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES ("弱体", 2, "敵に継続ダメージ系状態異常や弱体効果を付与し、敵を弱体化させる\n", "【弱体】");
+INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES ("会心", 3, "クリティカルや通常攻撃強化により、攻撃性能を強化する\n", "【会心】");
+INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES ("強化", 4, "攻撃力や防御力アップのバフ効果を用いて、キャラを強化する\n", "【強化】");
+INSERT INTO `v1_6eaa39ce71680557ce7019663258077d569f8e864452ece9efbc837de891f18a` VALUES ("守備", 5, "ＨＰアップやバリア展開により、耐久性能を強化する\n", "【守備】");

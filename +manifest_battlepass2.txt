@@ -4,3 +4,4 @@ a/battlepass_season26041.unity3d,19bf395e85f3ddd4f3f457d19dcee3af,547e40b0100786
 a/battlepass_season26051.unity3d,53134157bc497338eb5acea9bc7c7d99,5ed88c48998e7bd4,common,34203,
 a/battlepass_season26061.unity3d,a8bbd3bb95277acf3e57883addfe55b2,2ebaa3bf453e8b76,common,34191,
 a/battlepass_season26071.unity3d,250f450a1eea03368e4ae95e0e3af102,38c2e6e060004bbf,common,34186,
+a/battlepass_season26081.unity3d,0cd14e475ac490e6fbe76ceb7a0dd760,845cdcda7e30908a,common,34213,
