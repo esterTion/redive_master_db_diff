@@ -1,0 +1,14 @@
+CREATE TABLE 'v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155' ('4ef0e61decb550d02f6f900740d560ca8641c4594ab864886c8d97c22eeae7cf' TEXT NOT NULL, '73f04db5d2590b2f01a86460b60d5a9aa61d1c0db5155a70b30cbbb999bcfdad' INTEGER NOT NULL, '5d01ad20bbc6c5899eb1ef114e713bd816980bbf8eeab5c3f43f7cec85c9fc40' INTEGER NOT NULL, 'a4fb3c248586f9bece8d169b0bfabf5eb7ae82e9857bc6751d92d56cbcb32c94' TEXT NOT NULL, PRIMARY KEY('5d01ad20bbc6c5899eb1ef114e713bd816980bbf8eeab5c3f43f7cec85c9fc40'));
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("魔法攻撃のダメージが小アップし、物理攻撃を行うキャラが行動する度にそのキャラの最大ＨＰに応じて最大99999の割合ダメージを与える。", 2017, 137, "界雷");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵、味方全体のＴＰを中回復させる。", 2017, 146, "百花繚乱");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵、味方全体に最大ＨＰに応じた最大20万の割合ダメージを与える。さらに、付与される継続ダメージが上昇する。", 2017, 147, "炎天烈日");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力をアップさせる。この効果の効果量は敵、味方を合わせた数に応じて増加する。", 2017, 148, "秋高馬肥");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("敵、味方全体の行動速度を小ダウンさせる。このスキルの効果は他の行動速度変化スキルと重複する。さらに一定時間が経過するごとに、初期値より行動速度が低い状態のキャラに凍結状態を付与する。", 2017, 149, "寒気凛冽");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("魔法攻撃のダメージが小ダウンする。", 2017, 162, "妨魔塵");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵全体に最大ＨＰに応じた魔法割合ダメージを与える。さらに、キャラのＨＰが50％未満の場合、麻痺状態を付与する。この効果によるダメージでは、ＴＰが回復しない。この効果の状態異常はダメージを無効化しても付与される。", 2017, 164, "雷雲");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵全体をノックバックさせる。", 2017, 169, "暴風");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵全体の行動速度をバトル終了まで小ダウンさせる。さらに、物理攻撃力と魔法攻撃力をバトル終了まで小ダウンさせる。", 2017, 170, "豪雨");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("物理攻撃クリティカル時のダメージが小アップする。", 2017, 175, "絶氷");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵全体に最大ＨＰに応じた魔法割合ダメージを与える。この効果によるダメージでは、ＴＰが回復しない。", 2017, 186, "雷雲");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("継続ダメージを与える状態異常のダメージの発生間隔と効果時間が延長される。", 2017, 207, "忌火");
+INSERT INTO `v1_2cec280ec04e37eb3cbc9a38ad68a3b9c6884deef8685b0cb6c81550a1563155` VALUES ("一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力をアップさせる。この効果の効果量は現在の対象の物理攻撃力、魔法攻撃力に応じて増加する。", 2017, 228, "マナの流脈");
