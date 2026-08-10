@@ -15,3 +15,4 @@ INSERT INTO `v1_6cb2fa136b5eb0dffc940d2cfaf9b8a2ee05b550831a5a3b1502aab75bd414c9
 INSERT INTO `v1_6cb2fa136b5eb0dffc940d2cfaf9b8a2ee05b550831a5a3b1502aab75bd414c9` VALUES (10013, "2025/03/01 4:59:59", "7th Year Anniversary スペシャルログインボーナス", "2025/02/15 5:00:00");
 INSERT INTO `v1_6cb2fa136b5eb0dffc940d2cfaf9b8a2ee05b550831a5a3b1502aab75bd414c9` VALUES (10014, "2025/09/01 4:59:59", "7.5 Year Anniversary スペシャルログインボーナス", "2025/08/15 5:00:00");
 INSERT INTO `v1_6cb2fa136b5eb0dffc940d2cfaf9b8a2ee05b550831a5a3b1502aab75bd414c9` VALUES (10015, "2026/03/01 4:59:59", "8th Anniversary スペシャルログインボーナス", "2026/02/15 5:00:00");
+INSERT INTO `v1_6cb2fa136b5eb0dffc940d2cfaf9b8a2ee05b550831a5a3b1502aab75bd414c9` VALUES (10016, "2026/09/01 4:59:59", "8.5 Year Anniversary スペシャルログインボーナス", "2026/08/15 5:00:00");
