@@ -2785,4 +2785,12 @@ INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6
 INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (6, "ギルドハウスのアイテムが全ていっぱいになったわ。さあ、出撃よ！今日は戦場じゃなくてお片付けね♪", 140701);
 INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (7, "アドベンチャーが終わったわ。きちんと報酬も手に入れてきたから、忘れずに確認しなさいよね？", 140701);
 INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (8, "アドベンチャーの繰り返し出発が終わったわ。大変だったけど報酬も相応だったから、ちゃんと見に来なさい？", 140701);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (1, "スタミナが全回復したわ。新しい冒険に出かけましょ。この銃であんたを導いてあげるわ", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (2, "ギルドハウスのスキップチケットがいっぱいね。ミッションもFPSも効率プレイが大事よ", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (3, "ギルドハウスのスタミナがいっぱいね。あんた、FPS得意なんでしょ？ちょっと訓練に付き合って", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (4, "ギルドハウスのEXPポーションがいっぱいだわ。プレイスキルと一緒にどんどん成長してきましょ！", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (5, "ギルドハウスのマナがいっぱいになったわ。弾丸と同じで、ケチらず使わなくちゃね♪", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (6, "ギルドハウスのアイテムが全部いっぱいよ。早く受け取って効果的に使いましょ。作戦行動は迅速に、ね", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (7, "はい、アドベンチャーが終わったわよ。結構あたしも頑張ったんだから、忘れずに報酬を確認しなさいよね？", 140801);
+INSERT INTO `v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6` VALUES (8, "アドベンチャーで設定してた、繰り返し出発が終わったわよ。報酬もたっぷり手に入ったわ♪…夢じゃないわよ？", 140801);
 CREATE INDEX 'v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6_0_8a4f0be295248759d585edfd18ce9d67c8e329d37db49bceaecc212dd887721d' on 'v1_2832d9543febad33b36ba21679b9aeda74c6adf961bba1fe807000b80884dba6'('8a4f0be295248759d585edfd18ce9d67c8e329d37db49bceaecc212dd887721d');
