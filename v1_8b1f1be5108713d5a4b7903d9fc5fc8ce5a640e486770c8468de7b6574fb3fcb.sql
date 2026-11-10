@@ -2817,4 +2817,12 @@ INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb
 INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("ギルドハウスで受け取れるアイテムが、すべていっぱいですって。よかったら見に行ってみない？", 141101, 6);
 INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("アドベンチャーが完了したわ。報酬もばっちりよ。ここでしか出来ない、色んな体験ができて楽しかったわ", 141101, 7);
 INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("アドベンチャーの繰り返し出発を終わらせてきたわ。色んな成果が得られたし、実りのある遠征になったわ", 141101, 8);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("スタミナが全回復しました。空も海も駆け抜けて、この世界での冒険を楽しみ尽くしたいです", 141201, 1);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("ギルドハウスのスキップチケットがいっぱいです。耐え忍ぶだけやなく、効率化できるところはしてきましょ", 141201, 2);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("ギルドハウスのスタミナがいっぱいになりました。元気があったら魔法の火が強まったりするんやろか？", 141201, 3);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("ギルドハウスのEXPポーションがいっぱいです。たくさん経験を積んで、花咲くための糧にさせてもらいますね", 141201, 4);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("ギルドハウスのマナがいっぱいですね。お買い物に使ってもええですか？　お掃除グッズを作ろかと思いまして", 141201, 5);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("ギルドハウスのアイテムが満タンですね。整理整頓、お手伝いします。きっと心も整いますよ", 141201, 6);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("アドベンチャー、完了です。せや、貴重なお花の種を手に入れたんやけど、植えてもええですか？", 141201, 7);
+INSERT INTO `v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb` VALUES ("アドベンチャーで設定していた繰り返し出発が完了しました。お宝探し…ふふ、心が華やぎますね", 141201, 8);
 CREATE INDEX 'v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb_0_f1c06494f7a2d046b2a31c32c34761b4a40c83869e1220ff5d4f4be3791bc9b8' on 'v1_8b1f1be5108713d5a4b7903d9fc5fc8ce5a640e486770c8468de7b6574fb3fcb'('f1c06494f7a2d046b2a31c32c34761b4a40c83869e1220ff5d4f4be3791bc9b8');

@@ -2817,4 +2817,12 @@ INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac
 INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (6, "ギルドハウスで受け取れるアイテムが、すべていっぱいですって。よかったら見に行ってみない？", 141101);
 INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (7, "アドベンチャーが完了したわ。報酬もばっちりよ。ここでしか出来ない、色んな体験ができて楽しかったわ", 141101);
 INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (8, "アドベンチャーの繰り返し出発を終わらせてきたわ。色んな成果が得られたし、実りのある遠征になったわ", 141101);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (1, "スタミナが全回復しました。空も海も駆け抜けて、この世界での冒険を楽しみ尽くしたいです", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (2, "ギルドハウスのスキップチケットがいっぱいです。耐え忍ぶだけやなく、効率化できるところはしてきましょ", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (3, "ギルドハウスのスタミナがいっぱいになりました。元気があったら魔法の火が強まったりするんやろか？", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (4, "ギルドハウスのEXPポーションがいっぱいです。たくさん経験を積んで、花咲くための糧にさせてもらいますね", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (5, "ギルドハウスのマナがいっぱいですね。お買い物に使ってもええですか？　お掃除グッズを作ろかと思いまして", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (6, "ギルドハウスのアイテムが満タンですね。整理整頓、お手伝いします。きっと心も整いますよ", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (7, "アドベンチャー、完了です。せや、貴重なお花の種を手に入れたんやけど、植えてもええですか？", 141201);
+INSERT INTO `v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac` VALUES (8, "アドベンチャーで設定していた繰り返し出発が完了しました。お宝探し…ふふ、心が華やぎますね", 141201);
 CREATE INDEX 'v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac_0_29a5bb8482a8054e8e8bb33fba5a55c72af881e16914bb03e3e59f4c456a6b66' on 'v1_69b02720bc57537739f39cf4c4fb5b4ce1592107b21f818e25b143bcadf4d7ac'('29a5bb8482a8054e8e8bb33fba5a55c72af881e16914bb03e3e59f4c456a6b66');
